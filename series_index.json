@@ -1,7 +1,73 @@
 {
   "type": "series",
-  "total": 2792,
+  "total": 2794,
   "items": [
+    {
+      "id": "s_206285",
+      "tmdb_id": 206285,
+      "nombre": "Nacho",
+      "poster": "https://image.tmdb.org/t/p/w500/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-kqv83wt5a8fg.html",
+          "8": "https://vimeos.net/embed-w88pdrmmmdrb.html",
+          "2": "https://vimeos.net/embed-qvc61pqjly3g.html",
+          "1": "https://vimeos.net/embed-co65f4kt6z7e.html",
+          "6": "https://vimeos.net/embed-zf5up5h3cu1j.html",
+          "5": "https://vimeos.net/embed-dojv8jp7t0mk.html",
+          "7": "https://vimeos.net/embed-gwvkzbilbu9v.html",
+          "3": "https://vimeos.net/embed-rr5uv6gkmz0l.html"
+        }
+      }
+    },
+    {
+      "id": "s_198178",
+      "tmdb_id": 198178,
+      "nombre": "Wonder Man",
+      "poster": "https://image.tmdb.org/t/p/w500/qwSmwCEMzlUn9Y3XbBIx3CLMIAK.jpg",
+      "categorias": [
+        "serie",
+        "drama",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-uyp2q1et7zlb.html",
+          "8": "https://vimeos.net/embed-di16ukw13lt6.html",
+          "2": "https://vimeos.net/embed-sq63k3lmhfvj.html",
+          "1": "https://vimeos.net/embed-7arugudgo97y.html",
+          "6": "https://vimeos.net/embed-2ey3qwuegx00.html",
+          "5": "https://vimeos.net/embed-uvsgiu22d7qn.html",
+          "7": "https://vimeos.net/embed-j8gznfs71uee.html",
+          "3": "https://vimeos.net/embed-57nss8kkei0v.html"
+        }
+      }
+    },
+    {
+      "id": "s_233905",
+      "tmdb_id": 233905,
+      "nombre": "La Vida Secreta de tu Mente",
+      "poster": "https://image.tmdb.org/t/p/w500/fY5xmMMUjjunmgKJLwiwPSABAlB.jpg",
+      "categorias": [
+        "serie",
+        "familia",
+        "comedia",
+        "animacion"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-f7ucp3c9j12s.html",
+          "2": "https://vimeos.net/embed-wvfcgc7sbu8h.html",
+          "1": "https://vimeos.net/embed-0u7ep6ial6qm.html",
+          "3": "https://vimeos.net/embed-dvugc23fmdiu.html",
+          "5": "https://vimeos.net/embed-6sbeyy90woo7.html"
+        }
+      }
+    },
     {
       "id": "s_3570",
       "tmdb_id": 3570,
@@ -645,47 +711,6 @@
           "7": "https://vimeos.net/embed-fg8ujgajb5xn.html",
           "13": "https://vimeos.net/embed-8d1wldxdhxxz.html",
           "3": "https://vimeos.net/embed-ku4njowyaeu8.html"
-        }
-      }
-    },
-    {
-      "id": "s_65334",
-      "tmdb_id": 65334,
-      "nombre": "Prodigiosa: Las aventuras de Ladybug",
-      "poster": "https://image.tmdb.org/t/p/w500/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "categorias": [
-        "animacion",
-        "accion",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": "https://vimeos.net/embed-xpukw7r1k5ke.html",
-          "26": "https://vimeos.net/embed-dvpdre6cn5yn.html",
-          "2": "https://vimeos.net/embed-wmcikrorvose.html",
-          "9": "https://vimeos.net/embed-171jd97d7v6y.html",
-          "19": "https://vimeos.net/embed-3mkxg2cskih0.html",
-          "6": "https://vimeos.net/embed-w5zxdis3splq.html",
-          "5": "https://vimeos.net/embed-hbw02166up9b.html",
-          "25": "https://vimeos.net/embed-ra4me4vpic8u.html",
-          "10": "https://vimeos.net/embed-bnm254cq5ii3.html",
-          "11": "https://vimeos.net/embed-hmku5gbvimsp.html",
-          "7": "https://vimeos.net/embed-b5ejdpwsj1bq.html",
-          "17": "https://vimeos.net/embed-8u7nas2lu8dk.html",
-          "23": "https://vimeos.net/embed-2w8sbtrrgkqc.html",
-          "21": "https://vimeos.net/embed-myain1yy7yvq.html",
-          "8": "https://vimeos.net/embed-botxf1j5j8ia.html",
-          "20": "https://vimeos.net/embed-2onhcimrh4p3.html",
-          "12": "https://vimeos.net/embed-1u4gdapjpz3x.html",
-          "1": "https://vimeos.net/embed-onyjnfex4a8r.html",
-          "14": "https://vimeos.net/embed-ykllj2j13zgg.html",
-          "24": "https://vimeos.net/embed-gn4x51gud0x5.html",
-          "18": "https://vimeos.net/embed-qbrx54b8mb6h.html",
-          "15": "https://vimeos.net/embed-1qe5o4lj3ufn.html",
-          "13": "https://vimeos.net/embed-8tyof9sarej0.html",
-          "3": "https://vimeos.net/embed-i90ki35ajs2i.html",
-          "22": "https://vimeos.net/embed-ay1zfcy6py1v.html",
-          "16": "https://vimeos.net/embed-6sjxqlrjr8z4.html"
         }
       }
     },
@@ -36386,11 +36411,13 @@
       "temporadas": {
         "2": {
           "4": "https://vimeos.net/embed-ho3zcpwswvci.html",
-          "7": "https://vimeos.net/embed-dauc18gce86u.html",
+          "8": "https://vimeos.net/embed-r8xjgwcghicl.html",
           "2": "https://vimeos.net/embed-mohqw2fygkvl.html",
+          "9": "https://vimeos.net/embed-zt0tfb2oqwvt.html",
           "1": "https://vimeos.net/embed-tgxmk4cm01wl.html",
           "6": "https://vimeos.net/embed-fbuv173t0vbl.html",
           "5": "https://vimeos.net/embed-unqjcp91jkol.html",
+          "7": "https://vimeos.net/embed-dauc18gce86u.html",
           "3": "https://vimeos.net/embed-m9udcrciajav.html"
         },
         "1": {
@@ -43174,10 +43201,15 @@
       "temporadas": {
         "1": {
           "4": "https://vimeos.net/embed-r3drntfjz13w.html",
+          "8": "https://vimeos.net/embed-s6jooue9owzl.html",
           "2": "https://goodstream.one/embed-yr2fb7015sch.html",
+          "9": "https://vimeos.net/embed-bfr1fqgd3gqn.html",
           "1": "https://vimeos.net/embed-lr6gerevk4vt.html",
-          "3": "https://vimeos.net/embed-72e54drl151a.html",
-          "5": "https://vimeos.net/embed-j1ccjpp5g1ai.html"
+          "6": "https://vimeos.net/embed-k7ezprkn0i2y.html",
+          "5": "https://vimeos.net/embed-j1ccjpp5g1ai.html",
+          "10": "https://vimeos.net/embed-vaxx7rq3tc6y.html",
+          "7": "https://vimeos.net/embed-px62mlk35a1b.html",
+          "3": "https://vimeos.net/embed-72e54drl151a.html"
         }
       }
     },
@@ -43213,6 +43245,7 @@
       ],
       "temporadas": {
         "3": {
+          "4": "https://vimeos.net/embed-d2wewgc0rxdg.html",
           "2": "https://vimeos.net/embed-rw0q9sd6joj9.html",
           "1": "https://vimeos.net/embed-hy7uafm15g6s.html",
           "3": "https://vimeos.net/embed-tp1au33zyf6r.html"
@@ -43366,6 +43399,7 @@
       ],
       "temporadas": {
         "1": {
+          "4": "https://vimeos.net/embed-uslsq0nbnsyu.html",
           "2": "https://vimeos.net/embed-dx4n9tg4rps1.html",
           "1": "https://vimeos.net/embed-rbf93l83q8jx.html",
           "3": "https://vimeos.net/embed-cjfmqs6l1ljk.html"
@@ -108387,9 +108421,15 @@
       ],
       "temporadas": {
         "2": {
-          "4": "https://vimeos.net/embed-5zsd0gu3yog2.html",
+          "4": [
+            "https://vimeos.net/embed-5zsd0gu3yog2.html",
+            "https://vimeos.net/embed-m1n4ssd1b5eo.html"
+          ],
           "8": "https://vimeos.net/embed-pk1r51njwdyq.html",
-          "2": "https://vimeos.net/embed-ljn6d1wdrvpa.html",
+          "2": [
+            "https://vimeos.net/embed-ljn6d1wdrvpa.html",
+            "https://vimeos.net/embed-3vyghwgo28ep.html"
+          ],
           "9": "https://vimeos.net/embed-qnu9js7mgxck.html",
           "1": "https://vimeos.net/embed-9k3asrlhmur9.html",
           "11": "https://vimeos.net/embed-9x52lz2me542.html",
@@ -108397,7 +108437,10 @@
           "10": "https://vimeos.net/embed-jkxd5gtv5tc1.html",
           "6": "https://vimeos.net/embed-ugy848cg5a0b.html",
           "7": "https://vimeos.net/embed-ml88tmgev4rb.html",
-          "3": "https://vimeos.net/embed-iikv033qmnsr.html"
+          "3": [
+            "https://vimeos.net/embed-iikv033qmnsr.html",
+            "https://vimeos.net/embed-czqgovabjkfy.html"
+          ]
         },
         "1": {
           "4": [
@@ -118683,5 +118726,5 @@
       }
     }
   ],
-  "version": 10
+  "version": 11
 }

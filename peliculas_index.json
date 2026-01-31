@@ -1,7 +1,176 @@
 {
   "type": "peliculas",
-  "total": 12312,
+  "total": 12324,
   "items": [
+    {
+      "id": "p_18214",
+      "tmdb_id": 18214,
+      "nombre": "Águila Negra",
+      "poster": "https://image.tmdb.org/t/p/w500/mCyh1WaWjERBsYW9y0oB5i3YWxm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-37e825vj3y9s.html"
+        }
+      }
+    },
+    {
+      "id": "p_256040",
+      "tmdb_id": 256040,
+      "nombre": "Bāhubali: The Beginning",
+      "poster": "https://image.tmdb.org/t/p/w500/jYnLA3fA05OZ6YVepV8qjnfu484.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xn8evza7osh4.html"
+        }
+      }
+    },
+    {
+      "id": "p_366080",
+      "tmdb_id": 366080,
+      "nombre": "Kabali",
+      "poster": "https://image.tmdb.org/t/p/w500/va0M1xhP3sUUERWfHeSKGVhtJHW.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wytwlcw76ogk.html"
+        }
+      }
+    },
+    {
+      "id": "p_10796",
+      "tmdb_id": 10796,
+      "nombre": "El único",
+      "poster": "https://image.tmdb.org/t/p/w500/gJTJUI65fkPe2X0bTblA6KkRfek.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qeen66xruz2e.html"
+        }
+      }
+    },
+    {
+      "id": "p_594",
+      "tmdb_id": 594,
+      "nombre": "La terminal",
+      "poster": "https://image.tmdb.org/t/p/w500/GZHg5TMQpfNDjOWJ6zO2mO7ftS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-64vz1f6p02c6.html"
+        }
+      }
+    },
+    {
+      "id": "p_1354441",
+      "tmdb_id": 1354441,
+      "nombre": "La hacienda: El regreso de los malditos",
+      "poster": "https://image.tmdb.org/t/p/w500/vXUfuM7tPvAL8HjjnsFO4yYbKUs.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-c1xqr0in9al9.html"
+        }
+      }
+    },
+    {
+      "id": "p_512895",
+      "tmdb_id": 512895,
+      "nombre": "La dama y el vagabundo",
+      "poster": "https://image.tmdb.org/t/p/w500/69f1DVUiK8e9Y1GhShe5Wx33vSe.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w97qdn3p7dxo.html"
+        }
+      }
+    },
+    {
+      "id": "p_975615",
+      "tmdb_id": 975615,
+      "nombre": "Crónicas de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/oSoMQbqBTKJYk8LF9ibeNhkaHTQ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-34nxjq1o2u1f.html"
+        }
+      }
+    },
+    {
+      "id": "p_1352624",
+      "tmdb_id": 1352624,
+      "nombre": "The Mastermind",
+      "poster": "https://image.tmdb.org/t/p/w500/wOrm9021bhUXeOMUQocHMMDKXtL.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2rcqhmu6zlw8.html"
+        }
+      }
+    },
+    {
+      "id": "p_1426397",
+      "tmdb_id": 1426397,
+      "nombre": "Ercilia Pepín: ejemplo de enseñanza, patriotismo y dignidad",
+      "poster": "https://image.tmdb.org/t/p/w500/90rUU7AJFhJWjw2FIeJ8tPaMHMq.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4ucq0p3v229k.html"
+        }
+      }
+    },
+    {
+      "id": "p_1160360",
+      "tmdb_id": 1160360,
+      "nombre": "Si pudiera, te daría una patada",
+      "poster": "https://image.tmdb.org/t/p/w500/dpXbEKk1eMcXRgl62zWhNcZH4BN.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-8xnojjmn4kr8.html"
+        }
+      }
+    },
+    {
+      "id": "p_1319972",
+      "tmdb_id": 1319972,
+      "nombre": "Don't Let's Go to the Dogs Tonight",
+      "poster": "https://image.tmdb.org/t/p/w500/loCToXfo1tB58ZtVzsQyiAZclTE.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gbjrljs66ial.html"
+        }
+      }
+    },
     {
       "id": "p_20662",
       "tmdb_id": 20662,
@@ -51959,7 +52128,7 @@
       "tmdb_id": 292280,
       "nombre": "Nunca digas su nombre",
       "poster": "https://image.tmdb.org/t/p/w500/nQD4sConnRzxuBpAdzkbz15hROb.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "suspenso"
@@ -51967,6 +52136,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-rndgcop9mjvm.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8sp04vkijhrp.html"
         }
       }
     },
@@ -139453,7 +139625,7 @@
       "tmdb_id": 227783,
       "nombre": "Operación Cacahuete",
       "poster": "https://image.tmdb.org/t/p/w500/jIXmFMnAGpW5nA1czbtIhSrB9Ey.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "comedia",
@@ -139463,6 +139635,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-f1tmoy8570q4.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-95f24rrtecbx.html"
         }
       }
     },
@@ -188815,7 +188990,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-f8tccafjif6l.html"
+          "fastream": "https://fastream.to/embed-jvgw3aiqib9b.html"
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-bctb56wi6xca.html"
@@ -192910,7 +193085,7 @@
       "tmdb_id": 980477,
       "nombre": "Ne Zha 2",
       "poster": "https://image.tmdb.org/t/p/w500/jz5sGlPGf0cWZ0uJPDc8cSjjFcZ.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "fantasia",
@@ -192920,6 +193095,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-yadm7gh8bh2j.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5op98hottk57.html"
         }
       }
     },
@@ -193525,7 +193703,13 @@
       ],
       "fuentes": {
         "español latino": {
-          "la movie": "https://vimeos.net/embed-80qf4rbpdhhr.html"
+          "fastream": "https://fastream.to/embed-vd7jqi250vfi.html"
+        },
+        "español castellano": {
+          "la.movie": "https://vimeos.net/embed-80qf4rbpdhhr.html"
+        },
+        "ingles": {
+          "goodstream": "https://goodstream.one/embed-jbak2eoi8sxg.html"
         }
       }
     },
@@ -194025,5 +194209,5 @@
       }
     }
   ],
-  "version": 10
+  "version": 11
 }
