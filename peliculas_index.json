@@ -1,7 +1,72 @@
 {
   "type": "peliculas",
-  "total": 12324,
+  "total": 12329,
   "items": [
+    {
+      "id": "p_1033462",
+      "tmdb_id": 1033462,
+      "nombre": "Bureau 749",
+      "poster": "https://image.tmdb.org/t/p/w500/uXQm8PKup6FxXkrd9kPyD2asCZs.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pkcp6qotgere.html"
+        }
+      }
+    },
+    {
+      "id": "p_1426968",
+      "tmdb_id": 1426968,
+      "nombre": "Ya no quedan junglas",
+      "poster": "https://image.tmdb.org/t/p/w500/9aCPjtt0mxnMmdvdfCuCGDqxEg8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-453yhedqhr43.html"
+        }
+      }
+    },
+    {
+      "id": "p_38579",
+      "tmdb_id": 38579,
+      "nombre": "Marmaduke",
+      "poster": "https://image.tmdb.org/t/p/w500/wNNqAqvOn717AWBhBQskH2Lnzmz.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-21d9djix7gh6.html"
+        }
+      }
+    },
+    {
+      "id": "p_1199974",
+      "tmdb_id": 1199974,
+      "nombre": "Párvulos: Hijos del Apocalipsis",
+      "poster": "https://image.tmdb.org/t/p/w500/g3lmSgQRQK5uz5ch0sfV75Oz11g.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-i4msc2drg3pd.html"
+        }
+      }
+    },
+    {
+      "id": "p_1080658",
+      "tmdb_id": 1080658,
+      "nombre": "Gassed Up",
+      "poster": "https://image.tmdb.org/t/p/w500/hWHxQHzYLqgbfMWa5s6K90mKphN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-iu869ct6cyoq.html"
+        }
+      }
+    },
     {
       "id": "p_18214",
       "tmdb_id": 18214,
@@ -161,13 +226,16 @@
       "tmdb_id": 1319972,
       "nombre": "Don't Let's Go to the Dogs Tonight",
       "poster": "https://image.tmdb.org/t/p/w500/loCToXfo1tB58ZtVzsQyiAZclTE.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-gbjrljs66ial.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xgxjh1464m70.html"
         }
       }
     },
@@ -56163,13 +56231,16 @@
       "tmdb_id": 73,
       "nombre": "American History X",
       "poster": "https://image.tmdb.org/t/p/w500/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-lrp4jyta3bbb.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-u3ojzxcc3l9f.html"
         }
       }
     },
@@ -194209,5 +194280,5 @@
       }
     }
   ],
-  "version": 11
+  "version": 12
 }
