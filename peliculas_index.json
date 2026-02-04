@@ -1,7 +1,136 @@
 {
   "type": "peliculas",
-  "total": 12329,
+  "total": 12338,
   "items": [
+    {
+      "id": "p_768",
+      "tmdb_id": 768,
+      "nombre": "Desde el infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/fv29GwNS1NOgsr4NAdghOlQXkup.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f5uhkhrxq0oo.html"
+        }
+      }
+    },
+    {
+      "id": "p_26390",
+      "tmdb_id": 26390,
+      "nombre": "Los amos de Brooklyn",
+      "poster": "https://image.tmdb.org/t/p/w500/1IAQfcAUlQtmMyNN3AluLEuevhR.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gkfos258ky08.html"
+        }
+      }
+    },
+    {
+      "id": "p_335788",
+      "tmdb_id": 335788,
+      "nombre": "Renegados",
+      "poster": "https://image.tmdb.org/t/p/w500/dmnhuROaasyCij1JI5yCrOS1CUO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3cnvbsvfplyd.html"
+        }
+      }
+    },
+    {
+      "id": "p_746",
+      "tmdb_id": 746,
+      "nombre": "El último emperador",
+      "poster": "https://image.tmdb.org/t/p/w500/utbdORmc1tEmnxqQRMOapVAX8E8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-je20zfp4x7io.html"
+        }
+      }
+    },
+    {
+      "id": "p_82505",
+      "tmdb_id": 82505,
+      "nombre": "La casa al final de la calle",
+      "poster": "https://image.tmdb.org/t/p/w500/hzaEGnRBPmMSRPZ3zvevGtwUfDL.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dqujnmtgyjt2.html"
+        }
+      }
+    },
+    {
+      "id": "p_1368166",
+      "tmdb_id": 1368166,
+      "nombre": "La asistenta",
+      "poster": "https://image.tmdb.org/t/p/w500/A6S15iqfHpoit02leDfDVnpklys.jpg",
+      "calidad": "HD",
+      "generos": [
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-y94ua4rxtusw.html"
+        }
+      }
+    },
+    {
+      "id": "p_858024",
+      "tmdb_id": 858024,
+      "nombre": "Hamnet",
+      "poster": "https://image.tmdb.org/t/p/w500/hVo0g5M8z1kuhzxQ51eCbF81wUh.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-f40zp834dp83.html"
+        }
+      }
+    },
+    {
+      "id": "p_1017633",
+      "tmdb_id": 1017633,
+      "nombre": "Cómo conquistar a Billy Walsh",
+      "poster": "https://image.tmdb.org/t/p/w500/vm1oNqOZycJvW1GindPX45nIpuG.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gpoymwpp1iml.html"
+        }
+      }
+    },
+    {
+      "id": "p_1575535",
+      "tmdb_id": 1575535,
+      "nombre": "Tormento",
+      "poster": "https://image.tmdb.org/t/p/w500/dfJ9PqicF0cswNDsostHrGVueiq.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-8l251ar4573x.html"
+        }
+      }
+    },
     {
       "id": "p_1033462",
       "tmdb_id": 1033462,
@@ -16612,7 +16741,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-5yogskhydtgu.html"
+          "la_movie": "https://vimeos.net/embed-kffffodm7xnh.html"
         }
       }
     },
@@ -31873,6 +32002,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-nrazy3vh3ila.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-6tpyg2npelhk.html"
         }
@@ -34044,6 +34176,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kq5x14588gtj.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-affxsau6dic6.html"
         }
@@ -35188,6 +35323,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-08037skmyyxd.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-wwllczyir02s.html"
         }
@@ -194280,5 +194418,5 @@
       }
     }
   ],
-  "version": 12
+  "version": 13
 }
