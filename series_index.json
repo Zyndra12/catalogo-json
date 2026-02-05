@@ -1,7 +1,321 @@
 {
   "type": "series",
-  "total": 2796,
+  "total": 2807,
   "items": [
+    {
+      "id": "s_8880",
+      "tmdb_id": 8880,
+      "nombre": "Super Agente Cobra",
+      "poster": "https://image.tmdb.org/t/p/w500/dRn9T35jNsjk7ZIbfvreCZKWRyf.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "ficcion",
+        "accion"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-gls7jyfmt5em.html",
+          "23": "https://vimeos.net/embed-3190vpekc9zu.html",
+          "2": "https://vimeos.net/embed-ftu2q7mcty6s.html",
+          "9": "https://vimeos.net/embed-e4ljyr3yomh5.html",
+          "19": "https://vimeos.net/embed-hqlhsy6tvv53.html",
+          "25": "https://vimeos.net/embed-34jgewudgf16.html",
+          "10": "https://vimeos.net/embed-jwnrgds1bfq3.html",
+          "27": "https://vimeos.net/embed-75px15eigq4g.html",
+          "8": "https://vimeos.net/embed-iwy1tdt8i2if.html",
+          "20": "https://vimeos.net/embed-xp4v9njrei61.html",
+          "12": "https://vimeos.net/embed-zl6q6zs88rlg.html",
+          "31": "https://vimeos.net/embed-821mo5oxcf2u.html",
+          "30": "https://vimeos.net/embed-isz1iuh44hxn.html",
+          "29": "https://vimeos.net/embed-46isjnbiegp7.html",
+          "24": "https://vimeos.net/embed-ne6mzfcdh1dv.html",
+          "18": "https://vimeos.net/embed-hiaqsqtm1h0x.html",
+          "3": "https://vimeos.net/embed-x7h9dlbcy89h.html",
+          "22": "https://vimeos.net/embed-w9w0in21iqkc.html",
+          "26": "https://vimeos.net/embed-5ltq3qbjfivy.html",
+          "17": "https://vimeos.net/embed-y9cjs2wdgd16.html",
+          "6": "https://vimeos.net/embed-mlvghz9xo7ot.html",
+          "5": "https://vimeos.net/embed-7jc4la6r6fgz.html",
+          "11": "https://vimeos.net/embed-awkdeb1jnm6x.html",
+          "7": "https://vimeos.net/embed-jkm0u87o27po.html",
+          "21": "https://vimeos.net/embed-ldvkmb5owewq.html",
+          "14": "https://vimeos.net/embed-a8d03jk3edi5.html",
+          "1": "https://vimeos.net/embed-pop2omhthczc.html",
+          "15": "https://vimeos.net/embed-8q3qaadmeise.html",
+          "13": "https://vimeos.net/embed-lzmc6brnh5oy.html",
+          "28": "https://vimeos.net/embed-ymr2h7a8qhmk.html",
+          "16": "https://vimeos.net/embed-2ayb2xw0aei0.html"
+        }
+      }
+    },
+    {
+      "id": "s_23375",
+      "tmdb_id": 23375,
+      "nombre": "Gakuen Alice",
+      "poster": "https://image.tmdb.org/t/p/w500/mA1qYCJQdSd1jl8FZOAXgVhAsbe.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-831xrekj0mlg.html",
+          "26": "https://vimeos.net/embed-hbscmlr51zok.html",
+          "2": "https://vimeos.net/embed-07v5yvx9iu4k.html",
+          "9": "https://vimeos.net/embed-r57ja881qzni.html",
+          "19": "https://vimeos.net/embed-dga7simmxz9r.html",
+          "6": "https://vimeos.net/embed-b85o9xczj5ha.html",
+          "5": "https://vimeos.net/embed-2osdl3u2gels.html",
+          "25": "https://vimeos.net/embed-ov9bw41veb97.html",
+          "10": "https://vimeos.net/embed-6klt5fz4wpn0.html",
+          "11": "https://vimeos.net/embed-cc57kpmzbbcv.html",
+          "7": "https://vimeos.net/embed-l3d621h7avmw.html",
+          "17": "https://vimeos.net/embed-bwk5ntui2fak.html",
+          "23": "https://vimeos.net/embed-1sqriv7i04bw.html",
+          "21": "https://vimeos.net/embed-ovvm9o236f7q.html",
+          "8": "https://vimeos.net/embed-5yvmncf3esgs.html",
+          "20": "https://vimeos.net/embed-n9u3q1q2thxt.html",
+          "12": "https://vimeos.net/embed-7efw1zlgdg6t.html",
+          "1": "https://vimeos.net/embed-8izr5ns7axoi.html",
+          "14": "https://vimeos.net/embed-v1nvaabm52rk.html",
+          "24": "https://vimeos.net/embed-azlx36qg2ek6.html",
+          "18": "https://vimeos.net/embed-6iqiyzwe78kj.html",
+          "15": "https://vimeos.net/embed-a87uj9bvb85d.html",
+          "13": "https://vimeos.net/embed-7gc3z2j1mbi9.html",
+          "3": "https://vimeos.net/embed-izh9t76q26kg.html",
+          "22": "https://vimeos.net/embed-kpmw2c97stya.html",
+          "16": "https://vimeos.net/embed-mcq6r1z3lr68.html"
+        }
+      }
+    },
+    {
+      "id": "s_29358",
+      "tmdb_id": 29358,
+      "nombre": "Heroic Age",
+      "poster": "https://image.tmdb.org/t/p/w500/jr91fSjfFP6WngkHnpwBdZfd18W.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "ficcion",
+        "accion"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-68k6me9zf61t.html",
+          "26": "https://vimeos.net/embed-29ir4n6t3gxb.html",
+          "2": "https://vimeos.net/embed-z2r7upqfbt6e.html",
+          "9": "https://vimeos.net/embed-letjwmlw6rti.html",
+          "19": "https://vimeos.net/embed-g6qurgl1rgit.html",
+          "6": "https://vimeos.net/embed-5xd63e5wu381.html",
+          "5": "https://la.movie/embed.html?v=1",
+          "25": "https://vimeos.net/embed-k36xrr5y5q0a.html",
+          "10": "https://vimeos.net/embed-4v1cqz9csfaz.html",
+          "11": "https://vimeos.net/embed-ibrm5hovncbu.html",
+          "7": "https://vimeos.net/embed-xmtfmbn70870.html",
+          "17": "https://vimeos.net/embed-oue73yyx5are.html",
+          "23": "https://vimeos.net/embed-w18tx9whnzi2.html",
+          "21": "https://vimeos.net/embed-bwow6q2umg01.html",
+          "8": "https://vimeos.net/embed-gpmtdi857hvz.html",
+          "20": "https://vimeos.net/embed-97rcbit8eo41.html",
+          "12": "https://vimeos.net/embed-td95za5qc0sp.html",
+          "1": "https://vimeos.net/embed-am17fm6332a8.html",
+          "14": "https://vimeos.net/embed-n47lhci88k5n.html",
+          "24": "https://vimeos.net/embed-6fgd9o7opjcc.html",
+          "18": "https://vimeos.net/embed-yf2wphmqhsxs.html",
+          "15": "https://vimeos.net/embed-7tq11bv5dzvf.html",
+          "13": "https://vimeos.net/embed-wsmm8g91nk9g.html",
+          "3": "https://vimeos.net/embed-mnh25nikm1dk.html",
+          "22": "https://vimeos.net/embed-ho55cjbdzqlf.html",
+          "16": "https://vimeos.net/embed-hic410wq1l2h.html"
+        }
+      }
+    },
+    {
+      "id": "s_35466",
+      "tmdb_id": 35466,
+      "nombre": "Historias de fantasmas",
+      "poster": "https://image.tmdb.org/t/p/w500/uoGzfL3KCQtspfTAGkGmAayZs9X.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "comedia",
+        "ficcion"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-85i90r0ds3my.html",
+          "2": "https://vimeos.net/embed-pcih416ig2f7.html",
+          "9": "https://vimeos.net/embed-8kmbi4sflcjk.html",
+          "19": "https://vimeos.net/embed-j3txmlaimyi3.html",
+          "6": "https://vimeos.net/embed-0j3op7tzlt11.html",
+          "5": "https://vimeos.net/embed-90kecy40z9bl.html",
+          "10": "https://vimeos.net/embed-7xyzgoz98kx9.html",
+          "11": "https://vimeos.net/embed-srqxt4xgdcqn.html",
+          "17": "https://vimeos.net/embed-0p8npw4zjntd.html",
+          "7": "https://vimeos.net/embed-lmtwgyl64yv8.html",
+          "8": "https://vimeos.net/embed-mm1wn19rzhtd.html",
+          "14": "https://vimeos.net/embed-iw8dio4drdvt.html",
+          "12": "https://vimeos.net/embed-55blpznqrqz4.html",
+          "1": "https://vimeos.net/embed-5sxfc7ox05sy.html",
+          "15": "https://vimeos.net/embed-hns8e083d6pm.html",
+          "18": "https://vimeos.net/embed-7ag5s9p60jc4.html",
+          "13": "https://vimeos.net/embed-wbsgp8zh14kz.html",
+          "3": "https://vimeos.net/embed-84abkpcj06mg.html",
+          "16": "https://vimeos.net/embed-ngnajjmpggo8.html"
+        }
+      }
+    },
+    {
+      "id": "s_65602",
+      "tmdb_id": 65602,
+      "nombre": "Love Lab",
+      "poster": "https://image.tmdb.org/t/p/w500/iDGK0HJl9dmCb80mQwidKhUiy4r.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-7eeh52ywfoi9.html",
+          "8": "https://vimeos.net/embed-309fhox9ne6p.html",
+          "2": "https://vimeos.net/embed-f338mk2k9exy.html",
+          "9": "https://vimeos.net/embed-5bl0ch4ai6fu.html",
+          "1": "https://vimeos.net/embed-iz7tzbw2eyga.html",
+          "6": "https://vimeos.net/embed-n6g0ggtpt39b.html",
+          "10": "https://vimeos.net/embed-c5fgnapcxq2a.html",
+          "5": "https://vimeos.net/embed-41qo07gvnh9h.html",
+          "11": "https://vimeos.net/embed-begdtkddrra6.html",
+          "12": "https://vimeos.net/embed-vd1q5b4xj6bd.html",
+          "7": "https://vimeos.net/embed-54kevzj18ch3.html",
+          "13": "https://vimeos.net/embed-na6aem145h9b.html",
+          "3": "https://vimeos.net/embed-ggve74ixpkyc.html"
+        }
+      }
+    },
+    {
+      "id": "s_34139",
+      "tmdb_id": 34139,
+      "nombre": "Hakushaku to Yōsei",
+      "poster": "https://image.tmdb.org/t/p/w500/av2XyIgbjkXDlVk4LDAUj8LF84Z.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-4qjz9qfa1x9c.html",
+          "8": "https://vimeos.net/embed-3vw7lk3c969v.html",
+          "2": "https://vimeos.net/embed-ivw47lfr2869.html",
+          "9": "https://vimeos.net/embed-lte76vubmmx6.html",
+          "1": "https://vimeos.net/embed-5nbig8ykheuu.html",
+          "11": "https://vimeos.net/embed-fe65hlws5h4w.html",
+          "10": "https://vimeos.net/embed-o9sj8x1lf0gb.html",
+          "5": "https://vimeos.net/embed-bkqw4qtusqn3.html",
+          "6": "https://vimeos.net/embed-9sy9m58r2vqz.html",
+          "12": "https://vimeos.net/embed-xsvfcfna3afu.html",
+          "7": "https://vimeos.net/embed-g7cwbor37zdj.html",
+          "3": "https://vimeos.net/embed-o49m9x0nnfmn.html"
+        }
+      }
+    },
+    {
+      "id": "s_34749",
+      "tmdb_id": 34749,
+      "nombre": "Hand Maid May",
+      "poster": "https://image.tmdb.org/t/p/w500/k1XbnKx8AXcjaDStLhzpZZQDYo4.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-8zwmrcwipoe0.html",
+          "8": "https://vimeos.net/embed-fk34iidemqmq.html",
+          "2": "https://vimeos.net/embed-e42gy2c2yh24.html",
+          "9": "https://vimeos.net/embed-p9st5jtwtspy.html",
+          "1": "https://vimeos.net/embed-gt20ar0m9pay.html",
+          "6": "https://vimeos.net/embed-d15cu902heoo.html",
+          "5": "https://vimeos.net/embed-7t6rqe6iydck.html",
+          "10": "https://vimeos.net/embed-dr62v1jdt7da.html",
+          "7": "https://vimeos.net/embed-xo7mrmfsn1ps.html",
+          "3": "https://vimeos.net/embed-ttxey39n8l3v.html"
+        }
+      }
+    },
+    {
+      "id": "s_38559",
+      "tmdb_id": 38559,
+      "nombre": "Level E",
+      "poster": "https://image.tmdb.org/t/p/w500/tdhOYnrkZhSr6wiLDWOKIozRhEI.jpg",
+      "categorias": [
+        "drama",
+        "ficcion",
+        "serie",
+        "animacion",
+        "comedia",
+        "accion"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://la.movie/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "s_38597",
+      "tmdb_id": 38597,
+      "nombre": "流星のロックマン",
+      "poster": "https://image.tmdb.org/t/p/w500/iH4xNrzcyrUQCEQhJj34CUiEGFW.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "ficcion",
+        "accion"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://la.movie/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "s_74095",
+      "tmdb_id": 74095,
+      "nombre": "Juuni Taisen",
+      "poster": "https://image.tmdb.org/t/p/w500/lWFatAjB2vjn2lKlELWFUi0MU33.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "accion"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://la.movie/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "s_78521",
+      "tmdb_id": 78521,
+      "nombre": "Frankenstein Family",
+      "poster": "https://image.tmdb.org/t/p/w500/ue72revk27X4RWIEHgrRVsPiffy.jpg",
+      "categorias": [
+        "serie",
+        "animacion",
+        "comedia",
+        "ficcion"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://la.movie/embed.html?v=1"
+        }
+      }
+    },
     {
       "id": "s_30395",
       "tmdb_id": 30395,
@@ -31041,11 +31355,12 @@
       "temporadas": {
         "2": {
           "4": "https://vimeos.net/embed-te0vnkapce30.html",
-          "7": "https://vimeos.net/embed-4dh3ogla3eby.html",
+          "8": "https://vimeos.net/embed-8ye3mjj00fyq.html",
           "2": "https://vimeos.net/embed-gqmw3miyytl8.html",
           "1": "https://vimeos.net/embed-fzhj612xs0ve.html",
           "6": "https://vimeos.net/embed-xhee1jlvlgsd.html",
           "5": "https://vimeos.net/embed-yswjrrvoqc2w.html",
+          "7": "https://vimeos.net/embed-4dh3ogla3eby.html",
           "3": "https://vimeos.net/embed-h1wo0c8yp62l.html"
         },
         "1": {
@@ -32850,6 +33165,21 @@
           "12": "https://vimeos.net/embed-hkoa981u60yw.html",
           "7": "https://vimeos.net/embed-hejassroqbfo.html",
           "3": "https://vimeos.net/embed-ld9p0j6wbczz.html"
+        },
+        "1": {
+          "4": "https://vimeos.net/embed-qm8kq45nyq7q.html",
+          "8": "https://vimeos.net/embed-yxx7q9zgdlwn.html",
+          "2": "https://vimeos.net/embed-ls700potfkbm.html",
+          "9": "https://vimeos.net/embed-fbgpmgzhtm29.html",
+          "1": "https://vimeos.net/embed-aggtz9wclxri.html",
+          "6": "https://vimeos.net/embed-ba1xcw0ifepm.html",
+          "5": "https://vimeos.net/embed-hsgxkf4nykjc.html",
+          "10": "https://vimeos.net/embed-56wuvbnmsq3f.html",
+          "7": "https://vimeos.net/embed-9pjdj870ky14.html",
+          "3": "https://vimeos.net/embed-sqbk3c6bw7ai.html"
+        },
+        "3": {
+          "1": "https://vimeos.net/embed-b6kseemlktym.html"
         }
       }
     },
@@ -34138,7 +34468,10 @@
           "4": "https://sbbrisk.com/e/oo1e46aq58iz.html",
           "8": "https://sbbrisk.com/e/ry53djmw9hox.html",
           "2": "https://sbbrisk.com/e/s96i1fdq4u11.html",
-          "1": "https://sbbrisk.com/e/9ovb3x0utc5p.html",
+          "1": [
+            "https://sbbrisk.com/e/9ovb3x0utc5p.html",
+            "https://la.movie/embed.html?v=1"
+          ],
           "6": "https://sbbrisk.com/e/1am4tvlbu4f8.html",
           "5": "https://sbbrisk.com/e/oiuiiozf2lzx.html",
           "7": "https://sbbrisk.com/e/epw4ktx5a1lt.html",
@@ -34858,7 +35191,10 @@
         },
         "1": {
           "4": "https://vimeos.net/embed-8dnolar6h00k.html",
-          "8": "https://vimeos.net/embed-e7h7vnsn90ns.html",
+          "8": [
+            "https://vimeos.net/embed-e7h7vnsn90ns.html",
+            "https://vimeos.net/embed-kdp4vtqsoom6.html"
+          ],
           "2": "https://vimeos.net/embed-v37j2hretm8b.html",
           "1": "https://vimeos.net/embed-5jzaj01emtee.html",
           "6": "https://vimeos.net/embed-ilhvfrvz6b5u.html",
@@ -38597,8 +38933,9 @@
           "4": "https://vimeos.net/embed-tbmdxfkx040f.html",
           "2": "https://vimeos.net/embed-wrczjzycx1j0.html",
           "1": "https://vimeos.net/embed-skya1zicxnzp.html",
-          "3": "https://vimeos.net/embed-viefrzaqdjxk.html",
-          "5": "https://vimeos.net/embed-7elwqhvxadyj.html"
+          "6": "https://vimeos.net/embed-o6fj5ooz4abm.html",
+          "5": "https://vimeos.net/embed-7elwqhvxadyj.html",
+          "3": "https://vimeos.net/embed-viefrzaqdjxk.html"
         },
         "1": {
           "4": "https://vimeos.net/embed-7br86geh1fx6.html",
@@ -43494,6 +43831,24 @@
         "drama"
       ],
       "temporadas": {
+        "2": {
+          "4": "https://vimeos.net/embed-zy5y1d787a66.html",
+          "2": "https://vimeos.net/embed-08z2crchavv4.html",
+          "1": "https://vimeos.net/embed-13bx3habxgcs.html",
+          "6": "https://vimeos.net/embed-wudgwfsjzddh.html",
+          "5": "https://vimeos.net/embed-l8wei7ere2oz.html",
+          "3": "https://vimeos.net/embed-plvgbtgbsg19.html"
+        },
+        "1": {
+          "4": "https://vimeos.net/embed-qji85d9ft3ia.html",
+          "8": "https://vimeos.net/embed-3kuqovvzl25l.html",
+          "2": "https://vimeos.net/embed-wal5jxiy02wz.html",
+          "1": "https://vimeos.net/embed-okuujf8xxmkf.html",
+          "6": "https://vimeos.net/embed-0wxr8spykvhm.html",
+          "5": "https://vimeos.net/embed-tzvaybxxwckb.html",
+          "7": "https://vimeos.net/embed-zhja154gezej.html",
+          "3": "https://vimeos.net/embed-07pt1yejpicn.html"
+        },
         "3": {
           "4": "https://vimeos.net/embed-d2wewgc0rxdg.html",
           "2": "https://vimeos.net/embed-rw0q9sd6joj9.html",
@@ -94732,7 +95087,8 @@
           ],
           "13": [
             "https://fastream.to/embed-9s5dqjs9wa9t.html",
-            "https://vimeos.net/embed-mq4ukwqdy7ih.html"
+            "https://vimeos.net/embed-mq4ukwqdy7ih.html",
+            "https://vimeos.net/embed-t0b7061ofmaq.html"
           ],
           "3": [
             "https://fastream.to/embed-tl60aeh79ymt.html",
@@ -95644,7 +96000,10 @@
           "8": "https://fastream.to/embed-4ln65x4azwwt.html",
           "2": "https://fastream.to/embed-m9a9lecgbxav.html",
           "9": "https://fastream.to/embed-e7nq9g7w6ixd.html",
-          "1": "https://fastream.to/embed-th9ucpadu5ap.html",
+          "1": [
+            "https://fastream.to/embed-th9ucpadu5ap.html",
+            "https://la.movie/embed.html?v=1"
+          ],
           "6": "https://fastream.to/embed-0cdo460rmbco.html",
           "5": "https://fastream.to/embed-owhgrz23hwd6.html",
           "10": "https://fastream.to/embed-vo623t5r2f8x.html",
@@ -102350,7 +102709,8 @@
           ],
           "1": [
             "https://fastream.to/embed-pn8iaaxak6a8.html",
-            "https://vimeos.net/embed-1cxrjcjvle3k.html"
+            "https://vimeos.net/embed-1cxrjcjvle3k.html",
+            "https://la.movie/embed.html?v=1"
           ],
           "6": [
             "https://fastream.to/embed-d8dsdgauccrc.html",
@@ -118904,12 +119264,33 @@
       ],
       "temporadas": {
         "1": {
-          "4": "https://fastream.to/embed-8cc66tb00ll4.html",
-          "2": "https://fastream.to/embed-dwox2umc0f48.html",
-          "1": "https://fastream.to/embed-euyjskiu5erh.html",
-          "6": "https://fastream.to/embed-w1bqz49mj8jj.html",
-          "5": "https://fastream.to/embed-3dcomuehtojh.html",
-          "3": "https://fastream.to/embed-3ttusd6dpcr3.html"
+          "4": [
+            "https://fastream.to/embed-8cc66tb00ll4.html",
+            "https://vimeos.net/embed-l91iwg4rpdlw.html"
+          ],
+          "8": "https://vimeos.net/embed-8g9f75cenem5.html",
+          "2": [
+            "https://fastream.to/embed-dwox2umc0f48.html",
+            "https://vimeos.net/embed-gxbl3xp9iuty.html"
+          ],
+          "9": "https://vimeos.net/embed-hh17z18bycj4.html",
+          "1": [
+            "https://fastream.to/embed-euyjskiu5erh.html",
+            "https://vimeos.net/embed-wvr6i9irgmjo.html"
+          ],
+          "6": [
+            "https://fastream.to/embed-w1bqz49mj8jj.html",
+            "https://vimeos.net/embed-c5szasptzdpa.html"
+          ],
+          "5": [
+            "https://fastream.to/embed-3dcomuehtojh.html",
+            "https://vimeos.net/embed-n3d2b7dcwoq6.html"
+          ],
+          "7": "https://vimeos.net/embed-yvw1jpk95uev.html",
+          "3": [
+            "https://fastream.to/embed-3ttusd6dpcr3.html",
+            "https://vimeos.net/embed-2tl8qmttjl34.html"
+          ]
         }
       }
     },
@@ -118980,5 +119361,5 @@
       }
     }
   ],
-  "version": 13
+  "version": 14
 }
