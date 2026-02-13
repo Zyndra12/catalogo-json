@@ -1,6 +1,6 @@
 {
   "type": "series",
-  "total": 2843,
+  "total": 2844,
   "items": [
     {
       "id": "s_14599",
@@ -83,6 +83,7 @@
         },
         "1": {
           "4": "https://vimeos.net/embed-u42au6e1sxh2.html",
+          "8": "https://la.movie/embed.html?v=1",
           "2": "https://vimeos.net/embed-fto7bts4qh05.html",
           "9": "https://vimeos.net/embed-7073rj1x72os.html",
           "1": "https://vimeos.net/embed-zb0smg386e4n.html",
@@ -175,6 +176,37 @@
           "5": "https://fastream.to/embed-m05kovg2a7br.html",
           "7": "https://fastream.to/embed-h7eadpqcpogs.html",
           "3": "https://fastream.to/embed-u9y4nlaox1to.html"
+        }
+      }
+    },
+    {
+      "id": "s_92983",
+      "tmdb_id": 92983,
+      "nombre": "Vagabond",
+      "poster": "https://image.tmdb.org/t/p/w500/iSB720SU8k53NOsemk55aIqTAKI.jpg",
+      "categorias": [
+        "drama",
+        "accion",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://callistanise.com/embed/ybqeszllmvcl",
+          "2": "https://callistanise.com/embed/hb2b9niou8bf",
+          "9": "https://callistanise.com/embed/2b9110cgjouo",
+          "6": "https://callistanise.com/embed/law4wtbwf370",
+          "5": "https://callistanise.com/embed/z11wreesawia",
+          "10": "https://callistanise.com/embed/6ngbm4gmfn8z",
+          "11": "https://callistanise.com/embed/9tpem08g4z9m",
+          "7": "https://callistanise.com/embed/x5k1cbus1jbq",
+          "8": "https://callistanise.com/embed/ar8mflm7rwby",
+          "14": "https://callistanise.com/embed/cx5qp6hxw8tm",
+          "12": "https://callistanise.com/embed/f0zoviruwqs6",
+          "1": "https://callistanise.com/embed/uda2wscu343u",
+          "15": "https://callistanise.com/embed/cze67vj9lxq5",
+          "13": "https://callistanise.com/embed/ningco7qaxcu",
+          "3": "https://callistanise.com/embed/g1k7d5ytdltk",
+          "16": "https://callistanise.com/embed/eccmy1l4e47r"
         }
       }
     },
@@ -120813,5 +120845,5 @@
       }
     }
   ],
-  "version": 17
+  "version": 19
 }
