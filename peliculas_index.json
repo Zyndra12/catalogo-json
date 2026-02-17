@@ -1,7 +1,258 @@
 {
   "type": "peliculas",
-  "total": 12395,
+  "total": 12411,
   "items": [
+    {
+      "id": "p_9323",
+      "tmdb_id": 9323,
+      "nombre": "Ghost in the Shell",
+      "poster": "https://image.tmdb.org/t/p/w500/mo4PUj0SWiX33uQMgxyzE2ZOPBK.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-9mg674mjksc9.html"
+        }
+      }
+    },
+    {
+      "id": "p_1154154",
+      "tmdb_id": 1154154,
+      "nombre": "대도시의 사랑법",
+      "poster": "https://image.tmdb.org/t/p/w500/yik0hh8UDnZeAQRBN0LjUnwRvVz.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mj8gf3ibthu7.html"
+        }
+      }
+    },
+    {
+      "id": "p_1052558",
+      "tmdb_id": 1052558,
+      "nombre": "El demonio que habita en mí",
+      "poster": "https://image.tmdb.org/t/p/w500/kmnaCRTinFPN8iplWgdGQZ52WzY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v90venfbkfvp.html"
+        }
+      }
+    },
+    {
+      "id": "p_967022",
+      "tmdb_id": 967022,
+      "nombre": "Abigail",
+      "poster": "https://image.tmdb.org/t/p/w500/hvGj291oWmMyDhvtU7642KsM2np.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7i9kjf4ttot8.html"
+        }
+      }
+    },
+    {
+      "id": "p_966643",
+      "tmdb_id": 966643,
+      "nombre": "La leyenda del rostro pálido",
+      "poster": "https://image.tmdb.org/t/p/w500/2NdG2oCBLQM5ntiUtP4YGTWIhmF.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-n06qspf6pahz.html"
+        }
+      }
+    },
+    {
+      "id": "p_1148745",
+      "tmdb_id": 1148745,
+      "nombre": "Majdnem menyasszony",
+      "poster": "https://image.tmdb.org/t/p/w500/fBuisQPfbtTHpwcI4CGYQCB7SnG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-s68zqwbot6pi.html"
+        }
+      }
+    },
+    {
+      "id": "p_891644",
+      "tmdb_id": 891644,
+      "nombre": "Zero",
+      "poster": "https://image.tmdb.org/t/p/w500/5bo30pUJGUpvNP8XS75T3Al8V1R.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hjoksoddr0l2.html"
+        }
+      }
+    },
+    {
+      "id": "p_1243460",
+      "tmdb_id": 1243460,
+      "nombre": "El tour universitario con Joe",
+      "poster": "https://image.tmdb.org/t/p/w500/zp5RN4grAHUeCc9B7LKZcuu6HH5.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vvksbde45r1p.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-npwekogzfd6j.html"
+        }
+      }
+    },
+    {
+      "id": "p_1600028",
+      "tmdb_id": 1600028,
+      "nombre": "La Celda de los Milagros",
+      "poster": "https://image.tmdb.org/t/p/w500/oaQlWrEOhuxOyeqnK9BoePR4wBO.jpg",
+      "calidad": "4K",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ecalc0tsk7cg.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ujjph6iacbsm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1442908",
+      "tmdb_id": 1442908,
+      "nombre": "Los cantores rusos",
+      "poster": "https://image.tmdb.org/t/p/w500/tJ3gevIkQWDXtYj6FvfFilnCfmv.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica",
+        "drama",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ub0uag7zbszp.html"
+        }
+      }
+    },
+    {
+      "id": "p_1317672",
+      "tmdb_id": 1317672,
+      "nombre": "Love Me Love Me",
+      "poster": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-8vbynx0amatl.html"
+        }
+      }
+    },
+    {
+      "id": "p_24686",
+      "tmdb_id": 24686,
+      "nombre": "Любовь в большом городе",
+      "poster": "https://image.tmdb.org/t/p/w500/dADse044ixL47t1q2k42mf2951C.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-paxogs079n9s.html"
+        }
+      }
+    },
+    {
+      "id": "p_1295415",
+      "tmdb_id": 1295415,
+      "nombre": "变体",
+      "poster": "https://image.tmdb.org/t/p/w500/lKhOLSU0XlvPVE4m0hCMuJ2fFc4.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ninkdl9peeqo.html"
+        }
+      }
+    },
+    {
+      "id": "p_1560664",
+      "tmdb_id": 1560664,
+      "nombre": "El precio de la violencia",
+      "poster": "https://image.tmdb.org/t/p/w500/bRPI3ZLSPJehbnb1OCpWBVBBx0c.jpg",
+      "calidad": "4K",
+      "generos": [
+        "suspenso",
+        "accion",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-1cy91wcixipy.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4ebo9kbs48cu.html"
+        }
+      }
+    },
+    {
+      "id": "p_1426964",
+      "tmdb_id": 1426964,
+      "nombre": "Hermandad: Estado de terror",
+      "poster": "https://image.tmdb.org/t/p/w500/xdyCFS4jUzp7kghoptaiYqir48X.jpg",
+      "calidad": "4K",
+      "generos": [
+        "accion",
+        "suspenso",
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2i04rgdjdt4z.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vg17s66fn1t2.html"
+        }
+      }
+    },
+    {
+      "id": "p_1286185",
+      "tmdb_id": 1286185,
+      "nombre": "El Hijo del Carpintero",
+      "poster": "https://image.tmdb.org/t/p/w500/uoXkBUyKPSs6aLVHZZBTsskEXGy.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-uy67ggif1qmi.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v80qmo75xw1e.html"
+        }
+      }
+    },
     {
       "id": "p_13510",
       "tmdb_id": 13510,
@@ -885,7 +1136,7 @@
       "tmdb_id": 1368166,
       "nombre": "La asistenta",
       "poster": "https://image.tmdb.org/t/p/w500/A6S15iqfHpoit02leDfDVnpklys.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "misterio",
         "suspenso"
@@ -893,6 +1144,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-y94ua4rxtusw.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dovdz73riz84.html"
         }
       }
     },
@@ -901,7 +1155,7 @@
       "tmdb_id": 858024,
       "nombre": "Hamnet",
       "poster": "https://image.tmdb.org/t/p/w500/hVo0g5M8z1kuhzxQ51eCbF81wUh.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "romance",
@@ -910,6 +1164,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-f40zp834dp83.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w5hu191cyki7.html"
         }
       }
     },
@@ -11306,6 +11563,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-iy0x17wz5kuc.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-sxux5dpv153y.html"
         }
@@ -24075,6 +24335,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gro8663l6xt4.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-ossurpvkxc9h.html"
         }
@@ -85668,7 +85931,7 @@
       "tmdb_id": 10555,
       "nombre": "El espantatiburones",
       "poster": "https://image.tmdb.org/t/p/w500/3vI17Q3mfkIEpvwItomxMy5w1gw.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "accion",
@@ -85678,6 +85941,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-qpaaz3s7ihu5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cbdhg32vxfro.html"
         }
       }
     },
@@ -190840,7 +191106,7 @@
           "fastream": "https://fastream.to/embed-94rnjekgvuqh.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-xmcb40qfhfzm.html"
+          "la_movie": "https://vimeos.net/embed-xf2i1xg5hxh6.html"
         }
       }
     },
@@ -195258,5 +195524,5 @@
       }
     }
   ],
-  "version": 19
+  "version": 20
 }
