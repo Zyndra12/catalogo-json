@@ -1,7 +1,258 @@
 {
   "type": "peliculas",
-  "total": 12411,
+  "total": 12428,
   "items": [
+    {
+      "id": "p_22582",
+      "tmdb_id": 22582,
+      "nombre": "Tom y Jerry: la película",
+      "poster": "https://image.tmdb.org/t/p/w500/7LVlL5My8lftjb3HKJdrxcDE586.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-q10vqwd7huk3.html"
+        }
+      }
+    },
+    {
+      "id": "p_1205225",
+      "tmdb_id": 1205225,
+      "nombre": "Las Puertas del Infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/tsu0fapttpwweWhx2GvYFtSCFhi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nodi9qu4jl4f.html"
+        }
+      }
+    },
+    {
+      "id": "p_1236416",
+      "tmdb_id": 1236416,
+      "nombre": "Wolves Against the World",
+      "poster": "https://image.tmdb.org/t/p/w500/bQEPVGPFdMleWwTnqsEKLSg20ft.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-na1afjpztl21.html"
+        }
+      }
+    },
+    {
+      "id": "p_1295166",
+      "tmdb_id": 1295166,
+      "nombre": "The Exorcism of Saint Patrick",
+      "poster": "https://image.tmdb.org/t/p/w500/lnhmA6s12I3SJjQNqrcQxR3PU34.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xuvszci1gaas.html"
+        }
+      }
+    },
+    {
+      "id": "p_1049082",
+      "tmdb_id": 1049082,
+      "nombre": "Jumbo",
+      "poster": "https://image.tmdb.org/t/p/w500/rbjTGOKWcL6xjhTMGhRN1YNejE5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-skdc87z0rdf3.html"
+        }
+      }
+    },
+    {
+      "id": "p_410876",
+      "tmdb_id": 410876,
+      "nombre": "Visiones de la muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/m0XhU0w1UwCsLIDX3EeDiUzfUl9.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4cvaif0mo4k6.html"
+        }
+      }
+    },
+    {
+      "id": "p_22916",
+      "tmdb_id": 22916,
+      "nombre": "Elsa y Fred",
+      "poster": "https://image.tmdb.org/t/p/w500/4xjfBIP8BCCkKDmSBlAfguUiW8N.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0pzf94fjsr0q.html"
+        }
+      }
+    },
+    {
+      "id": "p_306819",
+      "tmdb_id": 306819,
+      "nombre": "La chica danesa",
+      "poster": "https://image.tmdb.org/t/p/w500/8XubRv1OkM2RkksxVpkG8qoROM8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xxjp63ya7281.html"
+        }
+      }
+    },
+    {
+      "id": "p_197158",
+      "tmdb_id": 197158,
+      "nombre": "¡Porno!",
+      "poster": "https://image.tmdb.org/t/p/w500/5YEd5kfXK8uoM2bzSYtPc14az82.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "terror",
+        "fantasia",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-x8g5oc4wi4f5.html"
+        }
+      }
+    },
+    {
+      "id": "p_1444327",
+      "tmdb_id": 1444327,
+      "nombre": "The Final Run",
+      "poster": "https://image.tmdb.org/t/p/w500/umBTqmDFpXhSbmxL0ghM3pu0lJt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-yi4gt3r3yewq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1261188",
+      "tmdb_id": 1261188,
+      "nombre": "El vínculo sueco",
+      "poster": "https://image.tmdb.org/t/p/w500/snlnvSB232OZwPCuO8zkWYJ6P7j.jpg",
+      "calidad": "4K",
+      "generos": [
+        "drama",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-o7cgdkt8qxu5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hjuu73mzm2tw.html"
+        }
+      }
+    },
+    {
+      "id": "p_1086260",
+      "tmdb_id": 1086260,
+      "nombre": "La astronauta",
+      "poster": "https://image.tmdb.org/t/p/w500/qnAKcqKEyqaiQUkMGAd8VDRQK9V.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-oho26v59gzun.html"
+        }
+      }
+    },
+    {
+      "id": "p_1400757",
+      "tmdb_id": 1400757,
+      "nombre": "Rey del ring",
+      "poster": "https://image.tmdb.org/t/p/w500/bMyEsGXWP3XjS3D4VAMY794NPx.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hjn0irm2w8sr.html"
+        }
+      }
+    },
+    {
+      "id": "p_1244975",
+      "tmdb_id": 1244975,
+      "nombre": "Los huérfanos",
+      "poster": "https://image.tmdb.org/t/p/w500/vPz9HVmzi9Lwllpmac4aKauwNlp.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-aiul4uloy9i1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1268609",
+      "tmdb_id": 1268609,
+      "nombre": "Pavana",
+      "poster": "https://image.tmdb.org/t/p/w500/22RlxpIT4u4psfIx9tmtbPvgAbm.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-m42cn5rtpqvm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1428862",
+      "tmdb_id": 1428862,
+      "nombre": "Cortafuego",
+      "poster": "https://image.tmdb.org/t/p/w500/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9xayoso8q58m.html"
+        }
+      }
+    },
+    {
+      "id": "p_1475815",
+      "tmdb_id": 1475815,
+      "nombre": "El hada de las tinieblas",
+      "poster": "https://image.tmdb.org/t/p/w500/AunTtqWUPriGWbcogYybe2UTqUZ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-e3lfat04otim.html"
+        }
+      }
+    },
     {
       "id": "p_9323",
       "tmdb_id": 9323,
@@ -18,11 +269,14 @@
     {
       "id": "p_1154154",
       "tmdb_id": 1154154,
-      "nombre": "대도시의 사랑법",
+      "nombre": "Amor en La Gran Ciudad",
       "poster": "https://image.tmdb.org/t/p/w500/yik0hh8UDnZeAQRBN0LjUnwRvVz.jpg",
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-paxogs079n9s.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-mj8gf3ibthu7.html"
         }
@@ -36,6 +290,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-sa21valauood.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-v90venfbkfvp.html"
         }
@@ -181,7 +438,7 @@
     {
       "id": "p_1295415",
       "tmdb_id": 1295415,
-      "nombre": "变体",
+      "nombre": "Mutante Destino Sombrio",
       "poster": "https://image.tmdb.org/t/p/w500/lKhOLSU0XlvPVE4m0hCMuJ2fFc4.jpg",
       "calidad": "HD",
       "generos": [
@@ -9990,6 +10247,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-6vd3oqynz41w.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-ifjmc7q23yma.html"
         }
@@ -21046,6 +21306,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-mcttsnwvepjq.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-7oqp9wz6h399.html"
         }
@@ -42969,6 +43232,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-rvyiftedx6e7.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-tj44dxstsm8y.html"
         }
@@ -100202,7 +100468,7 @@
       "tmdb_id": 446893,
       "nombre": "Trolls 2: Gira mundial",
       "poster": "https://image.tmdb.org/t/p/w500/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "familia",
         "animacion",
@@ -100214,6 +100480,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-q4jblh8ymjxj.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-whyqk1jytz1h.html"
         }
       }
     },
@@ -108703,7 +108972,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-s38r7b9f2yyz.html"
+          "fastream": "https://fastream.to/embed-mx4vhgi45tsn.html"
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-3513xwitrg1e.html"
@@ -113444,7 +113713,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-x00d9qcu3yqw.html"
+          "fastream": "https://fastream.to/embed-454txolazjxm.html"
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-0d4f0pgigc4q.html"
@@ -172789,7 +173058,7 @@
       "tmdb_id": 1236153,
       "nombre": "Sin piedad",
       "poster": "https://image.tmdb.org/t/p/w500/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "accion",
@@ -172798,6 +173067,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-a3c0znmdo1n3.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7bplwv3deni4.html"
         }
       }
     },
@@ -189048,7 +189320,7 @@
       "tmdb_id": 1272837,
       "nombre": "28 años después: El templo de los huesos",
       "poster": "https://image.tmdb.org/t/p/w500/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "suspenso",
@@ -189056,7 +189328,10 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-m99t4w6xk8ej.html"
+          "fastream": "https://fastream.to/embed-8zk5fxywkw7g.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sx4thm0tdw5n.html"
         }
       }
     },
@@ -195524,5 +195799,5 @@
       }
     }
   ],
-  "version": 20
+  "version": 21
 }
