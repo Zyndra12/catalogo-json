@@ -4,9 +4,9 @@
   "items": [
     {
       "id": "s_219826",
-      "tmdb_id": 219826,
-      "nombre": "Mi nombre es Farah",
-      "poster": "https://image.tmdb.org/t/p/w500/lw9DBdrF58jsv2mkCqcQTJynsTU.jpg",
+      "tmdb_id": 110356,
+      "nombre": "Mi nombre",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2ZiZWU3MzMtNGM5OC00ZWVkLTkxNjUtMTYwZGU4MzgxYzk0XkEyXkFqcGc@._V1_.jpg",
       "categorias": [
         "drama",
         "serie",
@@ -123199,5 +123199,5 @@
       }
     }
   ],
-  "version": 23
+  "version": 24
 }
