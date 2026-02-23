@@ -1,7 +1,46 @@
 {
   "type": "peliculas",
-  "total": 12421,
+  "total": 12424,
   "items": [
+    {
+      "id": "p_9428",
+      "tmdb_id": 9428,
+      "nombre": "Los Tenenbaums. Una familia de genios",
+      "poster": "https://image.tmdb.org/t/p/w500/zLJ76qtAQXbYTceBYwTAPu0e12P.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-d7prwm6a1ana.html"
+        }
+      }
+    },
+    {
+      "id": "p_1419826",
+      "tmdb_id": 1419826,
+      "nombre": "La resistencia invisible",
+      "poster": "https://image.tmdb.org/t/p/w500/79UAwZXaUyvz7cBuwipboj5BTBz.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-uzyoh2ef4zqn.html"
+        }
+      }
+    },
+    {
+      "id": "p_1495013",
+      "tmdb_id": 1495013,
+      "nombre": "El hada de las tinieblas",
+      "poster": "https://image.tmdb.org/t/p/w500/wtqHN8xhjbANddYji4H1mmJRoan.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qedkc4d05w85.html"
+        }
+      }
+    },
     {
       "id": "p_22582",
       "tmdb_id": 22582,
@@ -163,13 +202,16 @@
       "tmdb_id": 1400757,
       "nombre": "Rey del ring",
       "poster": "https://image.tmdb.org/t/p/w500/bMyEsGXWP3XjS3D4VAMY794NPx.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-hjn0irm2w8sr.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-rv218c79v0cv.html"
         }
       }
     },
@@ -209,7 +251,7 @@
       "tmdb_id": 1428862,
       "nombre": "Cortafuego",
       "poster": "https://image.tmdb.org/t/p/w500/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso",
         "drama"
@@ -217,6 +259,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-9xayoso8q58m.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6ys27lr6a30t.html"
         }
       }
     },
@@ -195690,5 +195735,5 @@
       }
     }
   ],
-  "version": 24
+  "version": 25
 }
