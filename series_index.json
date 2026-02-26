@@ -1,7 +1,26 @@
 {
   "type": "series",
-  "total": 2904,
+  "total": 2905,
   "items": [
+    {
+      "id": "s_10977",
+      "tmdb_id": 10977,
+      "nombre": "El hechicero",
+      "poster": "https://image.tmdb.org/t/p/w500/kPYBKiOZNLBIgHlEIOMlZjDaX0u.jpg",
+      "categorias": [
+        "accion",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-dnb2qnl7zzaz.html",
+          "2": "https://vimeos.net/embed-hgax98tft1e0.html",
+          "1": "https://vimeos.net/embed-1rka38d4ufbq.html",
+          "3": "https://vimeos.net/embed-k6x43kvdm7lc.html",
+          "5": "https://vimeos.net/embed-a676vowidtp7.html"
+        }
+      }
+    },
     {
       "id": "s_91585",
       "tmdb_id": 91585,
@@ -43227,7 +43246,10 @@
           "2": "https://vimeos.net/embed-bfcokmdb173z.html",
           "9": "https://vimeos.net/embed-w90kfrzv8qs2.html",
           "1": "https://vimeos.net/embed-tjqs6exbpjw5.html",
-          "6": "https://vimeos.net/embed-xnmcyajgfbfq.html",
+          "6": [
+            "https://vimeos.net/embed-xnmcyajgfbfq.html",
+            "https://vimeos.net/embed-ofx4pzuq8x5w.html"
+          ],
           "5": "https://vimeos.net/embed-mpzf6rjrriwm.html",
           "10": "https://vimeos.net/embed-ofo4hui3pmcq.html",
           "7": "https://vimeos.net/embed-911bupuci2z1.html",
@@ -123717,5 +123739,5 @@
       }
     }
   ],
-  "version": 25
+  "version": 26
 }

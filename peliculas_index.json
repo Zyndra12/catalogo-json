@@ -1,7 +1,157 @@
 {
   "type": "peliculas",
-  "total": 12424,
+  "total": 12435,
   "items": [
+    {
+      "id": "p_1586841",
+      "tmdb_id": 1586841,
+      "nombre": "El paseo 8",
+      "poster": "https://image.tmdb.org/t/p/w500/oP4BuJ4toBC5KLczNy9c38cMgbr.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sj8tiqndeumt.html"
+        }
+      }
+    },
+    {
+      "id": "p_10948",
+      "tmdb_id": 10948,
+      "nombre": "Tod y Toby",
+      "poster": "https://image.tmdb.org/t/p/w500/33jyy4W2usMrY796udOjcbMwput.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zquas2qb1fji.html"
+        }
+      }
+    },
+    {
+      "id": "p_9929",
+      "tmdb_id": 9929,
+      "nombre": "Astérix y Cleopatra",
+      "poster": "https://image.tmdb.org/t/p/w500/eEyWpjAeBC7xnCDx26JPHrOrPCp.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-u1j8hheg1u4s.html"
+        }
+      }
+    },
+    {
+      "id": "p_799882",
+      "tmdb_id": 799882,
+      "nombre": "El engaño",
+      "poster": "https://image.tmdb.org/t/p/w500/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f7960m6aqpod.html"
+        }
+      }
+    },
+    {
+      "id": "p_9385",
+      "tmdb_id": 9385,
+      "nombre": "Las doce pruebas de Astérix",
+      "poster": "https://image.tmdb.org/t/p/w500/pkn8qppaXxAdF0PCNzQUuma4MT6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-t8jl5t6t2c1p.html"
+        }
+      }
+    },
+    {
+      "id": "p_23706",
+      "tmdb_id": 23706,
+      "nombre": "Loca obsesión",
+      "poster": "https://image.tmdb.org/t/p/w500/borWlVwA2AXYa8T2S7NHT8Zi7DK.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wc2nqvkle6t1.html"
+        }
+      }
+    },
+    {
+      "id": "p_5516",
+      "tmdb_id": 5516,
+      "nombre": "Ladykillers",
+      "poster": "https://image.tmdb.org/t/p/w500/maMxJLjrqE5eO02LBUjzRAls47T.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-im4x4fpu33hy.html"
+        }
+      }
+    },
+    {
+      "id": "p_718108",
+      "tmdb_id": 718108,
+      "nombre": "El secreto de una madre",
+      "poster": "https://image.tmdb.org/t/p/w500/u71T3LyYSkk8xlQ7j5Ga1vkE1zc.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ow9rtwlpak9y.html"
+        }
+      }
+    },
+    {
+      "id": "p_1193128",
+      "tmdb_id": 1193128,
+      "nombre": "Yo era un extraño",
+      "poster": "https://image.tmdb.org/t/p/w500/RBIrEveMOIy5Kxg2WzgMnCIhaN.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ov25c12g4a1j.html"
+        }
+      }
+    },
+    {
+      "id": "p_366799",
+      "tmdb_id": 366799,
+      "nombre": "Exorcismo Documentado",
+      "poster": "https://image.tmdb.org/t/p/w500/i5djJKrzq8VhZvXALw9thDnFfnM.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9yu1rartw695.html"
+        }
+      }
+    },
+    {
+      "id": "p_1525248",
+      "tmdb_id": 1525248,
+      "nombre": "Sueños Rotos",
+      "poster": "https://image.tmdb.org/t/p/w500/eVPTiR4q4sXOV9lTXaP6TDu59JV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-zd0oqt6q3qph.html"
+        }
+      }
+    },
     {
       "id": "p_9428",
       "tmdb_id": 9428,
@@ -23,6 +173,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gplo4g29c84c.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-uzyoh2ef4zqn.html"
         }
@@ -185,7 +338,7 @@
       "tmdb_id": 1086260,
       "nombre": "La astronauta",
       "poster": "https://image.tmdb.org/t/p/w500/qnAKcqKEyqaiQUkMGAd8VDRQK9V.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "terror",
@@ -194,6 +347,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-oho26v59gzun.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jv7xscrayei7.html"
         }
       }
     },
@@ -220,13 +376,16 @@
       "tmdb_id": 1244975,
       "nombre": "Los huérfanos",
       "poster": "https://image.tmdb.org/t/p/w500/vPz9HVmzi9Lwllpmac4aKauwNlp.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-aiul4uloy9i1.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nrr9e1794ypn.html"
         }
       }
     },
@@ -14895,6 +15054,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-y4sdw40le9v3.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-zg6iacl3fsuz.html"
         }
@@ -34252,7 +34414,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-70wua6dwdl5w.html"
+          "la_movie": "https://vimeos.net/embed-s4uauzncya0p.html"
         }
       }
     },
@@ -38371,6 +38533,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-w6odu19ymffw.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-fozzn97246ve.html"
         }
@@ -54255,7 +54420,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-dlcd83wdtoz2.html"
+          "fastream": "https://fastream.to/embed-e4wci3ev77ot.html"
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-8k36jifh4h0n.html"
@@ -120393,7 +120558,7 @@
       "tmdb_id": 9444,
       "nombre": "Anastasia",
       "poster": "https://image.tmdb.org/t/p/w500/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "familia",
@@ -120403,6 +120568,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-kzjlr88xpqs7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2ddxok8pu38i.html"
         }
       }
     },
@@ -131389,7 +131557,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-5hh9s7ndwn92.html"
+          "fastream": "https://fastream.to/embed-xi3bh5enq7zj.html"
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-mhv2l8n65ngi.html"
@@ -195336,7 +195504,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-w08uq5zvhbq8.html"
+          "fastream": "https://fastream.to/embed-czgg33wjwyzm.html"
         }
       }
     },
@@ -195735,5 +195903,5 @@
       }
     }
   ],
-  "version": 25
+  "version": 26
 }
