@@ -1,7 +1,497 @@
 {
   "type": "peliculas",
-  "total": 12435,
+  "total": 12472,
   "items": [
+    {
+      "id": "p_25195",
+      "tmdb_id": 25195,
+      "nombre": "Tenías que ser tú",
+      "poster": "https://image.tmdb.org/t/p/w500/2L08IJ71wZf1CKcQAKHJVayzFVL.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-44uq09iik663.html"
+        }
+      }
+    },
+    {
+      "id": "p_70435",
+      "tmdb_id": 70435,
+      "nombre": "Indomable",
+      "poster": "https://image.tmdb.org/t/p/w500/8KgKC7yNHJMTydQXNoQXr23YfVU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e88wg1gxxy6l.html"
+        }
+      }
+    },
+    {
+      "id": "p_421473",
+      "tmdb_id": 421473,
+      "nombre": "Bajo sospecha",
+      "poster": "https://image.tmdb.org/t/p/w500/u3IZqv1SzNkE97DSGKqhI8v8Fhv.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cro2zkpg0ubk.html"
+        }
+      }
+    },
+    {
+      "id": "p_50363",
+      "tmdb_id": 50363,
+      "nombre": "Locuras de verano",
+      "poster": "https://image.tmdb.org/t/p/w500/dLd2eSGUgUYOuFYab3dDQmDL00b.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-i675qo78tvlf.html"
+        }
+      }
+    },
+    {
+      "id": "p_73723",
+      "tmdb_id": 73723,
+      "nombre": "Lorax. En busca de la trúfula perdida",
+      "poster": "https://image.tmdb.org/t/p/w500/b7FMtquHglzxIi938cHIgVQuPx5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e6vclgyri15n.html"
+        }
+      }
+    },
+    {
+      "id": "p_28355",
+      "tmdb_id": 28355,
+      "nombre": "Expediente 39",
+      "poster": "https://image.tmdb.org/t/p/w500/qT3IxgoA8aDZyKPIFLEWqshwLLR.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-r8zuuc150a75.html"
+        }
+      }
+    },
+    {
+      "id": "p_38541",
+      "tmdb_id": 38541,
+      "nombre": "Aislados",
+      "poster": "https://image.tmdb.org/t/p/w500/hnwX5cUuzBDM0OWJB2UtnjkrHDm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o9hxe0z07j1f.html"
+        }
+      }
+    },
+    {
+      "id": "p_29427",
+      "tmdb_id": 29427,
+      "nombre": "The Crazies",
+      "poster": "https://image.tmdb.org/t/p/w500/tVuAEloskv8GDNJwNRUtCV7aHDk.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gi9shz45r0as.html"
+        }
+      }
+    },
+    {
+      "id": "p_38167",
+      "tmdb_id": 38167,
+      "nombre": "Come, reza, ama",
+      "poster": "https://image.tmdb.org/t/p/w500/dHvxdzwUyHajBqcmx4EgfFDA7Qm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vtw66af98ots.html"
+        }
+      }
+    },
+    {
+      "id": "p_10196",
+      "tmdb_id": 10196,
+      "nombre": "Airbender, el último guerrero",
+      "poster": "https://image.tmdb.org/t/p/w500/ztvnkvNYtZReU9iQyY94PXw3nzs.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-82gfnir5otua.html"
+        }
+      }
+    },
+    {
+      "id": "p_13018",
+      "tmdb_id": 13018,
+      "nombre": "La lista",
+      "poster": "https://image.tmdb.org/t/p/w500/bVNiWTPkw9LQYKzXHBbMPPRtF2L.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2kgbf11xfy9d.html"
+        }
+      }
+    },
+    {
+      "id": "p_75736",
+      "tmdb_id": 75736,
+      "nombre": "Situación límite",
+      "poster": "https://image.tmdb.org/t/p/w500/yevJ6BVh0jX9V0jrbe8R5jxBoCy.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tsjihurjxgyo.html"
+        }
+      }
+    },
+    {
+      "id": "p_389995",
+      "tmdb_id": 389995,
+      "nombre": "Me casé con un boludo",
+      "poster": "https://image.tmdb.org/t/p/w500/rWo38m3XwcbOeArt2UOixPtkoB9.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ijrzfa1vtqly.html"
+        }
+      }
+    },
+    {
+      "id": "p_81796",
+      "tmdb_id": 81796,
+      "nombre": "MS1: Máxima seguridad",
+      "poster": "https://image.tmdb.org/t/p/w500/q5TsJWh87UHYyb5AIxAwQOsSwxF.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j8gv2xmkxvxk.html"
+        }
+      }
+    },
+    {
+      "id": "p_9038",
+      "tmdb_id": 9038,
+      "nombre": "Matrimonio compulsivo",
+      "poster": "https://image.tmdb.org/t/p/w500/ngsAxtSDI2ZcnMn1INdFKRXtYzW.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jj9jdbdk6amh.html"
+        }
+      }
+    },
+    {
+      "id": "p_58574",
+      "tmdb_id": 58574,
+      "nombre": "Sherlock Holmes: Juego de sombras",
+      "poster": "https://image.tmdb.org/t/p/w500/cDu2Ti4uwF1yq6jgjsybe7UzZDI.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-aabrrfyjdwp6.html"
+        }
+      }
+    },
+    {
+      "id": "p_27578",
+      "tmdb_id": 27578,
+      "nombre": "Los mercenarios",
+      "poster": "https://image.tmdb.org/t/p/w500/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ls9t3criq2f4.html"
+        }
+      }
+    },
+    {
+      "id": "p_26688",
+      "tmdb_id": 26688,
+      "nombre": "Hermandad de sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/zwoOjfp14SuiduKSe5YfPk4yERN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-00u90svdl4dl.html"
+        }
+      }
+    },
+    {
+      "id": "p_45772",
+      "tmdb_id": 45772,
+      "nombre": "Gnomeo y Julieta",
+      "poster": "https://image.tmdb.org/t/p/w500/qPbBWRwGvYoOJbEBFkLs8KWUcnP.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-54rk7zjpw8bh.html"
+        }
+      }
+    },
+    {
+      "id": "p_31867",
+      "tmdb_id": 31867,
+      "nombre": "Repo Men",
+      "poster": "https://image.tmdb.org/t/p/w500/NmnBJ462hVhEAFaGj1U2ALYbDV.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4p0iluuyrlbs.html"
+        }
+      }
+    },
+    {
+      "id": "p_62764",
+      "tmdb_id": 62764,
+      "nombre": "Blancanieves (Mirror, Mirror)",
+      "poster": "https://image.tmdb.org/t/p/w500/p89fw8XQPc82fKJCwvydnpAupFy.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e7448u11tcgu.html"
+        }
+      }
+    },
+    {
+      "id": "p_65086",
+      "tmdb_id": 65086,
+      "nombre": "La mujer de negro",
+      "poster": "https://image.tmdb.org/t/p/w500/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vo9p77rp843b.html"
+        }
+      }
+    },
+    {
+      "id": "p_19959",
+      "tmdb_id": 19959,
+      "nombre": "Los sustitutos",
+      "poster": "https://image.tmdb.org/t/p/w500/1JzxhNsVXEsFmlIIeFaFM70qRnh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0a1mwi89zjx5.html"
+        }
+      }
+    },
+    {
+      "id": "p_77948",
+      "tmdb_id": 77948,
+      "nombre": "La fría luz del día",
+      "poster": "https://image.tmdb.org/t/p/w500/iiTJrl57Upfs3e80LyIGf50kNAq.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1deopyahsqhv.html"
+        }
+      }
+    },
+    {
+      "id": "p_72570",
+      "tmdb_id": 72570,
+      "nombre": "Todos los días de mi vida",
+      "poster": "https://image.tmdb.org/t/p/w500/kbTtU8LXhH8MLB7EF7hBZy3WUYC.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-uvc2v3r7zjwk.html"
+        }
+      }
+    },
+    {
+      "id": "p_627",
+      "tmdb_id": 627,
+      "nombre": "Trainspotting",
+      "poster": "https://image.tmdb.org/t/p/w500/qN6MomkBcDx0QilCagcwhPBgXU3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jqrazeuq1wkw.html"
+        }
+      }
+    },
+    {
+      "id": "p_157353",
+      "tmdb_id": 157353,
+      "nombre": "Transcendence",
+      "poster": "https://image.tmdb.org/t/p/w500/8b7JZiej4iSNFVQtYIr0YPZx5Oz.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qw6w9bcdj21g.html"
+        }
+      }
+    },
+    {
+      "id": "p_262526",
+      "tmdb_id": 262526,
+      "nombre": "Maldición familiar",
+      "poster": "https://image.tmdb.org/t/p/w500/yvz8oRfi96Txqw6WqhstAObi9Pf.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-a6bp526oprr9.html"
+        }
+      }
+    },
+    {
+      "id": "p_9778",
+      "tmdb_id": 9778,
+      "nombre": "Serendipity",
+      "poster": "https://image.tmdb.org/t/p/w500/euonVqFSUIXlrCKe3mWvB5hvYkh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w4iao97dlebh.html"
+        }
+      }
+    },
+    {
+      "id": "p_17100",
+      "tmdb_id": 17100,
+      "nombre": "Sin escape",
+      "poster": "https://image.tmdb.org/t/p/w500/aJN2BNCUSfrOftshzSginQNILPk.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-n6vkr42gzqfe.html"
+        }
+      }
+    },
+    {
+      "id": "p_10384",
+      "tmdb_id": 10384,
+      "nombre": "Supernova (El fin del universo)",
+      "poster": "https://image.tmdb.org/t/p/w500/AmHGUjhgXnOYRYrF2ZYMtzfwxPe.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8v82a54tklp6.html"
+        }
+      }
+    },
+    {
+      "id": "p_873",
+      "tmdb_id": 873,
+      "nombre": "El color púrpura",
+      "poster": "https://image.tmdb.org/t/p/w500/mHtsBevQRqQebP4yykJfJcdO2R.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xncpozok1788.html"
+        }
+      }
+    },
+    {
+      "id": "p_40264",
+      "tmdb_id": 40264,
+      "nombre": "Híncame el diente",
+      "poster": "https://image.tmdb.org/t/p/w500/m3RvsysFahSo2BI8aeywjYhzcn5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8l2e7h1uapnz.html"
+        }
+      }
+    },
+    {
+      "id": "p_10147",
+      "tmdb_id": 10147,
+      "nombre": "Bad Santa",
+      "poster": "https://image.tmdb.org/t/p/w500/uHGy4A2z24rSmuBBKGKVrXq2hWU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ot7pvol7pdym.html"
+        }
+      }
+    },
+    {
+      "id": "p_1461181",
+      "tmdb_id": 1461181,
+      "nombre": "Jerarquia",
+      "poster": "https://image.tmdb.org/t/p/w500/bYGfAVW5Ae5pjChze39ZuL0ZmUD.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "crimen",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-z054jjtzll4k.html"
+        }
+      }
+    },
+    {
+      "id": "p_1199193",
+      "tmdb_id": 1199193,
+      "nombre": "Pose",
+      "poster": "https://image.tmdb.org/t/p/w500/tISaeNWkqPYqSdANTTteewEMS5H.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-43uo81akdvqb.html"
+        }
+      }
+    },
+    {
+      "id": "p_1032892",
+      "tmdb_id": 1032892,
+      "nombre": "En un instante",
+      "poster": "https://image.tmdb.org/t/p/w500/bN130HxJYMXPDEIO03wtpdhwj6K.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "ficcion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kcs8wui8oysr.html"
+        }
+      }
+    },
     {
       "id": "p_1586841",
       "tmdb_id": 1586841,
@@ -394,7 +884,7 @@
       "tmdb_id": 1268609,
       "nombre": "Pavana",
       "poster": "https://image.tmdb.org/t/p/w500/22RlxpIT4u4psfIx9tmtbPvgAbm.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "romance",
         "drama"
@@ -402,6 +892,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-m42cn5rtpqvm.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-16rhmotsfsdq.html"
         }
       }
     },
@@ -17842,6 +18335,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-di8zegvhi78d.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-ue41t0nc9iqv.html"
         }
@@ -51297,7 +51793,7 @@
           "fastream": "https://fastream.to/embed-55suwna980rb.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-e9i8lryz2h7m.html"
+          "la_movie": "https://vimeos.net/embed-u6wa0cv0rrla.html"
         }
       }
     },
@@ -101431,7 +101927,7 @@
       "tmdb_id": 9476,
       "nombre": "Destino de caballero",
       "poster": "https://image.tmdb.org/t/p/w500/mfOXbEtFmKdPPFt4SC46M0yDKL8.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "aventura",
         "drama",
@@ -101441,6 +101937,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ysn5x21mm3y0.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pvoyjltnmevy.html"
         }
       }
     },
@@ -128405,13 +128904,16 @@
       "tmdb_id": 8769,
       "nombre": "Christine",
       "poster": "https://image.tmdb.org/t/p/w500/AtgrsSurLLrzGL3Bh7pLcg1QHki.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-5cnkdue34hqv.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0dtm1vqz1b3v.html"
         }
       }
     },
@@ -173169,9 +173671,6 @@
         "suspenso"
       ],
       "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-a3c0znmdo1n3.html"
-        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-7bplwv3deni4.html"
         }
@@ -179173,7 +179672,7 @@
       "tmdb_id": 1948,
       "nombre": "Crank: Veneno en la sangre",
       "poster": "https://image.tmdb.org/t/p/w500/zSzDbylthJBPL4YX0khc9Sr6sew.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "suspenso",
@@ -179182,6 +179681,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-llxuwo89lesk.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dhd29rsg5e1d.html"
         }
       }
     },
@@ -195833,7 +196335,7 @@
       "tmdb_id": 1497970,
       "nombre": "Tom y Jerry: Aventura en el tiempo",
       "poster": "https://image.tmdb.org/t/p/w500/gKgF3OfWiqYuBADijVnmKEcOJov.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "comedia",
@@ -195841,7 +196343,10 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-9b2i4n14tys5.html"
+          "fastream": "https://fastream.to/embed-im878s4u7z04.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8e1vbuo9o6to.html"
         }
       }
     },
@@ -195903,5 +196408,5 @@
       }
     }
   ],
-  "version": 26
+  "version": 27
 }
