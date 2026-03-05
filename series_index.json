@@ -1,7 +1,33 @@
 {
   "type": "series",
-  "total": 2906,
+  "total": 2907,
   "items": [
+    {
+      "id": "s_235355",
+      "tmdb_id": 235355,
+      "nombre": "Manual Para Pesidentes",
+      "poster": "https://images.justwatch.com/poster/331454208/s718/resident-playbook.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://voe.sx/e/b6mrxds7wsfp",
+          "8": "https://lulu.st/e/m1mgtwy167gj",
+          "2": "https://filemoon.sx/e/8qj6eedstppb",
+          "9": "https://filemoon.sx/e/z9erzprvuqwv",
+          "1": "https://voe.sx/e/ixrluwq9ko7s",
+          "6": "https://filemoon.to/e/j4im53tbl4so",
+          "5": "https://filemoon.to/e/mpdrvv38i5ev",
+          "10": "https://filemoon.sx/e/xaf7b23jghh1",
+          "11": "https://filemoon.sx/e/rucouzvvouv9",
+          "12": "https://filemoon.sx/e/jrr2ngc5cuu2",
+          "7": "https://voe.sx/e/xrg5qthpui0d",
+          "3": "https://filemoon.to/e/dnki1oixot6p"
+        }
+      }
+    },
     {
       "id": "s_298343",
       "tmdb_id": 298343,
@@ -123822,5 +123848,5 @@
       }
     }
   ],
-  "version": 27
+  "version": 28
 }

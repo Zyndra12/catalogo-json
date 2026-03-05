@@ -1,7 +1,20 @@
 {
   "type": "peliculas",
-  "total": 12472,
+  "total": 12473,
   "items": [
+    {
+      "id": "p_9390",
+      "tmdb_id": 9390,
+      "nombre": "Jerry Maguire",
+      "poster": "https://image.tmdb.org/t/p/w500/wyEECX6JopQfJPbfVi4sRVLKGpy.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-su8sdihcwwrb.html"
+        }
+      }
+    },
     {
       "id": "p_25195",
       "tmdb_id": 25195,
@@ -481,7 +494,7 @@
       "tmdb_id": 1032892,
       "nombre": "En un instante",
       "poster": "https://image.tmdb.org/t/p/w500/bN130HxJYMXPDEIO03wtpdhwj6K.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "ficcion"
@@ -489,6 +502,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-kcs8wui8oysr.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hxzxwnarmudy.html"
         }
       }
     },
@@ -88310,7 +88326,7 @@
       "tmdb_id": 8009,
       "nombre": "Los inmortales",
       "poster": "https://image.tmdb.org/t/p/w500/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "aventura",
         "accion",
@@ -88319,6 +88335,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-c76ysn85u8zh.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nx2s7fi7gq57.html"
         }
       }
     },
@@ -102777,7 +102796,7 @@
       "tmdb_id": 9714,
       "nombre": "Solo en casa 3",
       "poster": "https://image.tmdb.org/t/p/w500/720eeviFT6G8SStX2lEgFsYzqAp.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "familia"
@@ -102785,6 +102804,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ms6f5dpoayv7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-lqdcz0xcix5v.html"
         }
       }
     },
@@ -196408,5 +196430,5 @@
       }
     }
   ],
-  "version": 27
+  "version": 28
 }
