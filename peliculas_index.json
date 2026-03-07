@@ -1,7 +1,354 @@
 {
   "type": "peliculas",
-  "total": 12473,
+  "total": 12498,
   "items": [
+    {
+      "id": "p_1159559",
+      "tmdb_id": 1159559,
+      "nombre": "Scream 7",
+      "poster": "https://image.tmdb.org/t/p/w500/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "misterio",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4nn21sns36uw.html"
+        }
+      }
+    },
+    {
+      "id": "p_302401",
+      "tmdb_id": 302401,
+      "nombre": "Snowden",
+      "poster": "https://image.tmdb.org/t/p/w500/mMOu9DhZ4Bt6OpIMyfduU5dBRKx.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0my3395z0iz2.html"
+        }
+      }
+    },
+    {
+      "id": "p_14359",
+      "tmdb_id": 14359,
+      "nombre": "La Duda",
+      "poster": "https://image.tmdb.org/t/p/w500/nBPFDieZolSEoq4fcilOmsIJkdD.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-oarc12f274bl.html"
+        }
+      }
+    },
+    {
+      "id": "p_1545274",
+      "tmdb_id": 1545274,
+      "nombre": "LO QUE SE OCULTA EN LAS SOMBRAS",
+      "poster": "https://image.tmdb.org/t/p/w500/jzhNfSdASQVY3S3SSv5KoTNcihu.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-q0r02ppktrpx.html"
+        }
+      }
+    },
+    {
+      "id": "p_601197",
+      "tmdb_id": 601197,
+      "nombre": "Recuperar el pasado",
+      "poster": "https://image.tmdb.org/t/p/w500/opRiNEJMTG7gbxyjB0SC882KJaF.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sukyo7s6iowa.html"
+        }
+      }
+    },
+    {
+      "id": "p_688",
+      "tmdb_id": 688,
+      "nombre": "Los puentes de Madison",
+      "poster": "https://image.tmdb.org/t/p/w500/xjGrjvD94HvANtEurCXDxGkc0Gj.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-norplvwfl6iq.html"
+        }
+      }
+    },
+    {
+      "id": "p_631428",
+      "tmdb_id": 631428,
+      "nombre": "Cherished Memories: A Gift to Remember 2",
+      "poster": "https://image.tmdb.org/t/p/w500/6ku2gd9GcXwHSqeHHfs1ihjslIb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qx606fu3vtnu.html"
+        }
+      }
+    },
+    {
+      "id": "p_9666",
+      "tmdb_id": 9666,
+      "nombre": "La maldición 2 (The Grudge 2)",
+      "poster": "https://image.tmdb.org/t/p/w500/xMgTTh5f0HHofP6mzIfBXR2jv0w.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hf2mqh2yxt5p.html"
+        }
+      }
+    },
+    {
+      "id": "p_42246",
+      "tmdb_id": 42246,
+      "nombre": "Tom y Jerry en la super carrera",
+      "poster": "https://image.tmdb.org/t/p/w500/9rn3wbkXyQen9ipaAQtX01HGAMe.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-czx85i013nth.html"
+        }
+      }
+    },
+    {
+      "id": "p_1317288",
+      "tmdb_id": 1317288,
+      "nombre": "Marty Supreme",
+      "poster": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wrhz3bl4po3r.html"
+        }
+      }
+    },
+    {
+      "id": "p_1193501",
+      "tmdb_id": 1193501,
+      "nombre": "Whistle: El silbido del mal",
+      "poster": "https://image.tmdb.org/t/p/w500/cApRXj6meulAQMYQrhjfVvZEItl.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zw41vtdql41y.html"
+        }
+      }
+    },
+    {
+      "id": "p_1265609",
+      "tmdb_id": 1265609,
+      "nombre": "Máquina de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/d5YmQx9kPLQBHEboGwrAavypztB.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gu0ui9l378lj.html"
+        }
+      }
+    },
+    {
+      "id": "p_1977",
+      "tmdb_id": 1977,
+      "nombre": "El grito 3",
+      "poster": "https://image.tmdb.org/t/p/w500/xMFs9uSkoo6Oa7U7fBFAxVWjXM9.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x2jsen523ak8.html"
+        }
+      }
+    },
+    {
+      "id": "p_848987",
+      "tmdb_id": 848987,
+      "nombre": "Les jours heureux",
+      "poster": "https://image.tmdb.org/t/p/w500/hSx0V51Z05wReWzrzURSKTOknH0.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-r51zpr2g6ca3.html"
+        }
+      }
+    },
+    {
+      "id": "p_607338",
+      "tmdb_id": 607338,
+      "nombre": "Krazy House",
+      "poster": "https://image.tmdb.org/t/p/w500/36gDjx56RDhjIpynKkrseJCJJDi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vfrns736kf20.html"
+        }
+      }
+    },
+    {
+      "id": "p_1434973",
+      "tmdb_id": 1434973,
+      "nombre": "La tregua",
+      "poster": "https://image.tmdb.org/t/p/w500/g1O3wEA0ZaigQG0RHx7zXeuWbSc.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zmc5e7r6hr1m.html"
+        }
+      }
+    },
+    {
+      "id": "p_626129",
+      "tmdb_id": 626129,
+      "nombre": "앵커",
+      "poster": "https://image.tmdb.org/t/p/w500/gQmV1XAOUM14fREy52fP8rfLPKu.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5fwlb40z86r2.html"
+        }
+      }
+    },
+    {
+      "id": "p_158445",
+      "tmdb_id": 158445,
+      "nombre": "Milagro en la celda 7",
+      "poster": "https://image.tmdb.org/t/p/w500/c9TqJPm4pZCuiEXumTayoNIrBSK.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ojar2w9kxfm6.html"
+        }
+      }
+    },
+    {
+      "id": "p_26015",
+      "tmdb_id": 26015,
+      "nombre": "Frío en la noche",
+      "poster": "https://image.tmdb.org/t/p/w500/akCpZQjENUamZGFXGutaSXbptfX.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-a2815lcl9kn3.html"
+        }
+      }
+    },
+    {
+      "id": "p_913",
+      "tmdb_id": 913,
+      "nombre": "El secreto de Thomas Crown",
+      "poster": "https://image.tmdb.org/t/p/w500/l7wKClInRHuJi1LO2Lfp1eYkz6f.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1cqmp4w0e75v.html"
+        }
+      }
+    },
+    {
+      "id": "p_1071249",
+      "tmdb_id": 1071249,
+      "nombre": "വാലാട്ടി",
+      "poster": "https://image.tmdb.org/t/p/w500/7NkQkQPVqKlXs38XlGNpugD9wh2.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ikippab6arnq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1340110",
+      "tmdb_id": 1340110,
+      "nombre": "Redux Redux",
+      "poster": "https://image.tmdb.org/t/p/w500/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-nakygyjhy9t9.html"
+        }
+      }
+    },
+    {
+      "id": "p_994",
+      "tmdb_id": 994,
+      "nombre": "Perros de paja",
+      "poster": "https://image.tmdb.org/t/p/w500/eUdwFTI5imeQCKEYyHfuQgYNXfn.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "drama",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-pp68becfshjq.html"
+        }
+      }
+    },
+    {
+      "id": "p_82633",
+      "tmdb_id": 82633,
+      "nombre": "Sin Ley (Lawless)",
+      "poster": "https://image.tmdb.org/t/p/w500/j3o6YJvg46YofK1r62UoaB6i7Dk.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-7z8t2mfppcu5.html"
+        }
+      }
+    },
+    {
+      "id": "p_1389149",
+      "tmdb_id": 1389149,
+      "nombre": "Acusada",
+      "poster": "https://image.tmdb.org/t/p/w500/5e98uGz4dafgJQkujLwTBqaAp7G.jpg",
+      "calidad": "4K",
+      "generos": [
+        "suspenso",
+        "misterio",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-di8zegvhi78d.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4lq6k7ef67tg.html"
+        }
+      }
+    },
     {
       "id": "p_9390",
       "tmdb_id": 9390,
@@ -195933,7 +196280,7 @@
       "tmdb_id": 1234731,
       "nombre": "Anaconda",
       "poster": "https://image.tmdb.org/t/p/w500/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "aventura",
         "comedia",
@@ -195941,7 +196288,10 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-4vevriimlgye.html"
+          "fastream": "https://fastream.to/embed-062hd9tub2ic.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8ui84v2hjx3j.html"
         }
       }
     },
@@ -196368,7 +196718,7 @@
           "fastream": "https://fastream.to/embed-im878s4u7z04.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-8e1vbuo9o6to.html"
+          "la_movie": "https://vimeos.net/embed-bjzqyef61b1k.html"
         }
       }
     },
@@ -196430,5 +196780,5 @@
       }
     }
   ],
-  "version": 28
+  "version": 30
 }

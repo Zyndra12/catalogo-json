@@ -1,7 +1,98 @@
 {
   "type": "series",
-  "total": 2907,
+  "total": 2909,
   "items": [
+    {
+      "id": "s_60573",
+      "tmdb_id": 60573,
+      "nombre": "Silicon Valley",
+      "poster": "https://image.tmdb.org/t/p/w500/8BNZrHzWEUgMdJJNUdrwryxeQW1.jpg",
+      "categorias": [
+        "comedia",
+        "serie"
+      ],
+      "temporadas": {
+        "4": {
+          "4": "https://goodstream.one/embed-e0p2pv9jaw6b.html",
+          "8": "https://goodstream.one/embed-q9p5bwdy9wb0.html",
+          "2": "https://goodstream.one/embed-n0zcc53kvo4j.html",
+          "9": "https://goodstream.one/embed-nwocfcuzdmhy.html",
+          "1": "https://goodstream.one/embed-yb86wuswg0ju.html",
+          "6": "https://goodstream.one/embed-qsppkef16mcs.html",
+          "5": "https://goodstream.one/embed-nqxu748j0ytz.html",
+          "10": "https://goodstream.one/embed-s74al4ij5ncc.html",
+          "7": "https://goodstream.one/embed-9twc4sxd1d0u.html",
+          "3": "https://goodstream.one/embed-wes0s1gd8dns.html"
+        },
+        "2": {
+          "4": "https://goodstream.one/embed-kzfs74mpkbaq.html",
+          "8": "https://goodstream.one/embed-v2mvpkxtgu6h.html",
+          "9": "https://goodstream.one/embed-h6bldg6x95if.html",
+          "1": "https://goodstream.one/embed-ruu02zcdn8x9.html",
+          "6": "https://goodstream.one/embed-7v7kzj5ttc0y.html",
+          "5": "https://goodstream.one/embed-ufk173uxd0ri.html",
+          "10": "https://goodstream.one/embed-mbouu3kseafr.html",
+          "7": "https://goodstream.one/embed-ma8aaylakbvd.html",
+          "3": "https://goodstream.one/embed-bq7tfa84y0rq.html"
+        },
+        "1": {
+          "4": "https://goodstream.one/embed-1s6rt3m0u9nn.html",
+          "8": "https://goodstream.one/embed-korywzz007fh.html",
+          "2": "https://goodstream.one/embed-lf5sddeu1ywg.html",
+          "1": "https://goodstream.one/embed-9dmmphlogffs.html",
+          "6": "https://goodstream.one/embed-sxllvlfisjcr.html",
+          "5": "https://goodstream.one/embed-3konhekt3sb9.html",
+          "7": "https://goodstream.one/embed-nopwb9kd623p.html",
+          "3": "https://goodstream.one/embed-h66a7c101ck4.html"
+        },
+        "3": {
+          "4": "https://goodstream.one/embed-flu7ah5p5nza.html",
+          "8": "https://goodstream.one/embed-6ur2esl0ihs3.html",
+          "2": "https://goodstream.one/embed-pfadeb5qlcei.html",
+          "9": "https://goodstream.one/embed-2dgkjvzqwr2n.html",
+          "1": "https://goodstream.one/embed-8q52jfwu79g6.html",
+          "6": "https://goodstream.one/embed-4ghdcmcc3at8.html",
+          "5": "https://goodstream.one/embed-fdomgq6z833a.html",
+          "10": "https://goodstream.one/embed-bh4716jm2n0l.html",
+          "7": "https://goodstream.one/embed-401b1w8u4lw1.html",
+          "3": "https://goodstream.one/embed-mmmk1x5fn21a.html"
+        },
+        "5": {
+          "4": "https://goodstream.one/embed-4mdbd3x8kya5.html",
+          "8": "https://goodstream.one/embed-5ajjd3qnttwu.html",
+          "2": "https://goodstream.one/embed-aq9cq407fq0e.html",
+          "1": "https://goodstream.one/embed-8ufoigqqtwyt.html",
+          "6": "https://goodstream.one/embed-8wmdkbkipz3k.html",
+          "5": "https://goodstream.one/embed-78m3ohorph23.html",
+          "7": "https://goodstream.one/embed-3ipzrvnajnod.html",
+          "3": "https://goodstream.one/embed-971qm3k8qzyu.html"
+        },
+        "6": {
+          "4": "https://goodstream.one/embed-linrh2jhqz2w.html",
+          "7": "https://goodstream.one/embed-zg6aiatn6vis.html",
+          "2": "https://goodstream.one/embed-4szl4tdhp0ek.html",
+          "1": "https://goodstream.one/embed-ilngup0uh4zw.html",
+          "6": "https://goodstream.one/embed-yfruh9nnm1pw.html",
+          "5": "https://goodstream.one/embed-jpvrcu6dwd27.html",
+          "3": "https://goodstream.one/embed-wr5ap4ucl5cz.html"
+        }
+      }
+    },
+    {
+      "id": "s_290856",
+      "tmdb_id": 290856,
+      "nombre": "Marshals: Una historia de Yellowstone",
+      "poster": "https://image.tmdb.org/t/p/w500/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "categorias": [
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://vimeos.net/embed-monz0ct7kihm.html"
+        }
+      }
+    },
     {
       "id": "s_235355",
       "tmdb_id": 235355,
@@ -952,6 +1043,7 @@
       ],
       "temporadas": {
         "2": {
+          "2": "https://vimeos.net/embed-6k32itv9dft4.html",
           "1": "https://vimeos.net/embed-sfqcvaurxjol.html"
         }
       }
@@ -36953,6 +37045,8 @@
           "4": "https://vimeos.net/embed-hz1bigujkc3f.html",
           "2": "https://vimeos.net/embed-ye4d6usab4ci.html",
           "1": "https://vimeos.net/embed-b6kseemlktym.html",
+          "6": "https://vimeos.net/embed-0m4xgp6n8rd5.html",
+          "5": "https://vimeos.net/embed-u3pptysafhbf.html",
           "3": "https://vimeos.net/embed-4jkxv5vxgjax.html"
         }
       }
@@ -39040,11 +39134,12 @@
         },
         "3": {
           "4": "https://vimeos.net/embed-esg0ad0px3fx.html",
-          "7": "https://goodstream.one/embed-vtigdkur6lhw.html",
+          "8": "https://vimeos.net/embed-tla44wvpb8je.html",
           "2": "https://vimeos.net/embed-cegjml9mnh6g.html",
           "1": "https://vimeos.net/embed-xkx5rb1hgnzp.html",
           "6": "https://vimeos.net/embed-0q2hbw1yyv4s.html",
           "5": "https://vimeos.net/embed-vfhh3c3pop4l.html",
+          "7": "https://goodstream.one/embed-vtigdkur6lhw.html",
           "3": "https://vimeos.net/embed-0pf63anvs8g7.html"
         }
       }
@@ -39667,6 +39762,8 @@
           "4": "https://vimeos.net/embed-35okfr28r1yt.html",
           "2": "https://vimeos.net/embed-8azxnlnnmlbw.html",
           "1": "https://vimeos.net/embed-qyj3mbdsxwqv.html",
+          "6": "https://goodstream.one/embed-b1psei81keqv.html",
+          "5": "https://vimeos.net/embed-gbx3cb2q4ouu.html",
           "3": "https://vimeos.net/embed-57skz5l19805.html"
         },
         "1": {
@@ -42542,6 +42639,7 @@
       ],
       "temporadas": {
         "2": {
+          "4": "https://vimeos.net/embed-8ic40uritrd6.html",
           "2": "https://vimeos.net/embed-fkftvue5wg3l.html",
           "1": "https://vimeos.net/embed-an1abbu2dq4d.html",
           "3": "https://vimeos.net/embed-mkn9mzjxy9x1.html"
@@ -42798,6 +42896,7 @@
           "1": "https://vimeos.net/embed-skya1zicxnzp.html",
           "6": "https://vimeos.net/embed-o6fj5ooz4abm.html",
           "5": "https://vimeos.net/embed-7elwqhvxadyj.html",
+          "10": "https://vimeos.net/embed-0gn6kbx649x9.html",
           "7": "https://vimeos.net/embed-i7fahrimsb9l.html",
           "3": "https://vimeos.net/embed-viefrzaqdjxk.html"
         },
@@ -44394,6 +44493,9 @@
         "ficcion"
       ],
       "temporadas": {
+        "2": {
+          "1": "https://vimeos.net/embed-x8ywxuu7rv75.html"
+        },
         "1": {
           "4": [
             "https://vimeos.net/embed-1cmwxyu0v9o8.html",
@@ -47771,11 +47873,12 @@
         },
         "3": {
           "4": "https://vimeos.net/embed-d2wewgc0rxdg.html",
-          "7": "https://vimeos.net/embed-u6hi2xwtczf6.html",
+          "8": "https://vimeos.net/embed-n8yee7zutwvz.html",
           "2": "https://vimeos.net/embed-rw0q9sd6joj9.html",
           "1": "https://vimeos.net/embed-hy7uafm15g6s.html",
           "6": "https://vimeos.net/embed-859oi6p7bhhf.html",
           "5": "https://vimeos.net/embed-00f019626nd4.html",
+          "7": "https://vimeos.net/embed-u6hi2xwtczf6.html",
           "3": "https://vimeos.net/embed-tp1au33zyf6r.html"
         }
       }
@@ -47911,6 +48014,7 @@
       "temporadas": {
         "2": {
           "4": "https://vimeos.net/embed-f6k8jnlrjwer.html",
+          "7": "https://vimeos.net/embed-92g3oajees1n.html",
           "2": [
             "https://la.movie/embed.html?v=1",
             "https://vimeos.net/embed-4u9f6hdjtnf4.html"
@@ -47934,11 +48038,13 @@
       "temporadas": {
         "1": {
           "4": "https://vimeos.net/embed-uslsq0nbnsyu.html",
-          "7": "https://vimeos.net/embed-zhz1aq9t3ow4.html",
+          "8": "https://vimeos.net/embed-jvl1a5cll5me.html",
           "2": "https://vimeos.net/embed-dx4n9tg4rps1.html",
+          "9": "https://vimeos.net/embed-8c9qx5s14jmk.html",
           "1": "https://vimeos.net/embed-rbf93l83q8jx.html",
           "6": "https://vimeos.net/embed-vd9o5zdy6nqf.html",
           "5": "https://vimeos.net/embed-rznp3710yl19.html",
+          "7": "https://vimeos.net/embed-zhz1aq9t3ow4.html",
           "3": "https://vimeos.net/embed-cjfmqs6l1ljk.html"
         }
       }
@@ -47974,11 +48080,14 @@
       "temporadas": {
         "1": {
           "4": "https://vimeos.net/embed-93n8o5il78hz.html",
+          "8": "https://vimeos.net/embed-fvhc1exexwvg.html",
           "2": "https://vimeos.net/embed-tzmyl8yymnnk.html",
           "9": "https://vimeos.net/embed-5vdxmfolwm2e.html",
           "1": "https://vimeos.net/embed-apiitzmvvphx.html",
-          "6": "https://vimeos.net/embed-vjnwslu82pfz.html",
+          "11": "https://vimeos.net/embed-k3d1p6dve4zl.html",
           "5": "https://vimeos.net/embed-txnmv02c5sow.html",
+          "10": "https://vimeos.net/embed-yzfxcgh9uwxj.html",
+          "6": "https://vimeos.net/embed-vjnwslu82pfz.html",
           "7": "https://vimeos.net/embed-fn84tg0k556l.html",
           "3": "https://vimeos.net/embed-0apzfxed5mm9.html"
         }
@@ -48089,7 +48198,8 @@
         "1": {
           "4": [
             "https://vimeos.net/embed-iuwict0k8gln.html",
-            "https://vimeos.net/embed-1io60r1ug48c.html"
+            "https://vimeos.net/embed-1io60r1ug48c.html",
+            "https://vimeos.net/embed-z7yta6eh1j33.html"
           ],
           "2": "https://vimeos.net/embed-mrknbdc8279d.html",
           "1": [
@@ -93386,6 +93496,19 @@
         "crimen"
       ],
       "temporadas": {
+        "2": {
+          "4": "https://vimeos.net/embed-eo2efm87l7x4.html",
+          "8": "https://vimeos.net/embed-io9i5orako7l.html",
+          "2": "https://vimeos.net/embed-so0wr3d0khqa.html",
+          "9": "https://vimeos.net/embed-nxeduwcecggn.html",
+          "1": "https://vimeos.net/embed-xbap1rhf3gcl.html",
+          "11": "https://vimeos.net/embed-z104v1qvo7nq.html",
+          "5": "https://vimeos.net/embed-5lmlvo0bipo1.html",
+          "6": "https://vimeos.net/embed-7zfnn5395evk.html",
+          "10": "https://vimeos.net/embed-jw9sdturpfnu.html",
+          "12": "https://vimeos.net/embed-blkqhtowzitr.html",
+          "7": "https://vimeos.net/embed-wtgrka7wvxy3.html"
+        },
         "1": {
           "4": [
             "https://fastream.to/embed-n9vx7wchpfuv.html",
@@ -118362,11 +118485,12 @@
       "temporadas": {
         "2": {
           "4": "https://vimeos.net/embed-tpowvek56s5e.html",
-          "7": "https://vimeos.net/embed-ucgby4nj4llx.html",
+          "8": "https://goodstream.one/embed-n5wwgqjjkqyd.html",
           "2": "https://vimeos.net/embed-l0krh6d2kj6w.html",
           "1": "https://vimeos.net/embed-twjmdv97gjlx.html",
           "6": "https://vimeos.net/embed-84haxp5wp80m.html",
           "5": "https://vimeos.net/embed-eitk8qp32lzg.html",
+          "7": "https://vimeos.net/embed-ucgby4nj4llx.html",
           "3": "https://vimeos.net/embed-w52hrhfbyepg.html"
         },
         "1": {
@@ -123848,5 +123972,5 @@
       }
     }
   ],
-  "version": 28
+  "version": 30
 }
