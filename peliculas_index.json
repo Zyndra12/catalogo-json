@@ -1,7 +1,325 @@
 {
   "type": "peliculas",
-  "total": 12498,
+  "total": 12521,
   "items": [
+    {
+      "id": "p_831396",
+      "tmdb_id": 831396,
+      "nombre": "The Bunker",
+      "poster": "https://image.tmdb.org/t/p/w500/cvT1btNgSDPtLjp7JHyRIl5Fp1N.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3oafaot0tbq0.html"
+        }
+      }
+    },
+    {
+      "id": "p_241001",
+      "tmdb_id": 241001,
+      "nombre": "Tintín y el Templo del Sol",
+      "poster": "https://image.tmdb.org/t/p/w500/zSyLmNZoGhj5eGSQTOwJ4CX0ZQy.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4b87qb1tqkaf.html"
+        }
+      }
+    },
+    {
+      "id": "p_343977",
+      "tmdb_id": 343977,
+      "nombre": "Tom y Jerry: Misión espía",
+      "poster": "https://image.tmdb.org/t/p/w500/1XjZfblke6lWXv4xgVeUZCpNIeB.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0xf88zv0qx36.html"
+        }
+      }
+    },
+    {
+      "id": "p_533514",
+      "tmdb_id": 533514,
+      "nombre": "Violet Evergarden: La película",
+      "poster": "https://image.tmdb.org/t/p/w500/dXQ0UVNJTFi7YhDgchFJJCBOxQO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dxcuyv8fx5vd.html"
+        }
+      }
+    },
+    {
+      "id": "p_4515",
+      "tmdb_id": 4515,
+      "nombre": "Leones por corderos",
+      "poster": "https://image.tmdb.org/t/p/w500/fbZWUFICECQGumZL7V2z0HgkRwe.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-63vyjztpetw4.html"
+        }
+      }
+    },
+    {
+      "id": "p_9994",
+      "tmdb_id": 9994,
+      "nombre": "Basil, el ratón superdetective",
+      "poster": "https://image.tmdb.org/t/p/w500/osNTFX6TRPCXbujQJWyXc912DgE.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0zllxp0eysol.html"
+        }
+      }
+    },
+    {
+      "id": "p_795778",
+      "tmdb_id": 795778,
+      "nombre": "Night Raiders",
+      "poster": "https://image.tmdb.org/t/p/w500/wCjGxpp6jGtaef0PNGy66Vdoco0.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5zdn0gd155fh.html"
+        }
+      }
+    },
+    {
+      "id": "p_8584",
+      "tmdb_id": 8584,
+      "nombre": "Shanghai Kid, del este al oeste",
+      "poster": "https://image.tmdb.org/t/p/w500/1HTFEi2aifnmNMWYb5amvyAG86z.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qt2poqxy6fwm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1089",
+      "tmdb_id": 1089,
+      "nombre": "Le llaman Bodhi",
+      "poster": "https://image.tmdb.org/t/p/w500/rxgvvm3j2jA4Flh2k9Hrvq2T7Vs.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-u1yh7nmnnxnd.html"
+        }
+      }
+    },
+    {
+      "id": "p_46636",
+      "tmdb_id": 46636,
+      "nombre": "La montaña de la muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/eF9u1E7PEfxCi3nemw1rglL2RlT.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-knb1dws6t1ie.html"
+        }
+      }
+    },
+    {
+      "id": "p_14254",
+      "tmdb_id": 14254,
+      "nombre": "Presencias extrañas",
+      "poster": "https://image.tmdb.org/t/p/w500/6ufNBNtTFvGstZrL0mC34mRnnpe.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-71vrinm0k346.html"
+        }
+      }
+    },
+    {
+      "id": "p_1584628",
+      "tmdb_id": 1584628,
+      "nombre": "Borrón y Vida Nueva",
+      "poster": "https://image.tmdb.org/t/p/w500/t7DgBSFV9sN2lTmL96jC9Gpd4km.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w1gj8yijn2jc.html"
+        }
+      }
+    },
+    {
+      "id": "p_981314",
+      "tmdb_id": 981314,
+      "nombre": "Invasión Alienígena (Alien Invasion)",
+      "poster": "https://image.tmdb.org/t/p/w500/xJKho2fbfFzyZzQjD8FrEWo6lVr.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gh54wbo2b2ga.html"
+        }
+      }
+    },
+    {
+      "id": "p_853",
+      "tmdb_id": 853,
+      "nombre": "Enemigo a las puertas",
+      "poster": "https://image.tmdb.org/t/p/w500/kuZOlBI4zvPqnT5ZoREzatvs608.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xfjqf0jjqlg4.html"
+        }
+      }
+    },
+    {
+      "id": "p_1204881",
+      "tmdb_id": 1204881,
+      "nombre": "Tenants",
+      "poster": "https://image.tmdb.org/t/p/w500/7lU6Fop9ZDL8cKTDisPeHhDhBmw.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wsogxw5ih716.html"
+        }
+      }
+    },
+    {
+      "id": "p_888768",
+      "tmdb_id": 888768,
+      "nombre": "Un gran equipo",
+      "poster": "https://image.tmdb.org/t/p/w500/jNmfChriw2weB2ZRWU2cIEAfojk.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-g6p7vapxs7vm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1319280",
+      "tmdb_id": 1319280,
+      "nombre": "Corre, Baby, Corre",
+      "poster": "https://image.tmdb.org/t/p/w500/ibD4Mr2FOUcrKyITZtTtcyqBCM.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fke39dma12ah.html"
+        }
+      }
+    },
+    {
+      "id": "p_1106382",
+      "tmdb_id": 1106382,
+      "nombre": "Bau, Artist at War",
+      "poster": "https://image.tmdb.org/t/p/w500/aKRTAib5hAyH85TdxbJacuWgg2M.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tcq2xj1lz8ib.html"
+        }
+      }
+    },
+    {
+      "id": "p_1291335",
+      "tmdb_id": 1291335,
+      "nombre": "Solo Mio",
+      "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ooci12f8bseu.html"
+        }
+      }
+    },
+    {
+      "id": "p_1319951",
+      "tmdb_id": 1319951,
+      "nombre": "40 Acres",
+      "poster": "https://image.tmdb.org/t/p/w500/3zCEo21Y9wVFBgGhgDVWCyvMZ47.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "suspenso",
+        "drama",
+        "ficcion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-dexc4y7unohl.html"
+        }
+      }
+    },
+    {
+      "id": "p_1175174",
+      "tmdb_id": 1175174,
+      "nombre": "Fackham Hall",
+      "poster": "https://image.tmdb.org/t/p/w500/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9ikkb548yayw.html"
+        }
+      }
+    },
+    {
+      "id": "p_1629382",
+      "tmdb_id": 1629382,
+      "nombre": "Suburbanos 3",
+      "poster": "https://image.tmdb.org/t/p/w500/dTCQ9KPhMWUM6mHWZzR4Ws1gl74.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-yahpllzyh5j1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1194963",
+      "tmdb_id": 1194963,
+      "nombre": "Noise: Sonidos Del Más Allá",
+      "poster": "https://image.tmdb.org/t/p/w500/eh6yfJkbdhHnGkQ4EA6owlk6B7J.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-rhbg9mv84ydr.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jqhek5kowngu.html"
+        }
+      }
+    },
     {
       "id": "p_1159559",
       "tmdb_id": 1159559,
@@ -159,6 +477,9 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-gu0ui9l378lj.html"
+        },
+        "latino": {
+          "fastream": "https://fastream.to/embed-3ve7r5mi5ej0.html"
         }
       }
     },
@@ -809,7 +1130,7 @@
       "tmdb_id": 1461181,
       "nombre": "Jerarquia",
       "poster": "https://image.tmdb.org/t/p/w500/bYGfAVW5Ae5pjChze39ZuL0ZmUD.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "crimen",
@@ -818,6 +1139,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-z054jjtzll4k.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-86xm54vbf0sh.html"
         }
       }
     },
@@ -826,13 +1150,16 @@
       "tmdb_id": 1199193,
       "nombre": "Pose",
       "poster": "https://image.tmdb.org/t/p/w500/tISaeNWkqPYqSdANTTteewEMS5H.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-43uo81akdvqb.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o9tl6z69asjn.html"
         }
       }
     },
@@ -57048,7 +57375,7 @@
       "tmdb_id": 1083637,
       "nombre": "Kantara 2",
       "poster": "https://image.tmdb.org/t/p/w500/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "drama",
@@ -57057,6 +57384,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-xyriomb212n2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-9ihpxo2t7jzu.html"
         }
       }
     },
@@ -98524,7 +98854,7 @@
       "tmdb_id": 362826,
       "nombre": "Criaturas nocturnas",
       "poster": "https://image.tmdb.org/t/p/w500/OlheTaxbQYkLoSHu6QSbcurTWS.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "fantasia",
@@ -98534,6 +98864,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-1d16nwa7qyws.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-eml2zaqmkzye.html"
         }
       }
     },
@@ -100077,7 +100410,7 @@
       "tmdb_id": 658751,
       "nombre": "Fiebre del ladrillo",
       "poster": "https://image.tmdb.org/t/p/w500/oW06KTvAqAZXaVQOQGApjDdhkSW.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "drama"
@@ -100085,6 +100418,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-x54c8mw624a8.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-p63u0rhtfvc1.html"
         }
       }
     },
@@ -138255,7 +138591,7 @@
       "tmdb_id": 545659,
       "nombre": "SuperGrid",
       "poster": "https://image.tmdb.org/t/p/w500/4dcbh39Nbg1UpELEqnn0PvXk6Z5.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "ficcion"
@@ -138263,6 +138599,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-0ead5kfh4fjh.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kge2ulp7dj74.html"
         }
       }
     },
@@ -144660,7 +144999,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-q26ehl2npj4v.html"
+          "fastream": "https://fastream.to/embed-t5yz3cu5pnbb.html"
         }
       }
     },
@@ -196780,5 +197119,5 @@
       }
     }
   ],
-  "version": 30
+  "version": 31
 }
