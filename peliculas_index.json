@@ -1,7 +1,280 @@
 {
   "type": "peliculas",
-  "total": 12521,
+  "total": 12542,
   "items": [
+    {
+      "id": "p_807",
+      "tmdb_id": 807,
+      "nombre": "Seven",
+      "poster": "https://image.tmdb.org/t/p/w500/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-co2ffonn68d4.html"
+        }
+      }
+    },
+    {
+      "id": "p_1381216",
+      "tmdb_id": 1381216,
+      "nombre": "13 Dias En El Lago De La Muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5zty05aczqaj.html"
+        }
+      }
+    },
+    {
+      "id": "p_820696",
+      "tmdb_id": 820696,
+      "nombre": "El tiempo del amor",
+      "poster": "https://image.tmdb.org/t/p/w500/vCPRziGocBDO7kacPqSW69QA1K4.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xhwzjz4gx6h3.html"
+        }
+      }
+    },
+    {
+      "id": "p_1180796",
+      "tmdb_id": 1180796,
+      "nombre": "Catch Me If You Claus",
+      "poster": "https://image.tmdb.org/t/p/w500/xdZZaEIYBKhnF72CQASdOC7QN3Z.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-t1kvgcy60fhc.html"
+        }
+      }
+    },
+    {
+      "id": "p_1028548",
+      "tmdb_id": 1028548,
+      "nombre": "Una Navidad legendaria",
+      "poster": "https://image.tmdb.org/t/p/w500/7QjYxH688XPSiCfPdPFhTzkwyH2.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-h8hk7wrdv85u.html"
+        }
+      }
+    },
+    {
+      "id": "p_8066",
+      "tmdb_id": 8066,
+      "nombre": "Tránsito",
+      "poster": "https://image.tmdb.org/t/p/w500/mvNAb4PSoRAyN0RkRnT1y0qVwue.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vqm42cwpd3po.html"
+        }
+      }
+    },
+    {
+      "id": "p_1398911",
+      "tmdb_id": 1398911,
+      "nombre": "Más allá del muro",
+      "poster": "https://image.tmdb.org/t/p/w500/fw5sdE4PPnMgPwgyss5XPHTBy2x.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xhn9zpxkp58b.html"
+        }
+      }
+    },
+    {
+      "id": "p_790894",
+      "tmdb_id": 790894,
+      "nombre": "Paradise Cove",
+      "poster": "https://image.tmdb.org/t/p/w500/nrs7xjq4iwZvk5bfOEGFLvr4B3v.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3f7abafqf273.html"
+        }
+      }
+    },
+    {
+      "id": "p_1561687",
+      "tmdb_id": 1561687,
+      "nombre": "Un destino en Corea",
+      "poster": "https://image.tmdb.org/t/p/w500/8bIkhMcRg2lFKV7J5ZtbTEwU3UH.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-u2grzqtc9mej.html"
+        }
+      }
+    },
+    {
+      "id": "p_246569",
+      "tmdb_id": 246569,
+      "nombre": "La maldición de los Murphy",
+      "poster": "https://image.tmdb.org/t/p/w500/v2ClGoeLyX4Vmgzk6Q80OANCFi6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3mad2lf9eh1j.html"
+        }
+      }
+    },
+    {
+      "id": "p_1310505",
+      "tmdb_id": 1310505,
+      "nombre": "A Costa Rican Wedding",
+      "poster": "https://image.tmdb.org/t/p/w500/vEhmBiyYcmi12eISpjQVtW30qz8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0uzekoc1f77l.html"
+        }
+      }
+    },
+    {
+      "id": "p_1631485",
+      "tmdb_id": 1631485,
+      "nombre": "Parque Lezama",
+      "poster": "https://image.tmdb.org/t/p/w500/ckBRproYQsXAJGtyejKjDr5ZcBU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fimx9yhvhv9b.html"
+        }
+      }
+    },
+    {
+      "id": "p_1290432",
+      "tmdb_id": 1290432,
+      "nombre": "Vida privada",
+      "poster": "https://image.tmdb.org/t/p/w500/7FGnuUdNLcdYtDjg3XP69ejXEhq.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o7j3h6sa8qzw.html"
+        }
+      }
+    },
+    {
+      "id": "p_584634",
+      "tmdb_id": 584634,
+      "nombre": "Soundtrack to Sixteen",
+      "poster": "https://image.tmdb.org/t/p/w500/9U6pvuIMZpauh4fHzd7wzPyvDh8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-h7n3unh07xq5.html"
+        }
+      }
+    },
+    {
+      "id": "p_166271",
+      "tmdb_id": 166271,
+      "nombre": "Haunter",
+      "poster": "https://image.tmdb.org/t/p/w500/cZ1WVMjPWmHC9ubN82q6xflFyN3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gb1vtvo1zq3n.html"
+        }
+      }
+    },
+    {
+      "id": "p_1027618",
+      "tmdb_id": 1027618,
+      "nombre": "De Sombra y Silencio",
+      "poster": "https://image.tmdb.org/t/p/w500/yKpoLcB5PVcP11OlvAXnXA2Aum8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ox49bxcr99xi.html"
+        }
+      }
+    },
+    {
+      "id": "p_642781",
+      "tmdb_id": 642781,
+      "nombre": "The Barn Parte II",
+      "poster": "https://image.tmdb.org/t/p/w500/2JoJVeviiw0gyDJOgtGdtu9jRh0.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3of7etg2it5i.html"
+        }
+      }
+    },
+    {
+      "id": "p_1092806",
+      "tmdb_id": 1092806,
+      "nombre": "Bibi",
+      "poster": "https://image.tmdb.org/t/p/w500/dPtIosJaXBlBADfTqhYY2suRuhi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-235gc5dz6i4a.html"
+        }
+      }
+    },
+    {
+      "id": "p_805473",
+      "tmdb_id": 805473,
+      "nombre": "The Breach",
+      "poster": "https://image.tmdb.org/t/p/w500/lZkVZ79Sew7T2tEEEccpBw47k6r.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-46y2h9njoopv.html"
+        }
+      }
+    },
+    {
+      "id": "p_1029247",
+      "tmdb_id": 1029247,
+      "nombre": "Held Hostage in My House",
+      "poster": "https://image.tmdb.org/t/p/w500/vUc5kqxXQRdSz7ah9yvtwQlRzTn.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dpoiefl36ekh.html"
+        }
+      }
+    },
+    {
+      "id": "p_179826",
+      "tmdb_id": 179826,
+      "nombre": "Odd Thomas, cazador de fantasmas",
+      "poster": "https://image.tmdb.org/t/p/w500/egzIA1QOVYiVzAlOKj7dDM5F2io.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1yye772oo0hg.html"
+        }
+      }
+    },
     {
       "id": "p_831396",
       "tmdb_id": 831396,
@@ -128,7 +401,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-knb1dws6t1ie.html"
+          "la_movie": "https://vimeos.net/embed-5zv2qxxlzw7d.html"
         }
       }
     },
@@ -141,7 +414,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-71vrinm0k346.html"
+          "la_movie": "https://vimeos.net/embed-cdwjooyrivbm.html"
         }
       }
     },
@@ -219,7 +492,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-fke39dma12ah.html"
+          "la_movie": "https://vimeos.net/embed-3q5of6liuvce.html"
         }
       }
     },
@@ -257,7 +530,7 @@
       "tmdb_id": 1319951,
       "nombre": "40 Acres",
       "poster": "https://image.tmdb.org/t/p/w500/3zCEo21Y9wVFBgGhgDVWCyvMZ47.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "suspenso",
@@ -267,6 +540,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-dexc4y7unohl.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-a12fdqfs7zpp.html"
         }
       }
     },
@@ -605,7 +881,7 @@
       "tmdb_id": 1340110,
       "nombre": "Redux Redux",
       "poster": "https://image.tmdb.org/t/p/w500/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "misterio",
@@ -614,6 +890,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-nakygyjhy9t9.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qk5s8kjebp3g.html"
         }
       }
     },
@@ -2228,12 +2507,15 @@
       "tmdb_id": 680493,
       "nombre": "Terror en Silent Hill: Regreso al infierno",
       "poster": "https://image.tmdb.org/t/p/w500/afTkeXGBGhp3jekam0vG1dQihOr.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [
         "terror",
         "misterio"
       ],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2hyj4sw0xcor.html"
+        },
         "latino": {
           "vimeos": "https://vimeos.net/embed-f0etqwkylu5a.html"
         }
@@ -174134,7 +174416,7 @@
       "tmdb_id": 388,
       "nombre": "Plan oculto",
       "poster": "https://image.tmdb.org/t/p/w500/9OOdwNcAzT8qRgX3MWj4OKe0Gku.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "drama",
@@ -174143,6 +174425,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-faq9w6j3yqjd.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xsowbcd6l7lf.html"
         }
       }
     },
@@ -196558,7 +196843,7 @@
       "tmdb_id": 1214931,
       "nombre": "Núremberg",
       "poster": "https://image.tmdb.org/t/p/w500/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "historia",
         "drama"
@@ -196566,6 +196851,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-63a6qytr4zeb.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gnqfef0trvy9.html"
         }
       }
     },
@@ -197119,5 +197407,5 @@
       }
     }
   ],
-  "version": 31
+  "version": 32
 }
