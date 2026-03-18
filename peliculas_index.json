@@ -1,7 +1,472 @@
 {
   "type": "peliculas",
-  "total": 12542,
+  "total": 12564,
   "items": [
+    {
+      "id": "p_1426297",
+      "tmdb_id": 1426297,
+      "nombre": "Hazte la muerta",
+      "poster": "https://image.tmdb.org/t/p/w500/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e1eyigr6twqi.html"
+        }
+      }
+    },
+    {
+      "id": "p_1201734",
+      "tmdb_id": 1201734,
+      "nombre": "Algea: God of Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/nk66JHPvlkliRadVAMH8WiXnv6H.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1x7vixbcxjla.html"
+        }
+      }
+    },
+    {
+      "id": "p_676575",
+      "tmdb_id": 676575,
+      "nombre": "Cvrčak i mravica",
+      "poster": "https://image.tmdb.org/t/p/w500/drg04NDJxtb1Jp44yvm2TgA8J8e.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jlukge766tm2.html"
+        }
+      }
+    },
+    {
+      "id": "p_874162",
+      "tmdb_id": 874162,
+      "nombre": "Boyfriends of Christmas Past",
+      "poster": "https://image.tmdb.org/t/p/w500/1AtCO9ZLk0yOolkabEj3TFfBpSB.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-owjvnsivrk18.html"
+        }
+      }
+    },
+    {
+      "id": "p_746039",
+      "tmdb_id": 746039,
+      "nombre": "Una Navidad atemporal",
+      "poster": "https://image.tmdb.org/t/p/w500/lW6jwqUxXhojjKZ54OGu6KbCcWa.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tip5lqrd9mzc.html"
+        }
+      }
+    },
+    {
+      "id": "p_355066",
+      "tmdb_id": 355066,
+      "nombre": "The Bad Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/ndm7aOmR9Z5GNOCYDC0hsyozBxl.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ueihwbq4xgr7.html"
+        }
+      }
+    },
+    {
+      "id": "p_1575534",
+      "tmdb_id": 1575534,
+      "nombre": "The Observance",
+      "poster": "https://image.tmdb.org/t/p/w500/tDC1KDiL7ih6lDTaZBKjOxQOhmo.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/rn1ivdkbzw5u"
+          },
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/1i69g60ej6mz"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-awboz87w0epu.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-4vk1ic1yupl1.html"
+          },
+          "Earnvids": {
+            "CAM": "https://minochinos.com/v/93ghqnyyo6mh"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1593760",
+      "tmdb_id": 1593760,
+      "nombre": "Ke Personajes - Recital Viña del mar 2026",
+      "poster": null,
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/saxu5i3u3xrj"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/fc0jb6dac9yg"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1159831",
+      "tmdb_id": 1159831,
+      "nombre": "¡La novia!",
+      "poster": null,
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/9js6wexz4eca"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-7ruwrh9qkt2u.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-nt0d365ljgls.html"
+          },
+          "Byse": {
+            "CAM": "https://bysesukior.com/e/zhzzntl2ek35"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1626815",
+      "tmdb_id": 1626815,
+      "nombre": "Bad Bunny: El Espectáculo del Super Bowl 2026",
+      "poster": null,
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/ony5iv2wcfub"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/sf2ouxeuig8e"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1305715",
+      "tmdb_id": 1305715,
+      "nombre": "Unexpected Family",
+      "poster": "https://image.tmdb.org/t/p/w500/rwdLcQeV9TB6Qc1JU0EC387bUQi.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/huto1rums1rp",
+            "SCR": "https://voe.sx/e/4t4zq3o0obz1"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/r2qvi9necr2y"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-wbsmaefe1st1.html"
+          },
+          "Earnvids": {
+            "SCR": "https://minochinos.com/v/wl9zjk9fxl46"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1363381",
+      "tmdb_id": 1363381,
+      "nombre": "Petaka Gunung Gede",
+      "poster": "https://image.tmdb.org/t/p/w500/rmh9oNW0eaUwhQyW22mgzur0NpE.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/kon6hldyltev",
+            "SCR": "https://voe.sx/e/nkbcd28fgzqw"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/nj3f7f7zlfub"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-l1h059665y1e.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-7b0eesrrcka0.html"
+          },
+          "Earnvids": {
+            "SCR": "https://minochinos.com/v/mnphc9y9a4tw"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1613640",
+      "tmdb_id": 1613640,
+      "nombre": "Trouble",
+      "poster": null,
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/zuv1qqbymeci",
+            "SCR": "https://voe.sx/e/jebvmsyxqw6e"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/4kh1bs7rptox"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-trzuwfs10h8k.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-fyezi2huog8m.html"
+          },
+          "Earnvids": {
+            "SCR": "https://minochinos.com/v/aeuv7csuh7qp"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1613798",
+      "tmdb_id": 1613798,
+      "nombre": "Venganza",
+      "poster": "https://image.tmdb.org/t/p/w500/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/ivl20gcespvy"
+          },
+          "Streamwish": {
+            "CAM": "https://hlswish.com/e/x7kii2ma0lkl"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-hodbgp0c1uv3.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-edo65cxw6aj9.html"
+          },
+          "Earnvids": {
+            "CAM": "https://minochinos.com/v/pkmz4hqm32y7"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1612063",
+      "tmdb_id": 1612063,
+      "nombre": "Twenty One Pilots: More Than We Ever Imagined",
+      "poster": "https://image.tmdb.org/t/p/w500/5JvxjrXPTmwdY8VtFzHzQ23B8ba.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/yiyyzbm6nyoi"
+          },
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/146mzev7xqtw"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-39ek8aj2humd.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-p21de333e6vu.html"
+          },
+          "Earnvids": {
+            "CAM": "https://minochinos.com/v/nnae2lgre5q9"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1586941",
+      "tmdb_id": 1586941,
+      "nombre": "Herman",
+      "poster": "https://image.tmdb.org/t/p/w500/c7QxpoTCyGG39daxFCFzF2z084Q.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/ghoodsx4zpsa",
+            "SCR": "https://voe.sx/e/ce9ghfnbwklu"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/dyllagmav0f1"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-l9srvdww1m54.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-o8ys4dqqt2p2.html"
+          },
+          "Earnvids": {
+            "SCR": "https://minochinos.com/v/amko6vbkf7r2"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1582339",
+      "tmdb_id": 1582339,
+      "nombre": "Haunters of the Silence",
+      "poster": "https://image.tmdb.org/t/p/w500/aB5q9FJVo9xsWkGgYs5ySJXPUHJ.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/tcejdzxzsu6s",
+            "SCR": "https://voe.sx/e/j3igbbcmfalq"
+          },
+          "Streamwish": {
+            "CAM": "https://hlswish.com/e/95cf91cq8owm",
+            "SCR": "https://streamwish.to/e/0zy8ltyqbtws"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-wj7u77y8mssz.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-g1av6i9q2ewv.html"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1355496",
+      "tmdb_id": 1355496,
+      "nombre": "By Design",
+      "poster": "https://image.tmdb.org/t/p/w500/vsxdWuHSR69euI3O3qjlJyudNUg.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/zdiqwtwdsuz2"
+          },
+          "Streamwish": {
+            "CAM": "https://hlswish.com/e/0arrb7zr2imn"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-w375evrjvz96.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-4oh7oxzii7i9.html"
+          },
+          "Earnvids": {
+            "CAM": "https://minochinos.com/v/6m4xlcmi3yh7"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1007435",
+      "tmdb_id": 1007435,
+      "nombre": "La muerte de un comediante",
+      "poster": "https://image.tmdb.org/t/p/w500/9q1u7TKfH4W5ByZvvcHiAX6nlNX.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/jbrvtpfofcjm"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/59fzzqnumxfd"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1636918",
+      "tmdb_id": 1636918,
+      "nombre": "The Plastic Detox",
+      "poster": "https://image.tmdb.org/t/p/w500/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/qpyam8hjtoyu"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/53p7qqrzndub"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1247593",
+      "tmdb_id": 1247593,
+      "nombre": "La llegada del hijo",
+      "poster": "https://image.tmdb.org/t/p/w500/c1Hx2dIiYT1D0bdlRBIJ86rCkNM.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/fdtiwx3gercm"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/20m66ixxc959"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1390382",
+      "tmdb_id": 1390382,
+      "nombre": "Couture",
+      "poster": "https://image.tmdb.org/t/p/w500/zN2hnZzj3DjJH2CzB76kDo1zYFu.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/pxnfvnmvfoef"
+          },
+          "Streamwish": {
+            "CAM": "https://hlswish.com/e/v17m0gh3rp10"
+          },
+          "Goodstream": {
+            "CAM": "https://goodstream.one/embed-3vzwp9posxzm.html"
+          },
+          "Vimeos": {
+            "CAM": "https://vimeos.net/embed-66w4of4lun7s.html"
+          },
+          "Earnvids": {
+            "CAM": "https://minochinos.com/v/ei3dopizxgmf"
+          },
+          "Netu": {
+            "CAM": "https://player.poseidonhd2.co/player.php?h=eH0zYI4_M43LKCz95JRQwhegaya3qzszb4Y_9DJaEXE-"
+          }
+        }
+      }
+    },
     {
       "id": "p_807",
       "tmdb_id": 807,
@@ -116,6 +581,23 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-u2grzqtc9mej.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/wf1hdpi2eoaw"
+          },
+          "Streamwish": {
+            "HD": "https://hlswish.com/e/6d63mm1j48qu"
+          },
+          "Goodstream": {
+            "HD": "https://goodstream.one/embed-fha86jrypx10.html"
+          },
+          "Vimeos": {
+            "HD": "https://vimeos.net/embed-u2grzqtc9mej.html"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/167o3aesetbo"
+          }
         }
       }
     },
@@ -142,6 +624,23 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-0uzekoc1f77l.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/hghne1noba1m"
+          },
+          "Streamwish": {
+            "HD": "https://hlswish.com/e/kw1wjg63lpa3"
+          },
+          "Goodstream": {
+            "HD": "https://goodstream.one/embed-vmwtpyv4xg98.html"
+          },
+          "Vimeos": {
+            "HD": "https://vimeos.net/embed-0uzekoc1f77l.html"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/j9ynbeob3rj0"
+          }
         }
       }
     },
@@ -601,7 +1100,7 @@
       "tmdb_id": 1159559,
       "nombre": "Scream 7",
       "poster": "https://image.tmdb.org/t/p/w500/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "misterio",
@@ -610,6 +1109,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-4nn21sns36uw.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1mamfxzv0we2.html"
         }
       }
     },
@@ -755,7 +1257,19 @@
           "la_movie": "https://vimeos.net/embed-gu0ui9l378lj.html"
         },
         "latino": {
-          "fastream": "https://fastream.to/embed-3ve7r5mi5ej0.html"
+          "Voe": {
+            "HD": "https://voe.sx/e/j9trzoc2qzmp"
+          },
+          "Goodstream": {
+            "HD": "https://goodstream.one/embed-7fuzlvaar2bn.html"
+          },
+          "fastream": "https://fastream.to/embed-3ve7r5mi5ej0.html",
+          "Vimeos": {
+            "HD": "https://vimeos.net/embed-gu0ui9l378lj.html"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/34qzxa0eal93"
+          }
         }
       }
     },
@@ -1827,6 +2341,23 @@
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-rv218c79v0cv.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/1glgrqspkx7v"
+          },
+          "Streamwish": {
+            "HD": "https://hlswish.com/e/nnpx53vmq7ya"
+          },
+          "Goodstream": {
+            "HD": "https://goodstream.one/embed-muo3kpz4yesr.html"
+          },
+          "Vimeos": {
+            "HD": "https://vimeos.net/embed-rv218c79v0cv.html"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/ftggoeqnqxyg"
+          }
         }
       }
     },
@@ -187873,7 +188404,7 @@
       "tmdb_id": 1290821,
       "nombre": "Shelter: El Protector",
       "poster": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "crimen",
@@ -187882,6 +188413,28 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-s21n8916ur4r.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wzzqe2tyb7t3.html"
+        },
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/ui5s5mdu0rxx",
+            "HD": "https://voe.sx/e/9ogpxez6tf5n"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/jucn917odbwf",
+            "HD": "https://hlswish.com/e/lnn9eeb8zw8j"
+          },
+          "Goodstream": {
+            "HD": "https://goodstream.one/embed-4mkv6pt4xr9l.html"
+          },
+          "Vimeos": {
+            "HD": "https://vimeos.net/embed-wzzqe2tyb7t3.html"
+          },
+          "Earnvids": {
+            "SCR": "https://minochinos.com/v/e84l75inhcnc"
+          }
         }
       }
     },
@@ -194127,6 +194680,14 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-b1e1rbmaj31c.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/pejk2b9woevs"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/cqrpjj7ydx30"
+          }
         }
       }
     },
@@ -197407,5 +197968,5 @@
       }
     }
   ],
-  "version": 32
+  "version": 33
 }

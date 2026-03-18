@@ -89945,7 +89945,7 @@
     {
       "id": "s_132719",
       "tmdb_id": 132719,
-      "nombre": "La Casa de Papel: de Tokio a ínBerl",
+      "nombre": "La Casa de Papel: de Tokio a Berlín",
       "poster": "https://image.tmdb.org/t/p/w500/lIa5eVVFdVNQmfAlKRexoJCVVd1.jpg",
       "categorias": [
         "serie"
@@ -124507,5 +124507,5 @@
       }
     }
   ],
-  "version": 32
+  "version": 33
 }
