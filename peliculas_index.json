@@ -1,7 +1,349 @@
 {
   "type": "peliculas",
-  "total": 12564,
+  "total": 12589,
   "items": [
+    {
+      "id": "p_28729",
+      "tmdb_id": 28729,
+      "nombre": "Skyrunners",
+      "poster": "https://image.tmdb.org/t/p/w500/7vJjS3qK1krTmlLYvXuQF9v9GkV.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://la.movie/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "p_1439001",
+      "tmdb_id": 1439001,
+      "nombre": "My Amish Double Life",
+      "poster": "https://image.tmdb.org/t/p/w500/nVH16tMkOr8tdGjJ6tPUzYyL1xb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-56ainuyhd1om.html"
+        }
+      }
+    },
+    {
+      "id": "p_1611398",
+      "tmdb_id": 1611398,
+      "nombre": "Un Hombre por Semana",
+      "poster": "https://image.tmdb.org/t/p/w500/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fd369lvyf040.html"
+        }
+      }
+    },
+    {
+      "id": "p_890334",
+      "tmdb_id": 890334,
+      "nombre": "A Christmas Witness",
+      "poster": "https://image.tmdb.org/t/p/w500/esFdkW9EuyH1EngMUMIQty2aHaJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xblfjehod6sx.html"
+        }
+      }
+    },
+    {
+      "id": "p_87502",
+      "tmdb_id": 87502,
+      "nombre": "El vuelo (Flight)",
+      "poster": "https://image.tmdb.org/t/p/w500/cyjYllErGNrju2nwgt7D0XdpYC0.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-y2givumlshgc.html"
+        }
+      }
+    },
+    {
+      "id": "p_679618",
+      "tmdb_id": 679618,
+      "nombre": "Sentencia de muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/eJjMEfvo40r8UzxXG7Ws9ZAIrDs.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v1dyfjcss5tv.html"
+        }
+      }
+    },
+    {
+      "id": "p_31642",
+      "tmdb_id": 31642,
+      "nombre": "El cielo y la tierra",
+      "poster": "https://image.tmdb.org/t/p/w500/jk7KturSrnyr788HePo9eKAisL6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wf0rzwqz2p2g.html"
+        }
+      }
+    },
+    {
+      "id": "p_3512",
+      "tmdb_id": 3512,
+      "nombre": "Alerta máxima 2",
+      "poster": "https://image.tmdb.org/t/p/w500/v453pRRshPun2gxRRBnNg8AIT0A.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-63huu9ozkvoj.html"
+        }
+      }
+    },
+    {
+      "id": "p_400155",
+      "tmdb_id": 400155,
+      "nombre": "Hotel Transilvania 3: Unas vacaciones monstruosas",
+      "poster": "https://image.tmdb.org/t/p/w500/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-56o8i6xgc743.html"
+        }
+      }
+    },
+    {
+      "id": "p_1242494",
+      "tmdb_id": 1242494,
+      "nombre": "National Anthem",
+      "poster": "https://image.tmdb.org/t/p/w500/wgZXaaQNsqGxnJ2iwYvUeIqNHgi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-i6yni8kn51v0.html"
+        }
+      }
+    },
+    {
+      "id": "p_82696",
+      "tmdb_id": 82696,
+      "nombre": "Si de verdad quieres...",
+      "poster": "https://image.tmdb.org/t/p/w500/yNuv882GooXiEFRSZLTdLbtGbrD.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hv4w7t91rwf7.html"
+        }
+      }
+    },
+    {
+      "id": "p_50647",
+      "tmdb_id": 50647,
+      "nombre": "Sácame del paraíso",
+      "poster": "https://image.tmdb.org/t/p/w500/8jpHARENcsRaGvGC2OrzWTlO0uY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-22cpsc2yqilo.html"
+        }
+      }
+    },
+    {
+      "id": "p_875828",
+      "tmdb_id": 875828,
+      "nombre": "Peaky Blinders: El hombre inmortal",
+      "poster": "https://image.tmdb.org/t/p/w500/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8epeo5kvvb7e.html"
+        }
+      }
+    },
+    {
+      "id": "p_1646142",
+      "tmdb_id": 1646142,
+      "nombre": "Terrestrial",
+      "poster": "https://image.tmdb.org/t/p/w500/g4PBZlyVm2cWgL4jAy7WKEblB4t.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-g30jrmx51rw0.html"
+        }
+      }
+    },
+    {
+      "id": "p_1314786",
+      "tmdb_id": 1314786,
+      "nombre": "Zeta",
+      "poster": "https://image.tmdb.org/t/p/w500/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7msjvajelmhg.html"
+        }
+      }
+    },
+    {
+      "id": "p_119698",
+      "tmdb_id": 119698,
+      "nombre": "Proyecto dinosaurio",
+      "poster": "https://image.tmdb.org/t/p/w500/KqbOYYHmDbydvvBjYNnpDdWtEB.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qjumwuo8pqhk.html"
+        }
+      }
+    },
+    {
+      "id": "p_801937",
+      "tmdb_id": 801937,
+      "nombre": "Noche de Paz, Noche de Muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/ecpETxTPyVFai17hMMoFGy1ruLO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-05l1ujzvixnb.html"
+        }
+      }
+    },
+    {
+      "id": "p_1499984",
+      "tmdb_id": 1499984,
+      "nombre": "Gladiadores",
+      "poster": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-lwbjcacaplby.html"
+        }
+      }
+    },
+    {
+      "id": "p_10341",
+      "tmdb_id": 10341,
+      "nombre": "Hasta el fin del mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/fykTFc6qI2aBW4OvDSACC1HkIFi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-drjmhuynh8f1.html"
+        }
+      }
+    },
+    {
+      "id": "p_11082",
+      "tmdb_id": 11082,
+      "nombre": "La séptima profecía",
+      "poster": "https://image.tmdb.org/t/p/w500/a29ZaTGw6TfH8AqFwTsTOB19m24.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nrtt3td7twgm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1287141",
+      "tmdb_id": 1287141,
+      "nombre": "Pillion",
+      "poster": "https://image.tmdb.org/t/p/w500/Aq74ZdHg3kGvjEUyZP68rOTUzep.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-drgw5gelwo6y.html"
+        }
+      }
+    },
+    {
+      "id": "p_1128377",
+      "tmdb_id": 1128377,
+      "nombre": "Contra las cuerdas",
+      "poster": "https://image.tmdb.org/t/p/w500/itCHi0wHIoFARyS7EPmQt8pT7j.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-i71pikxfrmmw.html"
+        }
+      }
+    },
+    {
+      "id": "p_1297842",
+      "tmdb_id": 1297842,
+      "nombre": "GOAT: Como cabras",
+      "poster": "https://image.tmdb.org/t/p/w500/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
+      "calidad": "HD",
+      "generos": [
+        "animacion",
+        "comedia",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-v9073oj1jlty.html"
+        }
+      }
+    },
+    {
+      "id": "p_1424965",
+      "tmdb_id": 1424965,
+      "nombre": "Infierno bajo cero",
+      "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xcd8svfddcbv.html"
+        }
+      }
+    },
+    {
+      "id": "p_1171145",
+      "tmdb_id": 1171145,
+      "nombre": "Ruta de escape",
+      "poster": "https://image.tmdb.org/t/p/w500/wkmzt08vghSGlLYuqJpx4e2moRX.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-6u9ag27il5ss.html"
+        }
+      }
+    },
     {
       "id": "p_1426297",
       "tmdb_id": 1426297,
@@ -24,7 +366,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-1x7vixbcxjla.html"
+          "la_movie": "https://vimeos.net/embed-xaua1uibo44t.html"
         }
       }
     },
@@ -76,7 +418,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-ueihwbq4xgr7.html"
+          "la_movie": "https://vimeos.net/embed-kur3mys3rioo.html"
         }
       }
     },
@@ -406,9 +748,12 @@
       "tmdb_id": 1636918,
       "nombre": "The Plastic Detox",
       "poster": "https://image.tmdb.org/t/p/w500/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-an1m0gmw2agt.html"
+        },
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/qpyam8hjtoyu"
@@ -579,6 +924,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-tg5hsml56cy2.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-u2grzqtc9mej.html"
         },
@@ -1108,7 +1456,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-4nn21sns36uw.html"
+          "fastream": "https://fastream.to/embed-pnbmq1a8xvsn.html"
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-1mamfxzv0we2.html"
@@ -3091,12 +3439,15 @@
       "tmdb_id": 1323625,
       "nombre": "Night Patrol",
       "poster": "https://image.tmdb.org/t/p/w500/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [
         "terror",
         "misterio"
       ],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v0v2rophvk6q.html"
+        },
         "latino": {
           "vimeos": "https://vimeos.net/embed-hcayznvnsmma.html"
         }
@@ -3849,13 +4200,16 @@
       "tmdb_id": 1160360,
       "nombre": "Si pudiera, te daría una patada",
       "poster": "https://image.tmdb.org/t/p/w500/dpXbEKk1eMcXRgl62zWhNcZH4BN.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-8xnojjmn4kr8.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o1k2lx8m6r0r.html"
         }
       }
     },
@@ -20361,6 +20715,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-giagj1cs1ews.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-2qgxvk9p4ogn.html"
         }
@@ -22519,6 +22876,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-x3984en4g2ma.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-auvjyi7b0063.html"
         }
@@ -54378,7 +54738,7 @@
       "tmdb_id": 87826,
       "nombre": "Peso Pesado",
       "poster": "https://image.tmdb.org/t/p/w500/yFKBBtzuP11yBDOPIXYzDVyGog6.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "accion",
@@ -54387,6 +54747,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-9oclr97ujcd2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e63f9lg04amq.html"
         }
       }
     },
@@ -66948,13 +67311,16 @@
       "tmdb_id": 637920,
       "nombre": "Milagro en la celda 7",
       "poster": "https://image.tmdb.org/t/p/w500/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-lvi19a8rzciu.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-p283hb7sv8rt.html"
         }
       }
     },
@@ -85783,7 +86149,7 @@
       "tmdb_id": 12096,
       "nombre": "La pantera rosa",
       "poster": "https://image.tmdb.org/t/p/w500/5wYfVgR8hIGeeCk8vifYHZteWdk.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "misterio",
@@ -85794,6 +86160,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-38g54lamgg12.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-b60pihoqjbf2.html"
         }
       }
     },
@@ -114646,7 +115015,7 @@
       "tmdb_id": 11674,
       "nombre": "101 dálmatas (¡Más vivos que nunca!)",
       "poster": "https://image.tmdb.org/t/p/w500/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "familia",
         "comedia"
@@ -114654,6 +115023,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-1phj2vwt78yg.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-m5sduokyv551.html"
         }
       }
     },
@@ -119061,7 +119433,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-shb5y7gx8dpi.html"
+          "fastream": "https://fastream.to/embed-d637u5vapg15.html"
         },
         "español castellano": {
           "la_movie": "https://goodstream.one/embed-iuq3phleeqby.html"
@@ -167995,7 +168367,7 @@
       "tmdb_id": 10474,
       "nombre": "Diario de un rebelde",
       "poster": "https://image.tmdb.org/t/p/w500/68yBRXJNQT7vwFGRHqKcfy97LXq.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "crimen"
@@ -168003,6 +168375,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-k3d245o6r6ew.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bkhtitl7h8vm.html"
         }
       }
     },
@@ -173194,7 +173569,7 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-9wtl1u3wym88.html"
+          "fastream": "https://fastream.to/embed-rs7mc7y20ccx.html"
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-f97wkef8pd45.html"
@@ -197968,5 +198343,5 @@
       }
     }
   ],
-  "version": 33
+  "version": 34
 }
