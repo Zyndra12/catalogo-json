@@ -1,7 +1,49 @@
 {
   "type": "series",
-  "total": 2921,
+  "total": 2923,
   "items": [
+    {
+      "id": "s_291339",
+      "tmdb_id": 291339,
+      "nombre": "Memoria de un Asesino",
+      "poster": "https://image.tmdb.org/t/p/w500/79EO16C4zs8fwxKEjRENVvIQHIB.jpg",
+      "categorias": [
+        "serie",
+        "crimen",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-ksmea3hw6za6.html",
+          "2": "https://vimeos.net/embed-ag4jfscyr0fx.html",
+          "1": "https://vimeos.net/embed-j1k29kxzqn84.html",
+          "6": "https://vimeos.net/embed-b10qtxtf6vgm.html",
+          "5": "https://vimeos.net/embed-pvqzf493ppmf.html",
+          "3": "https://vimeos.net/embed-f6s45izfctr4.html"
+        }
+      }
+    },
+    {
+      "id": "s_87739",
+      "tmdb_id": 87739,
+      "nombre": "Gambito de dama",
+      "poster": "https://image.tmdb.org/t/p/w500/3Skm8boxLsoQZK9xq2chf0rQHfF.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-a1gtwpy69x7k.html",
+          "7": "https://vimeos.net/embed-d1ja26owe94a.html",
+          "2": "https://vimeos.net/embed-0gcwoghgdkk6.html",
+          "1": "https://vimeos.net/embed-qpezjcjc2w0r.html",
+          "6": "https://vimeos.net/embed-0f6kzyou1lhv.html",
+          "5": "https://vimeos.net/embed-dl7y55b12hhc.html",
+          "3": "https://vimeos.net/embed-lw2xsrx7ysa0.html"
+        }
+      }
+    },
     {
       "id": "s_292474",
       "tmdb_id": 292474,
@@ -106,8 +148,11 @@
       ],
       "temporadas": {
         "1": {
+          "4": "https://vimeos.net/embed-7kqm9z7q70ko.html",
           "2": "https://vimeos.net/embed-eug6o6evihnv.html",
           "1": "https://vimeos.net/embed-hr7dfjpj4b0d.html",
+          "6": "https://vimeos.net/embed-tb500anmtljo.html",
+          "5": "https://vimeos.net/embed-yzf05t4iefyu.html",
           "3": "https://vimeos.net/embed-vp6n129y8he0.html"
         }
       }
@@ -124,7 +169,8 @@
       "temporadas": {
         "1": {
           "2": "https://vimeos.net/embed-isabv13qe3qg.html",
-          "1": "https://vimeos.net/embed-i7oihl5p9ukn.html"
+          "1": "https://vimeos.net/embed-i7oihl5p9ukn.html",
+          "3": "https://vimeos.net/embed-ic4pqxedz32g.html"
         }
       }
     },
@@ -455,6 +501,7 @@
       ],
       "temporadas": {
         "1": {
+          "4": "https://vimeos.net/embed-zokl5qwq5go5.html",
           "2": "https://vimeos.net/embed-yotrg0tnllhm.html",
           "1": "https://vimeos.net/embed-monz0ct7kihm.html",
           "3": "https://vimeos.net/embed-z1zic41nca4r.html"
@@ -35034,6 +35081,7 @@
       ],
       "temporadas": {
         "4": {
+          "4": "https://vimeos.net/embed-y1nhwni22nwi.html",
           "2": "https://vimeos.net/embed-sgm2j6fgie8d.html",
           "1": "https://vimeos.net/embed-onndjhjuskot.html",
           "3": "https://vimeos.net/embed-w5l8gcb78t72.html"
@@ -38977,6 +39025,9 @@
         "crimen"
       ],
       "temporadas": {
+        "2": {
+          "1": "https://vimeos.net/embed-53j4oh3d42u6.html"
+        },
         "1": {
           "4": "https://vimeos.net/embed-y8dnask4803z.html",
           "8": "https://vimeos.net/embed-khz4s9z18fsv.html",
@@ -38984,7 +39035,10 @@
           "9": "https://vimeos.net/embed-rpkjt69qe8a2.html",
           "1": "https://vimeos.net/embed-hduroemqvy7h.html",
           "6": "https://vimeos.net/embed-udj17hax0s43.html",
-          "5": "https://vimeos.net/embed-brd5e5ptpsci.html",
+          "5": [
+            "https://vimeos.net/embed-brd5e5ptpsci.html",
+            "https://vimeos.net/embed-vt84phbzjewp.html"
+          ],
           "7": "https://vimeos.net/embed-9z1dvj10g0zf.html",
           "3": "https://vimeos.net/embed-smaco3e6ec54.html"
         }
@@ -41378,9 +41432,10 @@
           "9": "https://vimeos.net/embed-zt0tfb2oqwvt.html",
           "1": "https://vimeos.net/embed-tgxmk4cm01wl.html",
           "11": "https://vimeos.net/embed-19ohsxuucrb7.html",
-          "5": "https://vimeos.net/embed-unqjcp91jkol.html",
           "10": "https://vimeos.net/embed-0grzmc0k9ey7.html",
+          "5": "https://vimeos.net/embed-unqjcp91jkol.html",
           "6": "https://vimeos.net/embed-fbuv173t0vbl.html",
+          "12": "https://vimeos.net/embed-wemqdpqieng1.html",
           "7": "https://vimeos.net/embed-dauc18gce86u.html",
           "3": "https://vimeos.net/embed-m9udcrciajav.html"
         },
@@ -43081,6 +43136,7 @@
       "temporadas": {
         "2": {
           "4": "https://vimeos.net/embed-8ic40uritrd6.html",
+          "7": "https://vimeos.net/embed-k8ef3p8m3jl9.html",
           "2": "https://vimeos.net/embed-fkftvue5wg3l.html",
           "1": "https://vimeos.net/embed-an1abbu2dq4d.html",
           "6": "https://vimeos.net/embed-ufkfyvwh6bhv.html",
@@ -43089,7 +43145,10 @@
         },
         "1": {
           "4": "https://vimeos.net/embed-hefu0nophmic.html",
-          "8": "https://voe.sx/snrlhwkirk7k",
+          "8": [
+            "https://voe.sx/snrlhwkirk7k",
+            "https://vimeos.net/embed-0t9e1q45i2wo.html"
+          ],
           "2": "https://vimeos.net/embed-wdf2gkfy4n2u.html",
           "1": [
             "https://vimeos.net/embed-s98vcv2fwnxn.html",
@@ -61598,14 +61657,29 @@
         "4": {
           "4": "https://vimeos.net/embed-kmqxpez7mqk2.html",
           "8": "https://vimeos.net/embed-8d2ilk8jaqhm.html",
-          "2": "https://vimeos.net/embed-5tqw4ujkz3r0.html",
-          "9": "https://vimeos.net/embed-gduu7wue9blp.html",
-          "1": "https://vimeos.net/embed-d9ngs664qkdc.html",
+          "2": [
+            "https://vimeos.net/embed-5tqw4ujkz3r0.html",
+            "https://vimeos.net/embed-sc79adcy0miw.html"
+          ],
+          "9": [
+            "https://vimeos.net/embed-gduu7wue9blp.html",
+            "https://vimeos.net/embed-rznj5iwn5zg9.html"
+          ],
+          "1": [
+            "https://vimeos.net/embed-d9ngs664qkdc.html",
+            "https://vimeos.net/embed-cxagpujvfkpd.html"
+          ],
           "6": "https://vimeos.net/embed-98hldzw2f86i.html",
-          "5": "https://vimeos.net/embed-rnoul0ekw4w5.html",
+          "5": [
+            "https://vimeos.net/embed-rnoul0ekw4w5.html",
+            "https://vimeos.net/embed-nkwdkpbpsxuu.html"
+          ],
           "10": "https://vimeos.net/embed-epp0vspzvkf6.html",
           "7": "https://vimeos.net/embed-dkk6o5fsj08a.html",
-          "3": "https://vimeos.net/embed-95vraympjsc2.html"
+          "3": [
+            "https://vimeos.net/embed-95vraympjsc2.html",
+            "https://vimeos.net/embed-6bpkwx7i8axu.html"
+          ]
         },
         "2": {
           "4": [
@@ -61624,7 +61698,10 @@
             "https://fastream.to/embed-i0odpd1y7b2s.html",
             "https://vimeos.net/embed-c1k4ucaaypva.html"
           ],
-          "6": "https://fastream.to/embed-v2om00yu3tcr.html",
+          "6": [
+            "https://fastream.to/embed-v2om00yu3tcr.html",
+            "https://vimeos.net/embed-2g2uyrc9gooe.html"
+          ],
           "5": [
             "https://fastream.to/embed-5thpf3gaenh0.html",
             "https://vimeos.net/embed-6w5cbwvd4ix9.html"
@@ -83027,7 +83104,10 @@
           "4": "https://vimeos.net/embed-w2q6nq86vsxl.html",
           "7": "https://vimeos.net/embed-3cq2k6vshdmu.html",
           "2": "https://vimeos.net/embed-vl2bmj3ql7wv.html",
-          "1": "https://vimeos.net/embed-mhrfbacad77j.html",
+          "1": [
+            "https://vimeos.net/embed-mhrfbacad77j.html",
+            "https://vimeos.net/embed-6gbe2yiih0sb.html"
+          ],
           "6": "https://vimeos.net/embed-90adaf63nujo.html",
           "5": "https://vimeos.net/embed-8gn5x8rdhjzz.html",
           "3": "https://vimeos.net/embed-c47ilyycesxh.html"
@@ -83035,15 +83115,18 @@
         "1": {
           "4": [
             "https://fastream.to/embed-rzp8vsp39zkn.html",
-            "https://vimeos.net/embed-f2jfidfwcxej.html"
+            "https://vimeos.net/embed-f2jfidfwcxej.html",
+            "https://vimeos.net/embed-9x40c46x4lh0.html"
           ],
           "8": [
             "https://fastream.to/embed-nsrjc7yd7zzq.html",
-            "https://vimeos.net/embed-501pzr7xeton.html"
+            "https://vimeos.net/embed-501pzr7xeton.html",
+            "https://vimeos.net/embed-ls004oqk8yox.html"
           ],
           "2": [
             "https://fastream.to/embed-9fm9jc98kbj7.html",
-            "https://vimeos.net/embed-0r783ivlckg3.html"
+            "https://vimeos.net/embed-0r783ivlckg3.html",
+            "https://vimeos.net/embed-yqnmzbxp5bup.html"
           ],
           "9": "https://vimeos.net/embed-tspbgs7oto26.html",
           "1": [
@@ -83056,24 +83139,33 @@
           ],
           "5": [
             "https://fastream.to/embed-uaiykge7qe7k.html",
-            "https://vimeos.net/embed-kd6tyg85v8we.html"
+            "https://vimeos.net/embed-kd6tyg85v8we.html",
+            "https://vimeos.net/embed-7pbgbj71jhu6.html"
           ],
           "7": [
             "https://fastream.to/embed-v3i28u7w79un.html",
-            "https://vimeos.net/embed-rfo6f3q5dnf5.html"
+            "https://vimeos.net/embed-rfo6f3q5dnf5.html",
+            "https://vimeos.net/embed-ms1rac5gvymj.html"
           ],
           "3": [
             "https://fastream.to/embed-6rfx8fula8jo.html",
-            "https://vimeos.net/embed-a8u51jlahydl.html"
+            "https://vimeos.net/embed-a8u51jlahydl.html",
+            "https://vimeos.net/embed-fqdwsq0hnuds.html"
           ]
         },
         "3": {
           "4": "https://vimeos.net/embed-lxhdioyysvz6.html",
-          "2": "https://vimeos.net/embed-nm4n8uhdedoe.html",
+          "2": [
+            "https://vimeos.net/embed-nm4n8uhdedoe.html",
+            "https://vimeos.net/embed-9pyc88sf73mk.html"
+          ],
           "1": "https://vimeos.net/embed-ct1b2ogpjvjo.html",
           "6": "https://vimeos.net/embed-htscvjhtxndn.html",
           "5": "https://vimeos.net/embed-1ey2keerc73o.html",
-          "3": "https://vimeos.net/embed-bas7fwvzry4j.html"
+          "3": [
+            "https://vimeos.net/embed-bas7fwvzry4j.html",
+            "https://vimeos.net/embed-59wv9x6av0mx.html"
+          ]
         }
       }
     },
@@ -117428,7 +117520,10 @@
           "4": "https://fastream.to/embed-vmpgq8jf92u8.html",
           "8": "https://fastream.to/embed-gd7ry6dkz6cc.html",
           "2": "https://fastream.to/embed-6093z6e8mzhb.html",
-          "1": "https://fastream.to/embed-38em56tzaz52.html",
+          "1": [
+            "https://fastream.to/embed-38em56tzaz52.html",
+            "https://la.movie/embed.html?v=1"
+          ],
           "6": "https://fastream.to/embed-ernd1copfxci.html",
           "5": "https://fastream.to/embed-tyhsnmj67dt4.html",
           "7": "https://fastream.to/embed-89ih1lc1dsnp.html",
@@ -124720,5 +124815,5 @@
       }
     }
   ],
-  "version": 36
+  "version": 37
 }
