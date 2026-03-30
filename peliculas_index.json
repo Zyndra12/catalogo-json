@@ -1,7 +1,384 @@
 {
   "type": "peliculas",
-  "total": 12594,
+  "total": 12623,
   "items": [
+    {
+      "id": "p_862739",
+      "tmdb_id": 862739,
+      "nombre": "La virgen de la tosquera",
+      "poster": "https://image.tmdb.org/t/p/w500/nLw8adzoWXzF13aHgPVgnfn2rKD.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mtckrls29y0h.html"
+        }
+      }
+    },
+    {
+      "id": "p_1516445",
+      "tmdb_id": 1516445,
+      "nombre": "Aún es de Noche en Caracas",
+      "poster": "https://image.tmdb.org/t/p/w500/bnezvVbdFwOuNk2cCILpgqL7SQt.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2o39p6ml7wk7.html"
+        }
+      }
+    },
+    {
+      "id": "p_1500099",
+      "tmdb_id": 1500099,
+      "nombre": "Versa",
+      "poster": "https://image.tmdb.org/t/p/w500/p2zKN6Ic81C1UbLbnak4dZ2wABl.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hnumup5iv2nj.html"
+        }
+      }
+    },
+    {
+      "id": "p_1115544",
+      "tmdb_id": 1115544,
+      "nombre": "Mike y Nick y Nick y Alice",
+      "poster": "https://image.tmdb.org/t/p/w500/k6PSvLUs84QJsWLt0Zlkoa8ih6V.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f5qys0oc7esf.html"
+        }
+      }
+    },
+    {
+      "id": "p_1142101",
+      "tmdb_id": 1142101,
+      "nombre": "ClearMind",
+      "poster": "https://image.tmdb.org/t/p/w500/d9ptadrfOsvH2OdHMzjCZbRDcNm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wh61b5sliyco.html"
+        }
+      }
+    },
+    {
+      "id": "p_1280234",
+      "tmdb_id": 1280234,
+      "nombre": "#SalveRosa",
+      "poster": "https://image.tmdb.org/t/p/w500/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ab64hdi6gp8s.html"
+        }
+      }
+    },
+    {
+      "id": "p_1628116",
+      "tmdb_id": 1628116,
+      "nombre": "BTS: El Regreso (documental)",
+      "poster": "https://image.tmdb.org/t/p/w500/9IRXB8YV0Fn9Yu6Izx7vGjlSrKw.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pwjdomupwp5z.html"
+        }
+      }
+    },
+    {
+      "id": "p_96724",
+      "tmdb_id": 96724,
+      "nombre": "Anna Karenina",
+      "poster": "https://image.tmdb.org/t/p/w500/1Q4DYXhLSRe3iacFTGnBp0r5J1g.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qzng8fwgb8be.html"
+        }
+      }
+    },
+    {
+      "id": "p_262543",
+      "tmdb_id": 262543,
+      "nombre": "Autómata",
+      "poster": "https://image.tmdb.org/t/p/w500/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-q7mgktl8ivxg.html"
+        }
+      }
+    },
+    {
+      "id": "p_136418",
+      "tmdb_id": 136418,
+      "nombre": "Redención",
+      "poster": "https://image.tmdb.org/t/p/w500/7y9HJW8qgcqEZuT9Ioj1CwpArD7.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-djy7tyzoxho8.html"
+        }
+      }
+    },
+    {
+      "id": "p_529485",
+      "tmdb_id": 529485,
+      "nombre": "The Way Back",
+      "poster": "https://image.tmdb.org/t/p/w500/cSr8I4ObWVa38Y0WofCYW1TACoa.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-swvl4p8qj9e1.html"
+        }
+      }
+    },
+    {
+      "id": "p_172533",
+      "tmdb_id": 172533,
+      "nombre": "Colegas de copas",
+      "poster": "https://image.tmdb.org/t/p/w500/jlFu0PmXkSjEvGNLQNPFQnM95ve.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bhttbcm38q97.html"
+        }
+      }
+    },
+    {
+      "id": "p_146238",
+      "tmdb_id": 146238,
+      "nombre": "Runner Runner",
+      "poster": "https://image.tmdb.org/t/p/w500/edrGmSLukjUEqYUxeDCV4zuyyyS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mlqg9mdagfch.html"
+        }
+      }
+    },
+    {
+      "id": "p_162903",
+      "tmdb_id": 162903,
+      "nombre": "El quinto poder",
+      "poster": "https://image.tmdb.org/t/p/w500/pJdeBkyHCkig46UqR5pCs3ACUFu.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jqwoipcpj77p.html"
+        }
+      }
+    },
+    {
+      "id": "p_94352",
+      "tmdb_id": 94352,
+      "nombre": "Circo del Sol: Mundos Lejanos",
+      "poster": "https://image.tmdb.org/t/p/w500/jAt4ugebhXKmAnirHAWe5P6gnMi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-d362iicbjv7s.html"
+        }
+      }
+    },
+    {
+      "id": "p_86825",
+      "tmdb_id": 86825,
+      "nombre": "Stoker",
+      "poster": "https://image.tmdb.org/t/p/w500/o55bNP5cqsFFMXowXJ9uXo99LtK.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-p2ew3sel3xzt.html"
+        }
+      }
+    },
+    {
+      "id": "p_160588",
+      "tmdb_id": 160588,
+      "nombre": "Blue Jasmine",
+      "poster": "https://image.tmdb.org/t/p/w500/nsj0RLRI10351uYMoAKPur6Derd.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kr7c8jkiocjo.html"
+        }
+      }
+    },
+    {
+      "id": "p_145135",
+      "tmdb_id": 145135,
+      "nombre": "Los elegidos",
+      "poster": "https://image.tmdb.org/t/p/w500/6oEbd7N9Vpr7fSNAYzhpPvi2kN7.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3ewh7s4c7b7o.html"
+        }
+      }
+    },
+    {
+      "id": "p_81446",
+      "tmdb_id": 81446,
+      "nombre": "Los forajidos de Baytown",
+      "poster": "https://image.tmdb.org/t/p/w500/mguTN542UVatVEyT0L8MzjqrDv8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bvoeci8aw5m8.html"
+        }
+      }
+    },
+    {
+      "id": "p_112200",
+      "tmdb_id": 112200,
+      "nombre": "Amor sin control",
+      "poster": "https://image.tmdb.org/t/p/w500/eu2ZMcRxBEfJ17HHvpEyTrClyfx.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6dcx1qw935w8.html"
+        }
+      }
+    },
+    {
+      "id": "p_72431",
+      "tmdb_id": 72431,
+      "nombre": "Escuadrón rojo",
+      "poster": "https://image.tmdb.org/t/p/w500/uuQW1ukIF3aCmAF6FPvM9kbXNX6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-obsb74nlwtc4.html"
+        }
+      }
+    },
+    {
+      "id": "p_76726",
+      "tmdb_id": 76726,
+      "nombre": "Chronicle",
+      "poster": "https://image.tmdb.org/t/p/w500/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xs08bbxq4ddk.html"
+        }
+      }
+    },
+    {
+      "id": "p_68728",
+      "tmdb_id": 68728,
+      "nombre": "Oz, un mundo de fantasía",
+      "poster": "https://image.tmdb.org/t/p/w500/piHFgW1yotlHrewwdlQJG7gRRLu.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8ibm2hpcuudd.html"
+        }
+      }
+    },
+    {
+      "id": "p_321697",
+      "tmdb_id": 321697,
+      "nombre": "Steve Jobs",
+      "poster": "https://image.tmdb.org/t/p/w500/tifv0KBpDWCcrIwlScgZeUKwq2m.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8ix24ay9ct8k.html"
+        }
+      }
+    },
+    {
+      "id": "p_137093",
+      "tmdb_id": 137093,
+      "nombre": "Plan en Las Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/19NrCtVSb6aWKyC4VesOeA0Giqg.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ops3k5s30mdw.html"
+        }
+      }
+    },
+    {
+      "id": "p_89455",
+      "tmdb_id": 89455,
+      "nombre": "360. Juego de destinos",
+      "poster": "https://image.tmdb.org/t/p/w500/2jlQdSh8ruoIBND1R1KtAXSwTMS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5gdhr20kcp7e.html"
+        }
+      }
+    },
+    {
+      "id": "p_77663",
+      "tmdb_id": 77663,
+      "nombre": "Caza humana",
+      "poster": "https://image.tmdb.org/t/p/w500/nZzW5kJLclS9qXvu2DFzxhUNu4V.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1dhctjk1qz4x.html"
+        }
+      }
+    },
+    {
+      "id": "p_138376",
+      "tmdb_id": 138376,
+      "nombre": "La verdad",
+      "poster": "https://image.tmdb.org/t/p/w500/tOdqMhR3QsyLmwfAbvKHibv0wOu.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-js1pmpdjlhov.html"
+        }
+      }
+    },
+    {
+      "id": "p_209263",
+      "tmdb_id": 209263,
+      "nombre": "Sobran las palabras",
+      "poster": "https://image.tmdb.org/t/p/w500/1dxO6Z6NaZPkO0Zz3n3hNPlbSYu.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3hdv48zia4mb.html"
+        }
+      }
+    },
     {
       "id": "p_1013301",
       "tmdb_id": 1013301,
@@ -89,7 +466,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-5f78n6xgurjz.html"
+          "la_movie": "https://vimeos.net/embed-5mukbdimyy59.html"
         }
       }
     },
@@ -102,7 +479,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-bjwr9tj34zv6.html"
+          "la_movie": "https://la.movie/embed.html?v=1"
         }
       }
     },
@@ -213,7 +590,7 @@
           "fastream": "https://fastream.to/embed-uop4xwkrwfjz.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-8p4p9m6wn8u3.html"
+          "la_movie": "https://vimeos.net/embed-bqrpdntj42f2.html"
         }
       }
     },
@@ -604,9 +981,6 @@
         "familia"
       ],
       "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-v9073oj1jlty.html"
-        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-m0telmxlo7ns.html"
         }
@@ -52636,7 +53010,7 @@
       "tmdb_id": 129139,
       "nombre": "Cosas que hacer antes de los 18",
       "poster": "https://image.tmdb.org/t/p/w500/vSVYCcvDJljrESZo1jJyXPVvwfk.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "romance"
@@ -52644,6 +53018,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-hwf5zg68t5jf.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-q9jgdbe8c2gh.html"
         }
       }
     },
@@ -57002,7 +57379,7 @@
       "tmdb_id": 116711,
       "nombre": "Epic: El mundo secreto",
       "poster": "https://image.tmdb.org/t/p/w500/r9rCLrojxwXm0meuVWQwCf3bqnz.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "aventura",
@@ -57012,6 +57389,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-2nrowem6u2ps.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bfi0uh0kebye.html"
         }
       }
     },
@@ -87569,13 +87949,16 @@
       "tmdb_id": 567714,
       "nombre": "Los caminos que no escogemos",
       "poster": "https://image.tmdb.org/t/p/w500/ejt5Ox4sXkiKfXgACCMEErigJtl.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-uhul7lv84cp1.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-24r1tsi6ax6x.html"
         }
       }
     },
@@ -94439,7 +94822,7 @@
       "tmdb_id": 254470,
       "nombre": "Dando la nota: aún más alto",
       "poster": "https://image.tmdb.org/t/p/w500/bc2UTKECa9I5Xpm4ujU4xND9EPK.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "musica"
@@ -94447,6 +94830,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-hhxweoiv8766.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j0n9dc1wafd9.html"
         }
       }
     },
@@ -94471,7 +94857,7 @@
       "tmdb_id": 114150,
       "nombre": "Dando la nota",
       "poster": "https://image.tmdb.org/t/p/w500/nuopXlrClCnw85IDZoSFbW1MjbV.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "musica",
@@ -94480,6 +94866,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-3bdpj93pd9e8.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cstunxopb5nq.html"
         }
       }
     },
@@ -99471,7 +99860,7 @@
       "tmdb_id": 72976,
       "nombre": "Lincoln",
       "poster": "https://image.tmdb.org/t/p/w500/p9YQr5NfAgklYUY1niHZp9CKl7i.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "historia",
         "drama"
@@ -99479,6 +99868,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-gqxhm6407f0h.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x4vsw3nfw20x.html"
         }
       }
     },
@@ -100071,13 +100463,16 @@
       "tmdb_id": 132232,
       "nombre": "Mamá",
       "poster": "https://image.tmdb.org/t/p/w500/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-tha30o9sbnze.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-uj0ezpbrvii6.html"
         }
       }
     },
@@ -101882,7 +102277,7 @@
       "tmdb_id": 451184,
       "nombre": "La red Avispa",
       "poster": "https://image.tmdb.org/t/p/w500/bQumi9N4ulG76nC34pr4nh1cKwA.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "historia",
@@ -101891,6 +102286,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-7ic4kh9sz6ce.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fboq6staejsi.html"
         }
       }
     },
@@ -106484,13 +106882,16 @@
       "tmdb_id": 4248,
       "nombre": "Scary Movie 2",
       "poster": "https://image.tmdb.org/t/p/w500/r4qTydYjntbb5TfZKV229NpSaCt.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-k45n5fn4bjnu.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-946hbr4bzyur.html"
         }
       }
     },
@@ -110125,7 +110526,7 @@
       "tmdb_id": 354287,
       "nombre": "Máquina de guerra",
       "poster": "https://image.tmdb.org/t/p/w500/7rbKKR9TMwvBoKCX2dfvPOnnNSd.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "drama"
@@ -110133,6 +110534,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-9sv3qz6522s7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1ru9n69j3u2h.html"
         }
       }
     },
@@ -113515,7 +113919,7 @@
       "tmdb_id": 438463,
       "nombre": "Madre",
       "poster": "https://image.tmdb.org/t/p/w500/zNJXC50PXEAuOG9zI87zyy4SBGL.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso",
         "terror"
@@ -113523,6 +113927,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-jre2w2ly5fz4.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gfnc2266pk7q.html"
         }
       }
     },
@@ -117355,7 +117762,7 @@
       "tmdb_id": 267193,
       "nombre": "Agente contrainteligente",
       "poster": "https://image.tmdb.org/t/p/w500/2sMVG7H41wx6L5pmG1zG1aTmsBv.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "comedia"
@@ -117363,6 +117770,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-w0s6w55dz4r7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6wnh6x6des0o.html"
         }
       }
     },
@@ -127124,13 +127534,16 @@
       "tmdb_id": 97430,
       "nombre": "El hombre de los puños de hierro",
       "poster": "https://image.tmdb.org/t/p/w500/ob8jkwsa2swYex23Qkh3DxT0DSi.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-qm26raxe8ri6.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hn5f6912zxkd.html"
         }
       }
     },
@@ -132593,7 +133006,7 @@
           "fastream": "https://fastream.to/embed-jjrrvke96ybj.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-j4l59ik06b74.html"
+          "la_movie": "https://vimeos.net/embed-lnu1opzc1c4t.html"
         }
       }
     },
@@ -137102,7 +137515,7 @@
       "tmdb_id": 330947,
       "nombre": "Song to Song",
       "poster": "https://image.tmdb.org/t/p/w500/fZ1tHVE8KW1OnemlRSVulpgvejd.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "romance",
         "drama"
@@ -137110,6 +137523,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-0ff7bd3gsyql.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2i8unlqpk4fh.html"
         }
       }
     },
@@ -173850,7 +174266,7 @@
       "tmdb_id": 115782,
       "nombre": "Jobs",
       "poster": "https://image.tmdb.org/t/p/w500/h4gbnZvtN4qAkgR28cOn845EIN9.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "historia"
@@ -173858,6 +174274,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-5d9x6ougs2pp.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zn8gn0fbuulh.html"
         }
       }
     },
@@ -181743,7 +182162,7 @@
       "tmdb_id": 83542,
       "nombre": "El atlas de las nubes",
       "poster": "https://image.tmdb.org/t/p/w500/xx1d4FKmtL16r20kyVVoHMFIl96.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "ficcion"
@@ -181751,6 +182170,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-zojgjqokjwna.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-72axr818jstu.html"
         }
       }
     },
@@ -198268,5 +198690,5 @@
       }
     }
   ],
-  "version": 37
+  "version": 38
 }
