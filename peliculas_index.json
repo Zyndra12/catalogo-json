@@ -1,7 +1,72 @@
 {
   "type": "peliculas",
-  "total": 12623,
+  "total": 12628,
   "items": [
+    {
+      "id": "p_1316092",
+      "tmdb_id": 1316092,
+      "nombre": "“Cumbres Borrascosas”",
+      "poster": "https://image.tmdb.org/t/p/w500/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jkbflbtkdlz7.html"
+        }
+      }
+    },
+    {
+      "id": "p_1286366",
+      "tmdb_id": 1286366,
+      "nombre": "Skelly",
+      "poster": "https://image.tmdb.org/t/p/w500/meaNUGxHY0JmDO4AgYap5KvylFH.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sh8hmcgy08yn.html"
+        }
+      }
+    },
+    {
+      "id": "p_443987",
+      "tmdb_id": 443987,
+      "nombre": "Asesinato en la isla de Aix",
+      "poster": "https://image.tmdb.org/t/p/w500/7GxRpMuivYF5ZkWy1FyWhARZd5a.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-b7851v5phqu8.html"
+        }
+      }
+    },
+    {
+      "id": "p_1276704",
+      "tmdb_id": 1276704,
+      "nombre": "53 domingos",
+      "poster": "https://image.tmdb.org/t/p/w500/nxUy4A5KFdNVjwqXoFRK8PqZ5vZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1csbi5tk41oy.html"
+        }
+      }
+    },
+    {
+      "id": "p_1119544",
+      "tmdb_id": 1119544,
+      "nombre": "Sucedió en Roma",
+      "poster": "https://image.tmdb.org/t/p/w500/6OzUKFrKS0uPaj6At5Jcbhu44Jo.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tgw9gw8mlr7v.html"
+        }
+      }
+    },
     {
       "id": "p_862739",
       "tmdb_id": 862739,
@@ -64537,15 +64602,15 @@
       "tmdb_id": 83533,
       "nombre": "Avatar: Fuego y ceniza",
       "poster": "https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "aventura",
         "fantasia"
       ],
       "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-3b5mlygo17io.html"
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-g9zo8uhhyxkw.html"
         }
       }
     },
@@ -106769,13 +106834,16 @@
       "tmdb_id": 4247,
       "nombre": "Scary Movie",
       "poster": "https://image.tmdb.org/t/p/w500/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-8krkuqjrxf8q.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gkolnj4zbrmv.html"
         }
       }
     },
@@ -198690,5 +198758,5 @@
       }
     }
   ],
-  "version": 38
+  "version": 39
 }

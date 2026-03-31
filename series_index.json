@@ -1,7 +1,24 @@
 {
   "type": "series",
-  "total": 2923,
+  "total": 2924,
   "items": [
+    {
+      "id": "s_87917",
+      "tmdb_id": 87917,
+      "nombre": "Para toda la humanidad",
+      "poster": "https://image.tmdb.org/t/p/w500/q5vmnIJvXJgstbjCW9Jxhd4GoRJ.jpg",
+      "categorias": [
+        "serie",
+        "drama",
+        "ficcion",
+        "guerra"
+      ],
+      "temporadas": {
+        "5": {
+          "1": "https://vimeos.net/embed-rxrytd7f505m.html"
+        }
+      }
+    },
     {
       "id": "s_291339",
       "tmdb_id": 291339,
@@ -100,7 +117,8 @@
       "temporadas": {
         "1": {
           "2": "https://vimeos.net/embed-t7q2ojirr28a.html",
-          "1": "https://vimeos.net/embed-c7ntkwdi4wvc.html"
+          "1": "https://vimeos.net/embed-c7ntkwdi4wvc.html",
+          "3": "https://vimeos.net/embed-gmq7qcq6jd3d.html"
         }
       }
     },
@@ -276,10 +294,12 @@
       "temporadas": {
         "1": {
           "4": "https://vimeos.net/embed-79u83pnxi570.html",
+          "8": "https://vimeos.net/embed-qcmjhdqsugl8.html",
           "2": "https://vimeos.net/embed-z39g03vvfnct.html",
           "1": "https://vimeos.net/embed-epewq2w9imeu.html",
           "6": "https://vimeos.net/embed-0rujgm8vee95.html",
           "5": "https://vimeos.net/embed-1ldykjgu50ef.html",
+          "7": "https://vimeos.net/embed-1ixnbyazedky.html",
           "3": "https://vimeos.net/embed-eqbj3vnuc8vo.html"
         }
       }
@@ -35021,12 +35041,30 @@
       ],
       "temporadas": {
         "4": {
-          "4": "https://vimeos.net/embed-r5e995lxb1i5.html",
-          "2": "https://vimeos.net/embed-kgf6h1mdmubf.html",
-          "1": "https://vimeos.net/embed-otx9eeg9g27k.html",
-          "6": "https://vimeos.net/embed-tg509bskswa7.html",
-          "5": "https://vimeos.net/embed-g078tuvug8ww.html",
-          "3": "https://vimeos.net/embed-yxeox66kolq7.html"
+          "4": [
+            "https://vimeos.net/embed-r5e995lxb1i5.html",
+            "https://vimeos.net/embed-xtlc3hmdpnnf.html"
+          ],
+          "2": [
+            "https://vimeos.net/embed-kgf6h1mdmubf.html",
+            "https://vimeos.net/embed-bs3jfm3o7zqe.html"
+          ],
+          "1": [
+            "https://vimeos.net/embed-otx9eeg9g27k.html",
+            "https://vimeos.net/embed-08zmtk37lyrz.html"
+          ],
+          "6": [
+            "https://vimeos.net/embed-tg509bskswa7.html",
+            "https://vimeos.net/embed-kdn307tpcpxe.html"
+          ],
+          "5": [
+            "https://vimeos.net/embed-g078tuvug8ww.html",
+            "https://vimeos.net/embed-kn6by7j7ehow.html"
+          ],
+          "3": [
+            "https://vimeos.net/embed-yxeox66kolq7.html",
+            "https://vimeos.net/embed-bfntd46wmgbg.html"
+          ]
         },
         "2": {
           "4": "https://vimeos.net/embed-imqzjigihod6.html",
@@ -35058,7 +35096,10 @@
         "5": {
           "4": "https://vimeos.net/embed-84gdepxd43sl.html",
           "2": "https://vimeos.net/embed-ky5t5fmtd7w9.html",
-          "1": "https://vimeos.net/embed-qg33zxj4vml3.html",
+          "1": [
+            "https://vimeos.net/embed-qg33zxj4vml3.html",
+            "https://vimeos.net/embed-daivjp7bczh8.html"
+          ],
           "6": [
             "https://la.movie/embed.html?v=1",
             "https://vimeos.net/embed-lj6g3ukc2z6v.html"
@@ -45009,7 +45050,8 @@
           "4": "https://vimeos.net/embed-2cgrjspfztzt.html",
           "2": "https://vimeos.net/embed-37fiux3nc4ft.html",
           "1": "https://vimeos.net/embed-x8ywxuu7rv75.html",
-          "3": "https://vimeos.net/embed-5s51juofhd70.html"
+          "3": "https://vimeos.net/embed-5s51juofhd70.html",
+          "5": "https://vimeos.net/embed-balj9bo5nwyt.html"
         },
         "1": {
           "4": [
@@ -124894,5 +124936,5 @@
       }
     }
   ],
-  "version": 38
+  "version": 39
 }
