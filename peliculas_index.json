@@ -1,7 +1,176 @@
 {
   "type": "peliculas",
-  "total": 12628,
+  "total": 12641,
   "items": [
+    {
+      "id": "p_1268127",
+      "tmdb_id": 1268127,
+      "nombre": "Humint",
+      "poster": "https://image.tmdb.org/t/p/w500/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1zgxm0htxann.html"
+        }
+      }
+    },
+    {
+      "id": "p_96826",
+      "tmdb_id": 96826,
+      "nombre": "Ben 10: La destrucción de los aliens",
+      "poster": "https://image.tmdb.org/t/p/w500/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x77xzy5by1pe.html"
+        }
+      }
+    },
+    {
+      "id": "p_39538",
+      "tmdb_id": 39538,
+      "nombre": "Contagio",
+      "poster": "https://image.tmdb.org/t/p/w500/jNXIFpIiWfsIgOBUWQjxoYI276j.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j3cjhqpixo8z.html"
+        }
+      }
+    },
+    {
+      "id": "p_4147",
+      "tmdb_id": 4147,
+      "nombre": "Camino a la perdición",
+      "poster": "https://image.tmdb.org/t/p/w500/vnYLI3BFyaHX6XHSbE6mlcK4vbR.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7pqxg7ftqir9.html"
+        }
+      }
+    },
+    {
+      "id": "p_460096",
+      "tmdb_id": 460096,
+      "nombre": "La acusación de Rachel",
+      "poster": "https://image.tmdb.org/t/p/w500/luyy5HsfR8cT3rDGuxpbXgR4XCX.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e49y2rtw8la6.html"
+        }
+      }
+    },
+    {
+      "id": "p_1661870",
+      "tmdb_id": 1661870,
+      "nombre": "Hasta Que Amanezca",
+      "poster": "https://image.tmdb.org/t/p/w500/8DU4jyJ7veZhdb4BzdZtzP6xzJr.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x9jeromaho8l.html"
+        }
+      }
+    },
+    {
+      "id": "p_1561758",
+      "tmdb_id": 1561758,
+      "nombre": "Un pueblo al rescate",
+      "poster": "https://image.tmdb.org/t/p/w500/cXxFrrKMMu4gipC8kVoplzo0HAr.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zims0obyj26f.html"
+        }
+      }
+    },
+    {
+      "id": "p_855228",
+      "tmdb_id": 855228,
+      "nombre": "The Girl Who Got Away",
+      "poster": "https://image.tmdb.org/t/p/w500/eCzmo6Lt8YUdq62QzurbgHe4gLS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v14dbfx3cztu.html"
+        }
+      }
+    },
+    {
+      "id": "p_1635276",
+      "tmdb_id": 1635276,
+      "nombre": "Come, reza, ladra",
+      "poster": "https://image.tmdb.org/t/p/w500/rQdmyrSU0ySNkZMOq3URaDhUvdq.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0klmwrv92bj1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1086495",
+      "tmdb_id": 1086495,
+      "nombre": "Project Genesis",
+      "poster": "https://image.tmdb.org/t/p/w500/k0RzeCiMnSY5nTj5oOA0MK3r3VM.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zpmrr9hhxhkd.html"
+        }
+      }
+    },
+    {
+      "id": "p_1487320",
+      "tmdb_id": 1487320,
+      "nombre": "El último gigante",
+      "poster": "https://image.tmdb.org/t/p/w500/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-t90aee02zpn5.html"
+        }
+      }
+    },
+    {
+      "id": "p_1450257",
+      "tmdb_id": 1450257,
+      "nombre": "Clika",
+      "poster": "https://image.tmdb.org/t/p/w500/dIbx6Lr1ENz1QxAvyUAWL5kWbVG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-yytsn2exa1e0.html"
+        }
+      }
+    },
+    {
+      "id": "p_134623",
+      "tmdb_id": 134623,
+      "nombre": "Tom y Jerry: Robin Hood y el ratón de Sherwood",
+      "poster": "https://image.tmdb.org/t/p/w500/osFsGZKeaxQlCMYdrfuHrrxP7Rc.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tv35wlseh7xo.html"
+        }
+      }
+    },
     {
       "id": "p_1316092",
       "tmdb_id": 1316092,
@@ -1072,7 +1241,7 @@
       "tmdb_id": 1171145,
       "nombre": "Ruta de escape",
       "poster": "https://image.tmdb.org/t/p/w500/wkmzt08vghSGlLYuqJpx4e2moRX.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "suspenso"
@@ -1080,6 +1249,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-6u9ag27il5ss.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-owqszeyhxcxn.html"
         }
       }
     },
@@ -64610,7 +64782,7 @@
       ],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-g9zo8uhhyxkw.html"
+          "la_movie": "https://vimeos.net/embed-t0asskfapj18.html"
         }
       }
     },
@@ -198758,5 +198930,5 @@
       }
     }
   ],
-  "version": 39
+  "version": 40
 }
