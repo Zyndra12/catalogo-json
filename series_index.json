@@ -1,7 +1,41 @@
 {
   "type": "series",
-  "total": 2926,
+  "total": 2928,
   "items": [
+    {
+      "id": "s_289219",
+      "tmdb_id": 289219,
+      "nombre": "Star Wars: Maul - Señor de las sombras",
+      "poster": "https://image.tmdb.org/t/p/w500/9T4ECKFMBWqT7msxdaCGtsa3g5R.jpg",
+      "categorias": [
+        "serie",
+        "ficcion",
+        "accion",
+        "animacion"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-v4yi9nm47gy2.html",
+          "1": "https://vimeos.net/embed-1k1wcqctdxl6.html"
+        }
+      }
+    },
+    {
+      "id": "s_276472",
+      "tmdb_id": 276472,
+      "nombre": "La luz que aún nos guía",
+      "poster": "https://image.tmdb.org/t/p/w500/pn0c1aRfPHdGdOHA6jQbNqrhI3B.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-hdk8apdnq58v.html",
+          "1": "https://vimeos.net/embed-g0gxn6qkqdex.html"
+        }
+      }
+    },
     {
       "id": "s_316790",
       "tmdb_id": 316790,
@@ -15,7 +49,8 @@
       "temporadas": {
         "1": {
           "2": "https://vimeos.net/embed-zzygno4x6rab.html",
-          "1": "https://vimeos.net/embed-1cuj6tk921al.html"
+          "1": "https://vimeos.net/embed-1cuj6tk921al.html",
+          "3": "https://vimeos.net/embed-tjm9ov4ki28n.html"
         }
       }
     },
@@ -225,7 +260,8 @@
           "4": "https://vimeos.net/embed-v2ii48w3n1wl.html",
           "2": "https://vimeos.net/embed-isabv13qe3qg.html",
           "1": "https://vimeos.net/embed-i7oihl5p9ukn.html",
-          "3": "https://vimeos.net/embed-ic4pqxedz32g.html"
+          "3": "https://vimeos.net/embed-ic4pqxedz32g.html",
+          "5": "https://vimeos.net/embed-ljgmuttg4dqo.html"
         }
       }
     },
@@ -41597,12 +41633,13 @@
           "9": "https://vimeos.net/embed-zt0tfb2oqwvt.html",
           "1": "https://vimeos.net/embed-tgxmk4cm01wl.html",
           "6": "https://vimeos.net/embed-fbuv173t0vbl.html",
-          "10": "https://vimeos.net/embed-0grzmc0k9ey7.html",
           "5": "https://vimeos.net/embed-unqjcp91jkol.html",
+          "10": "https://vimeos.net/embed-0grzmc0k9ey7.html",
           "11": "https://vimeos.net/embed-19ohsxuucrb7.html",
           "12": "https://vimeos.net/embed-wemqdpqieng1.html",
           "7": "https://vimeos.net/embed-dauc18gce86u.html",
           "13": "https://vimeos.net/embed-heupz3wxh94s.html",
+          "14": "https://vimeos.net/embed-1mnntq1rx4ml.html",
           "3": "https://vimeos.net/embed-m9udcrciajav.html"
         },
         "1": {
@@ -45190,8 +45227,9 @@
           "4": "https://vimeos.net/embed-2cgrjspfztzt.html",
           "2": "https://vimeos.net/embed-37fiux3nc4ft.html",
           "1": "https://vimeos.net/embed-x8ywxuu7rv75.html",
-          "3": "https://vimeos.net/embed-5s51juofhd70.html",
-          "5": "https://vimeos.net/embed-balj9bo5nwyt.html"
+          "6": "https://vimeos.net/embed-5kbgv8rph1mg.html",
+          "5": "https://vimeos.net/embed-balj9bo5nwyt.html",
+          "3": "https://vimeos.net/embed-5s51juofhd70.html"
         },
         "1": {
           "4": [
@@ -82582,6 +82620,7 @@
       ],
       "temporadas": {
         "8": {
+          "4": "https://vimeos.net/embed-p8yuebumk89f.html",
           "2": "https://vimeos.net/embed-l6b1536nu0hw.html",
           "1": "https://vimeos.net/embed-wsvcat9w1bbz.html",
           "3": "https://vimeos.net/embed-1om060s9gmm3.html"
@@ -125267,5 +125306,5 @@
       }
     }
   ],
-  "version": 42
+  "version": 43
 }

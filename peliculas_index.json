@@ -1,7 +1,111 @@
 {
   "type": "peliculas",
-  "total": 12646,
+  "total": 12654,
   "items": [
+    {
+      "id": "p_175574",
+      "tmdb_id": 175574,
+      "nombre": "Vaya pavos",
+      "poster": "https://image.tmdb.org/t/p/w500/d12RUJPVm0DAekg4Edkjzu8zWlG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kaj61hwp7a0n.html"
+        }
+      }
+    },
+    {
+      "id": "p_974691",
+      "tmdb_id": 974691,
+      "nombre": "South Park: Las Guerras de Streaming",
+      "poster": "https://image.tmdb.org/t/p/w500/dfgZJlKYg5xm6dBl05bOKhfunXb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4v5fnpqgeomt.html"
+        }
+      }
+    },
+    {
+      "id": "p_112205",
+      "tmdb_id": 112205,
+      "nombre": "Malavita",
+      "poster": "https://image.tmdb.org/t/p/w500/6B3MEOLPEFlB19AEFKymjmjDQDN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l0270pth8yfj.html"
+        }
+      }
+    },
+    {
+      "id": "p_193610",
+      "tmdb_id": 193610,
+      "nombre": "No hay dos sin tres",
+      "poster": "https://image.tmdb.org/t/p/w500/tilpdfUMcEQ0rC3bPIT3QNtjB0q.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0cy1wowyng7w.html"
+        }
+      }
+    },
+    {
+      "id": "p_137321",
+      "tmdb_id": 137321,
+      "nombre": "Cuento de invierno",
+      "poster": "https://image.tmdb.org/t/p/w500/zDbpndYrheT0kGetWjuBJ8pmFzt.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7l96y1gebm10.html"
+        }
+      }
+    },
+    {
+      "id": "p_146239",
+      "tmdb_id": 146239,
+      "nombre": "¡Menudo fenómeno!",
+      "poster": "https://image.tmdb.org/t/p/w500/8s0IkAyeLvNe1DdzSaNYqLtYY4O.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f7fnnvi3klxm.html"
+        }
+      }
+    },
+    {
+      "id": "p_140823",
+      "tmdb_id": 140823,
+      "nombre": "Al encuentro de Mr. Banks",
+      "poster": "https://image.tmdb.org/t/p/w500/wxJN9aTc6kB14OYaFBC0ylLw2SV.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qu4z70jkrhv3.html"
+        }
+      }
+    },
+    {
+      "id": "p_175112",
+      "tmdb_id": 175112,
+      "nombre": "Campanilla: Hadas y piratas",
+      "poster": "https://image.tmdb.org/t/p/w500/7Jrap24Ki03bC39hbfyebw3xDul.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l3ftifa9aon5.html"
+        }
+      }
+    },
     {
       "id": "p_1226863",
       "tmdb_id": 1226863,
@@ -133609,7 +133713,7 @@
       "tmdb_id": 127533,
       "nombre": "Kenshin, el guerrero samurái",
       "poster": "https://image.tmdb.org/t/p/w500/1xXl8FefyjfGk3TIPQhsHV40ulS.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "aventura",
         "accion",
@@ -133619,6 +133723,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-2er8qm05brdk.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ctjjq3h4x9ln.html"
         }
       }
     },
@@ -199000,5 +199107,5 @@
       }
     }
   ],
-  "version": 42
+  "version": 43
 }
