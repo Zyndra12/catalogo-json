@@ -1,7 +1,135 @@
 {
   "type": "peliculas",
-  "total": 12654,
+  "total": 12663,
   "items": [
+    {
+      "id": "p_625450",
+      "tmdb_id": 625450,
+      "nombre": "A mi altura",
+      "poster": "https://image.tmdb.org/t/p/w500/n7BxzEylFV6IHzboji4EuBfm8ja.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/beuxee6chlzz"
+          },
+          "Streamwish": {
+            "HD": "https://streamwish.to/e/n1qpzwij1762"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/imhin38hldeq"
+          },
+          "Earnvids": {
+            "HD": "https://minochinos.com/v/jwelakkxh9sj"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_655363",
+      "tmdb_id": 655363,
+      "nombre": "Post Mortem: Fotos del Más Allá (Después de la muerte)",
+      "poster": "https://image.tmdb.org/t/p/w500/15fqMMg5s72NJHYRfO6lshslOHw.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vyghsfkmttxq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1595507",
+      "tmdb_id": 1595507,
+      "nombre": "Consecuencias duraderas 2",
+      "poster": "https://image.tmdb.org/t/p/w500/3KFcPRcv7hNUhaxlCU14FybwkcP.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ovvjyusx2uvi.html"
+        }
+      }
+    },
+    {
+      "id": "p_105997",
+      "tmdb_id": 105997,
+      "nombre": "Jesús, María y José",
+      "poster": "https://image.tmdb.org/t/p/w500/i1uIRF3a04j1eDkzDBlSYioy1Ks.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x10qzxu7baq1.html"
+        }
+      }
+    },
+    {
+      "id": "p_49494",
+      "tmdb_id": 49494,
+      "nombre": "La legión del águila",
+      "poster": "https://image.tmdb.org/t/p/w500/2YiuJ1XEaVC1PCXwgvOXs64vrPC.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zmbmnfr9l1eh.html"
+        }
+      }
+    },
+    {
+      "id": "p_1251",
+      "tmdb_id": 1251,
+      "nombre": "Cartas desde Iwo Jima",
+      "poster": "https://image.tmdb.org/t/p/w500/rTO90XYrjDvfXESHhIEsg0CU0ut.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-90h1jh0csw34.html"
+        }
+      }
+    },
+    {
+      "id": "p_9469",
+      "tmdb_id": 9469,
+      "nombre": "Una mala jugada",
+      "poster": "https://image.tmdb.org/t/p/w500/yxc40SpqNUb7H9VG9PCHYL319aP.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gyviwop3amrx.html"
+        }
+      }
+    },
+    {
+      "id": "p_19997",
+      "tmdb_id": 19997,
+      "nombre": "Niágara",
+      "poster": "https://image.tmdb.org/t/p/w500/wb9OBAiO3aUpY4UBkE07KscXSkA.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pigxis45ve87.html"
+        }
+      }
+    },
+    {
+      "id": "p_445113",
+      "tmdb_id": 445113,
+      "nombre": "Dime quién eres",
+      "poster": "https://image.tmdb.org/t/p/w500/lR0vmLkKjCgHyHcWMircgUSMUOL.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-39ygsi5zjaqp.html"
+        }
+      }
+    },
     {
       "id": "p_175574",
       "tmdb_id": 175574,
@@ -11866,7 +11994,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-fsm0ukl3m2hk.html"
+          "la_movie": "https://vimeos.net/embed-l4yz9dzigflr.html"
         }
       }
     },
@@ -27949,6 +28077,20 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-ocevqcyr9ih5.html"
+        },
+        "latino": {
+          "Streamwish": {
+            "HD": "https://streamwish.to/e/ldo2psv17bae"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/o3ii91othhwt"
+          },
+          "Earnvids": {
+            "HD": "https://minochinos.com/v/p7da2obkdm8s"
+          },
+          "la_movie": {
+            "hd": "https://vimeos.net/embed-ocevqcyr9ih5.html"
+          }
         }
       }
     },
@@ -81360,7 +81502,7 @@
       "tmdb_id": 537915,
       "nombre": "After: Aquí empieza todo",
       "poster": "https://image.tmdb.org/t/p/w500/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "romance",
         "drama"
@@ -81368,6 +81510,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-jafhz9fyu6j3.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0n5kee5g44fu.html"
         }
       }
     },
@@ -91401,7 +91546,7 @@
           "fastream": "https://fastream.to/embed-wetdaw1evquv.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-d2wj4akh42bq.html"
+          "la_movie": "https://vimeos.net/embed-3qdw5xhkhy57.html"
         }
       }
     },
@@ -104764,7 +104909,7 @@
       "tmdb_id": 6844,
       "nombre": "Los Diez Mandamientos",
       "poster": "https://image.tmdb.org/t/p/w500/kUfNxdftpiADE92Ch2Z0IRZjwwm.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "historia"
@@ -104772,6 +104917,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-wgaj8idyimg2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fv2et3116ic8.html"
         }
       }
     },
@@ -156938,7 +157086,7 @@
       "tmdb_id": 12123,
       "nombre": "Reacción en cadena",
       "poster": "https://image.tmdb.org/t/p/w500/5cplYNdpjfMLRdSmih6gPx724l.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso",
         "accion",
@@ -156947,6 +157095,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-r4yk7ihed1ry.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3seencihvkwc.html"
         }
       }
     },
@@ -199107,5 +199258,5 @@
       }
     }
   ],
-  "version": 43
+  "version": 44
 }

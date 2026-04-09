@@ -1,7 +1,41 @@
 {
   "type": "series",
-  "total": 2928,
+  "total": 2930,
   "items": [
+    {
+      "id": "s_287527",
+      "tmdb_id": 287527,
+      "nombre": "Los testamentos",
+      "poster": "https://image.tmdb.org/t/p/w500/i3buwvLYhVYpt6169Yqvcdt1wKQ.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-6205ep2ptr59.html",
+          "1": "https://vimeos.net/embed-y1o5mkrujx0q.html",
+          "3": "https://vimeos.net/embed-ne71kl2nuts5.html"
+        }
+      }
+    },
+    {
+      "id": "s_240740",
+      "tmdb_id": 240740,
+      "nombre": "Scarpetta",
+      "poster": "https://image.tmdb.org/t/p/w500/35EbNCepwjLr9AmFUn5VGcHXHIX.jpg",
+      "categorias": [
+        "misterio",
+        "serie",
+        "crimen",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://vimeos.net/embed-lotnerpxha42.html"
+        }
+      }
+    },
     {
       "id": "s_289219",
       "tmdb_id": 289219,
@@ -189,7 +223,8 @@
           "4": "https://vimeos.net/embed-pbdry085gni3.html",
           "2": "https://vimeos.net/embed-t7q2ojirr28a.html",
           "1": "https://vimeos.net/embed-c7ntkwdi4wvc.html",
-          "3": "https://vimeos.net/embed-gmq7qcq6jd3d.html"
+          "3": "https://vimeos.net/embed-gmq7qcq6jd3d.html",
+          "5": "https://vimeos.net/embed-3uylly8kbxiw.html"
         }
       }
     },
@@ -373,9 +408,11 @@
           "2": "https://vimeos.net/embed-z39g03vvfnct.html",
           "9": "https://vimeos.net/embed-4w0mxikdfz2x.html",
           "1": "https://vimeos.net/embed-epewq2w9imeu.html",
-          "6": "https://vimeos.net/embed-0rujgm8vee95.html",
-          "5": "https://vimeos.net/embed-1ldykjgu50ef.html",
+          "11": "https://vimeos.net/embed-k35k8tj0hsgt.html",
           "10": "https://vimeos.net/embed-kkdurpmpotmy.html",
+          "5": "https://vimeos.net/embed-1ldykjgu50ef.html",
+          "6": "https://vimeos.net/embed-0rujgm8vee95.html",
+          "12": "https://vimeos.net/embed-56m6uv3y7kc9.html",
           "7": "https://vimeos.net/embed-1ixnbyazedky.html",
           "3": "https://vimeos.net/embed-eqbj3vnuc8vo.html"
         }
@@ -35206,11 +35243,12 @@
           "4": "https://vimeos.net/embed-y1nhwni22nwi.html",
           "2": "https://vimeos.net/embed-sgm2j6fgie8d.html",
           "1": "https://vimeos.net/embed-onndjhjuskot.html",
-          "3": "https://vimeos.net/embed-w5l8gcb78t72.html",
+          "6": "https://vimeos.net/embed-7p833vw7fzvh.html",
           "5": [
             "https://vimeos.net/embed-0e0o5ggdhxn1.html",
             "https://vimeos.net/embed-pfrculjkq6uf.html"
-          ]
+          ],
+          "3": "https://vimeos.net/embed-w5l8gcb78t72.html"
         },
         "2": {
           "4": "https://vimeos.net/embed-rxspc1my6b91.html",
@@ -37042,6 +37080,15 @@
         "accion"
       ],
       "temporadas": {
+        "2": {
+          "4": "https://vimeos.net/embed-02giurh2u77l.html",
+          "7": "https://vimeos.net/embed-vqc9o0ubkyfc.html",
+          "2": "https://vimeos.net/embed-eoujnrag3ynb.html",
+          "1": "https://vimeos.net/embed-onz9dh34im58.html",
+          "6": "https://vimeos.net/embed-0iryifyluv34.html",
+          "5": "https://vimeos.net/embed-f70atkcn77k0.html",
+          "3": "https://vimeos.net/embed-z84z1tlvi8p2.html"
+        },
         "1": {
           "4": [
             "https://vimeos.net/embed-dbl2ccj4ko2i.html",
@@ -39175,6 +39222,7 @@
       ],
       "temporadas": {
         "2": {
+          "4": "https://vimeos.net/embed-21zmoqcjfchg.html",
           "2": "https://vimeos.net/embed-dfeftj4ycomv.html",
           "1": "https://vimeos.net/embed-53j4oh3d42u6.html",
           "3": "https://vimeos.net/embed-t71gzw5tsbsy.html"
@@ -125306,5 +125354,5 @@
       }
     }
   ],
-  "version": 43
+  "version": 44
 }
