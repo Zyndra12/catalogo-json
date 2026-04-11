@@ -1,7 +1,61 @@
 {
   "type": "series",
-  "total": 2930,
+  "total": 2931,
   "items": [
+    {
+      "id": "s_127529",
+      "tmdb_id": 81271,
+      "nombre": "127529",
+      "poster": "https://la.movie/wp-content/uploads/thumbs/202b4133cb498d3307f9dffbe010d8a7_hd.webp",
+      "categorias": [
+        "misterio",
+        "comedia",
+        "crimen",
+        "familia",
+        "serie",
+        "accion"
+      ],
+      "temporadas": {
+        "2": {
+          "4": "https://vimeos.net/embed-02giurh2u77l.html",
+          "7": "https://vimeos.net/embed-vqc9o0ubkyfc.html",
+          "2": "https://vimeos.net/embed-eoujnrag3ynb.html",
+          "1": "https://vimeos.net/embed-onz9dh34im58.html",
+          "6": "https://vimeos.net/embed-0iryifyluv34.html",
+          "5": "https://vimeos.net/embed-f70atkcn77k0.html",
+          "3": "https://vimeos.net/embed-z84z1tlvi8p2.html"
+        },
+        "1": {
+          "4": "https://vimeos.net/embed-x1d4i0emwlpa.html",
+          "8": "https://vimeos.net/embed-99s13eaws5ie.html",
+          "2": "https://vimeos.net/embed-ds8wksudk3y5.html",
+          "1": "https://vimeos.net/embed-22rk6zenpbcx.html",
+          "6": "https://vimeos.net/embed-3z3fifjl6b62.html",
+          "5": "https://vimeos.net/embed-lwm8xuivh9bo.html",
+          "7": "https://vimeos.net/embed-ti5beu9ajhx0.html",
+          "3": "https://vimeos.net/embed-c6m4vf3ow76g.html"
+        }
+      }
+    },
+    {
+      "id": "s_279471",
+      "tmdb_id": 279471,
+      "nombre": "Malcolm: De mal en peor",
+      "poster": "https://image.tmdb.org/t/p/w500/hsRxfDXuecLGIKxe9rz7aJSgRdD.jpg",
+      "categorias": [
+        "comedia",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-j6ejyfpg8jjf.html",
+          "2": "https://vimeos.net/embed-uzs0lt59ifd1.html",
+          "1": "https://vimeos.net/embed-72tuyiyf2sd8.html",
+          "3": "https://vimeos.net/embed-tgux1x4ecuz7.html"
+        }
+      }
+    },
     {
       "id": "s_287527",
       "tmdb_id": 287527,
@@ -37063,56 +37117,6 @@
           "10": "https://vimeos.net/embed-m32jyywzalz7.html",
           "7": "https://vimeos.net/embed-omml3ob6h7cy.html",
           "3": "https://vimeos.net/embed-hrn4s1ispf6h.html"
-        }
-      }
-    },
-    {
-      "id": "s_127529",
-      "tmdb_id": 127529,
-      "nombre": "Sabuesos",
-      "poster": "https://image.tmdb.org/t/p/w500/mC5x6sNZr8x9Z7t1umZyoriH0mZ.jpg",
-      "categorias": [
-        "crimen",
-        "misterio",
-        "comedia",
-        "serie",
-        "familia",
-        "accion"
-      ],
-      "temporadas": {
-        "2": {
-          "4": "https://vimeos.net/embed-02giurh2u77l.html",
-          "7": "https://vimeos.net/embed-vqc9o0ubkyfc.html",
-          "2": "https://vimeos.net/embed-eoujnrag3ynb.html",
-          "1": "https://vimeos.net/embed-onz9dh34im58.html",
-          "6": "https://vimeos.net/embed-0iryifyluv34.html",
-          "5": "https://vimeos.net/embed-f70atkcn77k0.html",
-          "3": "https://vimeos.net/embed-z84z1tlvi8p2.html"
-        },
-        "1": {
-          "4": [
-            "https://vimeos.net/embed-dbl2ccj4ko2i.html",
-            "https://vimeos.net/embed-x1d4i0emwlpa.html"
-          ],
-          "8": [
-            "https://vimeos.net/embed-z5b973ir65yl.html",
-            "https://vimeos.net/embed-99s13eaws5ie.html"
-          ],
-          "2": "https://vimeos.net/embed-ds8wksudk3y5.html",
-          "1": "https://vimeos.net/embed-22rk6zenpbcx.html",
-          "6": [
-            "https://vimeos.net/embed-jmfme214gail.html",
-            "https://vimeos.net/embed-3z3fifjl6b62.html"
-          ],
-          "5": [
-            "https://vimeos.net/embed-betq87gmqflp.html",
-            "https://vimeos.net/embed-lwm8xuivh9bo.html"
-          ],
-          "7": [
-            "https://vimeos.net/embed-q1u7au2kxsmb.html",
-            "https://vimeos.net/embed-ti5beu9ajhx0.html"
-          ],
-          "3": "https://vimeos.net/embed-c6m4vf3ow76g.html"
         }
       }
     },
@@ -122744,11 +122748,13 @@
           "2": "https://vimeos.net/embed-tkobd35cvlfa.html",
           "9": "https://vimeos.net/embed-tldw8v1jxc57.html",
           "1": "https://vimeos.net/embed-15xznqzgkcf6.html",
-          "11": "https://vimeos.net/embed-k1wxwdp48rs3.html",
-          "5": "https://vimeos.net/embed-m150c97ll796.html",
-          "10": "https://vimeos.net/embed-859669h2pzwx.html",
           "6": "https://vimeos.net/embed-ozazhedrxzxm.html",
+          "10": "https://vimeos.net/embed-859669h2pzwx.html",
+          "5": "https://vimeos.net/embed-m150c97ll796.html",
+          "11": "https://vimeos.net/embed-k1wxwdp48rs3.html",
+          "12": "https://vimeos.net/embed-5tmebr2cvujp.html",
           "7": "https://vimeos.net/embed-vmso1bfmilh2.html",
+          "13": "https://vimeos.net/embed-odbykkyvkrbj.html",
           "3": "https://vimeos.net/embed-55aae61w2s7a.html"
         },
         "1": {
@@ -125354,5 +125360,5 @@
       }
     }
   ],
-  "version": 44
+  "version": 45
 }

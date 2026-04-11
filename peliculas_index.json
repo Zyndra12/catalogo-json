@@ -1,7 +1,85 @@
 {
   "type": "peliculas",
-  "total": 12663,
+  "total": 12669,
   "items": [
+    {
+      "id": "p_1641319",
+      "tmdb_id": 1641319,
+      "nombre": "Sniper: En tierra de nadie",
+      "poster": "https://image.tmdb.org/t/p/w500/hdSt80XqI2IWu9WOWZQVecuPT7D.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pk97mxcyx86v.html"
+        }
+      }
+    },
+    {
+      "id": "p_62395",
+      "tmdb_id": 62395,
+      "nombre": "Marcelino pan y vino",
+      "poster": "https://image.tmdb.org/t/p/w500/vE3WdYEKluLXG7aw3lcU6UuttvP.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tq32f89d323w.html"
+        }
+      }
+    },
+    {
+      "id": "p_1290182",
+      "tmdb_id": 1290182,
+      "nombre": "그 시절, 우리가 좋아했던 소녀",
+      "poster": "https://image.tmdb.org/t/p/w500/7KRfPg3ntKhl8AzVSqoXhgj8t78.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8bkhlnzp7232.html"
+        }
+      }
+    },
+    {
+      "id": "p_1662432",
+      "tmdb_id": 1662432,
+      "nombre": "Descubriendo a Harry: El arte detrás de la magia",
+      "poster": "https://image.tmdb.org/t/p/w500/v9kNDfpOG7o2W6mHfUltypvZEPa.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-9tn1ukji5cu9.html"
+        }
+      }
+    },
+    {
+      "id": "p_1526650",
+      "tmdb_id": 1526650,
+      "nombre": "El muñeco de arcilla",
+      "poster": "https://image.tmdb.org/t/p/w500/3epkiHj6FacptxIfRiDZFQXUyL7.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ottcotsq2nx3.html"
+        }
+      }
+    },
+    {
+      "id": "p_1290417",
+      "tmdb_id": 1290417,
+      "nombre": "Embestida",
+      "poster": "https://image.tmdb.org/t/p/w500/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3v2c42i0980k.html"
+        }
+      }
+    },
     {
       "id": "p_625450",
       "tmdb_id": 625450,
@@ -199258,5 +199336,5 @@
       }
     }
   ],
-  "version": 44
+  "version": 45
 }
