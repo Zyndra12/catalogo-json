@@ -1,7 +1,46 @@
 {
   "type": "peliculas",
-  "total": 12669,
+  "total": 12672,
   "items": [
+    {
+      "id": "p_804370",
+      "tmdb_id": 804370,
+      "nombre": "Arco",
+      "poster": "https://image.tmdb.org/t/p/w500/gLw9C4hmoJgE2S2HkQZXuRmVoC.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qqz2jvsto1fr.html"
+        }
+      }
+    },
+    {
+      "id": "p_1242526",
+      "tmdb_id": 1242526,
+      "nombre": "Sonido de Esperanza: La historia de Possum Trot",
+      "poster": "https://image.tmdb.org/t/p/w500/yojV8HLEkvbCm7VbpKjW5Ui1QE2.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vf1mcuizagjm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1321952",
+      "tmdb_id": 1321952,
+      "nombre": "Tu Sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/9CejCSLSQdLS9Rh8dYFutKhAybJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ef1qm9be0eal.html"
+        }
+      }
+    },
     {
       "id": "p_1641319",
       "tmdb_id": 1641319,
@@ -1232,8 +1271,13 @@
         "aventura"
       ],
       "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ttm3pd3tupgy.html"
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/g9orbpjh7ran"
+          },
+          "Byse": {
+            "HD": "https://bysesukior.com/e/szaxruhlw5va"
+          }
         }
       }
     },
@@ -199336,5 +199380,5 @@
       }
     }
   ],
-  "version": 45
+  "version": 46
 }

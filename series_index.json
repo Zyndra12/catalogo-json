@@ -1,12 +1,27 @@
 {
   "type": "series",
-  "total": 2931,
+  "total": 2932,
   "items": [
     {
-      "id": "s_127529",
+      "id": "s_4681",
+      "tmdb_id": 4681,
+      "nombre": "El Zorro",
+      "poster": "https://image.tmdb.org/t/p/w500/1i4HdLMCRfEXLeA6JGTsQj6WU3k.jpg",
+      "categorias": [
+        "accion",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://la.movie/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "s_81271",
       "tmdb_id": 81271,
-      "nombre": "127529",
-      "poster": "https://la.movie/wp-content/uploads/thumbs/202b4133cb498d3307f9dffbe010d8a7_hd.webp",
+      "nombre": "Sabuesos",
+      "poster": "https://image.tmdb.org/t/p/w500/mC5x6sNZr8x9Z7t1umZyoriH0mZ.jpg",
       "categorias": [
         "misterio",
         "comedia",
@@ -173,7 +188,9 @@
       ],
       "temporadas": {
         "5": {
-          "1": "https://vimeos.net/embed-rxrytd7f505m.html"
+          "2": "https://vimeos.net/embed-p6q5g4uhjor0.html",
+          "1": "https://vimeos.net/embed-rxrytd7f505m.html",
+          "3": "https://vimeos.net/embed-wzwf2t175z34.html"
         }
       }
     },
@@ -1650,10 +1667,12 @@
       "temporadas": {
         "2": {
           "4": "https://vimeos.net/embed-hofzl1ezp8rb.html",
+          "8": "https://vimeos.net/embed-sfeev7hjdbhz.html",
           "2": "https://vimeos.net/embed-6k32itv9dft4.html",
           "1": "https://vimeos.net/embed-sfqcvaurxjol.html",
           "6": "https://vimeos.net/embed-ih5gaouhvidt.html",
           "5": "https://vimeos.net/embed-s6aiytu60vxc.html",
+          "7": "https://vimeos.net/embed-37dt6df6q2rm.html",
           "3": "https://vimeos.net/embed-rnj1220zbp1d.html"
         }
       }
@@ -45277,6 +45296,7 @@
       "temporadas": {
         "2": {
           "4": "https://vimeos.net/embed-2cgrjspfztzt.html",
+          "7": "https://vimeos.net/embed-etgvwdbrd2hv.html",
           "2": "https://vimeos.net/embed-37fiux3nc4ft.html",
           "1": "https://vimeos.net/embed-x8ywxuu7rv75.html",
           "6": "https://vimeos.net/embed-5kbgv8rph1mg.html",
@@ -122749,12 +122769,13 @@
           "9": "https://vimeos.net/embed-tldw8v1jxc57.html",
           "1": "https://vimeos.net/embed-15xznqzgkcf6.html",
           "6": "https://vimeos.net/embed-ozazhedrxzxm.html",
-          "10": "https://vimeos.net/embed-859669h2pzwx.html",
           "5": "https://vimeos.net/embed-m150c97ll796.html",
+          "10": "https://vimeos.net/embed-859669h2pzwx.html",
           "11": "https://vimeos.net/embed-k1wxwdp48rs3.html",
           "12": "https://vimeos.net/embed-5tmebr2cvujp.html",
           "7": "https://vimeos.net/embed-vmso1bfmilh2.html",
           "13": "https://vimeos.net/embed-odbykkyvkrbj.html",
+          "14": "https://vimeos.net/embed-21n786ryhw7z.html",
           "3": "https://vimeos.net/embed-55aae61w2s7a.html"
         },
         "1": {
@@ -125360,5 +125381,5 @@
       }
     }
   ],
-  "version": 45
+  "version": 46
 }
