@@ -1,7 +1,137 @@
 {
   "type": "peliculas",
-  "total": 12672,
+  "total": 12682,
   "items": [
+    {
+      "id": "p_1049471",
+      "tmdb_id": 1049471,
+      "nombre": "Outcome",
+      "poster": "https://image.tmdb.org/t/p/w500/9uriReigJBf5zVBNaHj5C9kDDTe.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-t4x8wqi45ghq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1631917",
+      "tmdb_id": 1631917,
+      "nombre": "18 rosas",
+      "poster": "https://image.tmdb.org/t/p/w500/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ws6vubg0qyas.html"
+        }
+      }
+    },
+    {
+      "id": "p_682012",
+      "tmdb_id": 682012,
+      "nombre": "Amélie y los secretos de la lluvia",
+      "poster": "https://image.tmdb.org/t/p/w500/aT6QQUpKTHtbfHMxe4tDG2B5tGC.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qn526yhlosip.html"
+        }
+      }
+    },
+    {
+      "id": "p_1101401",
+      "tmdb_id": 1101401,
+      "nombre": "Sugar Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ep7bdmhsly8b.html"
+        }
+      }
+    },
+    {
+      "id": "p_9705",
+      "tmdb_id": 9705,
+      "nombre": "Operación Swordfish",
+      "poster": "https://image.tmdb.org/t/p/w500/4m5vfDOCELjqA12KbuxS9ucDEnO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6mi167c6ecy6.html"
+        }
+      }
+    },
+    {
+      "id": "p_44214",
+      "tmdb_id": 44214,
+      "nombre": "Cisne negro",
+      "poster": "https://image.tmdb.org/t/p/w500/dZucAEc4JNsO6z4fvvunXgLe3b8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-m4no611l8bef.html"
+        }
+      }
+    },
+    {
+      "id": "p_1669929",
+      "tmdb_id": 1669929,
+      "nombre": "La huella del oro",
+      "poster": "https://image.tmdb.org/t/p/w500/ldroECj55Ay4Qh4gUlbKEttly4i.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1m5jgu0xv11l.html"
+        }
+      }
+    },
+    {
+      "id": "p_1443260",
+      "tmdb_id": 1443260,
+      "nombre": "Rob1n",
+      "poster": "https://image.tmdb.org/t/p/w500/xhmtOEWNkW1EC7u1N7sPEc8Rxxw.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-d81vxthk59xr.html"
+        }
+      }
+    },
+    {
+      "id": "p_17182",
+      "tmdb_id": 17182,
+      "nombre": "Eye for an Eye (Ojo por ojo)",
+      "poster": "https://image.tmdb.org/t/p/w500/kURIkUPTAagbw4l88qk0oAZubMb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sipvnxkcu4h4.html"
+        }
+      }
+    },
+    {
+      "id": "p_1056719",
+      "tmdb_id": 1056719,
+      "nombre": "Terror Firma",
+      "poster": "https://image.tmdb.org/t/p/w500/9xHnEDEcvZjJDSn2sJ8kYZyepxR.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1odbgp5m9fa7.html"
+        }
+      }
+    },
     {
       "id": "p_804370",
       "tmdb_id": 804370,
@@ -87534,7 +87664,7 @@
       "tmdb_id": 499701,
       "nombre": "Dora y la ciudad perdida",
       "poster": "https://image.tmdb.org/t/p/w500/zFzRbVWduN0qewAjLJEKlNvMunt.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "familia",
         "comedia",
@@ -87543,6 +87673,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-kultbyg8dlqa.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-p9ptofrkis2g.html"
         }
       }
     },
@@ -94707,7 +94840,7 @@
       "tmdb_id": 11622,
       "nombre": "Buscando a Eva",
       "poster": "https://image.tmdb.org/t/p/w500/y0iHhfDnBQdvOiqqPJYTAVOIwO8.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "romance",
@@ -94716,6 +94849,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ejj4u2k2s3im.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o4eafmeo9c9m.html"
         }
       }
     },
@@ -131682,7 +131818,7 @@
       "tmdb_id": 11836,
       "nombre": "Bob Esponja: La película",
       "poster": "https://image.tmdb.org/t/p/w500/CtISczftMz6g7kyk5uLxBben8b.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "familia",
         "comedia",
@@ -131693,6 +131829,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-6yghu20amgw7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5288b8qnzc7f.html"
         }
       }
     },
@@ -133258,7 +133397,7 @@
       "tmdb_id": 180,
       "nombre": "Minority Report",
       "poster": "https://image.tmdb.org/t/p/w500/q5qipy536mgsejg6AWPP9lmkGkG.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "accion",
@@ -133267,6 +133406,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-mcbfwnqmpud0.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0kqibjpkonxd.html"
         }
       }
     },
@@ -199380,5 +199522,5 @@
       }
     }
   ],
-  "version": 47
+  "version": 48
 }
