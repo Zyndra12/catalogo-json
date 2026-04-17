@@ -1,7 +1,98 @@
 {
   "type": "peliculas",
-  "total": 12682,
+  "total": 12689,
   "items": [
+    {
+      "id": "p_1084577",
+      "tmdb_id": 1084577,
+      "nombre": "Balls Up: Con un par",
+      "poster": "https://image.tmdb.org/t/p/w500/50V1E3NE3UDFmq0fhMpByx1b4Ka.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-p1avbky620o4.html"
+        }
+      }
+    },
+    {
+      "id": "p_314572",
+      "tmdb_id": 314572,
+      "nombre": "El patrón, radiografía de un crimen",
+      "poster": "https://image.tmdb.org/t/p/w500/tqM5b356wYON9VcIKUTOONRUL7P.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ckacktrfmyp2.html"
+        }
+      }
+    },
+    {
+      "id": "p_1148189",
+      "tmdb_id": 1148189,
+      "nombre": "Super Wings: Máxima velocidad",
+      "poster": "https://image.tmdb.org/t/p/w500/tmc1Fd08uBYvH0iR5xSi5U1aQ8l.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-iblem8qfkrde.html"
+        }
+      }
+    },
+    {
+      "id": "p_880313",
+      "tmdb_id": 880313,
+      "nombre": "La ira de Dios",
+      "poster": "https://image.tmdb.org/t/p/w500/kjDb1UWIJI06vdV9W0Of6f9JD9W.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xuc5ed84c9cb.html"
+        }
+      }
+    },
+    {
+      "id": "p_9559",
+      "tmdb_id": 9559,
+      "nombre": "Un mundo perfecto",
+      "poster": "https://image.tmdb.org/t/p/w500/P0HK6nMCsdFrxu4c4NTavxfuyh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x8pzzxdg3zxn.html"
+        }
+      }
+    },
+    {
+      "id": "p_1363224",
+      "tmdb_id": 1363224,
+      "nombre": "Fear Cabin: The Last Weekend of Summer",
+      "poster": "https://image.tmdb.org/t/p/w500/gaSqrnpSnTq5oYno0KnDyDXAF5r.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fz9k2bu766lr.html"
+        }
+      }
+    },
+    {
+      "id": "p_1293167",
+      "tmdb_id": 1293167,
+      "nombre": "Protocolo de Fuga",
+      "poster": "https://image.tmdb.org/t/p/w500/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-izqxglkc1it3.html"
+        }
+      }
+    },
     {
       "id": "p_1049471",
       "tmdb_id": 1049471,
@@ -199180,7 +199271,7 @@
       "tmdb_id": 1301122,
       "nombre": "Nazi Supelsodier",
       "poster": "https://image.tmdb.org/t/p/w500/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "accion",
@@ -199189,6 +199280,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-no49zw0auw01.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f1w8cw163rrb.html"
         }
       }
     },
@@ -199522,5 +199616,5 @@
       }
     }
   ],
-  "version": 48
+  "version": 49
 }

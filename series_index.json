@@ -1,7 +1,48 @@
 {
   "type": "series",
-  "total": 2932,
+  "total": 2934,
   "items": [
+    {
+      "id": "s_245318",
+      "tmdb_id": 245318,
+      "nombre": "Margo tiene problemas de dinero",
+      "poster": "https://image.tmdb.org/t/p/w500/zqUvfOQtaffnkQL0ZVKPD7Z1KIR.jpg",
+      "categorias": [
+        "drama",
+        "serie",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-9w6h2fmb36ep.html",
+          "1": "https://vimeos.net/embed-jovbaokrbk7v.html",
+          "3": "https://vimeos.net/embed-24yw8og6z2j0.html"
+        }
+      }
+    },
+    {
+      "id": "s_291506",
+      "tmdb_id": 291506,
+      "nombre": "Errores épicos",
+      "poster": "https://image.tmdb.org/t/p/w500/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg",
+      "categorias": [
+        "crimen",
+        "serie",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-x5b7note6lgd.html",
+          "8": "https://vimeos.net/embed-r04puerx5hly.html",
+          "2": "https://vimeos.net/embed-qe7eidfd40tx.html",
+          "1": "https://vimeos.net/embed-qcbzjf2pgc9b.html",
+          "6": "https://vimeos.net/embed-1eft6yu8dh3t.html",
+          "5": "https://vimeos.net/embed-rk38dynriupb.html",
+          "7": "https://vimeos.net/embed-cqirtikb9tpo.html",
+          "3": "https://vimeos.net/embed-n6de1qrzakpn.html"
+        }
+      }
+    },
     {
       "id": "s_4681",
       "tmdb_id": 4681,
@@ -82,6 +123,7 @@
       ],
       "temporadas": {
         "1": {
+          "4": "https://vimeos.net/embed-nnwxl283sd7v.html",
           "2": "https://vimeos.net/embed-6205ep2ptr59.html",
           "1": "https://vimeos.net/embed-y1o5mkrujx0q.html",
           "3": "https://vimeos.net/embed-ne71kl2nuts5.html"
@@ -190,6 +232,7 @@
       ],
       "temporadas": {
         "5": {
+          "4": "https://vimeos.net/embed-qs8y1k2httw9.html",
           "2": "https://vimeos.net/embed-p6q5g4uhjor0.html",
           "1": "https://vimeos.net/embed-rxrytd7f505m.html",
           "3": "https://vimeos.net/embed-wzwf2t175z34.html"
@@ -35321,6 +35364,7 @@
       "temporadas": {
         "4": {
           "4": "https://vimeos.net/embed-y1nhwni22nwi.html",
+          "7": "https://vimeos.net/embed-m092chilyos7.html",
           "2": "https://vimeos.net/embed-sgm2j6fgie8d.html",
           "1": "https://vimeos.net/embed-onndjhjuskot.html",
           "6": "https://vimeos.net/embed-7p833vw7fzvh.html",
@@ -35350,7 +35394,8 @@
           "4": "https://vimeos.net/embed-fcli7hsldrc6.html",
           "8": [
             "https://vimeos.net/embed-xvs3d2fledft.html",
-            "https://vimeos.net/embed-m4jd6e5pzdik.html"
+            "https://vimeos.net/embed-m4jd6e5pzdik.html",
+            "https://vimeos.net/embed-kmky0rdu09e2.html"
           ],
           "2": "https://vimeos.net/embed-66g2znnrdzua.html",
           "1": "https://vimeos.net/embed-jzxgsvy35qao.html",
@@ -39255,7 +39300,8 @@
           "4": "https://vimeos.net/embed-21zmoqcjfchg.html",
           "2": "https://vimeos.net/embed-dfeftj4ycomv.html",
           "1": "https://vimeos.net/embed-53j4oh3d42u6.html",
-          "3": "https://vimeos.net/embed-t71gzw5tsbsy.html"
+          "3": "https://vimeos.net/embed-t71gzw5tsbsy.html",
+          "5": "https://vimeos.net/embed-ouuvy3if5s8b.html"
         },
         "1": {
           "4": "https://vimeos.net/embed-y8dnask4803z.html",
@@ -43156,6 +43202,11 @@
         "animacion"
       ],
       "temporadas": {
+        "2": {
+          "2": "https://vimeos.net/embed-bls6h264rhfe.html",
+          "1": "https://vimeos.net/embed-qfdqljbl55ha.html",
+          "3": "https://vimeos.net/embed-v1n6trlbx23p.html"
+        },
         "1": {
           "4": [
             "https://vimeos.net/embed-xiurw7d28moo.html",
@@ -121943,7 +121994,8 @@
         },
         "5": {
           "2": "https://vimeos.net/embed-4hzbwwahkqrc.html",
-          "1": "https://vimeos.net/embed-xgfrh5tjq4di.html"
+          "1": "https://vimeos.net/embed-xgfrh5tjq4di.html",
+          "3": "https://vimeos.net/embed-1qwt25f40hsz.html"
         }
       }
     },
@@ -125421,5 +125473,5 @@
       }
     }
   ],
-  "version": 48
+  "version": 49
 }
