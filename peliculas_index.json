@@ -1,7 +1,95 @@
 {
   "type": "peliculas",
-  "total": 12692,
+  "total": 12698,
   "items": [
+    {
+      "id": "p_1114072",
+      "tmdb_id": 1114072,
+      "nombre": "Frankenstein: Legacy",
+      "poster": "https://image.tmdb.org/t/p/w500/cnqyaHpZ7CpgKBlmBgbgqyKicJX.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "suspenso",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-mk3mtwbod1wv.html"
+        }
+      }
+    },
+    {
+      "id": "p_1620996",
+      "tmdb_id": 1620996,
+      "nombre": "La caja azul",
+      "poster": "https://image.tmdb.org/t/p/w500/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-m69szqiuvu4a.html"
+        }
+      }
+    },
+    {
+      "id": "p_1601797",
+      "tmdb_id": 1601797,
+      "nombre": "¿Quieres Ser Mi Novia?",
+      "poster": "https://image.tmdb.org/t/p/w500/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-6f66synz4pmt.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-st437lkbkn23.html"
+        }
+      }
+    },
+    {
+      "id": "p_1659087",
+      "tmdb_id": 1659087,
+      "nombre": "180",
+      "poster": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fvwnf5vpefdz.html"
+        }
+      }
+    },
+    {
+      "id": "p_203834",
+      "tmdb_id": 203834,
+      "nombre": "Jessabelle",
+      "poster": "https://image.tmdb.org/t/p/w500/9WP1ADKCeDG0avA0WSo4mUemTqW.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-d4y9j8jcksku.html"
+        }
+      }
+    },
+    {
+      "id": "p_455411",
+      "tmdb_id": 455411,
+      "nombre": "Tom y Jerry: Charlie y la Fábrica de Chocolate",
+      "poster": "https://image.tmdb.org/t/p/w500/brYKqjyoQ0Qrd8FEvJy7TopUBLS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j32n2v8sbm0g.html"
+        }
+      }
+    },
     {
       "id": "p_1511057",
       "tmdb_id": 1511057,
@@ -10,6 +98,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hhcxcplbcnq5.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-uz4jdw2ytoqq.html"
         }
@@ -23,6 +114,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ix28fm2g4h0z.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-ofamjf8qpqj8.html"
         }
@@ -140,6 +234,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-eckljeyv6pyp.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-t4x8wqi45ghq.html"
         }
@@ -684,6 +781,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-u7bpldmz1upv.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-1zgxm0htxann.html"
         }
@@ -853,6 +953,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-wzx3pqx7gaqj.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-jkbflbtkdlz7.html"
         }
@@ -90733,7 +90836,7 @@
       "tmdb_id": 4547,
       "nombre": "La habitación del pánico",
       "poster": "https://image.tmdb.org/t/p/w500/a4RVuYE53xDV8zlppZMVP2Z27gp.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "drama",
@@ -90742,6 +90845,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-hfpbj0f0v0ky.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-lahs3oerliy5.html"
         }
       }
     },
@@ -199653,5 +199759,5 @@
       }
     }
   ],
-  "version": 51
+  "version": 52
 }
