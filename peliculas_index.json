@@ -1,7 +1,46 @@
 {
   "type": "peliculas",
-  "total": 12698,
+  "total": 12701,
   "items": [
+    {
+      "id": "p_1634790",
+      "tmdb_id": 1634790,
+      "nombre": "Elimination Chamber",
+      "poster": "https://image.tmdb.org/t/p/w500/tlcqashIw55ptqJBRZ9997ZlGcZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-g7c79b4bh4mh.html"
+        }
+      }
+    },
+    {
+      "id": "p_239523",
+      "tmdb_id": 239523,
+      "nombre": "Hunter × Hunter: The Last Mission",
+      "poster": "https://image.tmdb.org/t/p/w500/ipCoFvEqXw2H1CBSBpai52OFuLE.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qh84quh7jesb.html"
+        }
+      }
+    },
+    {
+      "id": "p_968",
+      "tmdb_id": 968,
+      "nombre": "Tarde de perros",
+      "poster": "https://image.tmdb.org/t/p/w500/ctcUXNlnddo9ndUK0w7w6CZQpig.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5edvsk94c4ay.html"
+        }
+      }
+    },
     {
       "id": "p_1114072",
       "tmdb_id": 1114072,
@@ -2895,7 +2934,7 @@
           "fastream": "https://fastream.to/embed-spk81ma2vbzr.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-zw41vtdql41y.html"
+          "la_movie": "https://vimeos.net/embed-cfseiipp1io4.html"
         }
       }
     },
@@ -95631,7 +95670,7 @@
       "tmdb_id": 662237,
       "nombre": "Dulce y amargo",
       "poster": "https://image.tmdb.org/t/p/w500/rq7H7KIWBFwQ0kv72pQoSuhaUlr.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "romance",
@@ -95640,6 +95679,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-byh5816xob6d.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-rlx87jtbqior.html"
         }
       }
     },
@@ -145502,7 +145544,7 @@
       "tmdb_id": 225574,
       "nombre": "Non-Stop (Sin escalas)",
       "poster": "https://image.tmdb.org/t/p/w500/stLD2WGR848CLmxnuJpRi481qWb.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "suspenso",
@@ -145511,6 +145553,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-as7f4ioxrr7o.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5xiur0e974sd.html"
         }
       }
     },
@@ -199759,5 +199804,5 @@
       }
     }
   ],
-  "version": 52
+  "version": 53
 }
