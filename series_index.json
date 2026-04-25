@@ -1,7 +1,208 @@
 {
   "type": "series",
-  "total": 2937,
+  "total": 2938,
   "items": [
+    {
+      "id": "s_1622",
+      "tmdb_id": 1622,
+      "nombre": "Sobrenatural",
+      "poster": "https://image.tmdb.org/t/p/w500/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "categorias": [
+        "ficcion",
+        "misterio",
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "4": {
+          "4": "https://fastream.to/embed-hwz77g15hosu.html",
+          "2": "https://fastream.to/embed-8m6cduu66hmw.html",
+          "9": "https://fastream.to/embed-pri8icgms4su.html",
+          "19": "https://fastream.to/embed-ujnxxo5cbsek.html",
+          "6": "https://fastream.to/embed-m9qy66jlq10f.html",
+          "5": "https://fastream.to/embed-zxj6mw8kau1v.html",
+          "10": "https://fastream.to/embed-z2awss4sr2s7.html",
+          "11": "https://fastream.to/embed-3c8oxzd8fne1.html",
+          "17": "https://fastream.to/embed-7ou0nlkub6jy.html",
+          "7": "https://fastream.to/embed-t4ogxw2mw5rc.html",
+          "21": "https://fastream.to/embed-lwkrhibcq2un.html",
+          "8": "https://fastream.to/embed-1l2lr2fhf7sg.html",
+          "20": "https://fastream.to/embed-vm3aef4ckv4o.html",
+          "12": "https://fastream.to/embed-xd7s8cz8p4e6.html",
+          "1": "https://fastream.to/embed-aqtc2ak36v69.html",
+          "14": "https://fastream.to/embed-46dm8b7q6xv3.html",
+          "15": "https://fastream.to/embed-u1w4iub2b53d.html",
+          "18": "https://fastream.to/embed-ygaaft6mbj7f.html",
+          "13": "https://fastream.to/embed-kbn76sudp577.html",
+          "3": "https://fastream.to/embed-obo0vwh60j7z.html",
+          "22": "https://fastream.to/embed-usriy3app92t.html",
+          "16": "https://fastream.to/embed-y4n4uqbohg7l.html"
+        },
+        "8": {
+          "4": "https://fastream.to/embed-kdv8n33u76d2.html",
+          "23": "https://fastream.to/embed-reu2mcch3rse.html",
+          "2": "https://fastream.to/embed-96pp14o78d1s.html",
+          "9": "https://fastream.to/embed-hibw9ezoiwub.html",
+          "19": "https://fastream.to/embed-cijp0zq3n9qo.html",
+          "6": "https://fastream.to/embed-f8ufhoqhuaj9.html",
+          "5": "https://fastream.to/embed-r153bre7phov.html",
+          "10": "https://fastream.to/embed-bcbkolfehk4b.html",
+          "11": "https://fastream.to/embed-y71fe4jobajr.html",
+          "17": "https://fastream.to/embed-poc8fa2o9gc7.html",
+          "7": "https://fastream.to/embed-74c6z3khnpq9.html",
+          "21": "https://fastream.to/embed-vz2ti8dxocvi.html",
+          "8": "https://fastream.to/embed-lrkqx9ovctz1.html",
+          "20": "https://fastream.to/embed-cwnmukjl0f56.html",
+          "12": "https://fastream.to/embed-kahalrjfl79q.html",
+          "1": "https://fastream.to/embed-rezxh0t52cbd.html",
+          "14": "https://fastream.to/embed-yr9bpf1l9zt4.html",
+          "15": "https://fastream.to/embed-m95cgpw7ap34.html",
+          "18": "https://fastream.to/embed-85svg53cx5m8.html",
+          "13": "https://fastream.to/embed-apwvt21nd0iw.html",
+          "3": "https://fastream.to/embed-128meo7lxkoi.html",
+          "22": "https://fastream.to/embed-8hzg2c8jhpw1.html",
+          "16": "https://fastream.to/embed-17rkz24vwyb7.html"
+        },
+        "2": {
+          "4": "https://fastream.to/embed-2bgc260fuuz2.html",
+          "2": "https://fastream.to/embed-dphpwsud76f7.html",
+          "9": "https://fastream.to/embed-osn6b8gzot0c.html",
+          "19": "https://fastream.to/embed-mxi8r73sokfr.html",
+          "6": "https://fastream.to/embed-pa3bof25oc36.html",
+          "5": "https://fastream.to/embed-zwqwacco07dh.html",
+          "10": "https://fastream.to/embed-6ypul1kwa3hx.html",
+          "11": "https://fastream.to/embed-k88ijtq4imbf.html",
+          "17": "https://fastream.to/embed-ygycokieuedz.html",
+          "7": "https://fastream.to/embed-k8bdf3xzdgoc.html",
+          "21": "https://fastream.to/embed-xpcf3x70f5n4.html",
+          "8": "https://fastream.to/embed-j5pnhu0n8czo.html",
+          "20": "https://fastream.to/embed-lz1vm6qut0l4.html",
+          "12": "https://fastream.to/embed-2defsdtecn3b.html",
+          "1": "https://fastream.to/embed-4zapamypjqkt.html",
+          "14": "https://fastream.to/embed-nfwdlh9e8bji.html",
+          "15": "https://fastream.to/embed-i9ywcd0f3hvl.html",
+          "18": "https://fastream.to/embed-srn5z9rvynur.html",
+          "13": "https://fastream.to/embed-f4vi0czo84ol.html",
+          "3": "https://fastream.to/embed-zrgxubi2zjx7.html",
+          "22": "https://fastream.to/embed-pd30tv0sk78n.html",
+          "16": "https://fastream.to/embed-hs8cynli633z.html"
+        },
+        "1": {
+          "4": "https://fastream.to/embed-7vg2xo0u44ks.html",
+          "2": "https://fastream.to/embed-i648g0iasw0d.html",
+          "9": "https://fastream.to/embed-eion0p1yte8x.html",
+          "19": "https://fastream.to/embed-nu3pu3h12g0v.html",
+          "6": "https://fastream.to/embed-le5uzsw46ara.html",
+          "5": "https://fastream.to/embed-xhmg19vsjzoo.html",
+          "10": "https://fastream.to/embed-ru6u1xw8lciy.html",
+          "11": "https://fastream.to/embed-pmxhmv0etbp6.html",
+          "17": "https://fastream.to/embed-8t3tgp0pt150.html",
+          "7": "https://fastream.to/embed-9v9lc4csd7el.html",
+          "21": "https://fastream.to/embed-dluq5gmz88i6.html",
+          "8": "https://fastream.to/embed-pz15nhnht2y5.html",
+          "20": "https://fastream.to/embed-0ye5v4xk3ple.html",
+          "12": "https://fastream.to/embed-ds3v3lny7ez6.html",
+          "1": "https://fastream.to/embed-ewyo3lhcbd3g.html",
+          "14": "https://fastream.to/embed-t608dnmk13ck.html",
+          "15": "https://fastream.to/embed-8xuultzv6261.html",
+          "18": "https://fastream.to/embed-yxd74rydy0qo.html",
+          "13": "https://fastream.to/embed-qinskpz5wrl2.html",
+          "3": "https://fastream.to/embed-dgywuvdp4360.html",
+          "22": "https://fastream.to/embed-ok17urg5k5g2.html",
+          "16": "https://fastream.to/embed-hxe5ewqbpw9u.html"
+        },
+        "6": {
+          "4": "https://fastream.to/embed-lbx6c6dd7769.html",
+          "2": "https://fastream.to/embed-2xie21n7q5n5.html",
+          "9": "https://fastream.to/embed-rms03b44kmm2.html",
+          "19": "https://fastream.to/embed-ydrgwidzw3qe.html",
+          "6": "https://fastream.to/embed-36vsxr7ma9ye.html",
+          "5": "https://fastream.to/embed-47hbw4canxpx.html",
+          "10": "https://fastream.to/embed-gex5xei0cvgd.html",
+          "11": "https://fastream.to/embed-ibwmu2e3w6od.html",
+          "17": "https://fastream.to/embed-ut3ftcsjjddg.html",
+          "7": "https://fastream.to/embed-xoh801j27xn0.html",
+          "21": "https://fastream.to/embed-iok983kekxts.html",
+          "8": "https://fastream.to/embed-r0clnrf57vk9.html",
+          "20": "https://fastream.to/embed-it5szjl2a7gw.html",
+          "12": "https://fastream.to/embed-s6boro12na2u.html",
+          "1": "https://fastream.to/embed-yfif1143mqrd.html",
+          "14": "https://fastream.to/embed-v5ecp66iegim.html",
+          "15": "https://fastream.to/embed-ej71jq21preu.html",
+          "18": "https://fastream.to/embed-qvvsa360jh0l.html",
+          "13": "https://fastream.to/embed-i5xhuoicdk1q.html",
+          "3": "https://fastream.to/embed-eqw3dox6ej8z.html",
+          "22": "https://fastream.to/embed-fwbpuajk7ozp.html",
+          "16": "https://fastream.to/embed-ewzax65rjt6x.html"
+        },
+        "5": {
+          "4": "https://fastream.to/embed-4ss5ba8tpzv2.html",
+          "2": "https://fastream.to/embed-gp8y8jl3lxg2.html",
+          "9": "https://fastream.to/embed-qdo9f2vcqflm.html",
+          "19": "https://fastream.to/embed-43sha18z2cin.html",
+          "6": "https://fastream.to/embed-oz8vyumnzd1z.html",
+          "5": "https://fastream.to/embed-so5ryiyysiyp.html",
+          "10": "https://fastream.to/embed-o2vvjhl6pam9.html",
+          "11": "https://fastream.to/embed-qyuih3e2yub1.html",
+          "17": "https://fastream.to/embed-hukwghlal235.html",
+          "7": "https://fastream.to/embed-bhggk7d0ccl7.html",
+          "21": "https://fastream.to/embed-h6ss59wq2e6w.html",
+          "8": "https://fastream.to/embed-5h94uohueozu.html",
+          "20": "https://fastream.to/embed-cw0y1y2abxd9.html",
+          "12": "https://fastream.to/embed-g1osxtxhc1ev.html",
+          "1": "https://fastream.to/embed-d5q4fwkydsld.html",
+          "14": "https://fastream.to/embed-wn0n39xtn6lr.html",
+          "15": "https://fastream.to/embed-c87igetfc23m.html",
+          "18": "https://fastream.to/embed-sbuglsf8l4wv.html",
+          "13": "https://fastream.to/embed-otnae59n5sa2.html",
+          "3": "https://fastream.to/embed-zd5vb0exze1y.html",
+          "22": "https://fastream.to/embed-a96qg2ublhxg.html",
+          "16": "https://fastream.to/embed-lisi33tdzdn9.html"
+        },
+        "7": {
+          "4": "https://fastream.to/embed-rwa2pgdgq5ep.html",
+          "23": "https://fastream.to/embed-i6h00rlxaegz.html",
+          "2": "https://fastream.to/embed-oi6xdkt1j11n.html",
+          "9": "https://fastream.to/embed-0oh1gqp1q8dx.html",
+          "19": "https://fastream.to/embed-wl6vp1pa2d56.html",
+          "6": "https://fastream.to/embed-mzc0tppovu9n.html",
+          "5": "https://fastream.to/embed-0jeqtyvtirlu.html",
+          "10": "https://fastream.to/embed-vyw1jcbymni7.html",
+          "11": "https://fastream.to/embed-ftbbumtrky40.html",
+          "17": "https://fastream.to/embed-r6y0zt6rn3f1.html",
+          "7": "https://fastream.to/embed-kov9iws3vnbv.html",
+          "21": "https://fastream.to/embed-mbcga0nt7p89.html",
+          "8": "https://fastream.to/embed-za44th4zyzux.html",
+          "20": "https://fastream.to/embed-n7m9gcpnnn2r.html",
+          "12": "https://fastream.to/embed-37p9f0szzgyy.html",
+          "1": "https://fastream.to/embed-wmnuyk73j1hl.html",
+          "14": "https://fastream.to/embed-an57z7u9a2uo.html",
+          "15": "https://fastream.to/embed-e9bjrtwuq9fj.html",
+          "18": "https://fastream.to/embed-al2nr0yg9y7v.html",
+          "13": "https://fastream.to/embed-umi7j3jy9nmg.html",
+          "3": "https://fastream.to/embed-noj06x9ugm50.html",
+          "22": "https://fastream.to/embed-yqvkidwivtzx.html",
+          "16": "https://fastream.to/embed-owfnxztlfqod.html"
+        },
+        "3": {
+          "4": "https://fastream.to/embed-i6gc0u4b9461.html",
+          "2": "https://fastream.to/embed-4mtxd63mvsqm.html",
+          "9": "https://fastream.to/embed-jdrjle8g6gr1.html",
+          "6": "https://fastream.to/embed-w2mt94liiz6p.html",
+          "5": "https://fastream.to/embed-rk12n8bt3mn1.html",
+          "11": "https://fastream.to/embed-yygbpyvzz26n.html",
+          "7": "https://fastream.to/embed-s94wr3xntczv.html",
+          "8": "https://fastream.to/embed-o8x3jak4p3ow.html",
+          "14": "https://fastream.to/embed-vapustjnbsni.html",
+          "12": "https://fastream.to/embed-0olacbdunuzu.html",
+          "1": "https://fastream.to/embed-11rofgaz4cgv.html",
+          "15": "https://fastream.to/embed-s15cn3hlubsh.html",
+          "13": "https://fastream.to/embed-59aa2bounsri.html",
+          "3": "https://fastream.to/embed-h2nnls4ylyy3.html",
+          "16": "https://fastream.to/embed-nfyjnby7a698.html"
+        }
+      }
+    },
     {
       "id": "s_2203",
       "tmdb_id": 2203,
@@ -122019,17 +122220,14 @@
         "2": {
           "4": [
             "https://fastream.to/embed-c57g5lg0obn1.html",
-            "https://vimeos.net/embed-jhdtvhf252e0.html",
             "https://vimeos.net/embed-eqw3jcy7h20h.html"
           ],
           "8": [
             "https://fastream.to/embed-1p01we37so8i.html",
-            "https://vimeos.net/embed-zg9afdgzw4zx.html",
             "https://vimeos.net/embed-r415eyiy7az1.html"
           ],
           "2": [
             "https://fastream.to/embed-rdml8ysf47is.html",
-            "https://vimeos.net/embed-494nsuqxvkua.html",
             "https://vimeos.net/embed-0gyv37yt261o.html"
           ],
           "1": [
@@ -122039,34 +122237,28 @@
           "6": [
             "https://fastream.to/embed-z4hluutp4hxg.html",
             "https://goodstream.uno/video/embed/4f0c6fa52c338ea6",
-            "https://la.movie/embed.html?v=1",
             "https://vimeos.net/embed-nt84vdtssaca.html"
           ],
           "5": [
             "https://fastream.to/embed-mvcrcgfz9262.html",
-            "https://vimeos.net/embed-734q2o4l6j9c.html",
             "https://vimeos.net/embed-pfihcglpvbf6.html"
           ],
           "7": [
             "https://fastream.to/embed-r3e33rvt8nzt.html",
-            "https://vimeos.net/embed-gpyqn98c8jhl.html",
             "https://vimeos.net/embed-h1vyhfuthn4b.html"
           ],
           "3": [
             "https://fastream.to/embed-sv8klgkl89nd.html",
-            "https://vimeos.net/embed-tdw2r8iqtn3e.html",
             "https://vimeos.net/embed-zato8lc0l775.html"
           ]
         },
         "1": {
           "4": [
             "https://fastream.to/embed-zcn3y0k6lcax.html",
-            "https://vimeos.net/embed-47h1z3wxgxed.html",
             "https://vimeos.net/embed-bfiblhsvn4fq.html"
           ],
           "8": [
             "https://fastream.to/embed-6uij5mhmstmd.html",
-            "https://vimeos.net/embed-kf5r6budq607.html",
             "https://vimeos.net/embed-gfjfe7hpcra4.html"
           ],
           "2": [
@@ -122097,31 +122289,25 @@
         "3": {
           "4": [
             "https://fastream.to/embed-qighekaqj765.html",
-            "https://vimeos.net/embed-l026psk78or0.html",
             "https://vimeos.net/embed-0jw9cdagu8xh.html"
           ],
           "8": "https://vimeos.net/embed-0cs33mc1b6ey.html",
           "2": [
             "https://fastream.to/embed-inhrt1ozxvqm.html",
-            "https://vimeos.net/embed-8twmc46oq8ac.html",
             "https://vimeos.net/embed-zz121sird03h.html"
           ],
           "1": [
-            "https://fastream.to/embed-nrmm9nrwryls.html",
             "https://vimeos.net/embed-732lkg0ljfbl.html"
           ],
           "6": [
-            "https://vimeos.net/embed-447vqkgcmvwd.html",
             "https://vimeos.net/embed-2pte41duesdm.html"
           ],
           "5": [
-            "https://vimeos.net/embed-xlkubklrw2x1.html",
             "https://vimeos.net/embed-xqwcexzqjkxk.html"
           ],
           "7": "https://vimeos.net/embed-x197ckmdu6zw.html",
           "3": [
             "https://fastream.to/embed-u8tk0t4x41bt.html",
-            "https://vimeos.net/embed-4ruk6lnhz892.html",
             "https://vimeos.net/embed-7sqvgcg68fst.html"
           ]
         }
@@ -126027,5 +126213,5 @@
       }
     }
   ],
-  "version": 53
+  "version": 54
 }
