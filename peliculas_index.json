@@ -1,7 +1,420 @@
 {
   "type": "peliculas",
-  "total": 12704,
+  "total": 12730,
   "items": [
+    {
+      "id": "p_1325734",
+      "tmdb_id": 1325734,
+      "nombre": "El Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg",
+      "calidad": null,
+      "generos": [
+        "romance",
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-s1d6vw5a537o.html"
+        }
+      }
+    },
+    {
+      "id": "p_1416391",
+      "tmdb_id": 1416391,
+      "nombre": "La tostadora",
+      "poster": "https://image.tmdb.org/t/p/w500/2tTUscTlshVovvUnk1qlkQrkbum.jpg",
+      "calidad": null,
+      "generos": [
+        "comedia",
+        "crimen",
+        "accion"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-hzeg7jubjao1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1418657",
+      "tmdb_id": 1418657,
+      "nombre": "The Yeti",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "calidad": null,
+      "generos": [
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-tiyrzmsg4on2.html"
+        }
+      }
+    },
+    {
+      "id": "p_1196656",
+      "tmdb_id": 1196656,
+      "nombre": "Sugar Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/qAY9EYEvIbD645IgdTWddNZPINY.jpg",
+      "calidad": null,
+      "generos": [
+        "romance"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-ep7bdmhsly8b.html"
+        }
+      }
+    },
+    {
+      "id": "p_891584",
+      "tmdb_id": 891584,
+      "nombre": "La historia del sonido",
+      "poster": "https://image.tmdb.org/t/p/w500/t0XQaFunpuCwDxGEm1PcQCFSEKL.jpg",
+      "calidad": null,
+      "generos": [
+        "drama",
+        "romance",
+        "musica"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-vf1mcuizagjm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1230052",
+      "tmdb_id": 1230052,
+      "nombre": "Winterset",
+      "poster": "https://image.tmdb.org/t/p/w500/k8ZlT5VMv3HaD8Up2afmaXnjiDf.jpg",
+      "calidad": null,
+      "generos": [
+        "accion",
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-dsu1467s6du9.html"
+        }
+      }
+    },
+    {
+      "id": "p_1477836",
+      "tmdb_id": 1477836,
+      "nombre": "Bone Keeper",
+      "poster": "https://image.tmdb.org/t/p/w500/fTUloMRssypzehEwNBjVegvCLTy.jpg",
+      "calidad": null,
+      "generos": [
+        "terror",
+        "aventura",
+        "ficcion"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-5ap1gecxpty2.html"
+        }
+      }
+    },
+    {
+      "id": "p_1154728",
+      "tmdb_id": 1154728,
+      "nombre": "Six jours, ce printemps-là",
+      "poster": "https://image.tmdb.org/t/p/w500/aBG3mjAD5gjYzRcyIBzIwc2Zyn0.jpg",
+      "calidad": null,
+      "generos": [
+        "drama",
+        "comedia"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-quj5277rabeg.html"
+        }
+      }
+    },
+    {
+      "id": "p_1341137",
+      "tmdb_id": 1341137,
+      "nombre": "A Great Awakening",
+      "poster": "https://image.tmdb.org/t/p/w500/rd7BsFaHO7JaYlz3WHUvqHjgm60.jpg",
+      "calidad": null,
+      "generos": [
+        "drama",
+        "historia"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-s6uspgzkajcl.html"
+        }
+      }
+    },
+    {
+      "id": "p_1594935",
+      "tmdb_id": 1594935,
+      "nombre": "A Ride with Forever",
+      "poster": "https://image.tmdb.org/t/p/w500/hAYAdl1zZswo5uxoCCVhZHT98U8.jpg",
+      "calidad": null,
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-viaq0vf13zzo.html"
+        }
+      }
+    },
+    {
+      "id": "p_1637126",
+      "tmdb_id": 1637126,
+      "nombre": "Sorority House Guillotine",
+      "poster": "https://image.tmdb.org/t/p/w500/6BY5mgun5TH3yDM59HRq6sRKsXC.jpg",
+      "calidad": null,
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-ordybgprg76p.html"
+        }
+      }
+    },
+    {
+      "id": "p_1653524",
+      "tmdb_id": 1653524,
+      "nombre": "The Boy by the Pool",
+      "poster": "https://image.tmdb.org/t/p/w500/pvO6wAGik1imPhDzFXj9MqDRCAx.jpg",
+      "calidad": null,
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-xwp87qtdqkvz.html"
+        }
+      }
+    },
+    {
+      "id": "p_134719",
+      "tmdb_id": 134719,
+      "nombre": "Immortal Combat",
+      "poster": "https://image.tmdb.org/t/p/w500/fvyAZXre10RgQPwXIQrouFdPDGV.jpg",
+      "calidad": null,
+      "generos": [
+        "aventura",
+        "accion",
+        "fantasia"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-a84evf542j0c.html"
+        }
+      }
+    },
+    {
+      "id": "p_392583",
+      "tmdb_id": 392583,
+      "nombre": "Murder in Music City",
+      "poster": "https://image.tmdb.org/t/p/w500/aicnHTgP7ZqfRcA2u2cHwnkEsLc.jpg",
+      "calidad": null,
+      "generos": [
+        "comedia",
+        "misterio"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-00okytdywkn8.html"
+        }
+      }
+    },
+    {
+      "id": "p_1440304",
+      "tmdb_id": 1440304,
+      "nombre": "Mauvaise Pioche",
+      "poster": "https://image.tmdb.org/t/p/w500/bLKDM4BEowhzck0Bdhy2hbMDecp.jpg",
+      "calidad": null,
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-z2ag15and8zv.html"
+        }
+      }
+    },
+    {
+      "id": "p_938150",
+      "tmdb_id": 938150,
+      "nombre": "Wardriver",
+      "poster": "https://image.tmdb.org/t/p/w500/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg",
+      "calidad": null,
+      "generos": [
+        "crimen",
+        "suspenso"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-kfoithrzjnbi.html"
+        }
+      }
+    },
+    {
+      "id": "p_936075",
+      "tmdb_id": 936075,
+      "nombre": "Michael",
+      "poster": "https://image.tmdb.org/t/p/w500/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
+      "calidad": null,
+      "generos": [
+        "musica",
+        "drama"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-r63aqo91v25t.html"
+        }
+      }
+    },
+    {
+      "id": "p_1173129",
+      "tmdb_id": 1173129,
+      "nombre": "Leopardi & Co",
+      "poster": "https://image.tmdb.org/t/p/w500/pvB3QU4X0xzZb1FmVbN4QzJHncM.jpg",
+      "calidad": null,
+      "generos": [
+        "romance"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-1bqqqgjm9ww1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1254800",
+      "tmdb_id": 1254800,
+      "nombre": "Le cri des gardes",
+      "poster": "https://image.tmdb.org/t/p/w500/8yKhroZcepZ8qNzYHJIEWRuXFW4.jpg",
+      "calidad": null,
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-m7ablv7rv61d.html"
+        }
+      }
+    },
+    {
+      "id": "p_1282404",
+      "tmdb_id": 1282404,
+      "nombre": "ريستارت",
+      "poster": "https://image.tmdb.org/t/p/w500/rD2D51wo3jaOIYGATsfKUEAqefz.jpg",
+      "calidad": null,
+      "generos": [
+        "drama",
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-urds6mj1hw1i.html"
+        }
+      }
+    },
+    {
+      "id": "p_787844",
+      "tmdb_id": 787844,
+      "nombre": "Newborn",
+      "poster": "https://image.tmdb.org/t/p/w500/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
+      "calidad": null,
+      "generos": [
+        "drama",
+        "crimen"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-v9h8urmt9a9g.html"
+        }
+      }
+    },
+    {
+      "id": "p_134362",
+      "tmdb_id": 134362,
+      "nombre": "La bestia",
+      "poster": "https://image.tmdb.org/t/p/w500/kLTfbB6JiuN4QSDxSEtoYuA5sG5.jpg",
+      "calidad": null,
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-3hhnhemmkv5w.html"
+        }
+      }
+    },
+    {
+      "id": "p_1437939",
+      "tmdb_id": 1437939,
+      "nombre": "Cocorico 2",
+      "poster": "https://image.tmdb.org/t/p/w500/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
+      "calidad": null,
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-klr04tsyt253.html"
+        }
+      }
+    },
+    {
+      "id": "p_1324136",
+      "tmdb_id": 1324136,
+      "nombre": "الشاطر",
+      "poster": "https://image.tmdb.org/t/p/w500/f1svHZaMn2Ig3iZR5u1S5d8ZcGp.jpg",
+      "calidad": null,
+      "generos": [
+        "comedia",
+        "accion"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-vlp6lbhbnyyq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1304313",
+      "tmdb_id": 1304313,
+      "nombre": "La posesión de la momia",
+      "poster": "https://image.tmdb.org/t/p/w500/zm16gUNapNhiAde8XknKbysG6FJ.jpg",
+      "calidad": null,
+      "generos": [
+        "terror",
+        "misterio"
+      ],
+      "fuentes": {
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-sn7rstf233jn.html"
+        }
+      }
+    },
+    {
+      "id": "p_1318447",
+      "tmdb_id": 1318447,
+      "nombre": "Depredador dominante",
+      "poster": "https://image.tmdb.org/t/p/w500/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1jat4owoqebm.html"
+        }
+      }
+    },
     {
       "id": "p_1292695",
       "tmdb_id": 1292695,
@@ -112,6 +525,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-m69szqiuvu4a.html"
+        },
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-eflvcmbcbcw0.html"
         }
       }
     },
@@ -837,6 +1253,9 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-pbwkokrx2xld.html"
+        },
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-v5e11vtnwt14.html"
         }
       }
     },
@@ -30032,6 +30451,9 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-33i37yyx29fp.html"
+        },
+        "latino": {
+          "vimeos": "https://vimeos.net/embed-hjoksoddr0l2.html"
         }
       }
     },
@@ -199842,5 +200264,5 @@
       }
     }
   ],
-  "version": 54
+  "version": 55
 }
