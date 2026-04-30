@@ -1,7 +1,460 @@
 {
   "type": "peliculas",
-  "total": 12730,
+  "total": 12761,
   "items": [
+    {
+      "id": "p_1641965",
+      "tmdb_id": 1641965,
+      "nombre": "Untold: Jail Blazers",
+      "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/sqv40wu0cxtu"
+          },
+          "Streamwish": {
+            "HD": "https://hglink.to/e/girvvvgvx4re"
+          },
+          "Earnvids": {
+            "HD": "https://minochinos.com/embed/3ak8ovbn2c2m"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1663942",
+      "tmdb_id": 1663942,
+      "nombre": "The Heartbreak Kid: Becoming Shawn Michaels",
+      "poster": "https://image.tmdb.org/t/p/w500/xDOIl6WfUQFJOIjUP2HJBPbwEcJ.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/tgge2yorc4jj"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1263249",
+      "tmdb_id": 1263249,
+      "nombre": "Sentinel",
+      "poster": "https://image.tmdb.org/t/p/w500/o5S5MZcjqETfOghSt5ekw78m7gX.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/jzvtcydelw7s"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1352874",
+      "tmdb_id": 1352874,
+      "nombre": "The Crucifix: Blood of the Exorcist",
+      "poster": "https://image.tmdb.org/t/p/w500/iGDTo2uEUppEipTZjmEy6R72gwV.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/bolg8xm08z4z"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1623125",
+      "tmdb_id": 1623125,
+      "nombre": "Una historia de gorilas contada por David Attenborough",
+      "poster": "https://image.tmdb.org/t/p/w500/clNFM3SfwVPZ8snSCnKVSPSdxWA.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/kkly4wkcypeg"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1036487",
+      "tmdb_id": 1036487,
+      "nombre": "Eflâtun",
+      "poster": "https://image.tmdb.org/t/p/w500/xExjJp5aU7Sdh81TeGR8fbKxEiv.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/yyyb2xpipzzi"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1001292",
+      "tmdb_id": 1001292,
+      "nombre": "La red fantasma",
+      "poster": "https://image.tmdb.org/t/p/w500/7GoABi1iqWfS0QbhocTe0ZM8INM.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/tyuzsba5dhjt"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1352643",
+      "tmdb_id": 1352643,
+      "nombre": "Never Blink",
+      "poster": "https://image.tmdb.org/t/p/w500/b2TeT4RNiP2uNYrYYiOXzSg3qg6.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/tnmroelmnryu"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1127375",
+      "tmdb_id": 1127375,
+      "nombre": "The Notorious Finster",
+      "poster": "https://image.tmdb.org/t/p/w500/va4Cgt3a2sRf7RolGk15SLKHCyE.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/mvfpfyggfknh"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1192776",
+      "tmdb_id": 1192776,
+      "nombre": "Ospina Cali Colombia",
+      "poster": "https://image.tmdb.org/t/p/w500/lEig1c0vCzXFsxDXiYNaVLbQLiC.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/x5ckm8x275gf"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1391074",
+      "tmdb_id": 1391074,
+      "nombre": "Busboys",
+      "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/wn3zfolylhno"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1231695",
+      "tmdb_id": 1231695,
+      "nombre": "A metros de distancia",
+      "poster": "https://image.tmdb.org/t/p/w500/A3tEYeLijo1PWXZLTckVSM05YVX.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/ngjvmjkcnxi3"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_829487",
+      "tmdb_id": 829487,
+      "nombre": "Je m'appelle Agneta",
+      "poster": "https://image.tmdb.org/t/p/w500/4D2Mj3oyCx9PsYl8GPv0O0rIprt.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/jq7mlyvaqu4m"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1159775",
+      "tmdb_id": 1159775,
+      "nombre": "Cuando Duerme Conmigo",
+      "poster": "https://image.tmdb.org/t/p/w500/xFnKvbUKyEfQVUytVmeXHwPKyxC.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/cqivhrqdmvrx"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1314481",
+      "tmdb_id": 1314481,
+      "nombre": "El diablo viste de Prada 2",
+      "poster": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/ozei46nv1pik"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1198877",
+      "tmdb_id": 1198877,
+      "nombre": "Il corpo",
+      "poster": "https://image.tmdb.org/t/p/w500/oCje3DzrJISfLFXbQ4LvFUM8BcG.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/pn7bwux9aq8s"
+          },
+          "Streamwish": {
+            "HD": "https://streamwish.to/e/j545k0jbu1im"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1242332",
+      "tmdb_id": 1242332,
+      "nombre": "Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/cbu9fmbvgew3"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1641966",
+      "tmdb_id": 1641966,
+      "nombre": "Secretos del deporte: El tiroteo en Hawthorne Hill",
+      "poster": "https://image.tmdb.org/t/p/w500/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/j6lwlsbszgo0"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_8247",
+      "tmdb_id": 8247,
+      "nombre": "Jumper",
+      "poster": "https://image.tmdb.org/t/p/w500/jtd5jdh3rquFMr25qoRAENwlwa7.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-oyhfqb97857k.html"
+        }
+      }
+    },
+    {
+      "id": "p_17680",
+      "tmdb_id": 17680,
+      "nombre": "The Girlfriend Experience",
+      "poster": "https://image.tmdb.org/t/p/w500/8hIdqIaQVNsEh4FB3nAhCXMSVWJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e8nk0ubo8yxd.html"
+        }
+      }
+    },
+    {
+      "id": "p_635037",
+      "tmdb_id": 635037,
+      "nombre": "Claudia No Se Quiere Morir",
+      "poster": "https://image.tmdb.org/t/p/w500/rAReK0MpZ0zDb5deyoayzj4AdaY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fxpbn0m831ic.html"
+        }
+      }
+    },
+    {
+      "id": "p_76487",
+      "tmdb_id": 76487,
+      "nombre": "Devil Inside",
+      "poster": "https://image.tmdb.org/t/p/w500/e0wphqZ4Ll36c6p9ndTumiyQUNt.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qnw77be0qsht.html"
+        }
+      }
+    },
+    {
+      "id": "p_30061",
+      "tmdb_id": 30061,
+      "nombre": "La Liga de la Justicia: Crisis en dos tierras",
+      "poster": "https://image.tmdb.org/t/p/w500/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1a3gcmqwp2df.html"
+        }
+      }
+    },
+    {
+      "id": "p_873744",
+      "tmdb_id": 873744,
+      "nombre": "Bury the Past",
+      "poster": "https://image.tmdb.org/t/p/w500/omQn8kFk0HIApyXC7qP02A8F1eO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0y5d94hp4mah.html"
+        }
+      }
+    },
+    {
+      "id": "p_1503900",
+      "tmdb_id": 1503900,
+      "nombre": "Halloween: La noche del espantapajaros",
+      "poster": "https://image.tmdb.org/t/p/w500/sYDbxAPS7pD5S1HBvwvhvh80fxr.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4x32myduv89g.html"
+        }
+      }
+    },
+    {
+      "id": "p_259316",
+      "tmdb_id": 259316,
+      "nombre": "Animales fantásticos y dónde encontrarlos",
+      "poster": "https://image.tmdb.org/t/p/w500/wduJFXlHQTIw1TBf6kTO3bHf2VN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gva8zufrm3n1.html"
+        }
+      }
+    },
+    {
+      "id": "p_659254",
+      "tmdb_id": 659254,
+      "nombre": "Espada De La Venganza: Hasta La Última Línea",
+      "poster": "https://image.tmdb.org/t/p/w500/9Wsuif25W78dd8wfNtYDNY2wod3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5f1mck8xgyyy.html"
+        }
+      }
+    },
+    {
+      "id": "p_817889",
+      "tmdb_id": 817889,
+      "nombre": "Condena De Amor",
+      "poster": "https://image.tmdb.org/t/p/w500/nRpFOAAzylwqgIa3FIlVaEWqgMa.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-c8ix8017hum0.html"
+        }
+      }
+    },
+    {
+      "id": "p_892835",
+      "tmdb_id": 892835,
+      "nombre": "El libro del amor",
+      "poster": "https://image.tmdb.org/t/p/w500/wmV65p9u3aET87uZL2eq4hzcUtv.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sxo4vy0gna99.html"
+        }
+      }
+    },
+    {
+      "id": "p_1510787",
+      "tmdb_id": 1510787,
+      "nombre": "The Wife Who Knew Too Much",
+      "poster": "https://image.tmdb.org/t/p/w500/beCS9cOAQdaNzagoV0EupX5bCWG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0yoqrkccbju9.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/flglljpabzsi"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1247593",
+      "tmdb_id": 1247593,
+      "nombre": "La llegada del hijo",
+      "poster": "https://image.tmdb.org/t/p/w500/c1Hx2dIiYT1D0bdlRBIJ86rCkNM.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kk4hft7libsl.html"
+        }
+      }
+    },
     {
       "id": "p_1325734",
       "tmdb_id": 1325734,
@@ -32,6 +485,9 @@
       ],
       "fuentes": {
         "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/pymjdwde4ruo"
+          },
           "vimeos": "https://vimeos.net/embed-hzeg7jubjao1.html"
         }
       }
@@ -114,7 +570,13 @@
       ],
       "fuentes": {
         "latino": {
-          "vimeos": "https://vimeos.net/embed-5ap1gecxpty2.html"
+          "Voe": {
+            "CAM": "https://voe.sx/e/cm1h8u2ulcbf"
+          },
+          "vimeos": "https://vimeos.net/embed-5ap1gecxpty2.html",
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/rhv3k1zzwp4l"
+          }
         }
       }
     },
@@ -146,7 +608,13 @@
       ],
       "fuentes": {
         "latino": {
-          "vimeos": "https://vimeos.net/embed-s6uspgzkajcl.html"
+          "Voe": {
+            "CAM": "https://voe.sx/e/bommwysaxfvr"
+          },
+          "vimeos": "https://vimeos.net/embed-s6uspgzkajcl.html",
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/pgyun9dza44y"
+          }
         }
       }
     },
@@ -193,15 +661,18 @@
       ],
       "fuentes": {
         "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/acvtrlg644pr"
+          },
           "vimeos": "https://vimeos.net/embed-xwp87qtdqkvz.html"
         }
       }
     },
     {
-      "id": "p_134719",
-      "tmdb_id": 134719,
+      "id": "p_1656061",
+      "tmdb_id": 1656061,
       "nombre": "Immortal Combat",
-      "poster": "https://image.tmdb.org/t/p/w500/fvyAZXre10RgQPwXIQrouFdPDGV.jpg",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-L_nCrgNWEBJbSsoZD_VXhTJGlg4jKubwMA&s",
       "calidad": null,
       "generos": [
         "aventura",
@@ -241,7 +712,13 @@
       ],
       "fuentes": {
         "latino": {
-          "vimeos": "https://vimeos.net/embed-z2ag15and8zv.html"
+          "Voe": {
+            "CAM": "https://voe.sx/e/9nyflazrcp4w"
+          },
+          "vimeos": "https://vimeos.net/embed-z2ag15and8zv.html",
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/xjnptwk5zfrq"
+          }
         }
       }
     },
@@ -288,7 +765,13 @@
       ],
       "fuentes": {
         "latino": {
-          "vimeos": "https://vimeos.net/embed-1bqqqgjm9ww1.html"
+          "Voe": {
+            "SCR": "https://voe.sx/e/lnz6brgmz512"
+          },
+          "vimeos": "https://vimeos.net/embed-1bqqqgjm9ww1.html",
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/rkb1cveiwzjq"
+          }
         }
       }
     },
@@ -320,7 +803,13 @@
       ],
       "fuentes": {
         "latino": {
-          "vimeos": "https://vimeos.net/embed-urds6mj1hw1i.html"
+          "Voe": {
+            "SCR": "https://voe.sx/e/eki72ysbd2pt"
+          },
+          "vimeos": "https://vimeos.net/embed-urds6mj1hw1i.html",
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/wsgkkob3pb3x"
+          }
         }
       }
     },
@@ -382,15 +871,21 @@
       ],
       "fuentes": {
         "latino": {
-          "vimeos": "https://vimeos.net/embed-vlp6lbhbnyyq.html"
+          "Voe": {
+            "SCR": "https://voe.sx/e/uxiz1lcus7wj"
+          },
+          "vimeos": "https://vimeos.net/embed-vlp6lbhbnyyq.html",
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/np6j46j2h5ql"
+          }
         }
       }
     },
     {
       "id": "p_1304313",
       "tmdb_id": 1304313,
-      "nombre": "La posesión de la momia",
-      "poster": "https://image.tmdb.org/t/p/w500/zm16gUNapNhiAde8XknKbysG6FJ.jpg",
+      "nombre": "La momia de Lee Cronin",
+      "poster": "https://image.tmdb.org/t/p/w500/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "calidad": null,
       "generos": [
         "terror",
@@ -398,6 +893,9 @@
       ],
       "fuentes": {
         "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/cikq12xbbywt"
+          },
           "vimeos": "https://vimeos.net/embed-sn7rstf233jn.html"
         }
       }
@@ -412,6 +910,11 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-1jat4owoqebm.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/ynk8wwn9o7vw"
+          }
         }
       }
     },
@@ -420,9 +923,12 @@
       "tmdb_id": 1292695,
       "nombre": "Te van a matar",
       "poster": "https://image.tmdb.org/t/p/w500/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-el3acalc2g0m.html"
+        },
         "latino": {
           "Voe": {
             "CAM": "https://voe.sx/e/vyyk7jycujqy"
@@ -527,6 +1033,9 @@
           "fastream": "https://fastream.to/embed-m69szqiuvu4a.html"
         },
         "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/yiooa1eijx9h"
+          },
           "vimeos": "https://vimeos.net/embed-eflvcmbcbcw0.html"
         }
       }
@@ -534,7 +1043,7 @@
     {
       "id": "p_1601797",
       "tmdb_id": 1601797,
-      "nombre": "¿Quieres Ser Mi Novia?",
+      "nombre": "¿Quieres ser mi novia?",
       "poster": "https://image.tmdb.org/t/p/w500/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
       "calidad": "4K",
       "generos": [],
@@ -544,6 +1053,11 @@
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-st437lkbkn23.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/cvdvmkn7ryxr"
+          }
         }
       }
     },
@@ -557,6 +1071,11 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-fvwnf5vpefdz.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/96loupdjdid4"
+          }
         }
       }
     },
@@ -599,6 +1118,11 @@
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-uz4jdw2ytoqq.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/w5ba69crwccv"
+          }
         }
       }
     },
@@ -641,6 +1165,17 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-p1avbky620o4.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/jgcxpniiqfl8"
+          },
+          "Streamwish": {
+            "HD": "https://hglink.to/e/s0afwysr93wc"
+          },
+          "Earnvids": {
+            "HD": "https://minochinos.com/embed/4bfwnftoz4y6"
+          }
         }
       }
     },
@@ -813,6 +1348,11 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-1m5jgu0xv11l.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/pmq3hi27vnwt"
+          }
         }
       }
     },
@@ -846,12 +1386,20 @@
       "id": "p_1056719",
       "tmdb_id": 1056719,
       "nombre": "Terror Firma",
-      "poster": "https://image.tmdb.org/t/p/w500/9xHnEDEcvZjJDSn2sJ8kYZyepxR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/h8vBgYWoKgvUXEW2DC3RUyx8ncD.jpg",
       "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-1odbgp5m9fa7.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/xnlfko0nq9ai"
+          },
+          "Streamwish": {
+            "HD": "https://streamwish.to/e/ve23teli8awa"
+          }
         }
       }
     },
@@ -2172,7 +2720,7 @@
       "tmdb_id": 1327819,
       "nombre": "Hoppers",
       "poster": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "familia",
@@ -2182,6 +2730,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-rj81v8qdcd87.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-s5ra3m5kcf83.html"
         }
       }
     },
@@ -3394,7 +3945,7 @@
           "fastream": "https://fastream.to/embed-spk81ma2vbzr.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-cfseiipp1io4.html"
+          "la_movie": "https://vimeos.net/embed-y2b4bmk3iqti.html"
         }
       }
     },
@@ -14497,7 +15048,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-9q3pl6w71s2b.html"
+          "la_movie": "https://vimeos.net/embed-2c4vxmic9u2q.html"
         }
       }
     },
@@ -17740,7 +18291,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-b9ndtepqzs2n.html"
+          "la_movie": "https://vimeos.net/embed-d18iqnwf71u8.html"
         }
       }
     },
@@ -22195,7 +22746,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-icgmlj1lu1oy.html"
+          "la_movie": "https://vimeos.net/embed-jv0k58y2kjua.html"
         }
       }
     },
@@ -176509,7 +177060,7 @@
       "tmdb_id": 914216,
       "nombre": "The Lost King",
       "poster": "https://image.tmdb.org/t/p/w500/gIlAilmsxlNPr9AUWdSWM1pVf0I.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "drama",
@@ -176518,6 +177069,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-o2sqipktcyly.html"
+        },
+        "español castellano": {
+          "la_movie": "https://la.movie/embed.html?v=1"
         }
       }
     },
@@ -200264,5 +200818,5 @@
       }
     }
   ],
-  "version": 55
+  "version": 56
 }
