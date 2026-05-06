@@ -1,7 +1,59 @@
 {
   "type": "peliculas",
-  "total": 12778,
+  "total": 12782,
   "items": [
+    {
+      "id": "p_13151",
+      "tmdb_id": 13151,
+      "nombre": "Scooby-Doo en la isla de los zombies",
+      "poster": "https://image.tmdb.org/t/p/w500/la1xrRWrs8lmrxWNnho92ivgRmT.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3g7y2psfwk9b.html"
+        }
+      }
+    },
+    {
+      "id": "p_1472638",
+      "tmdb_id": 1472638,
+      "nombre": "Buen Camino",
+      "poster": "https://image.tmdb.org/t/p/w500/xqnLxbA4Ak4kew3CrcFLTXksh4a.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-30x0whhmjgdf.html"
+        }
+      }
+    },
+    {
+      "id": "p_13413",
+      "tmdb_id": 13413,
+      "nombre": "BURN·E",
+      "poster": "https://image.tmdb.org/t/p/w500/zQ7FsHbl2r75tfhqaU1vGNtK1Ec.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-oc9bgq18mcen.html"
+        }
+      }
+    },
+    {
+      "id": "p_15159",
+      "tmdb_id": 15159,
+      "nombre": "La pantera rosa 2",
+      "poster": "https://image.tmdb.org/t/p/w500/iBcd8bJIgIaKCGNFp6SjWaqZnQh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bhowqw4uf5ic.html"
+        }
+      }
+    },
     {
       "id": "p_1146239",
       "tmdb_id": 1146239,
@@ -142,6 +194,14 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-bz05oo67egjf.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/dud0vkhzgrrt"
+          },
+          "Player4me": {
+            "HD": "https://pj.player4me.vip/#9dxhx"
+          }
         }
       }
     },
@@ -966,7 +1026,7 @@
       "id": "p_936075",
       "tmdb_id": 936075,
       "nombre": "Michael",
-      "poster": "https://image.tmdb.org/t/p/w500/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "calidad": null,
       "generos": [
         "musica",
@@ -974,7 +1034,9 @@
       ],
       "fuentes": {
         "latino": {
-          "vimeos": "https://vimeos.net/embed-r63aqo91v25t.html"
+          "Voe": {
+            "CAM": "https://voe.sx/e/ana8obfvyops"
+          }
         }
       }
     },
@@ -96422,7 +96484,7 @@
       "tmdb_id": 463022,
       "nombre": "The Super",
       "poster": "https://image.tmdb.org/t/p/w500/1No4DWiCA7QiVwz3CghUQ6X8PMJ.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso",
         "terror"
@@ -96430,6 +96492,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-lvcjqjopo0c5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-b2oejt6nl73e.html"
         }
       }
     },
@@ -98644,7 +98709,7 @@
           "fastream": "https://fastream.to/embed-ognqu9wlyohl.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-4axnr2z7pl9x.html"
+          "la_movie": "https://vimeos.net/embed-5wlva5nb7k2q.html"
         }
       }
     },
@@ -128993,7 +129058,7 @@
       "tmdb_id": 17445,
       "nombre": "Linterna Verde: Primer vuelo",
       "poster": "https://image.tmdb.org/t/p/w500/pEreGSA55Jjky2RBZsj3vgGM96U.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "aventura",
@@ -129004,6 +129069,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-2mj4z6h73t8y.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4ib29m3gow91.html"
         }
       }
     },
@@ -138738,7 +138806,7 @@
       "tmdb_id": 296867,
       "nombre": "El Jeremías",
       "poster": "https://image.tmdb.org/t/p/w500/A0q8bzwaPUhmWBcS52YfH5QDNMw.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "familia",
         "comedia",
@@ -138747,6 +138815,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-3tilcoi1xktb.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-d02iwsjuqyh3.html"
         }
       }
     },
@@ -191804,7 +191875,7 @@
       "tmdb_id": 1266127,
       "nombre": "Noche de bodas 2",
       "poster": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "comedia"
@@ -191812,6 +191883,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-h2940svxznbj.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-atr2kcr7nfb7.html"
         }
       }
     },
@@ -201066,5 +201140,5 @@
       }
     }
   ],
-  "version": 57
+  "version": 58
 }
