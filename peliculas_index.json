@@ -1,7 +1,228 @@
 {
   "type": "peliculas",
-  "total": 12761,
+  "total": 12778,
   "items": [
+    {
+      "id": "p_1146239",
+      "tmdb_id": 1146239,
+      "nombre": "Nadie se mete con la abuela",
+      "poster": "https://image.tmdb.org/t/p/w500/rUhGdTvzmcaKIUjNBPNIukENK4M.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2edsi603k2gy.html"
+        }
+      }
+    },
+    {
+      "id": "p_1339853",
+      "tmdb_id": 1339853,
+      "nombre": "Lies and Ex Wives: Secrets on Maple Street",
+      "poster": "https://image.tmdb.org/t/p/w500/mzItGC23w5COWP8CbKHiJO0vWbQ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4arha2lkjxw0.html"
+        }
+      }
+    },
+    {
+      "id": "p_1104390",
+      "tmdb_id": 1104390,
+      "nombre": "Anatema",
+      "poster": "https://image.tmdb.org/t/p/w500/4akd1zxzCUdow2gXX1ovbRE3ZoO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zd8agfx60342.html"
+        }
+      }
+    },
+    {
+      "id": "p_1651233",
+      "tmdb_id": 1651233,
+      "nombre": "El yerno",
+      "poster": "https://image.tmdb.org/t/p/w500/2C6EUH0qSthnOM6wtjS7ZRCdVZU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-p5bfs4u95une.html"
+        }
+      }
+    },
+    {
+      "id": "p_234212",
+      "tmdb_id": 234212,
+      "nombre": "Demonic",
+      "poster": "https://image.tmdb.org/t/p/w500/tOcH66FjDGH78DHxLLLkaQW24Qw.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ou64y9592qjs.html"
+        }
+      }
+    },
+    {
+      "id": "p_1465563",
+      "tmdb_id": 1465563,
+      "nombre": "Un poeta",
+      "poster": "https://image.tmdb.org/t/p/w500/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j0d9eatpepqt.html"
+        }
+      }
+    },
+    {
+      "id": "p_845605",
+      "tmdb_id": 845605,
+      "nombre": "Bränn alla mina brev",
+      "poster": "https://image.tmdb.org/t/p/w500/8N2soZCarv7jqJGZs1JifdQDvsg.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zdddpc111pvt.html"
+        }
+      }
+    },
+    {
+      "id": "p_12138",
+      "tmdb_id": 12138,
+      "nombre": "Los reyes del crimen",
+      "poster": "https://image.tmdb.org/t/p/w500/qG2AB6mjdvvwnbWxPkauw6kv9oc.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-b8ux8irtg105.html"
+        }
+      }
+    },
+    {
+      "id": "p_1591834",
+      "tmdb_id": 1591834,
+      "nombre": "Familia a la deriva",
+      "poster": "https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3ee1fc935q8c.html"
+        }
+      }
+    },
+    {
+      "id": "p_1551900",
+      "tmdb_id": 1551900,
+      "nombre": "Sobriedad, me estás matando",
+      "poster": "https://image.tmdb.org/t/p/w500/nTUSjR9LUeV4FaZu2oFYSlzLmQw.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vxpgqfcsd4og.html"
+        }
+      }
+    },
+    {
+      "id": "p_1007757",
+      "tmdb_id": 1007757,
+      "nombre": "Intercambiados",
+      "poster": "https://image.tmdb.org/t/p/w500/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bz05oo67egjf.html"
+        }
+      }
+    },
+    {
+      "id": "p_31967",
+      "tmdb_id": 31967,
+      "nombre": "Dante's Inferno: La película",
+      "poster": "https://image.tmdb.org/t/p/w500/2edroO8zkbOeou1ZHsLZek3I5gY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-k81gauafw9a4.html"
+        }
+      }
+    },
+    {
+      "id": "p_9611",
+      "tmdb_id": 9611,
+      "nombre": "Romy & Michele",
+      "poster": "https://image.tmdb.org/t/p/w500/pTFWAMPR6mWo9u0krvb6ZO0sEUC.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-a1zcegcjv13d.html"
+        }
+      }
+    },
+    {
+      "id": "p_9341",
+      "tmdb_id": 9341,
+      "nombre": "El núcleo",
+      "poster": "https://image.tmdb.org/t/p/w500/l4HpogVLiVtx0LWW8XuJoWT7WfZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f2g6azpohd1h.html"
+        }
+      }
+    },
+    {
+      "id": "p_24801",
+      "tmdb_id": 24801,
+      "nombre": "Cambio de aires",
+      "poster": "https://image.tmdb.org/t/p/w500/vlUqdpYCzwR7DW3o0xZtDqmPb3b.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-isuai28sbhxv.html"
+        }
+      }
+    },
+    {
+      "id": "p_11835",
+      "tmdb_id": 11835,
+      "nombre": "Sentencia de muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/nmpCgHM1KZZxrK0YiqIDBz3pn1x.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cwnp8mc95xsd.html"
+        }
+      }
+    },
+    {
+      "id": "p_22821",
+      "tmdb_id": 22821,
+      "nombre": "Los elegidos 2: El día de todos los santos",
+      "poster": "https://image.tmdb.org/t/p/w500/uVUUO2JSNukKX0Bj5BUwvcxnVWm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nt8jq8n99ikw.html"
+        }
+      }
+    },
     {
       "id": "p_1641965",
       "tmdb_id": 1641965,
@@ -193,9 +414,12 @@
       "tmdb_id": 829487,
       "nombre": "Je m'appelle Agneta",
       "poster": "https://image.tmdb.org/t/p/w500/4D2Mj3oyCx9PsYl8GPv0O0rIprt.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-d4gu5qr43mjr.html"
+        },
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/jq7mlyvaqu4m"
@@ -927,7 +1151,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-el3acalc2g0m.html"
+          "la_movie": "https://vimeos.net/embed-26vhfzb0goue.html"
         },
         "latino": {
           "Voe": {
@@ -53903,7 +54127,7 @@
       "tmdb_id": 595327,
       "nombre": "Por los niños",
       "poster": "https://image.tmdb.org/t/p/w500/tevt9SIJZLM8vuZI3sK40jf8wPF.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "crimen"
@@ -53911,6 +54135,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-2klk562lgx62.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sx5jhz0gqkoj.html"
         }
       }
     },
@@ -102666,7 +102893,7 @@
       "tmdb_id": 109451,
       "nombre": "Lluvia de albóndigas 2",
       "poster": "https://image.tmdb.org/t/p/w500/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "familia",
@@ -102675,6 +102902,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-cmkzw54xo1ga.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j25qu1l6j9bp.html"
         }
       }
     },
@@ -110816,13 +111046,16 @@
       "tmdb_id": 45243,
       "nombre": "Resacón 2: ¡Ahora en Tailandia!",
       "poster": "https://image.tmdb.org/t/p/w500/u8B1a1AEhZ0k2mvPvzOYSJDnlge.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-m2gsz5e4htyz.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4p9xj513ro74.html"
         }
       }
     },
@@ -110892,13 +111125,16 @@
       "tmdb_id": 109439,
       "nombre": "Resacón 3",
       "poster": "https://image.tmdb.org/t/p/w500/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ei3avbs6fmgz.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-edxx3fyqs2dp.html"
         }
       }
     },
@@ -132680,7 +132916,7 @@
       "tmdb_id": 872,
       "nombre": "Cantando bajo la lluvia",
       "poster": "https://image.tmdb.org/t/p/w500/hVQtwYqjXezWxps94z9Y8BhC1Cs.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "romance"
@@ -132688,6 +132924,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-mjx7t171mlm5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j5xpt16vv6ms.html"
         }
       }
     },
@@ -151787,7 +152026,7 @@
       "tmdb_id": 765245,
       "nombre": "El canto del cisne",
       "poster": "https://image.tmdb.org/t/p/w500/k8grTFIqokqAbQgvZSCIYdzub3p.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "ficcion"
@@ -151795,6 +152034,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-t39v2zcuqq2m.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-iz2x9upi5p26.html"
         }
       }
     },
@@ -161473,13 +161715,16 @@
       "tmdb_id": 974927,
       "nombre": "Los olvidados: Cicatrices",
       "poster": "https://image.tmdb.org/t/p/w500/i6i3U4jGGSjsdl5h8Um9kppW6PD.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ys6f8wmgsqc2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-524lenj4bdra.html"
         }
       }
     },
@@ -200508,7 +200753,7 @@
       "tmdb_id": 1242501,
       "nombre": "Ice Fall",
       "poster": "https://image.tmdb.org/t/p/w500/8qQdun8426bfcQePFSZnucWGSbQ.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "crimen",
@@ -200517,6 +200762,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-d9nnmn1kx7k0.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7gomyv1nk7lb.html"
         }
       }
     },
@@ -200818,5 +201066,5 @@
       }
     }
   ],
-  "version": 56
+  "version": 57
 }

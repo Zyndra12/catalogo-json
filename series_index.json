@@ -1,7 +1,254 @@
 {
   "type": "series",
-  "total": 2939,
+  "total": 2948,
   "items": [
+    {
+      "id": "s_278113",
+      "tmdb_id": 278113,
+      "nombre": "Tierra de oro",
+      "poster": "https://image.tmdb.org/t/p/w500/A55hvXauo57l8HYo4AjYeFfn0W4.jpg",
+      "categorias": [
+        "drama",
+        "crimen",
+        "misterio",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-b0zjj73brrqc.html",
+          "1": "https://vimeos.net/embed-x84pnc2vi0d8.html"
+        }
+      }
+    },
+    {
+      "id": "s_287011",
+      "tmdb_id": 287011,
+      "nombre": "Un amor que no se agota",
+      "poster": "https://image.tmdb.org/t/p/w500/ah91RIeK91AXYPDCsKHozRSgEox.jpg",
+      "categorias": [
+        "drama",
+        "comedia",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-jibcnrrhn1cy.html",
+          "2": "https://vimeos.net/embed-o7jcg37x9erz.html",
+          "1": "https://vimeos.net/embed-1ule8jihigpe.html",
+          "3": "https://vimeos.net/embed-e38wvjfi3ldw.html"
+        }
+      }
+    },
+    {
+      "id": "s_310198",
+      "tmdb_id": 310198,
+      "nombre": "Hermanas, un amor compartido",
+      "poster": "https://image.tmdb.org/t/p/w500/wyumt3DAtHs9X8siZsopH7FjKLl.jpg",
+      "categorias": [
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://vimeos.net/embed-f2xn73zvj9ec.html"
+        }
+      }
+    },
+    {
+      "id": "s_320958",
+      "tmdb_id": 320958,
+      "nombre": "Tan cerca de ti, nace el amor",
+      "poster": "https://image.tmdb.org/t/p/w500/kEOWlaH0pf606pg14j93rYVreSP.jpg",
+      "categorias": [
+        "familia",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://vimeos.net/embed-s97doynsf7uj.html"
+        }
+      }
+    },
+    {
+      "id": "s_315245",
+      "tmdb_id": 315245,
+      "nombre": "Corazón de oro",
+      "poster": "https://image.tmdb.org/t/p/w500/eGX69pIgpi4ONhEG9WeRm0leQgb.jpg",
+      "categorias": [
+        "familia",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://vimeos.net/embed-6qniq8z9mjfe.html"
+        }
+      }
+    },
+    {
+      "id": "s_259702",
+      "tmdb_id": 259702,
+      "nombre": "La casa de los espíritus",
+      "poster": "https://image.tmdb.org/t/p/w500/cynTNWEyPbaduRVWDmAwSb69E1L.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-kti9kwhav8pj.html",
+          "1": "https://vimeos.net/embed-f8r5ynvkg1nj.html",
+          "3": "https://vimeos.net/embed-sae6a55f9o0y.html"
+        }
+      }
+    },
+    {
+      "id": "s_290230",
+      "tmdb_id": 290230,
+      "nombre": "Santita",
+      "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-u5ng9edeedj8.html",
+          "7": "https://vimeos.net/embed-9qtjinjxdjn8.html",
+          "2": "https://vimeos.net/embed-zjqi6skhtqzn.html",
+          "1": "https://vimeos.net/embed-e5jhaf8cml6e.html",
+          "6": "https://vimeos.net/embed-mldziuxmin6f.html",
+          "5": "https://vimeos.net/embed-hijipjgqp49k.html",
+          "3": "https://vimeos.net/embed-zpkynvax3620.html"
+        }
+      }
+    },
+    {
+      "id": "s_61222",
+      "tmdb_id": 61222,
+      "nombre": "BoJack Horseman",
+      "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+      "categorias": [
+        "drama",
+        "serie",
+        "comedia",
+        "animacion"
+      ],
+      "temporadas": {
+        "4": {
+          "4": "https://vimeos.net/embed-02zjwmy28mh0.html",
+          "8": "https://vimeos.net/embed-g8l5druekfft.html",
+          "2": "https://vimeos.net/embed-0qyfwo5473q7.html",
+          "9": "https://vimeos.net/embed-zsah1gz1p0uh.html",
+          "1": "https://vimeos.net/embed-zol1ts835ayz.html",
+          "11": "https://vimeos.net/embed-leqp7i0kfm4z.html",
+          "10": "https://vimeos.net/embed-blumhzz8o8kn.html",
+          "5": "https://vimeos.net/embed-rn6gond7wo71.html",
+          "6": "https://vimeos.net/embed-65w7mu9lpujl.html",
+          "12": "https://vimeos.net/embed-bmm7384xpbx4.html",
+          "7": "https://vimeos.net/embed-5yjmkv0ish07.html",
+          "3": "https://vimeos.net/embed-b9c0utwyqbqb.html"
+        },
+        "2": {
+          "4": "https://vimeos.net/embed-fy45axxvv628.html",
+          "8": "https://vimeos.net/embed-mwjr6rmv5ak5.html",
+          "2": "https://vimeos.net/embed-w9k86juifgrh.html",
+          "9": "https://vimeos.net/embed-s98nzhmn2z1a.html",
+          "1": "https://vimeos.net/embed-v5r7cjkql723.html",
+          "11": "https://vimeos.net/embed-f95yb5yrmmqm.html",
+          "10": "https://vimeos.net/embed-tmz7x6b2ucvr.html",
+          "5": "https://vimeos.net/embed-8yz50cu7o9ux.html",
+          "6": "https://vimeos.net/embed-owoz3vsgxxzq.html",
+          "12": "https://vimeos.net/embed-v3vqbiuss1gt.html",
+          "7": "https://vimeos.net/embed-7qyofhmcskew.html",
+          "3": "https://vimeos.net/embed-pnaj1gw4x6ed.html"
+        },
+        "1": {
+          "4": "https://vimeos.net/embed-ed74dnrt2nbo.html",
+          "8": "https://vimeos.net/embed-rqwz83sp7pjg.html",
+          "2": "https://vimeos.net/embed-b5sbfo8w98il.html",
+          "9": "https://vimeos.net/embed-2u8b8416vn73.html",
+          "1": "https://vimeos.net/embed-75aprj213x6q.html",
+          "11": "https://vimeos.net/embed-h3t6q1z5m6oa.html",
+          "10": "https://vimeos.net/embed-nzx7km2avw4o.html",
+          "5": "https://vimeos.net/embed-0tlwonhmwqbp.html",
+          "6": "https://vimeos.net/embed-44oceduh9pna.html",
+          "12": "https://vimeos.net/embed-gvm781hj0qwy.html",
+          "7": "https://vimeos.net/embed-zl5djedw6oze.html",
+          "3": "https://vimeos.net/embed-5ygd90ov63af.html"
+        },
+        "3": {
+          "4": "https://vimeos.net/embed-u3ouivy2mf9a.html",
+          "8": "https://vimeos.net/embed-z62fbka7gg9g.html",
+          "2": "https://vimeos.net/embed-z2m8o1p2z5ek.html",
+          "9": "https://vimeos.net/embed-7524nsm7fdtm.html",
+          "1": "https://vimeos.net/embed-lyu6n8x49gv8.html",
+          "11": "https://vimeos.net/embed-11dhcxd1op5c.html",
+          "10": "https://vimeos.net/embed-foghw2kih25m.html",
+          "5": "https://vimeos.net/embed-5cv41hzqeg5o.html",
+          "6": "https://vimeos.net/embed-r0x9ktz8gzoz.html",
+          "12": "https://vimeos.net/embed-11rbcoppgv2k.html",
+          "7": "https://vimeos.net/embed-wkvangxh470y.html",
+          "3": "https://vimeos.net/embed-pxvpyciq42zr.html"
+        },
+        "5": {
+          "4": "https://vimeos.net/embed-gcvw7aqu75y2.html",
+          "8": "https://vimeos.net/embed-srrk657guyhb.html",
+          "2": "https://vimeos.net/embed-0kt66tsssagq.html",
+          "9": "https://vimeos.net/embed-xs9goqrbofgp.html",
+          "1": "https://vimeos.net/embed-z2jzo2wx6p6h.html",
+          "11": "https://vimeos.net/embed-7pwttqb2gqzu.html",
+          "10": "https://vimeos.net/embed-275dgbeqes2g.html",
+          "5": "https://vimeos.net/embed-awy2cvz2np3i.html",
+          "6": "https://vimeos.net/embed-wty4mmtr0dzk.html",
+          "12": "https://vimeos.net/embed-1i2gmdtcrzup.html",
+          "7": "https://vimeos.net/embed-hff1aro5n4mu.html",
+          "3": "https://vimeos.net/embed-v3nmz84hn5t1.html"
+        },
+        "6": {
+          "4": "https://vimeos.net/embed-g352l6yfxjie.html",
+          "2": "https://vimeos.net/embed-cmrlbp7061w3.html",
+          "9": "https://vimeos.net/embed-b4r8zjjerwsc.html",
+          "6": "https://vimeos.net/embed-w5zw4ifk77og.html",
+          "5": "https://vimeos.net/embed-757j7on9ucsq.html",
+          "10": "https://vimeos.net/embed-smwivzzqayl6.html",
+          "11": "https://vimeos.net/embed-ije8p9zlv8zz.html",
+          "7": "https://vimeos.net/embed-ybr91qztvtua.html",
+          "8": "https://vimeos.net/embed-axatha4lpghs.html",
+          "14": "https://vimeos.net/embed-hcvwhhxol9x9.html",
+          "12": "https://vimeos.net/embed-m7r8cp4z8bdp.html",
+          "1": "https://vimeos.net/embed-93fo6xhupt2q.html",
+          "15": "https://vimeos.net/embed-ufsebi5e4s6i.html",
+          "13": "https://vimeos.net/embed-kboyq6gyyvos.html",
+          "3": "https://vimeos.net/embed-v52k9foe4vax.html",
+          "16": "https://vimeos.net/embed-y24wficu63jj.html"
+        }
+      }
+    },
+    {
+      "id": "s_313721",
+      "tmdb_id": 313721,
+      "nombre": "Dear Killer Nannies: Criado por sicarios",
+      "poster": "https://image.tmdb.org/t/p/w500/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+      "categorias": [
+        "drama",
+        "crimen",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-wgpx4q3811p1.html",
+          "8": "https://vimeos.net/embed-xnpnfox3lgwu.html",
+          "2": "https://vimeos.net/embed-p4fi03qlvetb.html",
+          "1": "https://vimeos.net/embed-6l1i9gj5qgqq.html",
+          "6": "https://vimeos.net/embed-6e8l2cbskjne.html",
+          "5": "https://vimeos.net/embed-u7ntl1miorqy.html",
+          "7": "https://vimeos.net/embed-6l1m6u1pn5vx.html",
+          "3": "https://vimeos.net/embed-tlf6c852f03o.html"
+        }
+      }
+    },
     {
       "id": "s_224263",
       "tmdb_id": 224263,
@@ -126240,5 +126487,5 @@
       }
     }
   ],
-  "version": 56
+  "version": 57
 }
