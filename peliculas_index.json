@@ -1,7 +1,442 @@
 {
   "type": "peliculas",
-  "total": 12782,
+  "total": 12812,
   "items": [
+    {
+      "id": "p_1523071",
+      "tmdb_id": 1523071,
+      "nombre": "Seducción",
+      "poster": "https://image.tmdb.org/t/p/w500/1wAzyyB9HxX1ukwTX6jqDU0ADUB.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/wbs1noov6x3g"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1430077",
+      "tmdb_id": 1430077,
+      "nombre": "Hokum",
+      "poster": "https://image.tmdb.org/t/p/w500/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/ugvyzlehhvus"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1534530",
+      "tmdb_id": 1534530,
+      "nombre": "El Susurro",
+      "poster": "https://image.tmdb.org/t/p/w500/x1kKY4OvlDGxTvBn5GDyTVCYv6.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/aetqb8f7n2tu"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1177445",
+      "tmdb_id": 1177445,
+      "nombre": "Cannibal Mukbang",
+      "poster": "https://image.tmdb.org/t/p/w500/f30neqyKxshsD9T5bCGenqVSkjf.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/fm26znkz5pwg"
+          },
+          "Streamwish": {
+            "HD": "https://hglink.to/e/2h8wdkh3s808"
+          },
+          "Earnvids": {
+            "HD": "https://minochinos.com/embed/t3v6eeozukka"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1688652",
+      "tmdb_id": 1688652,
+      "nombre": "Gary",
+      "poster": "https://image.tmdb.org/t/p/w500/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/ws0earcoq1rw"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_898704",
+      "tmdb_id": 898704,
+      "nombre": "Desert Warrior",
+      "poster": "https://image.tmdb.org/t/p/w500/3JHYiYhOPoME3E5pscYpE4dQfbT.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/0d38akowpvis"
+          },
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/fhpx2977xkdx"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_975335",
+      "tmdb_id": 975335,
+      "nombre": "Magallanes",
+      "poster": "https://image.tmdb.org/t/p/w500/vleDKvsLmj5BVR7innJx86HRiMu.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/grnspwgjr5kb"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/5ga508m39li3"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1421552",
+      "tmdb_id": 1421552,
+      "nombre": "Panda Plan: The Magical Tribe",
+      "poster": "https://image.tmdb.org/t/p/w500/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/3cl8ov9rbaih"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/mk6q4dzdf3qn"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1461254",
+      "tmdb_id": 1461254,
+      "nombre": "살목지",
+      "poster": "https://image.tmdb.org/t/p/w500/uVJyWlSPCWftRUXRM6lxTqOzPY6.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/istrdqqd42ss"
+          },
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/la79e3ykmsgi"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1330021",
+      "tmdb_id": 1330021,
+      "nombre": "Criaturas luminosas",
+      "poster": "https://image.tmdb.org/t/p/w500/8I2O28Y0avRiKDfdzdkAKbSLxft.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/4mxytopluzpt"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_17899",
+      "tmdb_id": 17899,
+      "nombre": "Mentiras y gordas",
+      "poster": "https://image.tmdb.org/t/p/w500/h9HfPq5NKtiLzHu1279A97kZUo5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4h21l57zsy7p.html"
+        }
+      }
+    },
+    {
+      "id": "p_1360",
+      "tmdb_id": 1360,
+      "nombre": "Frida",
+      "poster": "https://image.tmdb.org/t/p/w500/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-anic5yfag25v.html"
+        }
+      }
+    },
+    {
+      "id": "p_10603",
+      "tmdb_id": 10603,
+      "nombre": "George de la jungla",
+      "poster": "https://image.tmdb.org/t/p/w500/9oBSAKp65I9Xjmk7jZqJ2HmllTj.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zi7nvd5o38ko.html"
+        }
+      }
+    },
+    {
+      "id": "p_8965",
+      "tmdb_id": 8965,
+      "nombre": "Atlantis: El regreso de Milo",
+      "poster": "https://image.tmdb.org/t/p/w500/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xlphpiwqh2ab.html"
+        }
+      }
+    },
+    {
+      "id": "p_58496",
+      "tmdb_id": 58496,
+      "nombre": "Senna",
+      "poster": "https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://la.movie/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "p_749051",
+      "tmdb_id": 749051,
+      "nombre": "Embrión",
+      "poster": "https://image.tmdb.org/t/p/w500/dxbI3kT9mvlc6Yh14xCKFbd0RvE.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vhj8vxxx704j.html"
+        }
+      }
+    },
+    {
+      "id": "p_722236",
+      "tmdb_id": 722236,
+      "nombre": "Driven to the Edge",
+      "poster": "https://image.tmdb.org/t/p/w500/uMyHVFEXe6agcgsI8bkN6sPWIN6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vbra38rdtey5.html"
+        }
+      }
+    },
+    {
+      "id": "p_563549",
+      "tmdb_id": 563549,
+      "nombre": "Masacre en el bosque",
+      "poster": "https://image.tmdb.org/t/p/w500/yRCwT8uCQ2HPhb3Erzb1LrryEHW.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hkt28jsn8p1q.html"
+        }
+      }
+    },
+    {
+      "id": "p_956862",
+      "tmdb_id": 956862,
+      "nombre": "Rumspringa",
+      "poster": "https://image.tmdb.org/t/p/w500/tPmr7R2Zq66SXhFcXZiFSJ0Afx8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6d271pn6ddsd.html"
+        }
+      }
+    },
+    {
+      "id": "p_76589",
+      "tmdb_id": 76589,
+      "nombre": "La Liga de la Justicia: Perdición",
+      "poster": "https://image.tmdb.org/t/p/w500/n8V3EJxD78JZvKputjBCAgPjB3x.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nk1urmgftjq8.html"
+        }
+      }
+    },
+    {
+      "id": "p_800394",
+      "tmdb_id": 800394,
+      "nombre": "El último crucero",
+      "poster": "https://image.tmdb.org/t/p/w500/1sN3mSwzLqjAWHyNdJy1v5gaX5M.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tygfv4w32a7u.html"
+        }
+      }
+    },
+    {
+      "id": "p_946552",
+      "tmdb_id": 946552,
+      "nombre": "Operation Overlord",
+      "poster": "https://image.tmdb.org/t/p/w500/7nOL8FuiWdSuQo6uGJaKFfFBTZ9.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-m00msoe1m3m4.html"
+        }
+      }
+    },
+    {
+      "id": "p_65291",
+      "tmdb_id": 65291,
+      "nombre": "Linterna Verde: Caballeros Esmeralda",
+      "poster": "https://image.tmdb.org/t/p/w500/pqKF9xBXPRxwyHK7dyagnsIBcPT.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wg9hisszukuj.html"
+        }
+      }
+    },
+    {
+      "id": "p_767479",
+      "tmdb_id": 767479,
+      "nombre": "Sin hijos",
+      "poster": "https://image.tmdb.org/t/p/w500/reJmewTkOUX1he9Wb3uR3xfQshV.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ysf0pcmzxkr3.html"
+        }
+      }
+    },
+    {
+      "id": "p_1537",
+      "tmdb_id": 1537,
+      "nombre": "Al límite de la verdad",
+      "poster": "https://image.tmdb.org/t/p/w500/xYFryu4D7UrYmB7Vqk3CPWgC87K.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ryvbrlbpvkrr.html"
+        }
+      }
+    },
+    {
+      "id": "p_64689",
+      "tmdb_id": 64689,
+      "nombre": "Mátalos suavemente",
+      "poster": "https://image.tmdb.org/t/p/w500/3b1Gbv2N13ZaTTEsDyDXUqrsPx6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-opegwsghacw5.html"
+        }
+      }
+    },
+    {
+      "id": "p_1371534",
+      "tmdb_id": 1371534,
+      "nombre": "He Sees You When You're Sleeping",
+      "poster": "https://image.tmdb.org/t/p/w500/mZsxtakzL9n72jaSSRd70csU4TC.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-88r4tqljdjyt.html"
+        }
+      }
+    },
+    {
+      "id": "p_1239198",
+      "tmdb_id": 1239198,
+      "nombre": "Mi querida señorita",
+      "poster": "https://image.tmdb.org/t/p/w500/3Od2J0JICLLMQfQAUbpCJg82HYg.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tspzkvtddw1q.html"
+        }
+      }
+    },
+    {
+      "id": "p_1630423",
+      "tmdb_id": 1630423,
+      "nombre": "Sangre asesina",
+      "poster": "https://image.tmdb.org/t/p/w500/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7b9qdv5hsvpj.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/mgddmpz3r2mg"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1510745",
+      "tmdb_id": 1510745,
+      "nombre": "911: Llamada infernal",
+      "poster": "https://image.tmdb.org/t/p/w500/aOIXYOwB97ioUnhHzwnyCRxwVBe.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ocz4ml9n3yor.html"
+        }
+      }
+    },
     {
       "id": "p_13151",
       "tmdb_id": 13151,
@@ -103,6 +538,11 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-p5bfs4u95une.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/xxbgafu1w2gq"
+          }
         }
       }
     },
@@ -168,6 +608,11 @@
       "fuentes": {
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-3ee1fc935q8c.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/ibv2dsh88czr"
+          }
         }
       }
     },
@@ -472,11 +917,14 @@
     {
       "id": "p_829487",
       "tmdb_id": 829487,
-      "nombre": "Je m'appelle Agneta",
+      "nombre": "Me llamo Agneta",
       "poster": "https://image.tmdb.org/t/p/w500/4D2Mj3oyCx9PsYl8GPv0O0rIprt.jpg",
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-a4093f737ii7.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-d4gu5qr43mjr.html"
         },
@@ -1194,6 +1642,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fzkkakicpl2s.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-1jat4owoqebm.html"
         },
@@ -18031,7 +18482,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-nz39xrh0nk2y.html"
+          "la_movie": "https://vimeos.net/embed-zh0htbj7mqei.html"
         }
       }
     },
@@ -47194,7 +47645,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-gsj2id4pi8nx.html"
+          "la_movie": "https://vimeos.net/embed-8clxj7lqzujf.html"
         }
       }
     },
@@ -52952,13 +53403,16 @@
       "tmdb_id": 578908,
       "nombre": "Un mal viaje",
       "poster": "https://image.tmdb.org/t/p/w500/jxGuDeH1nVwwY9fgahRPVqayI1b.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ehleqfvqt8gv.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zf0djyjmv6xq.html"
         }
       }
     },
@@ -53212,13 +53666,16 @@
       "tmdb_id": 387818,
       "nombre": "Todo en juego",
       "poster": "https://image.tmdb.org/t/p/w500/zTr37M2yUB4WYDkxWmjmxmVV4Gg.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-bde3nu69f2cr.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tprqhk8ksrqs.html"
         }
       }
     },
@@ -57365,7 +57822,7 @@
       "tmdb_id": 11282,
       "nombre": "Dos colgaos muy fumaos",
       "poster": "https://image.tmdb.org/t/p/w500/6xFUeGbzT7jJ95LLK8zQhXaeCSk.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "aventura"
@@ -57373,6 +57830,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-m4pburbdqjuq.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6i2ajzs7k0gn.html"
         }
       }
     },
@@ -78021,13 +78481,16 @@
       "tmdb_id": 500915,
       "nombre": "Perros de presa",
       "poster": "https://image.tmdb.org/t/p/w500/9h6eyN4if430eCtO441y9JOoNoL.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-anhhqzc9tvwy.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-t3w7ks1lxy3a.html"
         }
       }
     },
@@ -84740,7 +85203,7 @@
       "tmdb_id": 590164,
       "nombre": "La posesión de Mercy Black",
       "poster": "https://image.tmdb.org/t/p/w500/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "misterio"
@@ -84748,6 +85211,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-1r5nqvci49hz.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-uwczq4tcounh.html"
         }
       }
     },
@@ -87518,7 +87984,7 @@
       "tmdb_id": 40662,
       "nombre": "Batman: Capucha Roja",
       "poster": "https://image.tmdb.org/t/p/w500/p8UzVTfi9ualTRzS7o8za8ctAAI.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "misterio",
         "crimen",
@@ -87529,6 +87995,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-z00bu26a7ugc.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3f0w6br5brna.html"
         }
       }
     },
@@ -91679,7 +92148,7 @@
           "fastream": "https://fastream.to/embed-y5p1y2cqqzbk.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-f4di79zaoyji.html"
+          "la_movie": "https://vimeos.net/embed-6gimptg42uox.html"
         }
       }
     },
@@ -116986,7 +117455,7 @@
       "tmdb_id": 571265,
       "nombre": "Digimon Adventure: Last Evolution Kizuna",
       "poster": "https://image.tmdb.org/t/p/w500/f38RqBo56RTyFRSnfwmELOKDcya.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "accion",
@@ -116996,6 +117465,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-7i65vnbk3f89.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mu8k0oxmnds1.html"
         }
       }
     },
@@ -121576,7 +122048,7 @@
       "tmdb_id": 398175,
       "nombre": "Brawl in Cell Block 99",
       "poster": "https://image.tmdb.org/t/p/w500/w1pGYNa8w9UAlb6gVfW1qWx9jvq.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "crimen",
@@ -121585,6 +122057,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-tkecg7lvcxl4.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ii6ha6m5h9wy.html"
         }
       }
     },
@@ -130556,7 +131031,7 @@
           "fastream": "https://fastream.to/embed-9jqipnh6emtq.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-bi3gqyom521l.html"
+          "la_movie": "https://vimeos.net/embed-r8screct0i5c.html"
         }
       }
     },
@@ -201140,5 +201615,5 @@
       }
     }
   ],
-  "version": 58
+  "version": 59
 }
