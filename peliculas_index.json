@@ -1,7 +1,22 @@
 {
   "type": "peliculas",
-  "total": 12812,
+  "total": 12813,
   "items": [
+    {
+      "id": "p_1682878",
+      "tmdb_id": 1682878,
+      "nombre": "Countdown: Rousey vs. Carano",
+      "poster": "https://image.tmdb.org/t/p/w500/pVNvbDX9psQhmCvc37A3XKLZjEz.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/gywvlnla7gko"
+          }
+        }
+      }
+    },
     {
       "id": "p_1523071",
       "tmdb_id": 1523071,
@@ -76,6 +91,9 @@
       "calidad": null,
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xmvkqe0hdapj.html"
+        },
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/ws0earcoq1rw"
@@ -412,6 +430,9 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-qndkzhrnh73t.html"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-7b9qdv5hsvpj.html"
         },
@@ -1199,6 +1220,9 @@
         "drama"
       ],
       "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vaqux9rnhviy.html"
+        },
         "latino": {
           "vimeos": "https://vimeos.net/embed-s1d6vw5a537o.html"
         }
@@ -201615,5 +201639,5 @@
       }
     }
   ],
-  "version": 59
+  "version": 60
 }
