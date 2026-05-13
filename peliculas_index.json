@@ -1,7 +1,72 @@
 {
   "type": "peliculas",
-  "total": 12813,
+  "total": 12818,
   "items": [
+    {
+      "id": "p_109410",
+      "tmdb_id": 109410,
+      "nombre": "42: La verdadera historia de una leyenda del deporte",
+      "poster": "https://image.tmdb.org/t/p/w500/skDtx23it4RQ6XICxeUm7qoLsT3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0a9sulpm8nru.html"
+        }
+      }
+    },
+    {
+      "id": "p_1439930",
+      "tmdb_id": 1439930,
+      "nombre": "Marvel Television presenta The Punisher: One Last Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/9FQQFS8vO3Q9oJBRLPCYj8Keikg.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-rg03m7xt7ix7.html"
+        }
+      }
+    },
+    {
+      "id": "p_245473",
+      "tmdb_id": 245473,
+      "nombre": "Cloud 9",
+      "poster": "https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-k28jng7mnp6q.html"
+        }
+      }
+    },
+    {
+      "id": "p_18183",
+      "tmdb_id": 18183,
+      "nombre": "Como agua para chocolate",
+      "poster": "https://image.tmdb.org/t/p/w500/bBToqYouLBaoojtC6AyRNeFcQoV.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l06nin83ty4c.html"
+        }
+      }
+    },
+    {
+      "id": "p_300153",
+      "tmdb_id": 300153,
+      "nombre": "Life",
+      "poster": "https://image.tmdb.org/t/p/w500/aT6joQI1aOHDFvQst7gFJkIhN6N.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xxcfpu6fi672.html"
+        }
+      }
+    },
     {
       "id": "p_1682878",
       "tmdb_id": 1682878,
@@ -178,9 +243,12 @@
       "tmdb_id": 1330021,
       "nombre": "Criaturas luminosas",
       "poster": "https://image.tmdb.org/t/p/w500/8I2O28Y0avRiKDfdzdkAKbSLxft.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o1p1znftssw3.html"
+        },
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/4mxytopluzpt"
@@ -3434,12 +3502,15 @@
       "tmdb_id": 687163,
       "nombre": "Proyecto Salvación",
       "poster": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "aventura"
       ],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-s0i9ofp6kpi3.html"
+        },
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/g9orbpjh7ran"
@@ -47747,7 +47818,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-3bvedigb21pj.html"
+          "la_movie": "https://vimeos.net/embed-lcmodciirsn7.html"
         }
       }
     },
@@ -77590,7 +77661,7 @@
           "fastream": "https://fastream.to/embed-sxvdvka9yu50.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-9n38mht0bqr2.html"
+          "la_movie": "https://vimeos.net/embed-qb4mhmy7v4jd.html"
         }
       }
     },
@@ -100543,7 +100614,7 @@
       "tmdb_id": 60405,
       "nombre": "La fabulosa aventura de Sharpay",
       "poster": "https://image.tmdb.org/t/p/w500/lFDe7l7Lgv6x515382KOfreNI1T.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "familia",
         "musica"
@@ -100551,6 +100622,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-qedek5dkc4tz.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f11zs1jgas02.html"
         }
       }
     },
@@ -114600,7 +114674,7 @@
           "fastream": "https://fastream.to/embed-wyi154tnlo1k.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-nv76d2tguhgg.html"
+          "la_movie": "https://vimeos.net/embed-hndepgm6c7a1.html"
         }
       }
     },
@@ -201639,5 +201713,5 @@
       }
     }
   ],
-  "version": 61
+  "version": 62
 }
