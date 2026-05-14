@@ -1,7 +1,317 @@
 {
   "type": "peliculas",
-  "total": 12818,
+  "total": 12838,
   "items": [
+    {
+      "id": "p_1632181",
+      "tmdb_id": 1632181,
+      "nombre": "Socias por accidente",
+      "poster": "https://image.tmdb.org/t/p/w500/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/y2mc6grcb4od"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1600571",
+      "tmdb_id": 1600571,
+      "nombre": "El ritual del nahual",
+      "poster": "https://image.tmdb.org/t/p/w500/jzptoegNetnake7ZCPzeeolXj3q.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/z68xecwue0fq"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1637369",
+      "tmdb_id": 1637369,
+      "nombre": "Bad Girl Office",
+      "poster": "https://image.tmdb.org/t/p/w500/wzQUXbM2oi6db075WhK6iZE6ntL.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/2gayz0wimynl"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/eq5mkfvlem1j"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1637574",
+      "tmdb_id": 1637574,
+      "nombre": "Dark Places",
+      "poster": "https://image.tmdb.org/t/p/w500/qoBBlfFacqXz2SHeBw3QaozrqzC.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/kket4yzbceew"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/31c0qie7t4ak"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1642887",
+      "tmdb_id": 1642887,
+      "nombre": "Maid Robot",
+      "poster": "https://image.tmdb.org/t/p/w500/9ZlwXUgeVdTnmXZgw4sFzD4qLkH.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/qaod8veibgtx"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/ophxottww6cr"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1658283",
+      "tmdb_id": 1658283,
+      "nombre": "Robot Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/iCDcyrxK42nitpbArEIcLCjNfxN.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/e8vmb4sfqduk"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/deapnmttyiws"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1130948",
+      "tmdb_id": 1130948,
+      "nombre": "Rosebush Pruning",
+      "poster": "https://image.tmdb.org/t/p/w500/rEn0kHtZAjb44R2Jv0FUBLdFPsY.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "CAM": "https://voe.sx/e/08mtqfumna32"
+          },
+          "Streamwish": {
+            "CAM": "https://streamwish.to/e/t7a3hlq4wiaf"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1424649",
+      "tmdb_id": 1424649,
+      "nombre": "Sampung Utos Kay Josh",
+      "poster": "https://image.tmdb.org/t/p/w500/oYTGM9VGCVkF44QViitVpIOw3wG.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/jlhi9oycvqdk"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/q14ww2l1mq82"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1606791",
+      "tmdb_id": 1606791,
+      "nombre": "Say Cheese",
+      "poster": "https://image.tmdb.org/t/p/w500/8s68gK7EhHKmIA51t6zDb1Q214n.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/uuszbtxcau7u"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/7adr6tg0lnsy"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1637573",
+      "tmdb_id": 1637573,
+      "nombre": "The Dead Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/jcWX3gYiI0PjRJCMWKXWaFnWOpS.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "SCR": "https://voe.sx/e/u7udlunuij1z"
+          },
+          "Streamwish": {
+            "SCR": "https://streamwish.to/e/zy5hdloizksd"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1248723",
+      "tmdb_id": 1248723,
+      "nombre": "Pinocho",
+      "poster": "https://image.tmdb.org/t/p/w500/aKJkscflrbArm5YRNWExQ029zl9.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/4zdw33wid3uy"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1455079",
+      "tmdb_id": 1455079,
+      "nombre": "Italiana",
+      "poster": "https://image.tmdb.org/t/p/w500/f0Gip8ZwWySoVXuv7icSdP5B8U3.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/tv0tacjhgweu"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_1176647",
+      "tmdb_id": 1176647,
+      "nombre": "Immortals",
+      "poster": "https://image.tmdb.org/t/p/w500/3x9OCN2K5G1MeQFsQc6BBfEpQmC.jpg",
+      "calidad": null,
+      "generos": [],
+      "fuentes": {
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/qpgmqistb0qd"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_7347",
+      "tmdb_id": 7347,
+      "nombre": "Tropa de élite",
+      "poster": "https://image.tmdb.org/t/p/w500/uNmhgNiUzZAknt4sjY1id8nbFCG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-r7dacpwcmqf5.html"
+        }
+      }
+    },
+    {
+      "id": "p_11074",
+      "tmdb_id": 11074,
+      "nombre": "Persecución mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/jnWmZUjQHJl9MATvymsMG1rEHza.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xb8puju315zx.html"
+        }
+      }
+    },
+    {
+      "id": "p_301608",
+      "tmdb_id": 301608,
+      "nombre": "Policías corruptos",
+      "poster": "https://image.tmdb.org/t/p/w500/5z2ceKOKcNOJ2ZoXyr8NsBW87SG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-85utj07b7bfa.html"
+        }
+      }
+    },
+    {
+      "id": "p_50359",
+      "tmdb_id": 50359,
+      "nombre": "Hop: Rebelde Sin Pascua",
+      "poster": "https://image.tmdb.org/t/p/w500/oY6BhCR0YmVlnkcWkn28D45UYXp.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-55w4vpap880r.html"
+        }
+      }
+    },
+    {
+      "id": "p_44264",
+      "tmdb_id": 44264,
+      "nombre": "Valor de ley",
+      "poster": "https://image.tmdb.org/t/p/w500/3O16Iq2v8FbTI6B2H91CsrKi4q1.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hydy0udqx0y9.html"
+        }
+      }
+    },
+    {
+      "id": "p_2275",
+      "tmdb_id": 2275,
+      "nombre": "La hija del general",
+      "poster": "https://image.tmdb.org/t/p/w500/imuM9xxClNHYd41EnL6h99Xw4TS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-47pz9xmxd0n3.html"
+        }
+      }
+    },
+    {
+      "id": "p_2069",
+      "tmdb_id": 2069,
+      "nombre": "Falsas apariencias",
+      "poster": "https://image.tmdb.org/t/p/w500/ixwwMQd3bAjuvdT0CuWgFqkIjGG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0t2niel0m1vc.html"
+        }
+      }
+    },
     {
       "id": "p_109410",
       "tmdb_id": 109410,
@@ -19,12 +329,20 @@
       "id": "p_1439930",
       "tmdb_id": 1439930,
       "nombre": "Marvel Television presenta The Punisher: One Last Kill",
-      "poster": "https://image.tmdb.org/t/p/w500/9FQQFS8vO3Q9oJBRLPCYj8Keikg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qkyqQqQN8HAkLezR6xWTYzz6Icv.jpg",
       "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-rg03m7xt7ix7.html"
+          "la_movie": "https://vimeos.net/embed-w6xsos8sv3h9.html"
+        },
+        "latino": {
+          "Voe": {
+            "HD": "https://voe.sx/e/fjhtpbgpz5fn"
+          },
+          "Pelisjuanita": {
+            "HD": "https://pelisjuanita.com/movies/player.php?id=mNckPQI0ImzqrdsKs9vCg-The-Punisher-One-Last-Kill"
+          }
         }
       }
     },
@@ -152,7 +470,7 @@
       "id": "p_1688652",
       "tmdb_id": 1688652,
       "nombre": "Gary",
-      "poster": "https://image.tmdb.org/t/p/w500/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
       "calidad": null,
       "generos": [],
       "fuentes": {
@@ -242,7 +560,7 @@
       "id": "p_1330021",
       "tmdb_id": 1330021,
       "nombre": "Criaturas luminosas",
-      "poster": "https://image.tmdb.org/t/p/w500/8I2O28Y0avRiKDfdzdkAKbSLxft.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aNixJoh0U4kN85YM6vPyVZL6ALF.jpg",
       "calidad": "4K",
       "generos": [],
       "fuentes": {
@@ -252,6 +570,9 @@
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/4mxytopluzpt"
+          },
+          "Pelisjuanita": {
+            "HD": "https://pelisjuanita.com/movies/player.php?id=8BVFWMekur2e6DSuReq0V-Remarkably-Bright-Creatures"
           }
         }
       }
@@ -507,6 +828,9 @@
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/mgddmpz3r2mg"
+          },
+          "Pelisjuanita": {
+            "HD": "https://pelisjuanita.com/movies/player.php?id=EjIPFto792w849I3gnM0T-My-Dearest-Assassin"
           }
         }
       }
@@ -1576,6 +1900,15 @@
         "latino": {
           "Voe": {
             "CAM": "https://voe.sx/e/ana8obfvyops"
+          },
+          "Player4me": {
+            "CAM": "https://pj.player4me.vip/#6kvdr"
+          },
+          "Seek": {
+            "CAM": "https://pj.seekplayer.vip/#jz5fs"
+          },
+          "Byse": {
+            "CAM": "https://bysesukior.com/e/kc4et098blx5"
           }
         }
       }
@@ -121538,6 +121871,12 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ccmts62q8tai.html"
+        },
+        "latino ": {
+          "HD": "https://hgplaycdn.com/e/fk9a05wnu9nv"
+        },
+        "ingles": {
+          "HD": "https://minochinos.com/v/uaqi5yvhvgbc"
         }
       }
     },
@@ -201713,5 +202052,5 @@
       }
     }
   ],
-  "version": 62
+  "version": 64
 }
