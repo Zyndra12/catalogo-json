@@ -1,7 +1,163 @@
 {
   "type": "peliculas",
-  "total": 12841,
+  "total": 12853,
   "items": [
+    {
+      "id": "p_955555",
+      "tmdb_id": 955555,
+      "nombre": "Fuerza Bruta: Sin salida",
+      "poster": "https://image.tmdb.org/t/p/w500/cB607Cz7Mpdwepnz6RncXOW9gDD.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4r25prarh7ap.html"
+        }
+      }
+    },
+    {
+      "id": "p_26789",
+      "tmdb_id": 26789,
+      "nombre": "Atrapados sin salida",
+      "poster": "https://image.tmdb.org/t/p/w500/fxoCIZaHysHONN22rnGGhS8w67Z.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gpf37bn0nq86.html"
+        }
+      }
+    },
+    {
+      "id": "p_1628367",
+      "tmdb_id": 1628367,
+      "nombre": "La fuerza del deber",
+      "poster": "https://image.tmdb.org/t/p/w500/aPhwFUeaYV2hNswZ7N4kDJUYDeM.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-abj3axbhr6sn.html"
+        }
+      }
+    },
+    {
+      "id": "p_1684226",
+      "tmdb_id": 1684226,
+      "nombre": "La novia del año",
+      "poster": "https://image.tmdb.org/t/p/w500/4Y8HSuYIgKUum2JPfbkul3jR6jh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-krp4b3m2vr3j.html"
+        }
+      }
+    },
+    {
+      "id": "p_278774",
+      "tmdb_id": 278774,
+      "nombre": "¡Applucinante!",
+      "poster": "https://image.tmdb.org/t/p/w500/44NWPxVOrzSEQyz1Y2Uj1HGCz7o.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pmpeffhqrmkg.html"
+        }
+      }
+    },
+    {
+      "id": "p_56590",
+      "tmdb_id": 56590,
+      "nombre": "Superman viaja al sol",
+      "poster": "https://image.tmdb.org/t/p/w500/30GAgK0SvrRoopHlEcrchXqD0hf.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-owu4tq5yxtyq.html"
+        }
+      }
+    },
+    {
+      "id": "p_251321",
+      "tmdb_id": 251321,
+      "nombre": "No llores, vuela",
+      "poster": "https://image.tmdb.org/t/p/w500/fBuWxlAg27efWNyDEYOkAn0gUtr.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ouiv9x4ypxzm.html"
+        }
+      }
+    },
+    {
+      "id": "p_360606",
+      "tmdb_id": 360606,
+      "nombre": "Canguros en apuros",
+      "poster": "https://image.tmdb.org/t/p/w500/zJ42vbF27awhNZHrZ5IzYslOwow.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ptspla67hl7w.html"
+        }
+      }
+    },
+    {
+      "id": "p_55006",
+      "tmdb_id": 55006,
+      "nombre": "The 7th Dimension",
+      "poster": "https://image.tmdb.org/t/p/w500/zHjhq29wFo3T58C33FwiPknqrtQ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ay39datc44m6.html"
+        }
+      }
+    },
+    {
+      "id": "p_11025",
+      "tmdb_id": 11025,
+      "nombre": "Muévete, esto es Nueva York",
+      "poster": "https://image.tmdb.org/t/p/w500/sWV6vVKIJoZqAYjiUpY8ec39QQW.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f9oz7e5ye6f8.html"
+        }
+      }
+    },
+    {
+      "id": "p_33817",
+      "tmdb_id": 33817,
+      "nombre": "Satanás, perfil de un asesino",
+      "poster": "https://image.tmdb.org/t/p/w500/mMqcQJABAC2w1x5ZDTy7c00aOCj.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l4bg0l78nzmi.html"
+        }
+      }
+    },
+    {
+      "id": "p_1317448",
+      "tmdb_id": 1317448,
+      "nombre": "No es país para solteros",
+      "poster": "https://image.tmdb.org/t/p/w500/vx1obRTbY4PB1v5HJ6HJpl3jMxb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nv2bza20ea3c.html"
+        }
+      }
+    },
     {
       "id": "p_362046",
       "tmdb_id": 362046,
@@ -46,9 +202,12 @@
       "tmdb_id": 1632181,
       "nombre": "Socias por accidente",
       "poster": "https://image.tmdb.org/t/p/w500/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-58x3q0rjze8v.html"
+        },
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/y2mc6grcb4od"
@@ -114947,7 +115106,7 @@
       "tmdb_id": 736073,
       "nombre": "Batman: El Largo Halloween, Parte 1",
       "poster": "https://image.tmdb.org/t/p/w500/9yt12SgNE9hqg8QnwIBiblzhH9M.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "misterio",
@@ -114957,6 +115116,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-wiywm1cwyvtq.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8nvm8aomxoqi.html"
         }
       }
     },
@@ -136877,7 +137039,7 @@
       "tmdb_id": 736074,
       "nombre": "Batman: El Largo Halloween, Parte 2",
       "poster": "https://image.tmdb.org/t/p/w500/4OyjnAstDgpVoaKIBVotDs8OVqO.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "misterio",
@@ -136887,6 +137049,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-w43qbdrxjul0.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kfc2gb0yibdu.html"
         }
       }
     },
@@ -172754,7 +172919,7 @@
           "fastream": "https://fastream.to/embed-rt1eoadu9zde.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-a034g37bfeyy.html"
+          "la_movie": "https://vimeos.net/embed-o5k1jfn0v383.html"
         }
       }
     },
@@ -202091,5 +202256,5 @@
       }
     }
   ],
-  "version": 65
+  "version": 66
 }
