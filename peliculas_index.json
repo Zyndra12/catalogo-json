@@ -193225,29 +193225,6 @@
       }
     },
     {
-      "id": "p_1011985",
-      "tmdb_id": 1011985,
-      "nombre": "Kung Fu Panda 4",
-      "poster": "https://image.tmdb.org/t/p/w500/7JspmokDnpm8SEg28wtstfGps0K.jpg",
-      "calidad": "4K",
-      "generos": [
-        "animacion",
-        "familia",
-        "accion",
-        "comedia",
-        "aventura",
-        "fantasia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ut1fukhgpyqh.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-psdvmd18aq2a.html"
-        }
-      }
-    },
-    {
       "id": "p_21032",
       "tmdb_id": 21032,
       "nombre": "Balto: La leyenda del perro esquimal",
