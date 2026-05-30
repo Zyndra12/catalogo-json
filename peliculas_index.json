@@ -1,6 +1,6 @@
 {
   "type": "peliculas",
-  "total": 12853,
+  "total": 12852,
   "items": [
     {
       "id": "p_955555",
@@ -202233,5 +202233,5 @@
       }
     }
   ],
-  "version": 66
+  "version": 67
 }
