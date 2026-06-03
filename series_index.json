@@ -1,7 +1,86 @@
 {
   "type": "series",
-  "total": 2964,
+  "total": 2968,
   "items": [
+    {
+      "id": "s_252107",
+      "tmdb_id": 252107,
+      "nombre": "Ciudad de las estrellas",
+      "poster": "https://image.tmdb.org/t/p/w500/qP4Jb4Cozz36XiGj1sV4Vvzto4j.jpg",
+      "categorias": [
+        "drama",
+        "serie",
+        "guerra",
+        "ficcion"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-nbmegchqq03x.html",
+          "1": "https://vimeos.net/embed-di6tuy7yzqzg.html"
+        }
+      }
+    },
+    {
+      "id": "s_303405",
+      "tmdb_id": 303405,
+      "nombre": "Los pecados de Kujo",
+      "poster": "https://image.tmdb.org/t/p/w500/276nOduPN10I05ajiQdoq6NQBcU.jpg",
+      "categorias": [
+        "crimen",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "1": "https://vimeos.net/embed-1vmwhoc9akqk.html"
+        }
+      }
+    },
+    {
+      "id": "s_220102",
+      "tmdb_id": 220102,
+      "nombre": "Spider-Noir",
+      "poster": "https://image.tmdb.org/t/p/w500/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+      "categorias": [
+        "misterio",
+        "drama",
+        "crimen",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-fr7lsrakby7q.html",
+          "8": "https://vimeos.net/embed-yfkuzhyx005z.html",
+          "2": "https://vimeos.net/embed-mdcdlperxdn9.html",
+          "1": "https://vimeos.net/embed-bndbpvwx9tch.html",
+          "6": "https://vimeos.net/embed-08c9lcpf12xc.html",
+          "5": "https://vimeos.net/embed-ghqmdhoj8kpk.html",
+          "7": "https://vimeos.net/embed-wkxsn8fk1ah0.html",
+          "3": "https://vimeos.net/embed-mmjnqylzsc1t.html"
+        }
+      }
+    },
+    {
+      "id": "s_303143",
+      "tmdb_id": 303143,
+      "nombre": "Mi némesis con aires de realeza",
+      "poster": "https://image.tmdb.org/t/p/w500/gRkBqyHrIqcjsIoTdbRmWgxMKpV.jpg",
+      "categorias": [
+        "comedia",
+        "drama",
+        "ficcion",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-p3vg3u595k7t.html",
+          "2": "https://vimeos.net/embed-tl6p95ixd521.html",
+          "1": "https://vimeos.net/embed-2liq3zlzzaxt.html",
+          "6": "https://vimeos.net/embed-lfsfzec7h103.html",
+          "5": "https://vimeos.net/embed-dmfr7cucjf8j.html"
+        }
+      }
+    },
     {
       "id": "s_128095",
       "tmdb_id": 128095,
@@ -127356,5 +127435,5 @@
       }
     }
   ],
-  "version": 67
+  "version": 68
 }
