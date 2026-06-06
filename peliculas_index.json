@@ -1,7 +1,111 @@
 {
   "type": "peliculas",
-  "total": 12890,
+  "total": 12898,
   "items": [
+    {
+      "id": "p_519010",
+      "tmdb_id": 519010,
+      "nombre": "Dolor y gloria",
+      "poster": "https://image.tmdb.org/t/p/w500/2kg9rw0qVT0YCtUFXopcJsnDHAK.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jl7bkcb8nan2.html"
+        }
+      }
+    },
+    {
+      "id": "p_1293162",
+      "tmdb_id": 1293162,
+      "nombre": "Thieves Highway",
+      "poster": "https://image.tmdb.org/t/p/w500/xMkO644Zqi4O4aPYCpCq3YMpr2C.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-yszt2v0n7z1n.html"
+        }
+      }
+    },
+    {
+      "id": "p_15671",
+      "tmdb_id": 15671,
+      "nombre": "Imagínatelo",
+      "poster": "https://image.tmdb.org/t/p/w500/qoEWAlWL2cpRbx5STzgjK6Yw29A.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "p_19086",
+      "tmdb_id": 19086,
+      "nombre": "Delta Force 2",
+      "poster": "https://image.tmdb.org/t/p/w500/9qWJkYxCp42JBoiAPLstAZYZc3r.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-en7h6a1pk5ir.html"
+        }
+      }
+    },
+    {
+      "id": "p_1426451",
+      "tmdb_id": 1426451,
+      "nombre": "Risa y la cabina del viento",
+      "poster": "https://image.tmdb.org/t/p/w500/noZJqOiKcj8Ih0zqxmYfeSPlv1g.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-olhsdsih2afc.html"
+        }
+      }
+    },
+    {
+      "id": "p_426",
+      "tmdb_id": 426,
+      "nombre": "Vértigo (De entre los muertos)",
+      "poster": "https://image.tmdb.org/t/p/w500/r94qq1BK2VE3z9i5agO3llvvIp8.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v2gpkt6190n1.html"
+        }
+      }
+    },
+    {
+      "id": "p_801",
+      "tmdb_id": 801,
+      "nombre": "Good Morning, Vietnam",
+      "poster": "https://image.tmdb.org/t/p/w500/gsh0fhNQZ6O1ZYsDIt3THtBxoeP.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-94n5gyu6vmot.html"
+        }
+      }
+    },
+    {
+      "id": "p_879",
+      "tmdb_id": 879,
+      "nombre": "Hook (El capitán Garfio)",
+      "poster": "https://image.tmdb.org/t/p/w500/cB9JjO3IU2s3ZBj1fK3baTCigVW.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o9hjkes2zfxx.html"
+        }
+      }
+    },
     {
       "id": "p_9566",
       "tmdb_id": 9566,
@@ -44811,7 +44915,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-pt10p3n7cvez.html"
+          "la_movie": "https://vimeos.net/embed-c4gblt9epvzr.html"
         }
       }
     },
@@ -56410,7 +56514,7 @@
       "tmdb_id": 663870,
       "nombre": "Jinetes de la justicia",
       "poster": "https://image.tmdb.org/t/p/w500/2SfoAbAcXCcNb1V3GpPPJG6OLFB.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "comedia",
@@ -56420,6 +56524,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ol44pdon0dis.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ws4kj526phye.html"
         }
       }
     },
@@ -79466,7 +79573,7 @@
       "tmdb_id": 504562,
       "nombre": "Huérfanos de Brooklyn",
       "poster": "https://image.tmdb.org/t/p/w500/2X86f3KRbdStQXk0f8pZovSRpal.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "suspenso"
@@ -79474,6 +79581,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-nc3sbsgjmgov.html"
+        },
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
         }
       }
     },
@@ -135973,7 +136083,7 @@
       "tmdb_id": 3981,
       "nombre": "¿En qué piensan las mujeres?",
       "poster": "https://image.tmdb.org/t/p/w500/l0KNP8jaWYfiYY2wfUQTptVS4nN.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "romance"
@@ -135981,6 +136091,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-xazxbjs0rnkl.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gbbbalipzlst.html"
         }
       }
     },
@@ -202771,5 +202884,5 @@
       }
     }
   ],
-  "version": 68
+  "version": 69
 }
