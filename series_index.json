@@ -1,7 +1,153 @@
 {
   "type": "series",
-  "total": 2968,
+  "total": 2975,
   "items": [
+    {
+      "id": "s_280511",
+      "tmdb_id": 280511,
+      "nombre": "El testigo",
+      "poster": "https://image.tmdb.org/t/p/w500/10oww9jMTBnDywzieM02BXfpGpp.jpg",
+      "categorias": [
+        "drama",
+        "crimen",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-lhq5mpo5tx7o.html",
+          "1": "https://vimeos.net/embed-p3u7qnps6l5z.html",
+          "3": "https://vimeos.net/embed-imy4fz1ee6y8.html"
+        }
+      }
+    },
+    {
+      "id": "s_277439",
+      "tmdb_id": 277439,
+      "nombre": "Cape Fear",
+      "poster": "https://image.tmdb.org/t/p/w500/raCZsl0tmpNjSSWfmTZHfleECDF.jpg",
+      "categorias": [
+        "drama",
+        "crimen",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://vimeos.net/embed-qrzlp4efl6dl.html",
+          "1": "https://vimeos.net/embed-7uk1hzfxspt3.html"
+        }
+      }
+    },
+    {
+      "id": "s_310954",
+      "tmdb_id": 310954,
+      "nombre": "Las de siempre",
+      "poster": "https://image.tmdb.org/t/p/w500/aP4EGptIlbfWNgbcim5tcxu8y9b.jpg",
+      "categorias": [
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": "https://lamovie.org/embed.html?v=1",
+          "1": "https://vimeos.net/embed-fwfjh1puc55e.html"
+        }
+      }
+    },
+    {
+      "id": "s_229544",
+      "tmdb_id": 229544,
+      "nombre": "Among Us",
+      "poster": "https://image.tmdb.org/t/p/w500/o2BNRptz61KZZM9GokIH1lla5Zz.jpg",
+      "categorias": [
+        "serie",
+        "ficcion",
+        "animacion",
+        "comedia",
+        "misterio"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-7eo58gx9qjgy.html",
+          "8": "https://vimeos.net/embed-601f9knir32r.html",
+          "2": "https://vimeos.net/embed-aq8qojcbm980.html",
+          "9": "https://vimeos.net/embed-ohbsp3u0q2v7.html",
+          "1": "https://vimeos.net/embed-25jrb1w79vhp.html",
+          "6": "https://vimeos.net/embed-3obo972v8oh3.html",
+          "5": "https://vimeos.net/embed-1wrhb0ywl27r.html",
+          "10": "https://vimeos.net/embed-fr58adan54ec.html",
+          "7": "https://vimeos.net/embed-z0kfrx5swkbr.html",
+          "3": "https://vimeos.net/embed-n24c651enbmk.html"
+        }
+      }
+    },
+    {
+      "id": "s_107119",
+      "tmdb_id": 107119,
+      "nombre": "Monsterland",
+      "poster": "https://image.tmdb.org/t/p/w500/trfjxF8LN8NuXxSsmGToRCFMdoH.jpg",
+      "categorias": [
+        "drama",
+        "misterio",
+        "serie",
+        "ficcion"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-9cozf3h3g0q0.html",
+          "8": "https://vimeos.net/embed-x5ith7aqrabw.html",
+          "2": "https://vimeos.net/embed-uqhilcfjm9k2.html",
+          "1": "https://vimeos.net/embed-njggtcgniq7c.html",
+          "6": "https://vimeos.net/embed-z7oibh8qrrgt.html",
+          "5": "https://vimeos.net/embed-g8mgms1q3bxq.html",
+          "7": "https://vimeos.net/embed-hx1c9djkzsn6.html",
+          "3": "https://vimeos.net/embed-4crn9j79fsn2.html"
+        }
+      }
+    },
+    {
+      "id": "s_230225",
+      "tmdb_id": 230225,
+      "nombre": "Black Cake",
+      "poster": "https://image.tmdb.org/t/p/w500/9hCegIMzouCsbnEuhoDBPSUj0gP.jpg",
+      "categorias": [
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-w7ulxtqyzhij.html",
+          "8": "https://vimeos.net/embed-grfvbjolw6xx.html",
+          "2": "https://vimeos.net/embed-6vfzfgbbg0f0.html",
+          "1": "https://vimeos.net/embed-lzuiwl6t72sj.html",
+          "6": "https://vimeos.net/embed-j24jpuk8hwwc.html",
+          "5": "https://vimeos.net/embed-x35qr6l2xbms.html",
+          "7": "https://vimeos.net/embed-9msum1u363z4.html",
+          "3": "https://vimeos.net/embed-vdpyvhidhfb6.html"
+        }
+      }
+    },
+    {
+      "id": "s_273240",
+      "tmdb_id": 273240,
+      "nombre": "Off Campus",
+      "poster": "https://image.tmdb.org/t/p/w500/pI4sEVVbswtyOL2uaFxZs2tPOnQ.jpg",
+      "categorias": [
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-wcj5iio22ktx.html",
+          "8": "https://vimeos.net/embed-imy077nvdrmo.html",
+          "2": "https://vimeos.net/embed-dojy538jfgiu.html",
+          "1": "https://vimeos.net/embed-nihht76et774.html",
+          "6": "https://vimeos.net/embed-fhtj9ev02cms.html",
+          "5": "https://vimeos.net/embed-27mrn2ceonps.html",
+          "7": "https://vimeos.net/embed-oovljurojjff.html",
+          "3": "https://vimeos.net/embed-nfy5zim4cl55.html"
+        }
+      }
+    },
     {
       "id": "s_252107",
       "tmdb_id": 252107,
@@ -127435,5 +127581,5 @@
       }
     }
   ],
-  "version": 69
+  "version": 70
 }

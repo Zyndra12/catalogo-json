@@ -1,7 +1,163 @@
 {
   "type": "peliculas",
-  "total": 12898,
+  "total": 12910,
   "items": [
+    {
+      "id": "p_1362786",
+      "tmdb_id": 1362786,
+      "nombre": "Velhos Bandidos",
+      "poster": "https://image.tmdb.org/t/p/w500/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3ah8h4k2cnri.html"
+        }
+      }
+    },
+    {
+      "id": "p_1406657",
+      "tmdb_id": 1406657,
+      "nombre": "Scarlet",
+      "poster": "https://image.tmdb.org/t/p/w500/q02d53qC6VGL3Di53bAuIR13rYf.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-s9vdtgf2csfd.html"
+        }
+      }
+    },
+    {
+      "id": "p_1684810",
+      "tmdb_id": 1684810,
+      "nombre": "Venezuela País en Trance",
+      "poster": "",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cinyz7g94mfs.html"
+        }
+      }
+    },
+    {
+      "id": "p_1246",
+      "tmdb_id": 1246,
+      "nombre": "Rocky Balboa",
+      "poster": "https://image.tmdb.org/t/p/w500/8oN30JAimKk2LcLOusSYpGvMPgG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-08ap2cqz5mao.html"
+        }
+      }
+    },
+    {
+      "id": "p_1358005",
+      "tmdb_id": 1358005,
+      "nombre": "Turbulencia en la oficina",
+      "poster": "https://image.tmdb.org/t/p/w500/46fpIuAydvL4wjGsH9zR4iLGgE0.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-n9bpxh0p8jd2.html"
+        }
+      }
+    },
+    {
+      "id": "p_11649",
+      "tmdb_id": 11649,
+      "nombre": "Masters del universo",
+      "poster": "https://image.tmdb.org/t/p/w500/6UTNuS4WhpIPqRbEmj9QBRPIkCt.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5qo2sh9ahkbu.html"
+        }
+      }
+    },
+    {
+      "id": "p_1383519",
+      "tmdb_id": 1383519,
+      "nombre": "Playa de lobos",
+      "poster": "https://image.tmdb.org/t/p/w500/reAySL0tYNgI842A8hQlbFJf1Yc.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w5n7xazj7kn8.html"
+        }
+      }
+    },
+    {
+      "id": "p_1530510",
+      "tmdb_id": 1530510,
+      "nombre": "México 86",
+      "poster": "https://image.tmdb.org/t/p/w500/zzk1iWwQ6Tdv9KBjyUVqzExBEug.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-eh04jbiurnf4.html"
+        }
+      }
+    },
+    {
+      "id": "p_1178532",
+      "tmdb_id": 1178532,
+      "nombre": "Moon, mi amigo panda",
+      "poster": "https://image.tmdb.org/t/p/w500/kCNgLDBj2Sd8VxfZjwWfLMfU4Yq.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ig0z7vmyilm8.html"
+        }
+      }
+    },
+    {
+      "id": "p_6003",
+      "tmdb_id": 6003,
+      "nombre": "Romeo y Julieta",
+      "poster": "https://image.tmdb.org/t/p/w500/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5wl6xro6epia.html"
+        }
+      }
+    },
+    {
+      "id": "p_1291659",
+      "tmdb_id": 1291659,
+      "nombre": "El mago del Kremlin",
+      "poster": "https://image.tmdb.org/t/p/w500/y7IKhoqIXR7CQhfEpqbp5C5GGNa.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pa9rwraimr4v.html"
+        }
+      }
+    },
+    {
+      "id": "p_1365302",
+      "tmdb_id": 1365302,
+      "nombre": "Chavín de Huántar, el rescate del siglo",
+      "poster": "https://image.tmdb.org/t/p/w500/ceXPgcYyPgPUsg3bMlbV2JdjWhS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-h6nvi3xachxv.html"
+        }
+      }
+    },
     {
       "id": "p_519010",
       "tmdb_id": 519010,
@@ -215,22 +371,11 @@
       "tmdb_id": 931285,
       "nombre": "Mortal Kombat II",
       "poster": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
-        "latino": {
-          "Voe": {
-            "CAM": "https://voe.sx/e/n31fbfkohgsj"
-          },
-          "Player4me": {
-            "CAM": "https://pj.player4me.vip/#du53i"
-          },
-          "Byse": {
-            "CAM": "https://bysesukior.com/e/479pemum3cfd"
-          },
-          "Seek": {
-            "CAM": "https://pj.seekplayer.vip/#86fdx"
-          }
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1pxcv3b4bd0q.html"
         }
       }
     },
@@ -1242,9 +1387,12 @@
       "tmdb_id": 1534530,
       "nombre": "El Susurro",
       "poster": "https://image.tmdb.org/t/p/w500/x1kKY4OvlDGxTvBn5GDyTVCYv6.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-69ubzeriksdk.html"
+        },
         "latino": {
           "Voe": {
             "HD": "https://voe.sx/e/aetqb8f7n2tu"
@@ -2701,25 +2849,14 @@
       "tmdb_id": 936075,
       "nombre": "Michael",
       "poster": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [
         "musica",
         "drama"
       ],
       "fuentes": {
-        "latino": {
-          "Voe": {
-            "CAM": "https://voe.sx/e/ana8obfvyops"
-          },
-          "Player4me": {
-            "CAM": "https://pj.player4me.vip/#6kvdr"
-          },
-          "Seek": {
-            "CAM": "https://pj.seekplayer.vip/#jz5fs"
-          },
-          "Byse": {
-            "CAM": "https://bysesukior.com/e/kc4et098blx5"
-          }
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-85qzksqyf42k.html"
         }
       }
     },
@@ -157070,13 +157207,16 @@
       "tmdb_id": 411873,
       "nombre": "En pecado",
       "poster": "https://image.tmdb.org/t/p/w500/8shSZd2A7ihgQbh8FiSTcT1WD80.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-3u3gtpwaiv10.html"
+        },
+        "español castellano": {
+          "la_movie": "https://goodstream.one/embed-1isevfsgr1hr.html"
         }
       }
     },
@@ -161723,7 +161863,7 @@
       "tmdb_id": 419835,
       "nombre": "La casa torcida",
       "poster": "https://image.tmdb.org/t/p/w500/lHDeiMLTlQEI26r0HrzV8L5cBIC.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "misterio",
         "crimen",
@@ -161732,6 +161872,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-n17jiwp6mwj5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tfdceysyr1xc.html"
         }
       }
     },
@@ -189110,7 +189253,7 @@
       "tmdb_id": 1186052,
       "nombre": "Death on the Border",
       "poster": "https://image.tmdb.org/t/p/w500/sPr1hZmowPggNQZWyH3AQhAJpTr.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "suspenso"
@@ -189118,6 +189261,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-igp6mearcaxe.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dvv11ed5gctq.html"
         }
       }
     },
@@ -190490,7 +190636,7 @@
       "tmdb_id": 72559,
       "nombre": "G.I. Joe: La venganza",
       "poster": "https://image.tmdb.org/t/p/w500/heX1PtYdzXgfYpEnuWtRqc4rH4x.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "ficcion",
@@ -190500,6 +190646,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-hvntcqb5lqhg.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bvz04tyfwdve.html"
         }
       }
     },
@@ -202664,7 +202813,7 @@
       "tmdb_id": 1338799,
       "nombre": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
       "poster": "https://image.tmdb.org/t/p/w500/xaQdh164coVcrNiQm6jpehYG1dV.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "accion",
@@ -202673,6 +202822,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-o3pj0ik6enbx.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5tpi7wfc8gru.html"
         }
       }
     },
@@ -202884,5 +203036,5 @@
       }
     }
   ],
-  "version": 69
+  "version": 70
 }
