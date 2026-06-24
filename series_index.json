@@ -1,7 +1,74 @@
 {
   "type": "series",
-  "total": 3051,
+  "total": 3054,
   "items": [
+    {
+      "id": "s_302162",
+      "tmdb_id": 302162,
+      "nombre": "La canción del samurái",
+      "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+      "categorias": [
+        "serie",
+        "accion"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-5dcxgr3pdeax.html",
+          "7": "https://vimeos.net/embed-rjbbpetjpoy4.html",
+          "2": "https://vimeos.net/embed-gkogy31ghju5.html",
+          "1": "https://vimeos.net/embed-9r4nk6xlf50s.html",
+          "6": "https://vimeos.net/embed-g3xuo5p5ncyz.html",
+          "5": "https://vimeos.net/embed-burh27bhnaas.html",
+          "3": "https://vimeos.net/embed-e34mmf3jt0fa.html"
+        }
+      }
+    },
+    {
+      "id": "s_276161",
+      "tmdb_id": 276161,
+      "nombre": "Así aprenderás",
+      "poster": "https://image.tmdb.org/t/p/w500/lG83nWVT7cHl3nSxonaYhOjqyWH.jpg",
+      "categorias": [
+        "serie",
+        "drama",
+        "comedia",
+        "accion"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-95telcke6nq2.html",
+          "8": "https://vimeos.net/embed-1wqzlk0xpe2r.html",
+          "2": "https://vimeos.net/embed-vu3mbagq17yp.html",
+          "9": "https://vimeos.net/embed-vumlj5ohpwik.html",
+          "1": "https://vimeos.net/embed-cz5e6wgkjwit.html",
+          "6": "https://vimeos.net/embed-tpa9h8rxy8ue.html",
+          "5": "https://vimeos.net/embed-owttyxhkzijn.html",
+          "10": "https://vimeos.net/embed-bbzku41zn0uu.html",
+          "7": "https://vimeos.net/embed-mcslha4y5qcj.html",
+          "3": "https://vimeos.net/embed-ip8sfe0kt82j.html"
+        }
+      }
+    },
+    {
+      "id": "s_292532",
+      "tmdb_id": 292532,
+      "nombre": "Brasil 70: La saga del tricampeonato",
+      "poster": "https://image.tmdb.org/t/p/w500/gZBWPPAYCvIIXC1BfF5a69BRDFk.jpg",
+      "categorias": [
+        "serie",
+        "drama",
+        "documental"
+      ],
+      "temporadas": {
+        "1": {
+          "4": "https://vimeos.net/embed-agujbz9eybmq.html",
+          "2": "https://vimeos.net/embed-7kd8p0xev8l2.html",
+          "1": "https://vimeos.net/embed-6iri1uln1b2i.html",
+          "3": "https://vimeos.net/embed-fbp85y5nf8ok.html",
+          "5": "https://vimeos.net/embed-abuzx9wkj465.html"
+        }
+      }
+    },
     {
       "id": "s_318459",
       "tmdb_id": 318459,
@@ -134199,5 +134266,5 @@
       }
     }
   ],
-  "version": 71
+  "version": 72
 }
