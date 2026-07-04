@@ -1,13 +1,156 @@
 {
   "type": "peliculas",
-  "total": 13139,
+  "total": 13150,
   "items": [
+    {
+      "id": "p_1667198",
+      "tmdb_id": 1667198,
+      "nombre": "The Amazing Digital Circus: El último acto",
+      "poster": "https://image.tmdb.org/t/p/w500/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ucjiacesnn7k.html"
+        }
+      }
+    },
+    {
+      "id": "p_133790",
+      "tmdb_id": 133790,
+      "nombre": "Clear history",
+      "poster": "https://image.tmdb.org/t/p/w500/ihWtbwCwtdUD8Fl6gmqEoRRboKf.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-h5ttzg5s1ksr.html"
+        }
+      }
+    },
+    {
+      "id": "p_341744",
+      "tmdb_id": 341744,
+      "nombre": "Truman",
+      "poster": "https://image.tmdb.org/t/p/w500/eXISQb5JHkHTtn9LUpflRNmRaQG.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6apvcigli6xa.html"
+        }
+      }
+    },
+    {
+      "id": "p_1817",
+      "tmdb_id": 1817,
+      "nombre": "Última llamada",
+      "poster": "https://image.tmdb.org/t/p/w500/5NfIQnpdimdr6uXkB46YQUJnjLZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-lr81qnr3byhn.html"
+        }
+      }
+    },
+    {
+      "id": "p_3432",
+      "tmdb_id": 3432,
+      "nombre": "Mr. Brooks",
+      "poster": "https://image.tmdb.org/t/p/w500/evn6nqHs1HAEeTJ1tF2vYxNTvZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nlz4vt0pnb2i.html"
+        }
+      }
+    },
+    {
+      "id": "p_10361",
+      "tmdb_id": 10361,
+      "nombre": "Ginger Snaps II - Los malditos",
+      "poster": "https://image.tmdb.org/t/p/w500/gA6gtBa0fWiC3KkEkyPAyhkoFlY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ba6n5z8ztnt9.html"
+        }
+      }
+    },
+    {
+      "id": "p_1236204",
+      "tmdb_id": 1236204,
+      "nombre": "Parto Maldito",
+      "poster": "https://image.tmdb.org/t/p/w500/crKwaK7mqHOOfcmaUEPiw87acit.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wm7go6edaqmw.html"
+        }
+      }
+    },
+    {
+      "id": "p_50032",
+      "tmdb_id": 50032,
+      "nombre": "Stuart: Una vida al revés",
+      "poster": "https://image.tmdb.org/t/p/w500/vpzjn5QQ9AFNoY6Lr7M8evFXK3l.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-e3enomen7y78.html"
+        }
+      }
+    },
+    {
+      "id": "p_553839",
+      "tmdb_id": 553839,
+      "nombre": "Youjo Senki Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/2eOcRIcnQty8B9Wp40UUNOj58UM.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "p_179",
+      "tmdb_id": 179,
+      "nombre": "La intérprete",
+      "poster": "https://image.tmdb.org/t/p/w500/yxpmVqh6CNixZ48zVqJY2f8ZcHe.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pqyxru0oa5wr.html"
+        }
+      }
+    },
+    {
+      "id": "p_1339713",
+      "tmdb_id": 1339713,
+      "nombre": "Obsesión",
+      "poster": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kfox00c86cwh.html"
+        }
+      }
+    },
     {
       "id": "p_1202033",
       "tmdb_id": 1202033,
       "nombre": "Enola Holmes 3",
       "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "misterio",
         "suspense",
@@ -17,6 +160,9 @@
       "fuentes": {
         "subtitulado": {
           "vsembed": "https://vsembed.ru/embed/movie?imdb=tt32278481&ds_lang=es"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4ukinf9pc8un.html"
         },
         "castellano": {
           "voe": "https://voe.sx/e/nhohlqk25f0b"
@@ -31,7 +177,7 @@
       "tmdb_id": 1084244,
       "nombre": "Toy Story 5",
       "poster": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "calidad": "SD",
+      "calidad": "HD",
       "generos": [
         "animación",
         "familia",
@@ -39,6 +185,9 @@
         "aventura"
       ],
       "fuentes": {
+        "castellano": {
+          "earnvids": "https://minochinos.com/embed/sfd2hsben1vy"
+        },
         "latino": {
           "voe": "https://voe.sx/e/lx6haey0mysf"
         }
@@ -5320,9 +5469,12 @@
       "tmdb_id": 1314481,
       "nombre": "El diablo viste de Prada 2",
       "poster": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-      "calidad": null,
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hc5o8aypkyon.html"
+        },
         "latino": {
           "Voe": {
             "CAM": "https://voe.sx/e/ozei46nv1pik"
@@ -97380,7 +97532,7 @@
       "tmdb_id": 314,
       "nombre": "Catwoman",
       "poster": "https://image.tmdb.org/t/p/w500/l40ot7UBtLOmse1qn4NI97w3ve3.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "fantasia",
@@ -97389,6 +97541,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-exovc9xqxxet.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-csyaearon2ya.html"
         }
       }
     },
@@ -99198,7 +99353,7 @@
       "tmdb_id": 4970,
       "nombre": "Gothika",
       "poster": "https://image.tmdb.org/t/p/w500/aNbP2LrQ82eutT9tDort4P9RkfQ.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "suspenso",
@@ -99207,6 +99362,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-fw4151it6qod.html"
+        },
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
         }
       }
     },
@@ -132379,7 +132537,7 @@
       "tmdb_id": 947,
       "nombre": "Lawrence de Arabia",
       "poster": "https://image.tmdb.org/t/p/w500/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "aventura",
         "historia"
@@ -132387,6 +132545,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-b07236upsl3j.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-stqt6urbsd3k.html"
         }
       }
     },
@@ -155007,7 +155168,7 @@
       "tmdb_id": 14317,
       "nombre": "Los Thornberrys: La película",
       "poster": "https://image.tmdb.org/t/p/w500/28KmgwVpcmSy51AfeuFcUFbnPE2.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "familia",
         "comedia",
@@ -155017,6 +155178,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-y73ukjaugnxz.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8z7kq19w5l4g.html"
         }
       }
     },
@@ -171693,7 +171857,7 @@
           "fastream": "https://fastream.to/embed-75pycs5d03am.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-xyu0nkz6ufw9.html"
+          "la_movie": "https://vimeos.net/embed-msxu6ml7v0mx.html"
         }
       }
     },
@@ -206318,5 +206482,5 @@
       }
     }
   ],
-  "version": 74
+  "version": 75
 }
