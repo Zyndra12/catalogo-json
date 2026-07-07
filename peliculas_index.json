@@ -1,7 +1,72 @@
 {
   "type": "peliculas",
-  "total": 13150,
+  "total": 13155,
   "items": [
+    {
+      "id": "p_1725116",
+      "tmdb_id": 1725116,
+      "nombre": "Simpsley",
+      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vuizkuloy8aw.html"
+        }
+      }
+    },
+    {
+      "id": "p_1584215",
+      "tmdb_id": 1584215,
+      "nombre": "The Internship",
+      "poster": "https://image.tmdb.org/t/p/w500/i7iL6HZykQGNg6uaFTwxlmgilz5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zulw63c37u1w.html"
+        }
+      }
+    },
+    {
+      "id": "p_1218032",
+      "tmdb_id": 1218032,
+      "nombre": "Super Charlie",
+      "poster": "https://image.tmdb.org/t/p/w500/5Q9HC4MGRdDprlO8yMPQVKbwAwg.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o5s3h7o79r5r.html"
+        }
+      }
+    },
+    {
+      "id": "p_6964",
+      "tmdb_id": 6964,
+      "nombre": "Cuando menos te lo esperas...",
+      "poster": "https://image.tmdb.org/t/p/w500/tS97hYu7kqPfYJE0ydCw4293o6l.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4p2qsy44qk3c.html"
+        }
+      }
+    },
+    {
+      "id": "p_241554",
+      "tmdb_id": 241554,
+      "nombre": "Una noche para sobrevivir",
+      "poster": "https://image.tmdb.org/t/p/w500/iSjOGNQY34qIOfYk5heCc1gAlEY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ykbkh8s7vbk1.html"
+        }
+      }
+    },
     {
       "id": "p_1667198",
       "tmdb_id": 1667198,
@@ -115,7 +180,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://lamovie.org/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-eg5w5xh1lo4f.html"
         }
       }
     },
@@ -185,11 +250,8 @@
         "aventura"
       ],
       "fuentes": {
-        "castellano": {
-          "earnvids": "https://minochinos.com/embed/sfd2hsben1vy"
-        },
         "latino": {
-          "voe": "https://voe.sx/e/lx6haey0mysf"
+          "voe": "https://voe.sx/e/5wf9z8xn3olw"
         }
       }
     },
@@ -99364,7 +99426,7 @@
           "fastream": "https://fastream.to/embed-fw4151it6qod.html"
         },
         "español castellano": {
-          "la_movie": "https://lamovie.org/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-xt970vdgsry2.html"
         }
       }
     },
@@ -119261,13 +119323,16 @@
       "tmdb_id": 283587,
       "nombre": "Beasts of No Nation",
       "poster": "https://image.tmdb.org/t/p/w500/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-n9dpmcbk7jcw.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-04u8crflqidn.html"
         }
       }
     },
@@ -127340,7 +127405,7 @@
           "fastream": "https://fastream.to/embed-d637u5vapg15.html"
         },
         "español castellano": {
-          "la_movie": "https://goodstream.one/embed-iuq3phleeqby.html"
+          "la_movie": "https://vimeos.net/embed-bnrvjbzp7pq3.html"
         }
       }
     },
@@ -206482,5 +206547,5 @@
       }
     }
   ],
-  "version": 75
+  "version": 76
 }
