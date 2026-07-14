@@ -1,7 +1,200 @@
 {
   "type": "peliculas",
-  "total": 13155,
+  "total": 13169,
   "items": [
+    {
+      "id": "p_1108427",
+      "tmdb_id": 1108427,
+      "nombre": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "calidad": "SD",
+      "generos": [
+        "familia",
+        "fantasía",
+        "comedia",
+        "aventura"
+      ],
+      "fuentes": {
+        "latino": {
+          "voe": "https://voe.sx/e/hfrwblewjbqk"
+        }
+      }
+    },
+    {
+      "id": "p_1241982",
+      "tmdb_id": 1241982,
+      "nombre": "Moana 2",
+      "poster": "https://image.tmdb.org/t/p/w500/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",
+      "calidad": "HD",
+      "generos": [
+        "aventura",
+        "animación",
+        "comedia",
+        "familia",
+        "fantasía"
+      ],
+      "fuentes": {
+        "latino": {
+          "la_movie": "https://vimeos.net/embed-b7o6j67cn5pr.html"
+        }
+      }
+    },
+    {
+      "id": "p_1122573",
+      "tmdb_id": 1122573,
+      "nombre": "En la zona gris",
+      "poster": "https://image.tmdb.org/t/p/w500/iT2XPcPFhjZPNdLydXYKVJBCvb7.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7bu7bonsm2o8.html"
+        }
+      }
+    },
+    {
+      "id": "p_1368314",
+      "tmdb_id": 1368314,
+      "nombre": "El pasajero nocturno",
+      "poster": "https://image.tmdb.org/t/p/w500/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w2z6zxbnq12i.html"
+        }
+      }
+    },
+    {
+      "id": "p_11619",
+      "tmdb_id": 11619,
+      "nombre": "Ratónpolis",
+      "poster": "https://image.tmdb.org/t/p/w500/r7l8CUoSsXP2N1KUndZzVsrpXrd.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tbuyj0e71s99.html"
+        }
+      }
+    },
+    {
+      "id": "p_6948",
+      "tmdb_id": 6948,
+      "nombre": "El bosque maldito",
+      "poster": "https://image.tmdb.org/t/p/w500/olRTDkicdRON4YESF6tgv1bT3VN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-aiip0waigt0e.html"
+        }
+      }
+    },
+    {
+      "id": "p_214317",
+      "tmdb_id": 214317,
+      "nombre": "Morning",
+      "poster": "https://image.tmdb.org/t/p/w500/4nxbiIaLSeJrOeVKGu5aDqlv9Ic.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w4vnzfasb3o8.html"
+        }
+      }
+    },
+    {
+      "id": "p_11184",
+      "tmdb_id": 11184,
+      "nombre": "Kinsey",
+      "poster": "https://image.tmdb.org/t/p/w500/1id0OTfzyJNjJXZpP8QJzfLRHhm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ycczvygsy7hn.html"
+        }
+      }
+    },
+    {
+      "id": "p_404",
+      "tmdb_id": 404,
+      "nombre": "Una historia verdadera",
+      "poster": "https://image.tmdb.org/t/p/w500/qakfW6Mt0iJ4HziS5OOuLTfOihJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-st4xkwjh5573.html"
+        }
+      }
+    },
+    {
+      "id": "p_860",
+      "tmdb_id": 860,
+      "nombre": "Juegos de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/tFnhVopdrik99QC71sbbvLG6rLc.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6ogveut5zclq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1710008",
+      "tmdb_id": 1710008,
+      "nombre": "Hasta el final",
+      "poster": "https://image.tmdb.org/t/p/w500/vaedoBmTuQ3zutjUxDvd2YpsHyQ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ibulxtdx7cpj.html"
+        }
+      }
+    },
+    {
+      "id": "p_1595852",
+      "tmdb_id": 1595852,
+      "nombre": "Boulevard",
+      "poster": "https://image.tmdb.org/t/p/w500/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nlu5yytb9hnx.html"
+        }
+      }
+    },
+    {
+      "id": "p_335",
+      "tmdb_id": 335,
+      "nombre": "Hasta que llegó su hora",
+      "poster": "https://image.tmdb.org/t/p/w500/upiek8u4rHTrOJW9B0woXe4A4h7.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cedeaomo6rvn.html"
+        }
+      }
+    },
+    {
+      "id": "p_5551",
+      "tmdb_id": 5551,
+      "nombre": "Space Cowboys",
+      "poster": "https://image.tmdb.org/t/p/w500/bZDNpRfZSFkJs5vaXQWUojIkfS2.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6uv1qh3yso8k.html"
+        }
+      }
+    },
     {
       "id": "p_1725116",
       "tmdb_id": 1725116,
@@ -12348,7 +12541,7 @@
       "tmdb_id": 1245347,
       "nombre": "Mi mitad perdida",
       "poster": "https://image.tmdb.org/t/p/w500/ld7HHNBXFt5XxO3DW5IBkGUIsLt.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "drama"
@@ -12356,6 +12549,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-y7nl2gop3lgs.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-yy4h7t29cej5.html"
         }
       }
     },
@@ -21589,7 +21785,7 @@
     {
       "id": "p_277834",
       "tmdb_id": 277834,
-      "nombre": "Vaiana",
+      "nombre": "Moana: Un mar de aventuras",
       "poster": "https://image.tmdb.org/t/p/w500/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
       "calidad": "4K",
       "generos": [],
@@ -42462,7 +42658,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-n1kwvfq47fq3.html"
+          "la_movie": "https://vimeos.net/embed-g3rrcwin6gk5.html"
         }
       }
     },
@@ -177640,7 +177836,7 @@
       "tmdb_id": 13195,
       "nombre": "Un plan brillante",
       "poster": "https://image.tmdb.org/t/p/w500/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "drama",
@@ -177649,6 +177845,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-8n8eejacihr9.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2emy6axp131t.html"
         }
       }
     },
@@ -186237,7 +186436,7 @@
       "tmdb_id": 6947,
       "nombre": "El bosque",
       "poster": "https://image.tmdb.org/t/p/w500/2urZW6YNuWHLwY63Q5d6RfCzOdx.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "misterio",
@@ -186246,6 +186445,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-jecviv8x90z5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2zhmabtq92t0.html"
         }
       }
     },
@@ -204024,7 +204226,7 @@
           "fastream": "https://fastream.to/embed-n962i0kagcwz.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-m87zuuw0zvd5.html"
+          "la_movie": "https://vimeos.net/embed-i06x3yrd05kq.html"
         }
       }
     },
@@ -206547,5 +206749,5 @@
       }
     }
   ],
-  "version": 76
+  "version": 78
 }
