@@ -1,7 +1,124 @@
 {
   "type": "peliculas",
-  "total": 13169,
+  "total": 13178,
   "items": [
+    {
+      "id": "p_10715",
+      "tmdb_id": 10715,
+      "nombre": "Looney Tunes: De nuevo en acción",
+      "poster": "https://image.tmdb.org/t/p/w500/6QIy1WUEX4piBh2mXkJAZ6zEU6r.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zg4y4dd32j1i.html"
+        }
+      }
+    },
+    {
+      "id": "p_22787",
+      "tmdb_id": 22787,
+      "nombre": "Terror en la Antártida (Whiteout)",
+      "poster": "https://image.tmdb.org/t/p/w500/hyIUVE1tHd9II9U11vAQSHI4zRH.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l0al1mk31f82.html"
+        }
+      }
+    },
+    {
+      "id": "p_46146",
+      "tmdb_id": 46146,
+      "nombre": "Troll Hunter",
+      "poster": "https://image.tmdb.org/t/p/w500/bb4CfzDqyKkvrGzRlXovYHtKMDN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7klj3e3xmcg6.html"
+        }
+      }
+    },
+    {
+      "id": "p_73567",
+      "tmdb_id": 73567,
+      "nombre": "Killer Joe",
+      "poster": "https://image.tmdb.org/t/p/w500/roArqa3Ml2IQVgnKZ28sxnQv4oI.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dsy8l6a8fu9h.html"
+        }
+      }
+    },
+    {
+      "id": "p_15008",
+      "tmdb_id": 15008,
+      "nombre": "El escocés volador",
+      "poster": "https://image.tmdb.org/t/p/w500/1ARffaR8ujlrxsGQrcpuPXwPaUS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ac83dfj7svl1.html"
+        }
+      }
+    },
+    {
+      "id": "p_9838",
+      "tmdb_id": 9838,
+      "nombre": "Las minas del rey Salomón",
+      "poster": "https://image.tmdb.org/t/p/w500/jHrjJGM3bizZXaiI35aWWN3MTj5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-m5472umma8ax.html"
+        }
+      }
+    },
+    {
+      "id": "p_1397201",
+      "tmdb_id": 1397201,
+      "nombre": "Golden Kamuy: Asalto a la prisión de Abashiri",
+      "poster": "https://image.tmdb.org/t/p/w500/82GKBbN5ovZJiz5H2dSbDBrHcJ2.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5f6kfze3caxt.html"
+        }
+      }
+    },
+    {
+      "id": "p_71859",
+      "tmdb_id": 71859,
+      "nombre": "Tenemos que hablar de Kevin",
+      "poster": "https://image.tmdb.org/t/p/w500/7SJseOqWJFARnwrVl8EuiJMuxkX.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1g3604crmdln.html"
+        }
+      }
+    },
+    {
+      "id": "p_2440",
+      "tmdb_id": 2440,
+      "nombre": "Zona de riesgo (JSA)",
+      "poster": "https://image.tmdb.org/t/p/w500/6pZw6KFwrADsS4HYfJe8AHMwpQh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-glvzxlok0e74.html"
+        }
+      }
+    },
     {
       "id": "p_1108427",
       "tmdb_id": 1108427,
@@ -86236,7 +86353,7 @@
       "tmdb_id": 495398,
       "nombre": "Intercambio Mortal",
       "poster": "https://image.tmdb.org/t/p/w500/8lmxueK2DghZiVaJ9RK8yW435lQ.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "crimen"
@@ -86244,6 +86361,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-vm432by1a6vj.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1y0l96hf2y2l.html"
         }
       }
     },
@@ -121046,7 +121166,7 @@
           "fastream": "https://fastream.to/embed-t41vykvdld86.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-k9qczpn1xmsz.html"
+          "la_movie": "https://vimeos.net/embed-bkt68qfz75pp.html"
         }
       }
     },
@@ -130784,7 +130904,7 @@
       "tmdb_id": 4327,
       "nombre": "Los Ángeles de Charlie",
       "poster": "https://image.tmdb.org/t/p/w500/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "comedia",
@@ -130793,6 +130913,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-c2v9ps7f3cfc.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l23duhssww0c.html"
         }
       }
     },
@@ -182041,7 +182164,7 @@
       "tmdb_id": 4104,
       "nombre": "Benny & Joon: El amor de los inocentes",
       "poster": "https://image.tmdb.org/t/p/w500/ddQPEl97zfJby4Mm9QEKF4sB2L4.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "drama"
@@ -182049,6 +182172,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-n84vaps0n8jb.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-c9na3f91mbpj.html"
         }
       }
     },
@@ -206749,5 +206875,5 @@
       }
     }
   ],
-  "version": 78
+  "version": 79
 }
