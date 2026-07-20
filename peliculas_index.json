@@ -1,7 +1,180 @@
 {
   "type": "peliculas",
-  "total": 13178,
+  "total": 13191,
   "items": [
+    {
+      "id": "p_1368337",
+      "tmdb_id": 1368337,
+      "nombre": "La odisea",
+      "poster": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
+      "calidad": "SD",
+      "generos": [
+        "aventura",
+        "acción",
+        "fantasía"
+      ],
+      "fuentes": {
+        "latino": {
+          "voe": "https://voe.sx/e/j0vec8lkfndo"
+        }
+      }
+    },
+    {
+      "id": "p_415",
+      "tmdb_id": 415,
+      "nombre": "Batman y Robin",
+      "poster": "https://image.tmdb.org/t/p/w500/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ga3g760fij1s.html"
+        }
+      }
+    },
+    {
+      "id": "p_1668364",
+      "tmdb_id": 1668364,
+      "nombre": "Deseo",
+      "poster": "https://image.tmdb.org/t/p/w500/hzyByMOgLeYwu13fusOwIPJwMNV.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-khbu2ehomuio.html"
+        }
+      }
+    },
+    {
+      "id": "p_1616674",
+      "tmdb_id": 1616674,
+      "nombre": "Yo antes de ser yo",
+      "poster": "https://image.tmdb.org/t/p/w500/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cu5xoma8855o.html"
+        }
+      }
+    },
+    {
+      "id": "p_1656220",
+      "tmdb_id": 1656220,
+      "nombre": "23.000 vidas",
+      "poster": "https://image.tmdb.org/t/p/w500/tZWhuyPxWtODB6rKuGrUUArJq9E.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-k7o9g99o61gd.html"
+        }
+      }
+    },
+    {
+      "id": "p_1318621",
+      "tmdb_id": 1318621,
+      "nombre": "Los Descendientes: viaje al mundo oscuro",
+      "poster": "https://image.tmdb.org/t/p/w500/pBY8LeKTcgqeWKztgclJvRs8z1T.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hav84e4y5ttr.html"
+        }
+      }
+    },
+    {
+      "id": "p_22947",
+      "tmdb_id": 22947,
+      "nombre": "Up in the Air",
+      "poster": "https://image.tmdb.org/t/p/w500/jmRCv4WB0jMyKSqvmUSPDIw7gmM.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-344lwoc1byjc.html"
+        }
+      }
+    },
+    {
+      "id": "p_1588",
+      "tmdb_id": 1588,
+      "nombre": "A por todas",
+      "poster": "https://image.tmdb.org/t/p/w500/iYMjzxaK0Y5v1gtIFWivau7yHAN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-virucscrqn4b.html"
+        }
+      }
+    },
+    {
+      "id": "p_11211",
+      "tmdb_id": 11211,
+      "nombre": "A por todas: De nuevo una vez más",
+      "poster": "https://image.tmdb.org/t/p/w500/vKT5fDtEHKtGOF0AgCsPCEyczb9.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cq0wqboplhyu.html"
+        }
+      }
+    },
+    {
+      "id": "p_12540",
+      "tmdb_id": 12540,
+      "nombre": "A por todas de nuevo",
+      "poster": "https://image.tmdb.org/t/p/w500/qqSWjkfew9suUG9RPz1mqw3Eced.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-32jkavxexk85.html"
+        }
+      }
+    },
+    {
+      "id": "p_21474",
+      "tmdb_id": 21474,
+      "nombre": "A por todas: La lucha final",
+      "poster": "https://image.tmdb.org/t/p/w500/iaVkiD7wSqQvUJWLPnVsFFBAlHj.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-f7o32uq8frf4.html"
+        }
+      }
+    },
+    {
+      "id": "p_1273221",
+      "tmdb_id": 1273221,
+      "nombre": "Scary Movie 6",
+      "poster": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3ik1mrxf99gx.html"
+        }
+      }
+    },
+    {
+      "id": "p_15261",
+      "tmdb_id": 15261,
+      "nombre": "A por todas: Vamos a triunfar",
+      "poster": "https://image.tmdb.org/t/p/w500/ySgmepMABU22MyvrBeaE7twu1cB.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qt7g58s4ckmx.html"
+        }
+      }
+    },
     {
       "id": "p_10715",
       "tmdb_id": 10715,
@@ -561,7 +734,7 @@
       ],
       "fuentes": {
         "latino": {
-          "voe": "https://voe.sx/e/5wf9z8xn3olw"
+          "voe": "https://vimeos.net/embed-r5u1f3ftja9c.html"
         }
       }
     },
@@ -19994,7 +20167,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://goodstream.one/embed-bfmcx4d8yyiu.html"
+          "la_movie": "https://vimeos.net/embed-3pn8jvzrunwf.html"
         }
       }
     },
@@ -33330,7 +33503,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-jcce1ose437d.html"
+          "la_movie": "https://vimeos.net/embed-nbkos6ymk9kh.html"
         }
       }
     },
@@ -104682,7 +104855,7 @@
       "tmdb_id": 13475,
       "nombre": "Star Trek",
       "poster": "https://image.tmdb.org/t/p/w500/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "accion",
@@ -104691,6 +104864,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-mgaeyktewlc7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-rzb1kv7xooy2.html"
         }
       }
     },
@@ -113485,7 +113661,7 @@
           "fastream": "https://fastream.to/embed-izr6ymj01hfc.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-64qtr8xzb9qi.html"
+          "la_movie": "https://lamovie.org/embed.html?v=1"
         }
       }
     },
@@ -119125,7 +119301,7 @@
       "tmdb_id": 607259,
       "nombre": "Ser padre",
       "poster": "https://image.tmdb.org/t/p/w500/2hRAvXdpCMDm9WDOMFksY7nZAhl.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "comedia"
@@ -119133,6 +119309,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-6krsa68dalr0.html"
+        },
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
         }
       }
     },
@@ -137767,7 +137946,7 @@
           "fastream": "https://fastream.to/embed-0hkfqg7vxd1c.html"
         },
         "español castellano": {
-          "la_movie": "https://la.movie/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-ujljmdfbclvu.html"
         }
       }
     },
@@ -146772,7 +146951,7 @@
       "tmdb_id": 13275,
       "nombre": "El desafío (Annapolis)",
       "poster": "https://image.tmdb.org/t/p/w500/vXf40OH5kbbfgeVvIOwH6q64nQ5.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "accion"
@@ -146780,6 +146959,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-kbeicvumagp1.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-eojiwp2nybze.html"
         }
       }
     },
@@ -206875,5 +207057,5 @@
       }
     }
   ],
-  "version": 79
+  "version": 80
 }
