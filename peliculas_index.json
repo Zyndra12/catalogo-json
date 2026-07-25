@@ -1,7 +1,345 @@
 {
   "type": "peliculas",
-  "total": 13191,
+  "total": 13217,
   "items": [
+    {
+      "id": "p_12554",
+      "tmdb_id": 12554,
+      "nombre": "Ciudadano X",
+      "poster": "https://image.tmdb.org/t/p/w500/AdLJruDqCiX3VCC0AEp4t3mxGY3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ti8h6fx38vu9.html"
+        }
+      }
+    },
+    {
+      "id": "p_1228710",
+      "tmdb_id": 1228710,
+      "nombre": "The Mandalorian and Grogu",
+      "poster": "https://image.tmdb.org/t/p/w500/v8mnrbA4zXnq2RHGEWlSEA8GLjk.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8ipcftz5j3ga.html"
+        }
+      }
+    },
+    {
+      "id": "p_10843",
+      "tmdb_id": 10843,
+      "nombre": "¡qué noche!",
+      "poster": "https://image.tmdb.org/t/p/w500/gT8XcLbE5LeQ9wbIWJJXfevB2yl.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1uoxq9rcqpfv.html"
+        }
+      }
+    },
+    {
+      "id": "p_975",
+      "tmdb_id": 975,
+      "nombre": "Senderos de gloria",
+      "poster": "https://image.tmdb.org/t/p/w500/vz8J8nTbF5JP7PQK4VNVsO8rzCy.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-h6w6yepj0lvs.html"
+        }
+      }
+    },
+    {
+      "id": "p_1142518",
+      "tmdb_id": 1142518,
+      "nombre": "Libre",
+      "poster": "https://image.tmdb.org/t/p/w500/thW4P7HLSxpb0JiEqfIJKT67Tew.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qua83v4rkbbe.html"
+        }
+      }
+    },
+    {
+      "id": "p_1364082",
+      "tmdb_id": 1364082,
+      "nombre": "El secuestro de 1993",
+      "poster": "https://image.tmdb.org/t/p/w500/cmLD1G3r0Pj2zzylzlmwCGF4Qj4.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ikmy3p1m0nwu.html"
+        }
+      }
+    },
+    {
+      "id": "p_1169361",
+      "tmdb_id": 1169361,
+      "nombre": "10 días de un hombre curioso",
+      "poster": "https://image.tmdb.org/t/p/w500/eP3f2P2Gk65lupIMoR1FSnZEqRg.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-y6pyt6bkypx3.html"
+        }
+      }
+    },
+    {
+      "id": "p_1165466",
+      "tmdb_id": 1165466,
+      "nombre": "Wake Up",
+      "poster": "https://image.tmdb.org/t/p/w500/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mfgq8g9pj3pd.html"
+        }
+      }
+    },
+    {
+      "id": "p_598252",
+      "tmdb_id": 598252,
+      "nombre": "Ледяной демон",
+      "poster": "https://image.tmdb.org/t/p/w500/cEoMAzPa9QJFIlLLdeWbKjpLOkF.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-y5yp7z8rgpsq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1115379",
+      "tmdb_id": 1115379,
+      "nombre": "El silencio del agua",
+      "poster": "https://image.tmdb.org/t/p/w500/4BTPtaRLqFEvnaYYr6MAuWCoKSN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jj6vardrykb9.html"
+        }
+      }
+    },
+    {
+      "id": "p_12690",
+      "tmdb_id": 12690,
+      "nombre": "Appaloosa",
+      "poster": "https://image.tmdb.org/t/p/w500/s3QVtUIoixXGuGDqKcQID7vdDfU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7f5cbo9t0cp5.html"
+        }
+      }
+    },
+    {
+      "id": "p_1124641",
+      "tmdb_id": 1124641,
+      "nombre": "Red clasificada",
+      "poster": "https://image.tmdb.org/t/p/w500/bnBNgSvZxyDxuyiSXxxsQoV2k0W.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qm5lw7s0bse7.html"
+        }
+      }
+    },
+    {
+      "id": "p_1058078",
+      "tmdb_id": 1058078,
+      "nombre": "Horror Park",
+      "poster": "https://image.tmdb.org/t/p/w500/bCw8DnIGtpDysqolmfWacBoiNtJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mpehpis2aalm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1148172",
+      "tmdb_id": 1148172,
+      "nombre": "Doble fortaleza",
+      "poster": "https://image.tmdb.org/t/p/w500/kQTrnKEYFTelje4lwUTDgBSjfWZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-23qnxvaaqc34.html"
+        }
+      }
+    },
+    {
+      "id": "p_848439",
+      "tmdb_id": 848439,
+      "nombre": "La última reina",
+      "poster": "https://image.tmdb.org/t/p/w500/hthT9xdbL5oE6o7IukuOinDXMrH.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kytens1ejx29.html"
+        }
+      }
+    },
+    {
+      "id": "p_11001",
+      "tmdb_id": 11001,
+      "nombre": "De ladrón a policía",
+      "poster": "https://image.tmdb.org/t/p/w500/buUQCdQrJM8itUd0MmtIikjJyEl.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
+        }
+      }
+    },
+    {
+      "id": "p_1096022",
+      "tmdb_id": 1096022,
+      "nombre": "El distrito quemado",
+      "poster": "https://image.tmdb.org/t/p/w500/3ND8h53vim8riBzLnlZt3SWPauH.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cv6jj0fgjbf9.html"
+        }
+      }
+    },
+    {
+      "id": "p_1171640",
+      "tmdb_id": 1171640,
+      "nombre": "GTMAX",
+      "poster": "https://image.tmdb.org/t/p/w500/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kbvz1ijav63l.html"
+        }
+      }
+    },
+    {
+      "id": "p_454639",
+      "tmdb_id": 454639,
+      "nombre": "He-Man y los masters del universo",
+      "poster": "https://image.tmdb.org/t/p/w500/A6kqScyPEsn6akDS5HyPf9jE4Od.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-1w90yyz1pqnx.html"
+        }
+      }
+    },
+    {
+      "id": "p_1382511",
+      "tmdb_id": 1382511,
+      "nombre": "Cambio de bebés 2",
+      "poster": "https://image.tmdb.org/t/p/w500/oRuW3TzBqNsHnfx8P7Jla1AJgBJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-i8fwp4otptcq.html"
+        }
+      }
+    },
+    {
+      "id": "p_1371540",
+      "tmdb_id": 1371540,
+      "nombre": "Umjolo: Perdidamente enamorada",
+      "poster": "https://image.tmdb.org/t/p/w500/3h6SyezeKyT7VpEHyLqckbBZuoM.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vaiaxmkbzriv.html"
+        }
+      }
+    },
+    {
+      "id": "p_1297222",
+      "tmdb_id": 1297222,
+      "nombre": "Una jirafa en el balcón",
+      "poster": "https://image.tmdb.org/t/p/w500/8csZdgUBVTDZ8XOIjoRVngwOvOq.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4q1iawdhcy2a.html"
+        }
+      }
+    },
+    {
+      "id": "p_1232732",
+      "tmdb_id": 1232732,
+      "nombre": "Casi el Paraíso",
+      "poster": "https://image.tmdb.org/t/p/w500/5fx9WM0skOfLH3lFsfSMp53Gleh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ci0fernaja03.html"
+        }
+      }
+    },
+    {
+      "id": "p_1079201",
+      "tmdb_id": 1079201,
+      "nombre": "Cambio de bebés",
+      "poster": "https://image.tmdb.org/t/p/w500/5rdrHhyAqzTi9ettTlkgBlqgsOk.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ouu7svms0qrf.html"
+        }
+      }
+    },
+    {
+      "id": "p_1094974",
+      "tmdb_id": 1094974,
+      "nombre": "Cúbrete",
+      "poster": "https://image.tmdb.org/t/p/w500/sgYcFVPv3UIw8WuGAdBHgvd5mlR.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sdby5dpbhqls.html"
+        }
+      }
+    },
+    {
+      "id": "p_11812",
+      "tmdb_id": 11812,
+      "nombre": "La cosa más dulce",
+      "poster": "https://image.tmdb.org/t/p/w500/m9Ik7hzYKzea3ACUMQ2Mpbt69OY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pz73fc0pbpfc.html"
+        }
+      }
+    },
     {
       "id": "p_1368337",
       "tmdb_id": 1368337,
@@ -15143,7 +15481,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-x1lf7ynrdzsm.html"
+          "la_movie": "https://vimeos.net/embed-97pj010nbdfr.html"
         }
       }
     },
@@ -49034,7 +49372,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-3shm8t1inz97.html"
+          "la_movie": "https://vimeos.net/embed-m6kjdl48er0n.html"
         }
       }
     },
@@ -113661,7 +113999,7 @@
           "fastream": "https://fastream.to/embed-izr6ymj01hfc.html"
         },
         "español castellano": {
-          "la_movie": "https://lamovie.org/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-o7hm7alykutm.html"
         }
       }
     },
@@ -119311,7 +119649,7 @@
           "fastream": "https://fastream.to/embed-6krsa68dalr0.html"
         },
         "español castellano": {
-          "la_movie": "https://lamovie.org/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-4b269de1p20u.html"
         }
       }
     },
@@ -124479,7 +124817,7 @@
       "tmdb_id": 448776,
       "nombre": "Una oración antes del amanecer",
       "poster": "https://image.tmdb.org/t/p/w500/15JagJX0sIueGOwe4H6YYBOWP8q.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "accion",
@@ -124488,6 +124826,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-k9go16hf5zul.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7eov29k36ea7.html"
         }
       }
     },
@@ -134819,13 +135160,16 @@
       "tmdb_id": 1275779,
       "nombre": "El día de la revelación",
       "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-qhjene1xakp2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pbdftb6msgng.html"
         }
       }
     },
@@ -135076,13 +135420,16 @@
       "tmdb_id": 1621,
       "nombre": "Entre pillos anda el juego",
       "poster": "https://image.tmdb.org/t/p/w500/bwmqcucVleqUTKUKw7K3hlvUGKC.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-1fwod9gx8w7n.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x3qoq64tf4se.html"
         }
       }
     },
@@ -187012,13 +187359,16 @@
       "tmdb_id": 1057491,
       "nombre": "Atrevida – La pasión no tiene reglas",
       "poster": "https://image.tmdb.org/t/p/w500/gjgat29owtLyEufK8vNS4BmfQ9k.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-dyed9412zwqn.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mxkyk2wwksh7.html"
         }
       }
     },
@@ -207057,5 +207407,5 @@
       }
     }
   ],
-  "version": 80
+  "version": 81
 }
