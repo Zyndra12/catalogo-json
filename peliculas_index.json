@@ -1,7 +1,24 @@
 {
   "type": "peliculas",
-  "total": 13217,
+  "total": 13218,
   "items": [
+    {
+      "id": "p_969681",
+      "tmdb_id": 969681,
+      "nombre": "Spider-Man: Brand New Day",
+      "poster": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
+      "calidad": "SD",
+      "generos": [
+        "ciencia ficción",
+        "acción",
+        "aventura"
+      ],
+      "fuentes": {
+        "latino": {
+          "voe": "https://voe.sx/e/qm8q3rmof2o0"
+        }
+      }
+    },
     {
       "id": "p_12554",
       "tmdb_id": 12554,
@@ -207407,5 +207424,5 @@
       }
     }
   ],
-  "version": 81
+  "version": 82
 }
