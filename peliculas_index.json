@@ -1,7 +1,297 @@
 {
   "type": "peliculas",
-  "total": 13346,
+  "total": 13368,
   "items": [
+    {
+      "id": "p_1101383",
+      "tmdb_id": 1101383,
+      "nombre": "El final de Oak Street",
+      "poster": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "calidad": "SD",
+      "generos": [
+        "ciencia ficción",
+        "misterio",
+        "suspense"
+      ],
+      "fuentes": {
+        "latino": {
+          "voe": "https://voe.sx/e/wlasieje0wjp"
+        }
+      }
+    },
+    {
+      "id": "p_5236",
+      "tmdb_id": 5236,
+      "nombre": "Kiss Kiss Bang Bang",
+      "poster": "https://image.tmdb.org/t/p/w500/yMAoom93EhCzp39vG59ka42hGIk.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hra17q6ffovd.html"
+        }
+      }
+    },
+    {
+      "id": "p_1284041",
+      "tmdb_id": 1284041,
+      "nombre": "La última casa",
+      "poster": "https://image.tmdb.org/t/p/w500/CIGQ7ONbNaSDK3KGkXjBILcj1d.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-664idasx1x53.html"
+        }
+      }
+    },
+    {
+      "id": "p_8665",
+      "tmdb_id": 8665,
+      "nombre": "K-19: The Widowmaker",
+      "poster": "https://image.tmdb.org/t/p/w500/tsnjybp9cj9VOeZyxSx2cLuETWf.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-jmcyg53q9ad0.html"
+        }
+      }
+    },
+    {
+      "id": "p_1263532",
+      "tmdb_id": 1263532,
+      "nombre": "Carrera de bestias",
+      "poster": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-9a4j4a67o99d.html"
+        }
+      }
+    },
+    {
+      "id": "p_1315772",
+      "tmdb_id": 1315772,
+      "nombre": "Minions & Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-rxibp0g06k4r.html"
+        }
+      }
+    },
+    {
+      "id": "p_346034",
+      "tmdb_id": 346034,
+      "nombre": "3 idiotas",
+      "poster": "https://image.tmdb.org/t/p/w500/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6jc9hl0fum8y.html"
+        }
+      }
+    },
+    {
+      "id": "p_1308767",
+      "tmdb_id": 1308767,
+      "nombre": "Young Washington",
+      "poster": "https://image.tmdb.org/t/p/w500/cpY0vz53hWon3N7zJ4XTSkxAEUd.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ki3zzc0gkpsm.html"
+        }
+      }
+    },
+    {
+      "id": "p_1487861",
+      "tmdb_id": 1487861,
+      "nombre": "Elize: Sombras de una mujer",
+      "poster": "https://image.tmdb.org/t/p/w500/a3y0aWIJdJEw7pme6Y9W0aReIN9.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o4zoun9ehrt0.html"
+        }
+      }
+    },
+    {
+      "id": "p_1679730",
+      "tmdb_id": 1679730,
+      "nombre": "La heroína del lazo",
+      "poster": "https://image.tmdb.org/t/p/w500/s1O0nlq5JqwLbbCXpNEFzT2sxQh.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-clblbfsuot9b.html"
+        }
+      }
+    },
+    {
+      "id": "p_666139",
+      "tmdb_id": 666139,
+      "nombre": "Asesino en Suburbia",
+      "poster": "https://image.tmdb.org/t/p/w500/74cph8aK4E2WzOwuqDbTLa9WFXI.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ocl6opnnk0lp.html"
+        }
+      }
+    },
+    {
+      "id": "p_9433",
+      "tmdb_id": 9433,
+      "nombre": "El desafío",
+      "poster": "https://image.tmdb.org/t/p/w500/fg78XEpvW3EsA4kHOj0zonJ13hO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-28mxlutu1eww.html"
+        }
+      }
+    },
+    {
+      "id": "p_1504358",
+      "tmdb_id": 1504358,
+      "nombre": "No se desea buena suerte",
+      "poster": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kko2w94tk90c.html"
+        }
+      }
+    },
+    {
+      "id": "p_80585",
+      "tmdb_id": 80585,
+      "nombre": "Rock of Ages. La era del rock",
+      "poster": "https://image.tmdb.org/t/p/w500/qabZhYmGhl81LBzyhSOlHVvFQSE.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pnncx5xspyvn.html"
+        }
+      }
+    },
+    {
+      "id": "p_1315843",
+      "tmdb_id": 1315843,
+      "nombre": "Un Padre en Apuros",
+      "poster": "https://image.tmdb.org/t/p/w500/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-9fut8csd6pfj.html"
+        }
+      }
+    },
+    {
+      "id": "p_1487864",
+      "tmdb_id": 1487864,
+      "nombre": "Nando entre dos mundos",
+      "poster": "https://image.tmdb.org/t/p/w500/jgIHdtYjvqNRMRcJFVnGUcLmNIb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o4htb4b22ewu.html"
+        }
+      }
+    },
+    {
+      "id": "p_10897",
+      "tmdb_id": 10897,
+      "nombre": "Una pandilla de pillos",
+      "poster": "https://image.tmdb.org/t/p/w500/mKHvAWXSpVZ8io6CMoEGyZe7VNJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-19w8oy5zxxgp.html"
+        }
+      }
+    },
+    {
+      "id": "p_878508",
+      "tmdb_id": 878508,
+      "nombre": "Mientras dormimos",
+      "poster": "https://image.tmdb.org/t/p/w500/ckVAjWa8xGY5Tp0zVpPNjx8VN2K.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tn9wqnv8ossu.html"
+        }
+      }
+    },
+    {
+      "id": "p_4824",
+      "tmdb_id": 4824,
+      "nombre": "The Jackal (Chacal)",
+      "poster": "https://image.tmdb.org/t/p/w500/jlwBfHTmvSgppqUP5E7OcrV8YRt.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-9m9piwkbviwp.html"
+        }
+      }
+    },
+    {
+      "id": "p_1632473",
+      "tmdb_id": 1632473,
+      "nombre": "Esto, aquello y todo lo demás",
+      "poster": "https://image.tmdb.org/t/p/w500/q71j2435ZU7UDhROJz5UjHBEk3J.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ekv0f8mozrvn.html"
+        }
+      }
+    },
+    {
+      "id": "p_544",
+      "tmdb_id": 544,
+      "nombre": "Algo pasa con Mary",
+      "poster": "https://image.tmdb.org/t/p/w500/dSOfZ9Ni0Nd7dAXR2CT2JI4ljsl.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ce0ym9kath1z.html"
+        }
+      }
+    },
+    {
+      "id": "p_1589248",
+      "tmdb_id": 1589248,
+      "nombre": "Mi mejor amigo, su novia y yo",
+      "poster": "https://image.tmdb.org/t/p/w500/slZ1c32UqVgl94XV3CMDFjiZdTZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-t8mtbfajcz6j.html"
+        }
+      }
+    },
     {
       "id": "p_1212763",
       "tmdb_id": 1212763,
@@ -1671,7 +1961,7 @@
       "tmdb_id": 969681,
       "nombre": "Spider-Man: Brand New Day",
       "poster": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
-      "calidad": "SD",
+      "calidad": "TS",
       "generos": [
         "ciencia ficción",
         "acción",
@@ -1679,7 +1969,7 @@
       ],
       "fuentes": {
         "latino": {
-          "voe": "https://voe.sx/e/qm8q3rmof2o0"
+          "voe": "https://voe.sx/e/yncvxi52vmk0"
         }
       }
     },
@@ -60824,7 +61114,7 @@
       "tmdb_id": 8390,
       "nombre": "Definitivamente, quizás",
       "poster": "https://image.tmdb.org/t/p/w500/d1gHgF4PJeCObC4gXB5JVvr9GF6.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "romance"
@@ -60832,6 +61122,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-0w8hoam90q6r.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-oqw4osq0ou3g.html"
         }
       }
     },
@@ -101582,7 +101875,7 @@
       "tmdb_id": 435615,
       "nombre": "Possessor",
       "poster": "https://image.tmdb.org/t/p/w500/dZ76kaKWYwLRDKYcRBbXCLRsK5D.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "suspenso",
@@ -101591,6 +101884,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-154w490c8yie.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x6x4crozktd0.html"
         }
       }
     },
@@ -180864,7 +181160,7 @@
       "tmdb_id": 322,
       "nombre": "Mystic River",
       "poster": "https://image.tmdb.org/t/p/w500/b6j7T4uBjXdG8FBMuDFsHttgIK2.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso",
         "crimen",
@@ -180874,6 +181170,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-1i28hi4kyh0r.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5ixh5xvqrq9u.html"
         }
       }
     },
@@ -181634,7 +181933,7 @@
       "tmdb_id": 9408,
       "nombre": "Locos por el surf",
       "poster": "https://image.tmdb.org/t/p/w500/9pHrNZJFAGUxCWOzpqCz5nniUaa.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "comedia",
@@ -181643,6 +181942,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-u2ffioax6kd9.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-km0cgi6fm9om.html"
         }
       }
     },
@@ -209142,5 +209444,5 @@
       }
     }
   ],
-  "version": 83
+  "version": 84
 }
