@@ -1,7 +1,345 @@
 {
   "type": "peliculas",
-  "total": 13405,
+  "total": 13431,
   "items": [
+    {
+      "id": "p_5503",
+      "tmdb_id": 5503,
+      "nombre": "El fugitivo",
+      "poster": "https://image.tmdb.org/t/p/w500/aLcB1uBxkNghyiD797ZRBBRz5lj.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-bs4hkfssy6m8.html"
+        }
+      }
+    },
+    {
+      "id": "p_213",
+      "tmdb_id": 213,
+      "nombre": "Con la muerte en los talones",
+      "poster": "https://image.tmdb.org/t/p/w500/rzOQHh5Utbr3x0UvKIbIU5pVA0f.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2d266unp6jqd.html"
+        }
+      }
+    },
+    {
+      "id": "p_411840",
+      "tmdb_id": 411840,
+      "nombre": "Locos por el surf 2: Olamanía",
+      "poster": "https://image.tmdb.org/t/p/w500/x67ohNuOdwcAvu0cTCHywnClEyt.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-s05clmes6qvf.html"
+        }
+      }
+    },
+    {
+      "id": "p_16538",
+      "tmdb_id": 16538,
+      "nombre": "Te quiero, tío",
+      "poster": "https://image.tmdb.org/t/p/w500/nzY0DlZYlZuBQGy8nyQeKRy0wVo.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-atjzs6xsaag6.html"
+        }
+      }
+    },
+    {
+      "id": "p_687",
+      "tmdb_id": 687,
+      "nombre": "Pena de muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/682uhML1FnWnSAzPhUNaLa4PQbr.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7e091mt5uxlt.html"
+        }
+      }
+    },
+    {
+      "id": "p_9710",
+      "tmdb_id": 9710,
+      "nombre": "Allan Quatermain y la ciudad perdida de oro",
+      "poster": "https://image.tmdb.org/t/p/w500/zgQTZN3tMSMrz6QAoqfU5nVAyyP.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cx1fo3i08vzh.html"
+        }
+      }
+    },
+    {
+      "id": "p_9029",
+      "tmdb_id": 9029,
+      "nombre": "Algo pasa en Las Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/asQQdmkKQ2Jz5RlQX3a1hfcuS3G.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nx4bi9infnd1.html"
+        }
+      }
+    },
+    {
+      "id": "p_343284",
+      "tmdb_id": 343284,
+      "nombre": "Deb contra los zombies",
+      "poster": "https://image.tmdb.org/t/p/w500/eHaO6CBenCJiu7LFhOQKTEeHScZ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-luew3r236phn.html"
+        }
+      }
+    },
+    {
+      "id": "p_10400",
+      "tmdb_id": 10400,
+      "nombre": "Huracán Carter",
+      "poster": "https://image.tmdb.org/t/p/w500/jicMNPt7YnL6K8nDHeK3TqhmHIU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zac4yh9w35ch.html"
+        }
+      }
+    },
+    {
+      "id": "p_1428",
+      "tmdb_id": 1428,
+      "nombre": "El mexicano",
+      "poster": "https://image.tmdb.org/t/p/w500/jWofPn9h93Out6ePI1ip4EiyE7P.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vr2u8f2f98e1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1058537",
+      "tmdb_id": 1058537,
+      "nombre": "Ángeles caídos: guerreros de paz",
+      "poster": "https://image.tmdb.org/t/p/w500/ocB2LL9NgSUkoIo9VijFyVfXgSf.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4wq88163csx1.html"
+        }
+      }
+    },
+    {
+      "id": "p_18500",
+      "tmdb_id": 18500,
+      "nombre": "Historia de un verano 2",
+      "poster": "https://image.tmdb.org/t/p/w500/xLc3jTAKAOCg7lBWp9vzyAJNLay.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-20ep9mbc20t7.html"
+        }
+      }
+    },
+    {
+      "id": "p_724315",
+      "tmdb_id": 724315,
+      "nombre": "Alpha Code",
+      "poster": "https://image.tmdb.org/t/p/w500/pZGKX9bhIyDPH7ZJn2Xrw8meUHn.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ivhpnufacr2j.html"
+        }
+      }
+    },
+    {
+      "id": "p_1152798",
+      "tmdb_id": 1152798,
+      "nombre": "Game On",
+      "poster": "https://image.tmdb.org/t/p/w500/aPLsoRFnTM1b0wFCuBGfD8so3X6.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xmt68bh0fj7s.html"
+        }
+      }
+    },
+    {
+      "id": "p_1266863",
+      "tmdb_id": 1266863,
+      "nombre": "Тимучин",
+      "poster": "https://image.tmdb.org/t/p/w500/21Q2KOLQROUkzE4pRz5hjIL80na.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7xw9rrwx5ta4.html"
+        }
+      }
+    },
+    {
+      "id": "p_1131755",
+      "tmdb_id": 1131755,
+      "nombre": "A Creature Was Stirring",
+      "poster": "https://image.tmdb.org/t/p/w500/1cpfjP0xeonz7L4ujR13aGHsc2Q.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ick69urfyv9q.html"
+        }
+      }
+    },
+    {
+      "id": "p_1376408",
+      "tmdb_id": 1376408,
+      "nombre": "Bajo Presión",
+      "poster": "https://image.tmdb.org/t/p/w500/3vS9NrTmrIA4YsX2LtGknJfGNZT.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mxf72xsb6pgz.html"
+        }
+      }
+    },
+    {
+      "id": "p_1027938",
+      "tmdb_id": 1027938,
+      "nombre": "Milchzähne",
+      "poster": "https://image.tmdb.org/t/p/w500/9CDBASxi5mgyDzNhqhUTnew0g4G.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xbx4tpwxmwet.html"
+        }
+      }
+    },
+    {
+      "id": "p_1208704",
+      "tmdb_id": 1208704,
+      "nombre": "Dagr",
+      "poster": "https://image.tmdb.org/t/p/w500/t7FrSnzwAPaA3LU8TGwsRd4PKj5.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tpexwgu4j91z.html"
+        }
+      }
+    },
+    {
+      "id": "p_1219533",
+      "tmdb_id": 1219533,
+      "nombre": "冒险王",
+      "poster": "https://image.tmdb.org/t/p/w500/8U8xcPEnAU6qeqNDUha7tMkqOb3.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wxps9t265bpv.html"
+        }
+      }
+    },
+    {
+      "id": "p_77169",
+      "tmdb_id": 77169,
+      "nombre": "Virus",
+      "poster": "https://image.tmdb.org/t/p/w500/zO0VHrqRBZRcIrxBypwjR81C7Ih.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-z3d2nmaiqgrc.html"
+        }
+      }
+    },
+    {
+      "id": "p_244145",
+      "tmdb_id": 244145,
+      "nombre": "El fondo del mar",
+      "poster": "https://image.tmdb.org/t/p/w500/rdfn8WiPfc5wDGrce2orDBlE1li.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hrnv8owt7fdr.html"
+        }
+      }
+    },
+    {
+      "id": "p_10610",
+      "tmdb_id": 10610,
+      "nombre": "El poder del talismán",
+      "poster": "https://image.tmdb.org/t/p/w500/4vsTMm9HttoWkqhCoFVV9rPb5cS.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hz1ksxpzedl6.html"
+        }
+      }
+    },
+    {
+      "id": "p_986966",
+      "tmdb_id": 986966,
+      "nombre": "He's Not Worth Dying For",
+      "poster": "https://image.tmdb.org/t/p/w500/wcPOrHgbfQTdT6bpGya3TmvCDot.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4v3j7agz0es9.html"
+        }
+      }
+    },
+    {
+      "id": "p_375358",
+      "tmdb_id": 375358,
+      "nombre": "Cangrejos asesinos",
+      "poster": "https://image.tmdb.org/t/p/w500/4YcVx1PtJhprXPKSvGSwnEPFoYD.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ivymjilh6gp1.html"
+        }
+      }
+    },
+    {
+      "id": "p_236035",
+      "tmdb_id": 236035,
+      "nombre": "La luna del pistolero",
+      "poster": "https://image.tmdb.org/t/p/w500/62T1Ek1TYlCrZ8sabXwQ1RAHn4E.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v6xrcp3g6b1y.html"
+        }
+      }
+    },
     {
       "id": "p_1291595",
       "tmdb_id": 1291595,
@@ -43722,7 +44060,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-q3w7guys9ky2.html"
+          "la_movie": "https://vimeos.net/embed-zgylxtk565o4.html"
         }
       }
     },
@@ -84447,7 +84785,7 @@
       "tmdb_id": 513268,
       "nombre": "Cámara policial",
       "poster": "https://image.tmdb.org/t/p/w500/rlNSEtGULPBFBy9OGKW9rEUS7aq.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "suspenso",
@@ -84456,6 +84794,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-63oa7ho5j9by.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-txuul1g5iycj.html"
         }
       }
     },
@@ -102305,7 +102646,7 @@
       "tmdb_id": 11529,
       "nombre": "Sweet Home Alabama",
       "poster": "https://image.tmdb.org/t/p/w500/y7SPyBWpDMgQOQtXQwesOnqx29O.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "romance"
@@ -102313,6 +102654,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-sdgo7tpnasfl.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5ksye5hzzlln.html"
         }
       }
     },
@@ -133575,13 +133919,16 @@
       "tmdb_id": 9472,
       "nombre": "Cuestión de pelotas",
       "poster": "https://image.tmdb.org/t/p/w500/wZSdRdCCkwS77iHz6Sv38fgEnPP.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-dhgz7vcar98f.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-20ls07ugclbo.html"
         }
       }
     },
@@ -136928,7 +137275,7 @@
       "tmdb_id": 9070,
       "nombre": "Power Rangers: La película",
       "poster": "https://image.tmdb.org/t/p/w500/pk67rEjEZnouTu1gnhrIC0aqNra.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "aventura",
@@ -136938,6 +137285,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-30e1fgo6oczw.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-m6jx4f7evu1x.html"
         }
       }
     },
@@ -141059,7 +141409,7 @@
       "tmdb_id": 33542,
       "nombre": "Duro de matar",
       "poster": "https://image.tmdb.org/t/p/w500/zWHpCti0TWpU9g3HkmIShIjnYhW.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "accion",
@@ -141069,6 +141419,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-hc8laa6d71n3.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j4bnboyd8pim.html"
         }
       }
     },
@@ -143505,7 +143858,7 @@
       "tmdb_id": 339877,
       "nombre": "Loving Vincent",
       "poster": "https://image.tmdb.org/t/p/w500/3EApKIxlgS3plXBR5xCmYzrh2j8.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "animacion",
         "drama",
@@ -143515,6 +143868,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-5a7an4ubjw5z.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-aj084s4145go.html"
         }
       }
     },
@@ -145583,7 +145939,7 @@
       "tmdb_id": 11046,
       "nombre": "El desafío de las águilas",
       "poster": "https://image.tmdb.org/t/p/w500/grNmyt14WAFXYWkteIbIcFP5A4O.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "aventura"
@@ -145591,6 +145947,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-rrizsg1jc484.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-c7d7ygaki6nc.html"
         }
       }
     },
@@ -209955,5 +210314,5 @@
       }
     }
   ],
-  "version": 85
+  "version": 86
 }
