@@ -1,7 +1,24 @@
 {
   "type": "peliculas",
-  "total": 13431,
+  "total": 13432,
   "items": [
+    {
+      "id": "p_1204680",
+      "tmdb_id": 1204680,
+      "nombre": "Coyote vs. Acme",
+      "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "aventura",
+        "familia"
+      ],
+      "fuentes": {
+        "latino": {
+          "voe": "https://voe.sx/e/8dcd54ryd1gs"
+        }
+      }
+    },
     {
       "id": "p_5503",
       "tmdb_id": 5503,
@@ -367,8 +384,11 @@
         "suspense"
       ],
       "fuentes": {
+        "Latino_1": {
+          "voe": "https://voe.sx/e/hmkwxikajjhm"
+        },
         "latino": {
-          "vidhide": "https://voe.sx/e/5fioadubphdp"
+          "vidhide": "https://vimeos.net/embed-i39t7d3e6zmh.html"
         }
       }
     },
@@ -210314,5 +210334,5 @@
       }
     }
   ],
-  "version": 86
+  "version": 87
 }
