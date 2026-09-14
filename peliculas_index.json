@@ -1,7 +1,20 @@
 {
   "type": "peliculas",
-  "total": 13480,
+  "total": 13481,
   "items": [
+    {
+      "id": "p_89261",
+      "tmdb_id": 89261,
+      "nombre": "El perfecto desconocido",
+      "poster": "https://image.tmdb.org/t/p/w500/4Ay2aO5UA6C9zcPzY9YNN4JxHga.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pckcs6z0t37g.html"
+        }
+      }
+    },
     {
       "id": "p_384680",
       "tmdb_id": 384680,
@@ -583,7 +596,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://lamovie.org/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-6gdsw2rburhg.html"
         }
       }
     },
@@ -596,7 +609,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://lamovie.org/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-ouuv8yvewg0h.html"
         }
       }
     },
@@ -70870,7 +70883,7 @@
       "tmdb_id": 582014,
       "nombre": "Una joven prometedora",
       "poster": "https://image.tmdb.org/t/p/w500/vpWalAz106L7ZjqzXcC1Sdq8bUf.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso",
         "crimen",
@@ -70879,6 +70892,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-6lvjqdbqquic.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-76clwwsy7bia.html"
         }
       }
     },
@@ -131913,13 +131929,16 @@
       "tmdb_id": 85350,
       "nombre": "Boyhood (Momentos de una vida)",
       "poster": "https://image.tmdb.org/t/p/w500/7wB1OG7YrJRolO74PhvzikeWVCv.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-dysgdifsmfbv.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zvhiowgd1gtw.html"
         }
       }
     },
@@ -143091,13 +143110,16 @@
       "tmdb_id": 41308,
       "nombre": "El padrecito",
       "poster": "https://image.tmdb.org/t/p/w500/fREvHyV2W1gG1HrBaAbxmXiYE2P.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-om4mqjngwkfy.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3zpjob3iu75g.html"
         }
       }
     },
@@ -143955,7 +143977,7 @@
           "fastream": "https://fastream.to/embed-9z54yfbo4b2a.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-hawvs6coil9k.html"
+          "la_movie": "https://vimeos.net/embed-b461atrxxfts.html"
         }
       }
     },
@@ -210967,5 +210989,5 @@
       }
     }
   ],
-  "version": 88
+  "version": 89
 }
