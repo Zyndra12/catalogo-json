@@ -1,7 +1,24 @@
 {
   "type": "peliculas",
-  "total": 13481,
+  "total": 13482,
   "items": [
+    {
+      "id": "p_1377237",
+      "tmdb_id": 1377237,
+      "nombre": "Entrega al límite",
+      "poster": "https://image.tmdb.org/t/p/w500/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "calidad": "SD",
+      "generos": [
+        "acción",
+        "comedia",
+        "suspense"
+      ],
+      "fuentes": {
+        "latino": {
+          "voe": "https://voe.sx/e/eixzzkvivbev"
+        }
+      }
+    },
     {
       "id": "p_89261",
       "tmdb_id": 89261,
@@ -570,6 +587,9 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
+          "la_movie": "https://vimeos.net/embed-9jznqrxtgrm1.html"
+        },
+        "latino": {
           "la_movie": "https://vimeos.net/embed-9jznqrxtgrm1.html"
         }
       }
@@ -1496,8 +1516,14 @@
         "suspense"
       ],
       "fuentes": {
+        "latinos": {
+          "streamwish": "https://vibuxer.com/e/da9i258ushtm"
+        },
+        "latinosp": {
+          "earnvids": "https://morencius.com/embed/8lqz436czspr"
+        },
         "latino": {
-          "voe": "https://voe.sx/e/wlasieje0wjp"
+          "voe": "https://voe.sx/e/nnz9crlgvtwq"
         }
       }
     },
@@ -3806,7 +3832,7 @@
       ],
       "fuentes": {
         "latino": {
-          "voe": "https://voe.sx/e/j0vec8lkfndo"
+          "voe": "https://voe.sx/e/dyowb3om6nxf"
         }
       }
     },
@@ -4100,7 +4126,10 @@
           "la_movie": "https://vimeos.net/embed-rxqr2clfd240.html"
         },
         "latino": {
-          "voe": "https://vimeos.net/embed-rxqr2clfd240.html"
+          "streamwish": "https://vibuxer.com/e/8xrmmauq6191",
+          "voe": "https://voe.sx/e/5msypnb2t5uv",
+          "earnvid": "https://morencius.com/embed/zsn0nuol01d8",
+          "la_movie": "https://vimeos.net/embed-rxqr2clfd240.html"
         }
       }
     },
@@ -210989,5 +211018,5 @@
       }
     }
   ],
-  "version": 89
+  "version": 90
 }
