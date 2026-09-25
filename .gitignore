@@ -1,5 +1,0 @@
-venv/
-firebase_key.json
-*.log
-__pycache__/
-*.pyc
