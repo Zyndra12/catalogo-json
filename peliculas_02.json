@@ -1,10 +1,157 @@
 {
   "type": "peliculas",
-  "total": 18017,
-  "version": 98,
+  "total": 18024,
+  "version": 99,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_10735",
+      "tmdb_id": 10735,
+      "nombre": "Un sueño para ella",
+      "poster": "https://image.tmdb.org/t/p/w500/pSwg5LnbVoAtalbKkYFfx2Wo6fQ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-n4der7o9elpo.html"
+        }
+      }
+    },
+    {
+      "id": "p_932086",
+      "tmdb_id": 932086,
+      "nombre": "Horizon: An American Saga - Capítulo 1",
+      "poster": "https://image.tmdb.org/t/p/w500/kA7QCSkdfM0R3qXM4FjUJyFd6gl.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/vxmpp9z234vc",
+          "streamtape": "https://streamtape.com/e/d7abZz8qazhk6vL",
+          "voesx": "https://voe.sx/e/l9jp8ghddxh6"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/oe6iaufoj3uo",
+          "streamtape": "https://streamtape.com/e/GGYD0lrM0GI1jGZ",
+          "voesx": "https://voe.sx/e/x0djnp6j6t5m"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/1xh4l1fgtniy",
+          "streamtape": "https://streamtape.com/e/4xG6kbP6D7IK6mV",
+          "voesx": "https://voe.sx/e/nqswsurp5n05"
+        }
+      }
+    },
+    {
+      "id": "p_18926",
+      "tmdb_id": 18926,
+      "nombre": "El justiciero",
+      "poster": "https://image.tmdb.org/t/p/w500/fRb2aALXPCipMw9dxAdk3q0ACYA.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tsq2zdqueag2.html"
+        }
+      }
+    },
+    {
+      "id": "p_9447",
+      "tmdb_id": 9447,
+      "nombre": "Babe 2: El cerdito en la ciudad",
+      "poster": "https://image.tmdb.org/t/p/w500/rAajjfi6QxJubrIVD9lNV6KU3oV.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/4tvu3987zkfh",
+          "streamtape": "https://streamtape.com/e/YD7DJwoQGltdbd",
+          "voesx": "https://voe.sx/e/pf7vttgifuzz"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/wh3c0e2zitrv",
+          "voesx": "https://voe.sx/e/bmappn5br8kp"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/rybeo2r7pqr6",
+          "waaw": "https://waaw.to/f/B8Bdu8Ibm89E",
+          "voesx": "https://voe.sx/e/ddexep5tagin"
+        }
+      }
+    },
+    {
+      "id": "p_18501",
+      "tmdb_id": 18501,
+      "nombre": "Gamer (Juegan contigo)",
+      "poster": "https://image.tmdb.org/t/p/w500/pDbp1SSzxpCFOcjvIe0rDTwOOoJ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dn6rwimke2ye.html"
+        }
+      }
+    },
+    {
+      "id": "p_277217",
+      "tmdb_id": 277217,
+      "nombre": "Los descendientes",
+      "poster": "https://image.tmdb.org/t/p/w500/eUkdI96zP64e7JQLgPpVvM9WKGa.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-y7q3nqlazc0r.html"
+        }
+      }
+    },
+    {
+      "id": "p_2022",
+      "tmdb_id": 2022,
+      "nombre": "Mr. Deeds",
+      "poster": "https://image.tmdb.org/t/p/w500/8ZIQnONPyM7dS1mc7N2LSpsyiVU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mfkku3qh9w4m.html"
+        }
+      }
+    },
+    {
+      "id": "p_13466",
+      "tmdb_id": 13466,
+      "nombre": "Cielo de octubre",
+      "poster": "https://image.tmdb.org/t/p/w500/qs0GdHYvrNNoe6dEhmiNK5OotWu.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ri95ph3r87er.html"
+        }
+      }
+    },
+    {
+      "id": "p_24982",
+      "tmdb_id": 24982,
+      "nombre": "Misterios del Titanic",
+      "poster": "https://image.tmdb.org/t/p/w500/2LQtXYRpdwlsFElKMkuK9hH4v2C.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español": {
+          "streamwish": "https://streamwish.to/e/jlcwdkmvrzfa",
+          "waaw": "https://waaw.to/f/Inje97dFHlcn",
+          "voesx": "https://voe.sx/e/lt5gxz4yqdgo"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/dx63ugkq5sxq",
+          "waaw": "https://waaw.to/f/X9gBZz4q0GhM",
+          "voesx": "https://voe.sx/e/eu36aq61x8mm"
+        }
+      }
+    },
     {
       "id": "p_13809",
       "tmdb_id": 13809,

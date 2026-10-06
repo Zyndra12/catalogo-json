@@ -1,10 +1,140 @@
 {
   "type": "peliculas",
-  "total": 18017,
-  "version": 98,
+  "total": 18024,
+  "version": 99,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_1763619",
+      "tmdb_id": 1763619,
+      "nombre": "Ricos sin dinero",
+      "poster": "https://image.tmdb.org/t/p/w500/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/24d4ucvpq839",
+          "voesx": "https://voe.sx/e/eamhnkjpqcyn",
+          "vidhide": "https://vidhidepro.com/v/neh8qimcvqkc"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/97u227nm2x2x",
+          "voesx": "https://voe.sx/e/ke8cmdbytrah",
+          "vidhide": "https://vidhidepro.com/v/el9um922ieli"
+        }
+      }
+    },
+    {
+      "id": "p_1788735",
+      "tmdb_id": 1788735,
+      "nombre": "Padre de familia: Happy Hell-o-ween",
+      "poster": "https://image.tmdb.org/t/p/w500/smjL4kHnN2uZuMy4T30AJxUAWsk.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/0rhabjnx3q1h",
+          "voesx": "https://voe.sx/e/6t0bffo5kcl9",
+          "vidhide": "https://vidhidepro.com/v/968fwwk7zxgm"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/47du1w5lr4z3",
+          "voesx": "https://voe.sx/e/bphsu3kqf0la",
+          "vidhide": "https://vidhidepro.com/v/1o0jiwzceui6"
+        }
+      }
+    },
+    {
+      "id": "p_1322562",
+      "tmdb_id": 1322562,
+      "nombre": "Mononoke III: La maldición de la serpiente",
+      "poster": "https://image.tmdb.org/t/p/w500/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/k71fk8nhcf7u",
+          "voesx": "https://voe.sx/e/dmd0mev3rjpm",
+          "vidhide": "https://vidhidepro.com/v/y47fc2v54mtz"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/86vyh4u4n974",
+          "voesx": "https://voe.sx/e/elvv8ko65lln",
+          "vidhide": "https://vidhidepro.com/v/6eck0j7kcj7o"
+        }
+      }
+    },
+    {
+      "id": "p_1283636",
+      "tmdb_id": 1283636,
+      "nombre": "Find Your Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/h1Pwk8HPWKjtUnqgGbbdjGe37rh.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/vmzhy8et40dd",
+          "voesx": "https://voe.sx/e/sb9ykyqrucuy",
+          "vidhide": "https://vidhidepro.com/v/3v3ck5gozene"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/lmeh38kv07bd",
+          "voesx": "https://voe.sx/e/qvjt1bnwzjjh",
+          "vidhide": "https://vidhidepro.com/v/6zdqw766cbkm"
+        }
+      }
+    },
+    {
+      "id": "p_1606912",
+      "tmdb_id": 1606912,
+      "nombre": "Volver a los 17",
+      "poster": "https://image.tmdb.org/t/p/w500/etzThCbeYmZnfmO7f7KpzQ64xSW.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/8ud5qh92us23",
+          "voesx": "https://voe.sx/e/xrdp7cxivfrh",
+          "vidhide": "https://vidhidepro.com/v/vgqdth1h38bn"
+        }
+      }
+    },
+    {
+      "id": "p_1339274",
+      "tmdb_id": 1339274,
+      "nombre": "No dejes a los niños solos",
+      "poster": "https://image.tmdb.org/t/p/w500/jxg1sLzG0TJRDPSNU6AmR4wR4Ce.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/kbw1tmyy459o",
+          "voesx": "https://voe.sx/e/by1uap4m7ez7",
+          "vidhide": "https://vidhidepro.com/v/aaax7j962xqb"
+        }
+      }
+    },
+    {
+      "id": "p_1458857",
+      "tmdb_id": 1458857,
+      "nombre": "Las cartas de la vida",
+      "poster": "https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/h7207tq20fdy",
+          "voesx": "https://voe.sx/e/vzbeq9nh3osn",
+          "vidhide": "https://vidhidepro.com/v/g8g2pbfbl7cs"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/sdzk4yz6ezgu",
+          "voesx": "https://voe.sx/e/hokngfj8o3uu",
+          "vidhide": "https://vidhidepro.com/v/wwefgrzbt3jf"
+        }
+      }
+    },
     {
       "id": "p_666752",
       "tmdb_id": 666752,
@@ -69513,14 +69643,14 @@
       "generos": [],
       "fuentes": {
         "español latino": {
-          "streamwish": "https://streamwish.to/e/7ajkoekj3bwk",
-          "voesx": "https://voe.sx/e/xlypjsaq4dwo",
-          "vidhide": "https://vidhidepro.com/v/q9gknw1gaccd"
+          "streamwish": "https://streamwish.to/e/qzo1kcb93834",
+          "voesx": "https://voe.sx/e/xxa6kcfdujyy",
+          "vidhide": "https://vidhidepro.com/v/v2tnq8blef9p"
         },
         "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/xqpt7sjylmy6",
-          "voesx": "https://voe.sx/e/vtexy10jawuf",
-          "vidhide": "https://vidhidepro.com/v/r8rs23u5brbd"
+          "streamwish": "https://streamwish.to/e/j3atdyivncuu",
+          "voesx": "https://voe.sx/e/ns3igbmtrqwt",
+          "vidhide": "https://vidhidepro.com/v/9jb2oshfu3hg"
         }
       }
     },
@@ -85450,12 +85580,12 @@
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/yco1a4gez8k9",
-          "voesx": "https://voe.sx/e/vo4wdkpezma8",
+          "voesx": "https://voe.sx/e/5rigvbxbrdaw",
           "vidhide": "https://vidhidepro.com/v/auj5qlx58xzz"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/4nq7w0uy9tag",
-          "voesx": "https://voe.sx/e/nez18hlxuow2",
+          "voesx": "https://voe.sx/e/5elrmxsbntqg",
           "vidhide": "https://vidhidepro.com/v/zr9kpas958kc"
         },
         "latino": {
@@ -153455,153 +153585,6 @@
           "streamwish": "https://streamwish.to/e/trmblmvu9sbv",
           "waaw": "https://waaw.to/f/GOpfRbHLth6f",
           "voesx": "https://voe.sx/e/swmz763dajq8"
-        }
-      }
-    },
-    {
-      "id": "p_10735",
-      "tmdb_id": 10735,
-      "nombre": "Un sueño para ella",
-      "poster": "https://image.tmdb.org/t/p/w500/pSwg5LnbVoAtalbKkYFfx2Wo6fQ.jpg",
-      "calidad": "4K",
-      "generos": [],
-      "fuentes": {
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-n4der7o9elpo.html"
-        }
-      }
-    },
-    {
-      "id": "p_932086",
-      "tmdb_id": 932086,
-      "nombre": "Horizon: An American Saga - Capítulo 1",
-      "poster": "https://image.tmdb.org/t/p/w500/kA7QCSkdfM0R3qXM4FjUJyFd6gl.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/vxmpp9z234vc",
-          "streamtape": "https://streamtape.com/e/d7abZz8qazhk6vL",
-          "voesx": "https://voe.sx/e/l9jp8ghddxh6"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/oe6iaufoj3uo",
-          "streamtape": "https://streamtape.com/e/GGYD0lrM0GI1jGZ",
-          "voesx": "https://voe.sx/e/x0djnp6j6t5m"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/1xh4l1fgtniy",
-          "streamtape": "https://streamtape.com/e/4xG6kbP6D7IK6mV",
-          "voesx": "https://voe.sx/e/nqswsurp5n05"
-        }
-      }
-    },
-    {
-      "id": "p_18926",
-      "tmdb_id": 18926,
-      "nombre": "El justiciero",
-      "poster": "https://image.tmdb.org/t/p/w500/fRb2aALXPCipMw9dxAdk3q0ACYA.jpg",
-      "calidad": "4K",
-      "generos": [],
-      "fuentes": {
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-tsq2zdqueag2.html"
-        }
-      }
-    },
-    {
-      "id": "p_9447",
-      "tmdb_id": 9447,
-      "nombre": "Babe 2: El cerdito en la ciudad",
-      "poster": "https://image.tmdb.org/t/p/w500/rAajjfi6QxJubrIVD9lNV6KU3oV.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/4tvu3987zkfh",
-          "streamtape": "https://streamtape.com/e/YD7DJwoQGltdbd",
-          "voesx": "https://voe.sx/e/pf7vttgifuzz"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/wh3c0e2zitrv",
-          "voesx": "https://voe.sx/e/bmappn5br8kp"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/rybeo2r7pqr6",
-          "waaw": "https://waaw.to/f/B8Bdu8Ibm89E",
-          "voesx": "https://voe.sx/e/ddexep5tagin"
-        }
-      }
-    },
-    {
-      "id": "p_18501",
-      "tmdb_id": 18501,
-      "nombre": "Gamer (Juegan contigo)",
-      "poster": "https://image.tmdb.org/t/p/w500/pDbp1SSzxpCFOcjvIe0rDTwOOoJ.jpg",
-      "calidad": "4K",
-      "generos": [],
-      "fuentes": {
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-dn6rwimke2ye.html"
-        }
-      }
-    },
-    {
-      "id": "p_277217",
-      "tmdb_id": 277217,
-      "nombre": "Los descendientes",
-      "poster": "https://image.tmdb.org/t/p/w500/eUkdI96zP64e7JQLgPpVvM9WKGa.jpg",
-      "calidad": "4K",
-      "generos": [],
-      "fuentes": {
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-y7q3nqlazc0r.html"
-        }
-      }
-    },
-    {
-      "id": "p_2022",
-      "tmdb_id": 2022,
-      "nombre": "Mr. Deeds",
-      "poster": "https://image.tmdb.org/t/p/w500/8ZIQnONPyM7dS1mc7N2LSpsyiVU.jpg",
-      "calidad": "4K",
-      "generos": [],
-      "fuentes": {
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-mfkku3qh9w4m.html"
-        }
-      }
-    },
-    {
-      "id": "p_13466",
-      "tmdb_id": 13466,
-      "nombre": "Cielo de octubre",
-      "poster": "https://image.tmdb.org/t/p/w500/qs0GdHYvrNNoe6dEhmiNK5OotWu.jpg",
-      "calidad": "4K",
-      "generos": [],
-      "fuentes": {
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-ri95ph3r87er.html"
-        }
-      }
-    },
-    {
-      "id": "p_24982",
-      "tmdb_id": 24982,
-      "nombre": "Misterios del Titanic",
-      "poster": "https://image.tmdb.org/t/p/w500/2LQtXYRpdwlsFElKMkuK9hH4v2C.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español": {
-          "streamwish": "https://streamwish.to/e/jlcwdkmvrzfa",
-          "waaw": "https://waaw.to/f/Inje97dFHlcn",
-          "voesx": "https://voe.sx/e/lt5gxz4yqdgo"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/dx63ugkq5sxq",
-          "waaw": "https://waaw.to/f/X9gBZz4q0GhM",
-          "voesx": "https://voe.sx/e/eu36aq61x8mm"
         }
       }
     }
