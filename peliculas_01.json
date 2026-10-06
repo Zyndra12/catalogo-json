@@ -1,7 +1,7 @@
 {
   "type": "peliculas",
   "total": 18017,
-  "version": 97,
+  "version": 98,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
@@ -91080,9 +91080,8 @@
       "generos": [],
       "fuentes": {
         "español latino": {
-          "streamwish": "https://streamwish.to/e/jq6hr2j8bxyh",
-          "waaw": "https://waaw.to/f/fqpW3pw1brn2",
-          "voesx": "https://voe.sx/e/b5nkvd2jnxq2"
+          "streamwish": "https://vimeos.net/embed-17oc2o65s6o6.html",
+          "voesx": "https://voe.sx/e/dyowb3om6nxf"
         }
       }
     },
@@ -117821,7 +117820,7 @@
       "generos": [],
       "fuentes": {
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-ypnnym2d2vew.html"
+          "la_movie": "https://vimeos.net/embed-dzwzkit6tden.html"
         }
       }
     },

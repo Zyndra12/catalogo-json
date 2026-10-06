@@ -1,10 +1,45 @@
 {
   "type": "series",
-  "total": 5672,
-  "version": 97,
+  "total": 5671,
+  "version": 98,
   "chunk": 1,
   "chunks_total": 6,
   "items": [
+    {
+      "id": "s_250203",
+      "tmdb_id": 250203,
+      "nombre": "Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
+      "categorias": [
+        "comedia",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/t70sig01ag4x",
+              "voesx": "https://voe.sx/e/xspkcsentljs",
+              "vidhide": "https://vidhidepro.com/v/by6ead6enpt8"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/zdmwwylxf4mt",
+              "voesx": "https://voe.sx/e/skpyitulvuh2",
+              "vidhide": "https://vidhidepro.com/v/yex33hzd07f1"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/fhfyu1m8s45g",
+              "voesx": "https://voe.sx/e/kawwllbvgmuu",
+              "vidhide": "https://vidhidepro.com/v/t893c251a76c"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_290720",
       "tmdb_id": 290720,
@@ -20,28 +55,28 @@
           "4": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/lvmm6qk3r4hr",
-              "voesx": "https://voe.sx/e/kih8unailcuf",
+              "voesx": "https://voe.sx/e/bkqoyf3upvqo",
               "vidhide": "https://vidhidepro.com/v/69q14n2pmibw"
             }
           },
           "2": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/twwjl5jdb319",
-              "voesx": "https://voe.sx/e/5jghmavci6bf",
+              "voesx": "https://voe.sx/e/rnqav2bu7on0",
               "vidhide": "https://vidhidepro.com/v/x7gl8wava3gj"
             }
           },
           "1": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/r0ajyzbgljwg",
-              "voesx": "https://voe.sx/e/1aq58iq8fv41",
+              "voesx": "https://voe.sx/e/ykaorocntmkf",
               "vidhide": "https://vidhidepro.com/v/unp9xa6c7hdp"
             }
           },
           "3": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/u42k2tfcl0w0",
-              "voesx": "https://voe.sx/e/et9ktwptuok1",
+              "voesx": "https://voe.sx/e/prof7skv8gag",
               "vidhide": "https://vidhidepro.com/v/5s4hriaye32v"
             }
           }

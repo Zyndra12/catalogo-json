@@ -1,7 +1,7 @@
 {
   "type": "peliculas",
   "total": 18017,
-  "version": 97,
+  "version": 98,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
@@ -164053,19 +164053,8 @@
       "generos": [],
       "fuentes": {
         "español latino": {
-          "streamwish": "https://streamwish.to/e/wbuuhkmkbn41",
-          "voesx": "https://voe.sx/e/ludpidtwuoja",
-          "vidhide": "https://vidhidepro.com/v/m3tgymq0topv"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/rdyc3zxhv7da",
-          "voesx": "https://voe.sx/e/0nealpyp2aey",
-          "vidhide": "https://vidhidepro.com/v/ngxq3flanqfh"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/q1n48i9gwmr3",
-          "voesx": "https://voe.sx/e/pp1qbifquvpu",
-          "vidhide": "https://vidhidepro.com/v/56kxn1wx8eg1"
+          "voesx": "https://voe.sx/e/bwm0ulwquvxd",
+          "Vimeos": "https://vimeos.net/embed-dp8j0qcm1k34.html"
         }
       }
     },
