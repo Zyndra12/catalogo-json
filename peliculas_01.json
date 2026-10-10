@@ -1,10 +1,62 @@
 {
   "type": "peliculas",
-  "total": 17633,
-  "version": 100,
+  "total": 17637,
+  "version": 101,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_1432547",
+      "tmdb_id": 1432547,
+      "nombre": "Solo necesitas matar",
+      "poster": "https://image.tmdb.org/t/p/w500/6ILkBzgLiwDfhpyWBWKvh8iA35X.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-u25k0c3wscdj.html"
+        }
+      }
+    },
+    {
+      "id": "p_1148365",
+      "tmdb_id": 1148365,
+      "nombre": "Matchbox: La película",
+      "poster": "https://image.tmdb.org/t/p/w500/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2ji00sogrixl.html"
+        }
+      }
+    },
+    {
+      "id": "p_10313",
+      "tmdb_id": 10313,
+      "nombre": "Los hombres que miraban fijamente a las cabras",
+      "poster": "https://image.tmdb.org/t/p/w500/sDd1Usaif83514l8OcxI5XbnCl4.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8jia80x46m7e.html"
+        }
+      }
+    },
+    {
+      "id": "p_4442",
+      "tmdb_id": 4442,
+      "nombre": "El secreto de los hermanos Grimm",
+      "poster": "https://image.tmdb.org/t/p/w500/AacjzP79CNGfoJ8GmXsChA7nOnb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7xa5sq19z0t7.html"
+        }
+      }
+    },
     {
       "id": "p_10687",
       "tmdb_id": 10687,
@@ -254,13 +306,16 @@
       "tmdb_id": 1032863,
       "nombre": "La hipótesis del amor",
       "poster": "https://image.tmdb.org/t/p/w500/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/sm28ty73eaiy",
           "voesx": "https://voe.sx/e/omgcsrlgwbcw",
           "vidhide": "https://vidhidepro.com/v/log9yocg44ju"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-d15lpnn0c64w.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/1fgc4g2iixfy",
@@ -8115,12 +8170,15 @@
       "tmdb_id": 40996,
       "nombre": "El bombero atómico",
       "poster": "https://image.tmdb.org/t/p/w500/mmCL1R78oJwzn1ZtGISUzuQqlY3.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/03xbaptr276v",
           "voesx": "https://voe.sx/e/gssksbs3grec"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wvzp71pupgz4.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/qfhsiv4f8ggs"
@@ -72824,9 +72882,12 @@
       "tmdb_id": 1599993,
       "nombre": "Animales",
       "poster": "https://image.tmdb.org/t/p/w500/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zzk6labe17xm.html"
+        },
         "español": {
           "streamwish": "https://streamwish.to/e/7up3pbszltnf"
         }
@@ -174292,76 +174353,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-2j02nctyyc9n.html"
-        }
-      }
-    },
-    {
-      "id": "p_436053",
-      "tmdb_id": 436053,
-      "nombre": "Stray",
-      "poster": "https://image.tmdb.org/t/p/w500/7VYEwxLO6fxvCJECXeCghDcZPD0.jpg",
-      "calidad": "4K",
-      "generos": [
-        "accion",
-        "crimen",
-        "fantasia",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-m8xgbgracx20.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-3n6zp3xaugtz.html"
-        }
-      }
-    },
-    {
-      "id": "p_593026",
-      "tmdb_id": 593026,
-      "nombre": "Mi mascota es un dinosaurio",
-      "poster": "https://image.tmdb.org/t/p/w500/gIU2uImtNZksNnKok8yVQPzww7y.jpg",
-      "calidad": "HD",
-      "generos": [
-        "familia",
-        "aventura",
-        "ficcion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-lj7epavorqpp.html"
-        }
-      }
-    },
-    {
-      "id": "p_457915",
-      "tmdb_id": 457915,
-      "nombre": "Superlópez",
-      "poster": "https://image.tmdb.org/t/p/w500/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-a8xjcysgbpqs.html"
-        }
-      }
-    },
-    {
-      "id": "p_407447",
-      "tmdb_id": 407447,
-      "nombre": "De la India a París en un armario de Ikea",
-      "poster": "https://image.tmdb.org/t/p/w500/sDO6Ff8U4G6hoTpgl1qnOiXRJXh.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "aventura",
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ntxxa8fdbd9a.html"
         }
       }
     }

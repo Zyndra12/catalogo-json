@@ -1,10 +1,80 @@
 {
   "type": "peliculas",
-  "total": 17633,
-  "version": 100,
+  "total": 17637,
+  "version": 101,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_436053",
+      "tmdb_id": 436053,
+      "nombre": "Stray",
+      "poster": "https://image.tmdb.org/t/p/w500/7VYEwxLO6fxvCJECXeCghDcZPD0.jpg",
+      "calidad": "4K",
+      "generos": [
+        "accion",
+        "crimen",
+        "fantasia",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-m8xgbgracx20.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-3n6zp3xaugtz.html"
+        }
+      }
+    },
+    {
+      "id": "p_593026",
+      "tmdb_id": 593026,
+      "nombre": "Mi mascota es un dinosaurio",
+      "poster": "https://image.tmdb.org/t/p/w500/gIU2uImtNZksNnKok8yVQPzww7y.jpg",
+      "calidad": "HD",
+      "generos": [
+        "familia",
+        "aventura",
+        "ficcion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-lj7epavorqpp.html"
+        }
+      }
+    },
+    {
+      "id": "p_457915",
+      "tmdb_id": 457915,
+      "nombre": "Superlópez",
+      "poster": "https://image.tmdb.org/t/p/w500/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-a8xjcysgbpqs.html"
+        }
+      }
+    },
+    {
+      "id": "p_407447",
+      "tmdb_id": 407447,
+      "nombre": "De la India a París en un armario de Ikea",
+      "poster": "https://image.tmdb.org/t/p/w500/sDO6Ff8U4G6hoTpgl1qnOiXRJXh.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "aventura",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ntxxa8fdbd9a.html"
+        }
+      }
+    },
     {
       "id": "p_327331",
       "tmdb_id": 327331,

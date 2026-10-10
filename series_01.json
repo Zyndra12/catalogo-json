@@ -1,10 +1,77 @@
 {
   "type": "series",
-  "total": 3646,
-  "version": 100,
+  "total": 3648,
+  "version": 101,
   "chunk": 1,
   "chunks_total": 3,
   "items": [
+    {
+      "id": "s_331979",
+      "tmdb_id": 331979,
+      "nombre": "Delirio mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/aJboceWct3FYptVPavlhUOjiiSe.jpg",
+      "categorias": [
+        "misterio",
+        "crimen",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-qhq26fvdbvm5.html"
+            }
+          },
+          "2": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-vimb4dmex3ac.html"
+            }
+          },
+          "1": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-dxcjwhkflb74.html"
+            }
+          },
+          "6": {
+            "español latino": {
+              "goodstream": "https://goodstream.one/embed-i7k94vcir4jm.html"
+            }
+          },
+          "5": {
+            "español latino": {
+              "voesx": "https://voe.sx/e/pejmwpc5frzd"
+            }
+          },
+          "3": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-ulacq0i0imui.html"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_1622",
+      "tmdb_id": 1622,
+      "nombre": "Sobrenatural",
+      "poster": "https://image.tmdb.org/t/p/w500/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "categorias": [
+        "misterio",
+        "ficcion",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "1": {
+            "español latino": {
+              "lamovie": "https://lamovie.org/embed.html?v=1"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_45790",
       "tmdb_id": 45790,
@@ -151657,106 +151724,6 @@
           "16": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/wsfklnmpb3um"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_228421",
-      "tmdb_id": 228421,
-      "nombre": "Average Joe",
-      "poster": "https://image.tmdb.org/t/p/w500/gZOvsaKla8PrZ9MXOzJFPLXNl6z.jpg",
-      "categorias": [
-        "serie",
-        "drama",
-        "comedia",
-        "crimen"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/edkhiasj12j7"
-            }
-          },
-          "8": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/nla2a7z0mt5w"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/wtg90xlvlowl"
-            }
-          },
-          "9": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ykzfmu45ef0v"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ryuh9o9tnigs"
-            }
-          },
-          "6": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/swrc7j1wa05i"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/6xu5tf6ykgcr"
-            }
-          },
-          "10": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/cnseoybz7n3g"
-            }
-          },
-          "7": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/50emv4lqmisy"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/1yohgi71fqav"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_207368",
-      "tmdb_id": 207368,
-      "nombre": "Bad Behaviour",
-      "poster": "https://image.tmdb.org/t/p/w500/lKEZdbcmeIDGfl0uvxu0yWl0sdX.jpg",
-      "categorias": [
-        "serie",
-        "drama"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/te8uljxvv590"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/dj8f8flfwcu6"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/q4aqnfvblkz7"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/j4doroo0sxtn"
             }
           }
         }

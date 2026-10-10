@@ -1,10 +1,110 @@
 {
   "type": "series",
-  "total": 3646,
-  "version": 100,
+  "total": 3648,
+  "version": 101,
   "chunk": 2,
   "chunks_total": 3,
   "items": [
+    {
+      "id": "s_228421",
+      "tmdb_id": 228421,
+      "nombre": "Average Joe",
+      "poster": "https://image.tmdb.org/t/p/w500/gZOvsaKla8PrZ9MXOzJFPLXNl6z.jpg",
+      "categorias": [
+        "serie",
+        "drama",
+        "comedia",
+        "crimen"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/edkhiasj12j7"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/nla2a7z0mt5w"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/wtg90xlvlowl"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ykzfmu45ef0v"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ryuh9o9tnigs"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/swrc7j1wa05i"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/6xu5tf6ykgcr"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/cnseoybz7n3g"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/50emv4lqmisy"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1yohgi71fqav"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_207368",
+      "tmdb_id": 207368,
+      "nombre": "Bad Behaviour",
+      "poster": "https://image.tmdb.org/t/p/w500/lKEZdbcmeIDGfl0uvxu0yWl0sdX.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/te8uljxvv590"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/dj8f8flfwcu6"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/q4aqnfvblkz7"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/j4doroo0sxtn"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_63401",
       "tmdb_id": 63401,
