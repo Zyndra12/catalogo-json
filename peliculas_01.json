@@ -1,7 +1,7 @@
 {
   "type": "peliculas",
   "total": 17637,
-  "version": 101,
+  "version": 102,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
@@ -38165,12 +38165,15 @@
       "tmdb_id": 1024701,
       "nombre": "El amor y otros tesoros",
       "poster": "https://image.tmdb.org/t/p/w500/y0mpGUDHaewA2fN3ORwsDdidsla.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/jz3hgnikzpmm",
           "voesx": "https://voe.sx/e/k68xjjkutj7e"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-zgycr7u8cwu8.html"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/stjnd0frscma"
@@ -74348,7 +74351,7 @@
           "voesx": "https://voe.sx/e/ko4rlafpdpew"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-vzwzijfoz0vf.html"
+          "la_movie": "https://vimeos.net/embed-adzjj4wzl6hd.html"
         }
       }
     },
@@ -174337,22 +174340,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-r2a3g2pwhzio.html"
-        }
-      }
-    },
-    {
-      "id": "p_503445",
-      "tmdb_id": 503445,
-      "nombre": "Recreo",
-      "poster": "https://image.tmdb.org/t/p/w500/fa1KZ0SHtGgk1Fm5cfHJsMUIshE.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "comedia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-2j02nctyyc9n.html"
         }
       }
     }

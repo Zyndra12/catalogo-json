@@ -1,10 +1,26 @@
 {
   "type": "peliculas",
   "total": 17637,
-  "version": 101,
+  "version": 102,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_503445",
+      "tmdb_id": 503445,
+      "nombre": "Recreo",
+      "poster": "https://image.tmdb.org/t/p/w500/fa1KZ0SHtGgk1Fm5cfHJsMUIshE.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2j02nctyyc9n.html"
+        }
+      }
+    },
     {
       "id": "p_436053",
       "tmdb_id": 436053,
