@@ -1,10 +1,481 @@
 {
   "type": "peliculas",
-  "total": 17637,
-  "version": 103,
+  "total": 17655,
+  "version": 104,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_590164",
+      "tmdb_id": 590164,
+      "nombre": "La posesión de Mercy Black",
+      "poster": "https://image.tmdb.org/t/p/w500/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-1r5nqvci49hz.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-uwczq4tcounh.html"
+        }
+      }
+    },
+    {
+      "id": "p_512173",
+      "tmdb_id": 512173,
+      "nombre": "La cazadora de amantes",
+      "poster": "https://image.tmdb.org/t/p/w500/9TMLLmXRTfX7Z3cdYrBzFBBTEyX.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2hdonojq7yac.html"
+        }
+      }
+    },
+    {
+      "id": "p_510088",
+      "tmdb_id": 510088,
+      "nombre": "Miamor perdido",
+      "poster": "https://image.tmdb.org/t/p/w500/kULYM5oKad5qn3lsxeBIIHtkcEw.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-v4hxntn9bcef.html"
+        }
+      }
+    },
+    {
+      "id": "p_553668",
+      "tmdb_id": 553668,
+      "nombre": "Mi pequeño gran hombre",
+      "poster": "https://image.tmdb.org/t/p/w500/ufBxs5lpq5XuTazs83A4GMNotc1.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-lo9z44ogmlqm.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-el2a3pb5vt8x.html"
+        }
+      }
+    },
+    {
+      "id": "p_356189",
+      "tmdb_id": 356189,
+      "nombre": "Mi nombre es Emily",
+      "poster": "https://image.tmdb.org/t/p/w500/mFx4GeDJoWTQnoffRwj5IcPWAOb.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-wvucrakejyre.html"
+        }
+      }
+    },
+    {
+      "id": "p_489985",
+      "tmdb_id": 489985,
+      "nombre": "Tablas rotas. Minding the Gap",
+      "poster": "https://image.tmdb.org/t/p/w500/lQvtsCg7LpcmT2XnaLd267tEWYg.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ld8xnqoqe0hl.html"
+        }
+      }
+    },
+    {
+      "id": "p_593984",
+      "tmdb_id": 593984,
+      "nombre": "Monštrum",
+      "poster": "https://image.tmdb.org/t/p/w500/xMMWIURFmIM1Y03dOIaRJIgbl1l.jpg",
+      "calidad": "HD",
+      "generos": [
+        "animacion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-lc4iysz9cgcx.html"
+        }
+      }
+    },
+    {
+      "id": "p_590872",
+      "tmdb_id": 590872,
+      "nombre": "Nate Bargatze: The Tennessee Kid",
+      "poster": "https://image.tmdb.org/t/p/w500/cGGBMp1VD2LhfKsoQbFAoz4hFmv.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-7u1ls9omqdbm.html"
+        }
+      }
+    },
+    {
+      "id": "p_519473",
+      "tmdb_id": 519473,
+      "nombre": "Nancy Drew y la Escalera Escondida",
+      "poster": "https://image.tmdb.org/t/p/w500/gDNMhESCe0iXP2YLZD3cEmi8Edj.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/kvdr382d8rvb"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/wk8ztxe1l76b"
+        }
+      }
+    },
+    {
+      "id": "p_216207",
+      "tmdb_id": 216207,
+      "nombre": "No te supe perder",
+      "poster": "https://image.tmdb.org/t/p/w500/7ZfbaRNenQi64Ox1O9RcD2Wr3bs.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-dvz0g1loah81.html"
+        }
+      }
+    },
+    {
+      "id": "p_504127",
+      "tmdb_id": 504127,
+      "nombre": "Nombre de mujer",
+      "poster": "https://image.tmdb.org/t/p/w500/ggnC5fuXicTJPqGBf0wAHfv04nO.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vgu5ybrylewb.html"
+        }
+      }
+    },
+    {
+      "id": "p_512199",
+      "tmdb_id": 512199,
+      "nombre": "Hijo nativo",
+      "poster": "https://image.tmdb.org/t/p/w500/vVF6CnjXLqAjK2crI1ielma18TW.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-qxvql4wtdbga.html"
+        }
+      }
+    },
+    {
+      "id": "p_1131277",
+      "tmdb_id": 1131277,
+      "nombre": "Nosotros",
+      "poster": "https://image.tmdb.org/t/p/w500/lRwkPeG9TL3zGJb3gsy8RrWVp5l.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-o7mrlk4exwtl.html"
+        }
+      }
+    },
+    {
+      "id": "p_564766",
+      "tmdb_id": 564766,
+      "nombre": "Orphan Horse",
+      "poster": "https://image.tmdb.org/t/p/w500/6PP5XM65ZebDcqQkph3Axv8be6D.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-8g3msmhlt680.html"
+        }
+      }
+    },
+    {
+      "id": "p_391872",
+      "tmdb_id": 391872,
+      "nombre": "Neron",
+      "poster": "https://image.tmdb.org/t/p/w500/xn27RrTD91AIE4AXzSlsbEOOvK0.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "drama",
+        "terror",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-wkw8dc0mdrb5.html"
+        }
+      }
+    },
+    {
+      "id": "p_546230",
+      "tmdb_id": 546230,
+      "nombre": "Paskal",
+      "poster": "https://image.tmdb.org/t/p/w500/oAPqB8wIKFXJAs8hJJbYaLHcngt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "drama",
+        "historia",
+        "aventura",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-imeqssn87klv.html"
+        }
+      }
+    },
+    {
+      "id": "p_591459",
+      "tmdb_id": 591459,
+      "nombre": "Pet Graveyard",
+      "poster": "https://image.tmdb.org/t/p/w500/yj8vYLY5yrJC8AgNsLgJc5e1IY3.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-n2qyndivxwrv.html"
+        }
+      }
+    },
+    {
+      "id": "p_522887",
+      "tmdb_id": 522887,
+      "nombre": "Manou",
+      "poster": "https://image.tmdb.org/t/p/w500/dpLy93Lej2kfc4lmW74APllXcpS.jpg",
+      "calidad": "HD",
+      "generos": [
+        "animacion",
+        "aventura",
+        "familia",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-os5lehti0oag.html"
+        }
+      }
+    },
+    {
+      "id": "p_515325",
+      "tmdb_id": 515325,
+      "nombre": "Playing Hard",
+      "poster": "https://image.tmdb.org/t/p/w500/nbEby8WE04drRhpbqpldMXTwKWb.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-3j54zy0frt23.html"
+        }
+      }
+    },
+    {
+      "id": "p_363343",
+      "tmdb_id": 363343,
+      "nombre": "Raees",
+      "poster": "https://image.tmdb.org/t/p/w500/zFYFUfnoXWxeA3n7v4acEqgk2iE.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "accion",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-i1x0mlkj79nt.html"
+        }
+      }
+    },
+    {
+      "id": "p_413543",
+      "tmdb_id": 413543,
+      "nombre": "Querida Vida",
+      "poster": "https://image.tmdb.org/t/p/w500/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-98o556bz93jb.html"
+        }
+      }
+    },
+    {
+      "id": "p_496320",
+      "tmdb_id": 496320,
+      "nombre": "Race 3",
+      "poster": "https://image.tmdb.org/t/p/w500/71EmaCkSPMEedesqflU2JdnkJBW.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "accion",
+        "crimen",
+        "aventura"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-jg0wrth89f0p.html"
+        }
+      }
+    },
+    {
+      "id": "p_530157",
+      "tmdb_id": 530157,
+      "nombre": "Pledge",
+      "poster": "https://image.tmdb.org/t/p/w500/3eol8FnndIY8drMknjUnRCjYaIe.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xnsm0xl5q8uu.html"
+        }
+      }
+    },
+    {
+      "id": "p_573910",
+      "tmdb_id": 573910,
+      "nombre": "Ray Romano: Right Here, Around the Corner",
+      "poster": "https://image.tmdb.org/t/p/w500/lqQjWdZeh3lpCn5KgmiNZFU1ViX.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-srgp66aa1mwf.html"
+        }
+      }
+    },
+    {
+      "id": "p_485811",
+      "tmdb_id": 485811,
+      "nombre": "Redcon-1 - Apocalipsis Zombie",
+      "poster": "https://image.tmdb.org/t/p/w500/nJMIcYfM8ktbb55T7dwAgzYoFWw.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/b1w2hxnthhwl",
+          "voesx": "https://voe.sx/e/3ninlgf6cy38"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/efqeml1ap4go",
+          "voesx": "https://voe.sx/e/7u93yxuvsoms"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/iebo95116nqy",
+          "voesx": "https://voe.sx/e/fmcrg0oimkjo"
+        }
+      }
+    },
+    {
+      "id": "p_513236",
+      "tmdb_id": 513236,
+      "nombre": "Something",
+      "poster": "https://image.tmdb.org/t/p/w500/msVrXbEqVygRrPcbRepwK4i1nws.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "misterio",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-rb18nwnbqeob.html"
+        }
+      }
+    },
+    {
+      "id": "p_428323",
+      "tmdb_id": 428323,
+      "nombre": "Slamma Jamma",
+      "poster": "https://image.tmdb.org/t/p/w500/neKzLN7UaFzwP3H1r0FyYVtMGTh.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-litscxg9m7df.html"
+        }
+      }
+    },
+    {
+      "id": "p_592660",
+      "tmdb_id": 592660,
+      "nombre": "Red Island",
+      "poster": "https://image.tmdb.org/t/p/w500/8ze8k02YlacHV8GTX6oCxLQfwOi.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "misterio",
+        "ficcion",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kbcgvmi45ve1.html"
+        }
+      }
+    },
+    {
+      "id": "p_458335",
+      "tmdb_id": 458335,
+      "nombre": "Soundtrack",
+      "poster": "https://image.tmdb.org/t/p/w500/qqYrHnstbeUa7CnTNzfxMpq2vLx.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-r2a3g2pwhzio.html"
+        }
+      }
+    },
     {
       "id": "p_503445",
       "tmdb_id": 503445,
@@ -106518,12 +106989,15 @@
       "tmdb_id": 848326,
       "nombre": "Rebel Moon (Parte uno): La niña del fuego",
       "poster": "https://image.tmdb.org/t/p/w500/2R7RUo3EGs3T3UdKPlfVQWkyUCD.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/2yigtcjzsthf",
           "filelions": "https://filelions.to/v/7235wwua7pcx"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-gzzhs2tnfhlv.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/bpyfqbi5awep"
