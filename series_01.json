@@ -1,10 +1,113 @@
 {
   "type": "series",
-  "total": 3694,
-  "version": 104,
+  "total": 3696,
+  "version": 105,
   "chunk": 1,
   "chunks_total": 3,
   "items": [
+    {
+      "id": "s_1413",
+      "tmdb_id": 1413,
+      "nombre": "American Horror Story",
+      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "categorias": [
+        "ficcion",
+        "misterio",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "13": {
+          "4": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-ebezuhe16vdu.html"
+            }
+          },
+          "7": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-og5wdgxewvuc.html"
+            }
+          },
+          "2": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-hjn8hikw1pn4.html"
+            }
+          },
+          "1": {
+            "español latino": {
+              "voesx": "https://voe.sx/e/cgidvl8bro64"
+            }
+          },
+          "6": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-i1vsypr8qghl.html"
+            }
+          },
+          "5": {
+            "español latino": {
+              "voesx": "https://voe.sx/e/hrxdncln8zun"
+            }
+          },
+          "3": {
+            "español latino": {
+              "vimeos": "https://vimeos.net/embed-fyczoboueute.html"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_213375",
+      "tmdb_id": 213375,
+      "nombre": "VisionQuest",
+      "poster": "https://image.tmdb.org/t/p/w500/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "categorias": [
+        "drama",
+        "serie",
+        "ficcion"
+      ],
+      "temporadas": {
+        "1": {
+          "2": {
+            "español latino": {
+              "voesx_2": "https://voe.sx/e/nbbdsoq4ayn0",
+              "streamwish": "https://hglink.to/e/sjs9qznvlvsa",
+              "earnvids": "https://morencius.com/embed/3rejn0ujjdzp",
+              "voesx": "https://voe.sx/e/mq5u01ejse4l"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/awr36hqblsv4",
+              "voesx_1": "https://voe.sx/e/nqxdfps1thv1",
+              "earnvids": "https://morencius.com/embed/ff2tmyjmv54f",
+              "voesx": "https://voe.sx/e/zotpm2uepf5a"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_46952",
+      "tmdb_id": 46952,
+      "nombre": "The Blacklist",
+      "poster": "https://image.tmdb.org/t/p/w500/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg",
+      "categorias": [
+        "crimen",
+        "misterio",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "1": {
+            "español latino": {
+              "lamovie": "https://lamovie.org/embed.html?v=1"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_46261",
       "tmdb_id": 46261,
@@ -3438,40 +3541,63 @@
       "nombre": "Bajo la superficie",
       "poster": "https://image.tmdb.org/t/p/w500/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
       "categorias": [
+        "drama",
         "serie",
-        "misterio",
-        "drama"
+        "misterio"
       ],
       "temporadas": {
         "1": {
           "4": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-pvweztunq0zr.html"
+              "streamwish": "https://vibuxer.com/e/bjduogdu8dxs",
+              "vimeos": "https://vimeos.net/embed-pvweztunq0zr.html",
+              "earnvids": "https://morencius.com/embed/bd5xbg1huaud",
+              "voesx": "https://voe.sx/e/p94aw4fmtpqa",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=285322&se=1&ep=4&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
             }
           },
           "2": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-nq3bbvqjavz4.html"
+              "streamwish": "https://vibuxer.com/e/dqwur11ggnfp",
+              "vimeos": "https://vimeos.net/embed-nq3bbvqjavz4.html",
+              "earnvids": "https://morencius.com/embed/g08ugy79cef6",
+              "voesx": "https://voe.sx/e/ndtnyzxlqsbi",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=285322&se=1&ep=2&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
             }
           },
           "1": {
             "español latino": {
+              "streamwish": "https://vibuxer.com/e/585g53qlh2sn",
+              "voesx_1": "https://voe.sx/e/xyeuj9imhujd",
+              "earnvids": "https://morencius.com/embed/0pncodmn7eqp",
               "voesx": "https://voe.sx/e/60coqst8lmbs"
             }
           },
           "6": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-c0tjmjzsul22.html"
+              "streamwish": "https://vibuxer.com/e/d9ew8hi43pji",
+              "vimeos": "https://vimeos.net/embed-c0tjmjzsul22.html",
+              "earnvids": "https://morencius.com/embed/4fvw99bib86h",
+              "voesx": "https://voe.sx/e/czaou6zpcuvg",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=285322&se=1&ep=6&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
             }
           },
           "5": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-1hsyayu9bd3x.html"
+              "streamwish": "https://vibuxer.com/e/axvks7m9drs4",
+              "vimeos": "https://vimeos.net/embed-1hsyayu9bd3x.html",
+              "earnvids": "https://morencius.com/embed/piir9tzycu8l",
+              "voesx": "https://voe.sx/e/gmgaxc0aqhjq",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=285322&se=1&ep=5&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
             }
           },
           "3": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-lsrnp0xucz2e.html"
+              "streamwish": "https://vibuxer.com/e/yig5hfyekb0j",
+              "vimeos": "https://vimeos.net/embed-lsrnp0xucz2e.html",
+              "earnvids": "https://morencius.com/embed/kf5u68q2x7h9",
+              "voesx": "https://voe.sx/e/r9rlimmsuvzd",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=285322&se=1&ep=3&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
             }
           }
         }
@@ -82521,63 +82647,6 @@
               "streamtape": "https://streamtape.com/e/V6ozgkWpaaUK700",
               "voesx": "https://voe.sx/e/kifkqcsohucg",
               "okru": "https://okru.link/v2/embed_vf_f.html?t=VAiJvnsyeET_layFarr3f4ik.1Sr_BrE80vPkaG.ZtvCRaAHqzQhz19wYif4Jd01PSdG35iqh5Qlox1CM9fItc0o9E3hxThG3F1pQE313i8aj9DIllF2ebMRipDCMFvD"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_83300",
-      "tmdb_id": 83300,
-      "nombre": "Diablero",
-      "poster": "https://image.tmdb.org/t/p/w500/gi955avqiP9bkVZ9o4ngqG6Q84d.jpg",
-      "categorias": [
-        "serie",
-        "misterio",
-        "ficcion"
-      ],
-      "temporadas": {
-        "2": {
-          "4": {
-            "español latino": {
-              "embed": "https://embed.mystream.to/ztewk9838yh8",
-              "fastplay": "https://fastplay.to/embed-j6fetvl9qpew.html",
-              "uqload": "https://uqload.com/embed-jxiinugfec4i.html"
-            }
-          },
-          "2": {
-            "español latino": {
-              "embed": "https://embed.mystream.to/lqktztet1znz",
-              "fastplay": "https://fastplay.to/embed-ac4xzdm4ybpl.html",
-              "uqload": "https://uqload.com/embed-plwcj8hmg9kj.html"
-            }
-          },
-          "1": {
-            "español latino": {
-              "embed": "https://embed.mystream.to/m7liv4vpm7am",
-              "fastplay": "https://fastplay.to/embed-7k2nne1m4irg.html",
-              "uqload": "https://uqload.com/embed-ui80pqnywquz.html"
-            }
-          },
-          "6": {
-            "español latino": {
-              "embed": "https://embed.mystream.to/6il7xk5bghn5",
-              "fastplay": "https://fastplay.to/embed-g9fb9n66g0m4.html",
-              "uqload": "https://uqload.com/embed-bdyxwum79b9h.html"
-            }
-          },
-          "5": {
-            "español latino": {
-              "embed": "https://embed.mystream.to/91ui158ui4z4",
-              "fastplay": "https://fastplay.to/embed-3cwlgsoyh3o7.html",
-              "uqload": "https://uqload.com/embed-i0wj9svwzho5.html"
-            }
-          },
-          "3": {
-            "español latino": {
-              "embed": "https://embed.mystream.to/r2vyotgfjit1",
-              "fastplay": "https://fastplay.to/embed-63imzy7vndw6.html",
-              "uqload": "https://uqload.com/embed-sjld8cvr21hv.html"
             }
           }
         }

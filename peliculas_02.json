@@ -1,10 +1,78 @@
 {
   "type": "peliculas",
-  "total": 17655,
-  "version": 104,
+  "total": 17658,
+  "version": 105,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_574936",
+      "tmdb_id": 574936,
+      "nombre": "Amor, Romance & Chocolate",
+      "poster": "https://image.tmdb.org/t/p/w500/l0ay0Td2gxq2zEdAlphb2RsdeTX.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-oms7uj58h8ea.html"
+        }
+      }
+    },
+    {
+      "id": "p_554979",
+      "tmdb_id": 554979,
+      "nombre": "Mail Order Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/4puhoTw5laPSAs2SuiljUkwrtw.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/ave19l0nhqky"
+        }
+      }
+    },
+    {
+      "id": "p_460885",
+      "tmdb_id": 460885,
+      "nombre": "Mandy",
+      "poster": "https://image.tmdb.org/t/p/w500/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg",
+      "calidad": "4K",
+      "generos": [
+        "fantasia",
+        "accion",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-il8fpmcb0xzg.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nwy6bsb3vfxv.html"
+        }
+      }
+    },
+    {
+      "id": "p_461615",
+      "tmdb_id": 461615,
+      "nombre": "Mutafukaz",
+      "poster": "https://image.tmdb.org/t/p/w500/1yd0lTz7N6DvPe0H8kq12cVPEt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "animacion",
+        "accion",
+        "crimen",
+        "comedia",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-m9t7yeb10hz4.html"
+        }
+      }
+    },
     {
       "id": "p_590164",
       "tmdb_id": 590164,

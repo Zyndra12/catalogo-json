@@ -1,14 +1,14 @@
 {
   "type": "peliculas",
-  "total": 17655,
+  "total": 17658,
   "chunks": 2,
   "files": [
     "peliculas_01.json",
     "peliculas_02.json"
   ],
   "items_per_chunk": [
-    10815,
-    6840
+    10814,
+    6844
   ],
-  "version": 104
+  "version": 105
 }

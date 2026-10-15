@@ -1,10 +1,97 @@
 {
   "type": "peliculas",
-  "total": 17655,
-  "version": 104,
+  "total": 17658,
+  "version": 105,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_1101412",
+      "tmdb_id": 1101412,
+      "nombre": "Fall 2: Deadpoint",
+      "poster": "https://image.tmdb.org/t/p/w500/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/4xzuokmbw7ry",
+          "voesx": "https://voe.sx/e/0ery7qvx8u9w",
+          "vidhide": "https://vidhidepro.com/v/kmmglffyc9bx"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/202ii21mc444",
+          "voesx": "https://voe.sx/e/04tmlhan1vwa",
+          "vidhide": "https://vidhidepro.com/v/bnhl761droaf"
+        }
+      }
+    },
+    {
+      "id": "p_1381078",
+      "tmdb_id": 1381078,
+      "nombre": "El amor de tu vida",
+      "poster": "https://image.tmdb.org/t/p/w500/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://hglink.to/e/e9g04aymi1uc",
+          "voesx": "https://voe.sx/e/5eed6fpnpig4",
+          "vidhide": "https://morencius.com/embed/b0c3c5xmj0p0"
+        }
+      }
+    },
+    {
+      "id": "p_1236045",
+      "tmdb_id": 1236045,
+      "nombre": "Animales",
+      "poster": "https://image.tmdb.org/t/p/w500/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspense",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://hglink.to/e/s1wue17e3hez",
+          "vimeos": "https://vimeos.net/embed-zzk6labe17xm.html",
+          "voesx": "https://voe.sx/e/lipkogzqxfv6",
+          "vidhide": "https://morencius.com/embed/s3lo81u2a7ff"
+        }
+      }
+    },
+    {
+      "id": "p_1058424",
+      "tmdb_id": 1058424,
+      "nombre": "Hope",
+      "poster": "https://image.tmdb.org/t/p/w500/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ciencia ficción",
+        "misterio",
+        "acción"
+      ],
+      "fuentes": {
+        "español latino": {
+          "voesx": "https://voe.sx/e/8j5mvpr9f3vz"
+        }
+      }
+    },
+    {
+      "id": "p_264420",
+      "tmdb_id": 264420,
+      "nombre": "Obediencia Perfecta",
+      "poster": "https://image.tmdb.org/t/p/w500/fSGnBFS8elSE3f392w3YzDyKkjQ.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0plxtk9pbt8a.html"
+        }
+      }
+    },
     {
       "id": "p_413736",
       "tmdb_id": 413736,
@@ -73528,21 +73615,6 @@
       }
     },
     {
-      "id": "p_1101412",
-      "tmdb_id": 1101412,
-      "nombre": "Fall 2: Deadpoint",
-      "poster": "https://image.tmdb.org/t/p/w500/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/ds19mizbx7hn",
-          "voesx": "https://voe.sx/e/bkatnwp0relx",
-          "vidhide": "https://vidhidepro.com/v/yo9k0qsn51ro"
-        }
-      }
-    },
-    {
       "id": "p_772506",
       "tmdb_id": 772506,
       "nombre": "Amor es amor",
@@ -73627,12 +73699,15 @@
       "tmdb_id": 1302904,
       "nombre": "Prácticamente magia 2",
       "poster": "https://image.tmdb.org/t/p/w500/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/110qwl4eketn",
           "vidhide": "https://vidhidepro.com/v/n79q30qow4xy"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o8o9vsu48dji.html"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/b9i6nztapfde",
@@ -73888,20 +73963,6 @@
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/o4loeyj81cmj",
           "vidhide": "https://vidhidepro.com/v/v94bc7cqfbx9"
-        }
-      }
-    },
-    {
-      "id": "p_1058424",
-      "tmdb_id": 1058424,
-      "nombre": "Hope",
-      "poster": "https://image.tmdb.org/t/p/w500/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/lv76zybuscnz",
-          "vidhide": "https://vidhidepro.com/v/6zc0vyy691r4"
         }
       }
     },
@@ -174144,74 +174205,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-vma4641i1lai.html"
-        }
-      }
-    },
-    {
-      "id": "p_574936",
-      "tmdb_id": 574936,
-      "nombre": "Amor, Romance & Chocolate",
-      "poster": "https://image.tmdb.org/t/p/w500/l0ay0Td2gxq2zEdAlphb2RsdeTX.jpg",
-      "calidad": "HD",
-      "generos": [
-        "romance"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-oms7uj58h8ea.html"
-        }
-      }
-    },
-    {
-      "id": "p_554979",
-      "tmdb_id": 554979,
-      "nombre": "Mail Order Monster",
-      "poster": "https://image.tmdb.org/t/p/w500/4puhoTw5laPSAs2SuiljUkwrtw.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/ave19l0nhqky"
-        }
-      }
-    },
-    {
-      "id": "p_460885",
-      "tmdb_id": 460885,
-      "nombre": "Mandy",
-      "poster": "https://image.tmdb.org/t/p/w500/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg",
-      "calidad": "4K",
-      "generos": [
-        "fantasia",
-        "accion",
-        "terror"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-il8fpmcb0xzg.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-nwy6bsb3vfxv.html"
-        }
-      }
-    },
-    {
-      "id": "p_461615",
-      "tmdb_id": 461615,
-      "nombre": "Mutafukaz",
-      "poster": "https://image.tmdb.org/t/p/w500/1yd0lTz7N6DvPe0H8kq12cVPEt.jpg",
-      "calidad": "HD",
-      "generos": [
-        "ficcion",
-        "animacion",
-        "accion",
-        "crimen",
-        "comedia",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-m9t7yeb10hz4.html"
         }
       }
     }
