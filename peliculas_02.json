@@ -1,10 +1,275 @@
 {
   "type": "peliculas",
-  "total": 17658,
-  "version": 105,
+  "total": 17671,
+  "version": 106,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_401200",
+      "tmdb_id": 401200,
+      "nombre": "Kursk",
+      "poster": "https://image.tmdb.org/t/p/w500/8E5PL4cKBxVg0zzNPIOWnaAKSN5.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/cucfd6a9sqic"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/d1jpv7x1oto4"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/eeelhoaemzoc"
+        }
+      }
+    },
+    {
+      "id": "p_588415",
+      "tmdb_id": 588415,
+      "nombre": "La peor de mis bodas 2",
+      "poster": "https://image.tmdb.org/t/p/w500/8RCp8lGijO7O0AlsVM0MKewKUcS.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2wgm8a6tb2q7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pgpshadkiznf.html"
+        }
+      }
+    },
+    {
+      "id": "p_543540",
+      "tmdb_id": 543540,
+      "nombre": "La cita perfecta",
+      "poster": "https://image.tmdb.org/t/p/w500/v8P8AI9xfz1AnX9ojfbn3lTo1e.jpg",
+      "calidad": "4K",
+      "generos": [
+        "romance",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9ujnq0uu2xnw.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-73cw23ukv5d1.html"
+        }
+      }
+    },
+    {
+      "id": "p_520777",
+      "tmdb_id": 520777,
+      "nombre": "La Tierra es plana",
+      "poster": "https://image.tmdb.org/t/p/w500/mOJrtSMmUpfFytvxlUEA8hej2At.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-bhucyvc4wyjp.html"
+        }
+      }
+    },
+    {
+      "id": "p_581420",
+      "tmdb_id": 581420,
+      "nombre": "Andar. Montar. Rodeo.",
+      "poster": "https://image.tmdb.org/t/p/w500/xNijsanwUDenEuln66Ne2eMWJe9.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-w62beb456sux.html"
+        }
+      }
+    },
+    {
+      "id": "p_339846",
+      "tmdb_id": 339846,
+      "nombre": "Baywatch: Los vigilantes de la playa",
+      "poster": "https://image.tmdb.org/t/p/w500/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "accion",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/0sf6aomkh0g0"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0m388dmtpsg9.html"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/dxh8og0uejg1"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/9i1igb9wvhfh"
+        }
+      }
+    },
+    {
+      "id": "p_21867",
+      "tmdb_id": 21867,
+      "nombre": "Lady Jane",
+      "poster": "https://image.tmdb.org/t/p/w500/nD0Y35pe8ePAY9ngOLtiL7nd2YN.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4wrma03nwhhs.html"
+        }
+      }
+    },
+    {
+      "id": "p_457943",
+      "tmdb_id": 457943,
+      "nombre": "Las reglas de Slaughterhouse",
+      "poster": "https://image.tmdb.org/t/p/w500/w8fV1J5qV0yqoQ3WjfcoUVq0KlD.jpg",
+      "calidad": "4K",
+      "generos": [
+        "accion",
+        "comedia",
+        "fantasia",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-wlffkx17r3lo.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-47tdeic4ycza.html"
+        }
+      }
+    },
+    {
+      "id": "p_1026726",
+      "tmdb_id": 1026726,
+      "nombre": "Lino",
+      "poster": "https://image.tmdb.org/t/p/w500/hs8IhQZS6e6UjWvSpGCCiEyuOYH.jpg",
+      "calidad": "HD",
+      "generos": [
+        "fantasia",
+        "drama",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-56q91ne2hebg.html"
+        }
+      }
+    },
+    {
+      "id": "p_548066",
+      "tmdb_id": 548066,
+      "nombre": "Nivel 16",
+      "poster": "https://image.tmdb.org/t/p/w500/ohCnq5MiuqgD80NouvxKY51jI0b.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/hur5cfunxmi5",
+          "voesx": "https://voe.sx/e/mw6036dyqz25"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/bs2zxtr5mxsw"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/sta9ny62dihh",
+          "voesx": "https://voe.sx/e/dpids5c5ihvd"
+        }
+      }
+    },
+    {
+      "id": "p_417670",
+      "tmdb_id": 417670,
+      "nombre": "Loro 1",
+      "poster": "https://image.tmdb.org/t/p/w500/tNwCi4k8TKcGtay2SvyxCbSZnLT.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-6ynq342c3efq.html"
+        }
+      }
+    },
+    {
+      "id": "p_506068",
+      "tmdb_id": 506068,
+      "nombre": "Living Space",
+      "poster": "https://image.tmdb.org/t/p/w500/mJiPF6OPsRBdvvyshNOVXiPrh3y.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-efphicoiys5b.html"
+        }
+      }
+    },
+    {
+      "id": "p_552709",
+      "tmdb_id": 552709,
+      "nombre": "Long Lost",
+      "poster": "https://image.tmdb.org/t/p/w500/6rnoE1eWLUviAxeD5eo8Cr4KfP.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "misterio",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-l1drbkucmltu.html"
+        }
+      }
+    },
+    {
+      "id": "p_407238",
+      "tmdb_id": 407238,
+      "nombre": "Los Domirriqueños 2",
+      "poster": "https://image.tmdb.org/t/p/w500/qX8NMC7NixWr8bJQmO0kuyAXTmD.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-iwz7uet27qvi.html"
+        }
+      }
+    },
+    {
+      "id": "p_525454",
+      "tmdb_id": 525454,
+      "nombre": "Love on Safari",
+      "poster": "https://image.tmdb.org/t/p/w500/hzvkk5W0yqyyNESMzhOz9oYL95H.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vma4641i1lai.html"
+        }
+      }
+    },
     {
       "id": "p_574936",
       "tmdb_id": 574936,
@@ -6274,18 +6539,11 @@
       "tmdb_id": 10192,
       "nombre": "Shrek, felices para siempre",
       "poster": "https://image.tmdb.org/t/p/w500/11K03KebrdD8nUlGFJX3rSL3KHK.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/fv795z905218",
-          "filelions": "https://filelions.to/v/6ersotm81kqr"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/y802kefqgya3"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/s6klsxd1nq62"
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nd1r0ynfjajz.html"
         }
       }
     },
@@ -7875,7 +8133,7 @@
       "tmdb_id": 10782,
       "nombre": "Basic",
       "poster": "https://image.tmdb.org/t/p/w500/5yk0f45lv7TqLd3qSgaNNiPX7js.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "drama",
@@ -7886,6 +8144,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-85m6bbtkcug2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-q6s2ksveocrf.html"
         }
       }
     },
@@ -8610,9 +8871,12 @@
       "tmdb_id": 975511,
       "nombre": "El regreso de Ulises",
       "poster": "https://image.tmdb.org/t/p/w500/2Nt5pRD2IOt8hbWfV4C3O6ZkEGU.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4k32yd3gqmcj.html"
+        },
         "español": {
           "streamwish": "https://streamwish.to/e/o1lttes876kp",
           "voesx": "https://voe.sx/e/cxxopwo3g36p",
@@ -24676,7 +24940,7 @@
           "fastream": "https://fastream.to/embed-dsqj16ffmpyv.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-2bwk7hsmwgrl.html"
+          "la_movie": "https://vimeos.net/embed-bvifhi0hlozl.html"
         }
       }
     },
@@ -30952,8 +31216,8 @@
           "filelions": "https://filelions.to/v/f88dhaluc9kk",
           "fastream": "https://fastream.to/embed-n634mi7cnfc1.html"
         },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/bhks8p36eyo3"
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2wqkx8jg404m.html"
         }
       }
     },
@@ -52210,7 +52474,7 @@
           "voesx": "https://voe.sx/e/eknz0on1kphq"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-3prht808n14r.html"
+          "la_movie": "https://vimeos.net/embed-mhds2d4ozri7.html"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/94gmgo0oj699",
@@ -52266,25 +52530,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-vbcl077h5zpl.html"
-        }
-      }
-    },
-    {
-      "id": "p_218",
-      "tmdb_id": 218,
-      "nombre": "Terminator",
-      "poster": "https://image.tmdb.org/t/p/w500/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español": {
-          "streamwish": "https://streamwish.to/e/eoyysyn4d8lb",
-          "voesx": "https://voe.sx/e/bbprcvh6a8x0",
-          "vidhide": "https://vidhidepro.com/v/xo7gzf24hs82"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/zsqz1ua3ji76",
-          "voesx": "https://voe.sx/e/ybl3mfgs0hzc"
         }
       }
     },
@@ -93528,7 +93773,7 @@
       "tmdb_id": 607,
       "nombre": "Men in Black",
       "poster": "https://image.tmdb.org/t/p/w500/8HHIw2ZCyFp26EpZC8BW5jGP7kd.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "aventura",
@@ -93541,6 +93786,9 @@
           "filelions": "https://filelions.to/v/4qxtqpcdru47",
           "fastream": "https://fastream.to/embed-o0maccjn6qz4.html",
           "voesx": "https://voe.sx/e/tfnbwrzc0xm7"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-yltyef25qozo.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/nc443eyb67g0",
@@ -109983,11 +110231,14 @@
       "tmdb_id": 746036,
       "nombre": "El especialista",
       "poster": "https://image.tmdb.org/t/p/w500/A5LijwDVZsupBTL0qKoagMfUiKR.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/2uz8dduh4q8n"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0u9ksrnsofc3.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/9vvvl4s6kvto"
