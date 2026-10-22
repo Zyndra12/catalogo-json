@@ -1,16 +1,18 @@
 {
   "type": "series",
-  "total": 3702,
-  "chunks": 3,
+  "total": 3705,
+  "chunks": 4,
   "files": [
     "series_01.json",
     "series_02.json",
-    "series_03.json"
+    "series_03.json",
+    "series_04.json"
   ],
   "items_per_chunk": [
-    1166,
-    1499,
-    1037
+    1148,
+    1492,
+    1057,
+    8
   ],
-  "version": 106
+  "version": 107
 }
