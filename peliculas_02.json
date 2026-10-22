@@ -1,10 +1,776 @@
 {
   "type": "peliculas",
-  "total": 17674,
-  "version": 107,
+  "total": 17705,
+  "version": 108,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_460059",
+      "tmdb_id": 460059,
+      "nombre": "Burn Out",
+      "poster": "https://image.tmdb.org/t/p/w500/fVWcI3ZwHgBjbz24jZerJjRALYN.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "suspenso",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-nhz13v8zx0ed.html"
+        }
+      }
+    },
+    {
+      "id": "p_484901",
+      "tmdb_id": 484901,
+      "nombre": "Enemigos íntimos",
+      "poster": "https://image.tmdb.org/t/p/w500/mXzGIu482Jvh6r8HXNLjSzke45p.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/y9mhr8vh0icd",
+          "fastream": "https://fastream.to/embed-9q3ai41hjq5o.html"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/m5x2xgdqif7y"
+        }
+      }
+    },
+    {
+      "id": "p_7211",
+      "tmdb_id": 7211,
+      "nombre": "Como la vida misma",
+      "poster": "https://image.tmdb.org/t/p/w500/7qzAwS3p3Y43GTw3Bw5FH4OXZQk.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-emjbfv2edwf9.html"
+        }
+      }
+    },
+    {
+      "id": "p_492823",
+      "tmdb_id": 492823,
+      "nombre": "CALL TV",
+      "poster": "https://image.tmdb.org/t/p/w500/dlpSrBmeT625JnyND9RojM2PPUQ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "crimen",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-lfsjnihnigvh.html"
+        }
+      }
+    },
+    {
+      "id": "p_554569",
+      "tmdb_id": 554569,
+      "nombre": "Como novio de pueblo",
+      "poster": "https://image.tmdb.org/t/p/w500/gzfEOHREJ6k63CJe6vypvgC0fzB.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-h46ghbfx5e4q.html"
+        }
+      }
+    },
+    {
+      "id": "p_444713",
+      "tmdb_id": 444713,
+      "nombre": "Comando 2",
+      "poster": "https://image.tmdb.org/t/p/w500/9RZfZxIqyom7XVtXlHKnlNezZua.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-x54hf0k7f7n8.html"
+        }
+      }
+    },
+    {
+      "id": "p_548204",
+      "tmdb_id": 548204,
+      "nombre": "Danger One",
+      "poster": "https://image.tmdb.org/t/p/w500/mG6MNa9fR6LIOaJhkJONflpGPvB.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-5v9uiyuedvy9.html"
+        }
+      }
+    },
+    {
+      "id": "p_360814",
+      "tmdb_id": 360814,
+      "nombre": "Dangal",
+      "poster": "https://image.tmdb.org/t/p/w500/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "familia",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-pz4h6xmeds1h.html"
+        }
+      }
+    },
+    {
+      "id": "p_12763",
+      "tmdb_id": 12763,
+      "nombre": "Déjate llevar",
+      "poster": "https://image.tmdb.org/t/p/w500/egGf0ra9FYRKCkkS3noaydcfrwB.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-60vb4nr4upbb.html"
+        }
+      }
+    },
+    {
+      "id": "p_462115",
+      "tmdb_id": 462115,
+      "nombre": "Dead Trigger",
+      "poster": "https://image.tmdb.org/t/p/w500/uI2c30FyDEeBaa7Ka7tZYH344tC.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-3nynir5j0d20.html"
+        }
+      }
+    },
+    {
+      "id": "p_471507",
+      "tmdb_id": 471507,
+      "nombre": "Destroyer. Una mujer herida",
+      "poster": "https://image.tmdb.org/t/p/w500/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "crimen",
+        "drama",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-cdog16vedoba.html"
+        }
+      }
+    },
+    {
+      "id": "p_562889",
+      "tmdb_id": 562889,
+      "nombre": "Donbass",
+      "poster": "https://image.tmdb.org/t/p/w500/gSAw4wtVw4258CGbWdbDNewWywK.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4wzhnar47pkg.html"
+        }
+      }
+    },
+    {
+      "id": "p_575169",
+      "tmdb_id": 575169,
+      "nombre": "Dirty John: The Dirty Truth",
+      "poster": "https://image.tmdb.org/t/p/w500/ye4XXk8SZeQYhq1RsdMx3kyPHEA.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-5nqdpm50e0h8.html"
+        }
+      }
+    },
+    {
+      "id": "p_944401",
+      "tmdb_id": 944401,
+      "nombre": "Dogman",
+      "poster": "https://image.tmdb.org/t/p/w500/1QTJoyA6sN6Y3nUFZzKSEUZ6DVc.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/r6ewusv0brjs"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/x1yxxrb1hj0y"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/u9ibvlki0x9a"
+        }
+      }
+    },
+    {
+      "id": "p_10398",
+      "tmdb_id": 10398,
+      "nombre": "Doble traición",
+      "poster": "https://image.tmdb.org/t/p/w500/9iStyArwfoNC3WjGjiEi8dGkzUY.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/n6la3le9jyfa",
+          "voesx": "https://voe.sx/e/ixvyqfi802qn",
+          "vidhide": "https://vidhidepro.com/v/hu9fov1sjgvu"
+        }
+      }
+    },
+    {
+      "id": "p_438674",
+      "tmdb_id": 438674,
+      "nombre": "Al otro lado de la ley",
+      "poster": "https://image.tmdb.org/t/p/w500/kWyXANkbpWtFwxUjXZTf8VnzkjZ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/v9ot98lfz7ct",
+          "voesx": "https://voe.sx/e/l3yg28q653lt"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/otv9if1c2i8h"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/kud410xpbzhf",
+          "voesx": "https://voe.sx/e/dlkiapepdfgf"
+        }
+      }
+    },
+    {
+      "id": "p_11360",
+      "tmdb_id": 11360,
+      "nombre": "Dumbo",
+      "poster": "https://image.tmdb.org/t/p/w500/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/ra0kr8hg3dq9",
+          "voesx": "https://voe.sx/e/inha289xwod1"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/4vvrgp3r5dod"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/j80s6l4lblf3"
+        }
+      }
+    },
+    {
+      "id": "p_384417",
+      "tmdb_id": 384417,
+      "nombre": "El camino más largo",
+      "poster": "https://image.tmdb.org/t/p/w500/UL81ogKwZjzax9oz1OqZH3ldOr.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ju8eew1xi84v.html"
+        }
+      }
+    },
+    {
+      "id": "p_529216",
+      "tmdb_id": 529216,
+      "nombre": "Durante la tormenta",
+      "poster": "https://image.tmdb.org/t/p/w500/c7nki04Co6DUXWAB2GXDjg0E5km.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "drama",
+        "misterio",
+        "fantasia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gzq2vhqbyvw7.html"
+        }
+      }
+    },
+    {
+      "id": "p_484437",
+      "tmdb_id": 484437,
+      "nombre": "Bosque maldito",
+      "poster": "https://image.tmdb.org/t/p/w500/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-i3tel6l7w6gh.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vhebozutq3k3.html"
+        }
+      }
+    },
+    {
+      "id": "p_534937",
+      "tmdb_id": 534937,
+      "nombre": "El desentierro",
+      "poster": "https://image.tmdb.org/t/p/w500/cr33MHwR7nwUTi2RN9judzIv1bU.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-tydfk1hp4bw9.html"
+        }
+      }
+    },
+    {
+      "id": "p_545481",
+      "tmdb_id": 545481,
+      "nombre": "El fantasma de mi novia",
+      "poster": "https://image.tmdb.org/t/p/w500/ySUwOVU4n5vzDjWPhgQdw4Nm3Ju.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/9ow3gn4mgn2y",
+          "voesx": "https://voe.sx/e/o3dpdmdahf96"
+        }
+      }
+    },
+    {
+      "id": "p_394741",
+      "tmdb_id": 394741,
+      "nombre": "El Gordo y el Flaco (Stan & Ollie)",
+      "poster": "https://image.tmdb.org/t/p/w500/cLLf98TjCgV496zfhJejGwn2ecy.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-0w22q7o9lpm7.html"
+        }
+      }
+    },
+    {
+      "id": "p_548178",
+      "tmdb_id": 548178,
+      "nombre": "El Silbón: Orígenes",
+      "poster": "https://image.tmdb.org/t/p/w500/iad3W2u2j2zh6hYE9IMc9UWyhp5.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2zfvvbmcwnqc.html"
+        }
+      }
+    },
+    {
+      "id": "p_500682",
+      "tmdb_id": 500682,
+      "nombre": "Emboscada final",
+      "poster": "https://image.tmdb.org/t/p/w500/zNe6LNbSyBSpsSoinGc6iIn1x4c.jpg",
+      "calidad": "4K",
+      "generos": [
+        "crimen",
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-nzgghv4vygu4.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-5v6dgu0raur0.html"
+        }
+      }
+    },
+    {
+      "id": "p_445816",
+      "tmdb_id": 445816,
+      "nombre": "El silencio",
+      "poster": "https://image.tmdb.org/t/p/w500/wkeRGmjQONpomQJH1dm6Wa7oxrT.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-0t5vz407534k.html"
+        }
+      }
+    },
+    {
+      "id": "p_467936",
+      "tmdb_id": 467936,
+      "nombre": "El veredicto, la ley del menor",
+      "poster": "https://image.tmdb.org/t/p/w500/jXH0mIeGBRKpNuaBlcNqZLiLN7Z.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kgynrkp5dplr.html"
+        }
+      }
+    },
+    {
+      "id": "p_554580",
+      "tmdb_id": 554580,
+      "nombre": "En las buenas y en las malas",
+      "poster": "https://image.tmdb.org/t/p/w500/pUrQZ1KeayOhQwjbEj9KK0p46Wr.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-pdof86fjskh7.html"
+        }
+      }
+    },
+    {
+      "id": "p_445629",
+      "tmdb_id": 445629,
+      "nombre": "Peleando en familia",
+      "poster": "https://image.tmdb.org/t/p/w500/xDQDW2y0zpLlt5XS0vOtTgohCIp.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-17m8w6pld4ie.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-yzarxp2lz77y.html"
+        }
+      }
+    },
+    {
+      "id": "p_536808",
+      "tmdb_id": 536808,
+      "nombre": "Entre dos aguas",
+      "poster": "https://image.tmdb.org/t/p/w500/93A3FYbKv7NSbw5Nxw7DzURLjjr.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-jwss3ioq0vwi.html"
+        }
+      }
+    },
+    {
+      "id": "p_531380",
+      "tmdb_id": 531380,
+      "nombre": "Golden job",
+      "poster": "https://image.tmdb.org/t/p/w500/6Ja7E1FxVRtQY0i0sOslbBCAzu2.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "aventura",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-v2wmt6oibaob.html"
+        }
+      }
+    },
+    {
+      "id": "p_245917",
+      "tmdb_id": 245917,
+      "nombre": "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
+      "poster": "https://image.tmdb.org/t/p/w500/iEVopSWktGFcBaM9YyRVoy9mcXR.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "comedia",
+        "animacion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-bsqcd8tbgsrc.html"
+        }
+      }
+    },
+    {
+      "id": "p_376047",
+      "tmdb_id": 376047,
+      "nombre": "Fitoor",
+      "poster": "https://image.tmdb.org/t/p/w500/oJA7kDRM52KwdzxfF0mk8t0o12e.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9g4awf1czqfi.html"
+        }
+      }
+    },
+    {
+      "id": "p_527641",
+      "tmdb_id": 527641,
+      "nombre": "A dos metros de ti",
+      "poster": "https://image.tmdb.org/t/p/w500/4F5LggLzv2VIa0MJT2ETN8bWtr2.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-he3qzd45u543.html"
+        }
+      }
+    },
+    {
+      "id": "p_456740",
+      "tmdb_id": 456740,
+      "nombre": "Hellboy",
+      "poster": "https://image.tmdb.org/t/p/w500/gh1ln4LefTfWheKW5MYZuRjVHqV.jpg",
+      "calidad": "4K",
+      "generos": [
+        "fantasia",
+        "terror",
+        "accion",
+        "aventura"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ozeg5bg6erkl.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-q2ej40zdxh8r.html"
+        }
+      }
+    },
+    {
+      "id": "p_421560",
+      "tmdb_id": 421560,
+      "nombre": "Handia",
+      "poster": "https://image.tmdb.org/t/p/w500/ozmAjrtZPupU5Op4epv6Qg87MY9.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ikotndxx4y31.html"
+        }
+      }
+    },
+    {
+      "id": "p_78317",
+      "tmdb_id": 78317,
+      "nombre": "The Great O'Malley",
+      "poster": "https://image.tmdb.org/t/p/w500/j8AyjlH5UALij9PhJitjeLH13lT.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hnv84ymq1lur.html"
+        }
+      }
+    },
+    {
+      "id": "p_431185",
+      "tmdb_id": 431185,
+      "nombre": "He's Out There",
+      "poster": "https://image.tmdb.org/t/p/w500/1xbW5cNFPP716bl5YKZlxHjouiv.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/xb28bs2wi99n"
+        }
+      }
+    },
+    {
+      "id": "p_426563",
+      "tmdb_id": 426563,
+      "nombre": "Holmes y Watson",
+      "poster": "https://image.tmdb.org/t/p/w500/61JOUNb35q6NRYoX4wgnrO3E3EH.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/ceqp1zi1xkz2",
+          "voesx": "https://voe.sx/e/hca8lnuiw1ck"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/46ug3jl5clu5"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/yj5jpvtrtour"
+        }
+      }
+    },
+    {
+      "id": "p_895078",
+      "tmdb_id": 895078,
+      "nombre": "Háblame de ti",
+      "poster": "https://image.tmdb.org/t/p/w500/1BNLHd8oKsy76FzvR9s3E5v8KO9.jpg",
+      "calidad": "4K",
+      "generos": [
+        "drama",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-376dm5m31f6s.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ejrf13u8frac.html"
+        }
+      }
+    },
+    {
+      "id": "p_360826",
+      "tmdb_id": 360826,
+      "nombre": "Jazbaa",
+      "poster": "https://image.tmdb.org/t/p/w500/lasy6dL6VgII8EJzvCxNhNsneuS.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-c5uvh6c37kxc.html"
+        }
+      }
+    },
+    {
+      "id": "p_350733",
+      "tmdb_id": 350733,
+      "nombre": "Jaulas",
+      "poster": "https://image.tmdb.org/t/p/w500/2Bt38yhq5TBX1ksIz74EIywE1D5.jpg",
+      "calidad": "HD",
+      "generos": [
+        "fantasia",
+        "animacion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xmlr5v8betca.html"
+        }
+      }
+    },
+    {
+      "id": "p_587682",
+      "tmdb_id": 587682,
+      "nombre": "Jimmy Carr: The Best of Ultimate Gold Greatest Hits",
+      "poster": "https://image.tmdb.org/t/p/w500/tXYRtTnHTeOmto6eGcJIgoSo6pu.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-trvrewoz3h52.html"
+        }
+      }
+    },
+    {
+      "id": "p_537059",
+      "tmdb_id": 537059,
+      "nombre": "La Liga de la Justicia vs Los Cinco Fatales",
+      "poster": "https://image.tmdb.org/t/p/w500/sw4s1RnhIYa2laxBZoOZ25tZFV9.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/90mbw0vsvgq5"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/76v0uuijkdnb"
+        }
+      }
+    },
+    {
+      "id": "p_581475",
+      "tmdb_id": 581475,
+      "nombre": "Juanita",
+      "poster": "https://image.tmdb.org/t/p/w500/yKq6LErlgWizCtl3DcdYv86xn2e.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-q3quxbvx486s.html"
+        }
+      }
+    },
+    {
+      "id": "p_520360",
+      "tmdb_id": 520360,
+      "nombre": "Rey de ladrones",
+      "poster": "https://image.tmdb.org/t/p/w500/mGtTMpaghQi6zNrJPumO2vJtZT9.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-qj6orsrlnfpt.html"
+        }
+      }
+    },
     {
       "id": "p_51786",
       "tmdb_id": 51786,
@@ -118839,7 +119605,19 @@
       "generos": [],
       "fuentes": {
         "español latino": {
-          "streamwish": "https://streamwish.to/e/tmvb9ycsyuia"
+          "streamwish": "https://streamwish.to/e/aj2qo6s6c2xj",
+          "voesx": "https://voe.sx/e/dsfcbc3xjjoy",
+          "vidhide": "https://vidhidepro.com/v/nc0ip6he3pu4"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/quresb9tepte",
+          "voesx": "https://voe.sx/e/r9gjkdsuyele",
+          "vidhide": "https://vidhidepro.com/v/ch6zxinkvhdg"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/0h7mctfux4e2",
+          "voesx": "https://voe.sx/e/sbdrk9hfcghv",
+          "vidhide": "https://vidhidepro.com/v/w1i8uskvq0eo"
         }
       }
     },
