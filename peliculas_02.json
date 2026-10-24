@@ -1,10 +1,303 @@
 {
   "type": "peliculas",
-  "total": 17705,
-  "version": 108,
+  "total": 17719,
+  "version": 109,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_537915",
+      "tmdb_id": 537915,
+      "nombre": "After: Aquí empieza todo",
+      "poster": "https://image.tmdb.org/t/p/w500/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg",
+      "calidad": "4K",
+      "generos": [
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-jafhz9fyu6j3.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0n5kee5g44fu.html"
+        }
+      }
+    },
+    {
+      "id": "p_593035",
+      "tmdb_id": 593035,
+      "nombre": "Alien Warfare",
+      "poster": "https://image.tmdb.org/t/p/w500/nuUpcP9zOjiVZUveQEBFCOlIG2I.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "ficcion",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ipocj73t83fw.html"
+        }
+      }
+    },
+    {
+      "id": "p_509635",
+      "tmdb_id": 509635,
+      "nombre": "Alone (Sola)",
+      "poster": "https://image.tmdb.org/t/p/w500/xhjJAI7WGM2adVwc7T5e8TqeyDX.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-7iaifsieck59.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-yae9o5pltvaw.html"
+        }
+      }
+    },
+    {
+      "id": "p_437032",
+      "tmdb_id": 437032,
+      "nombre": "Ana de día",
+      "poster": "https://image.tmdb.org/t/p/w500/3XsKRqMZJI2GgnYpsfjJXrpiNXy.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-0x4o0m84ebjl.html"
+        }
+      }
+    },
+    {
+      "id": "p_510689",
+      "tmdb_id": 510689,
+      "nombre": "Among the Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/x4o7Xvn1cmh77uCaZC4hvRRZx7B.jpg",
+      "calidad": "4K",
+      "generos": [
+        "crimen",
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-o50x6hcrs878.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-yrhrglbj82d7.html"
+        }
+      }
+    },
+    {
+      "id": "p_392344",
+      "tmdb_id": 392344,
+      "nombre": "Mirar de nuevo",
+      "poster": "https://image.tmdb.org/t/p/w500/7Bb1vXdtv2BjV6mX8jignRTqG5.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-srcvh55oe2oq.html"
+        }
+      }
+    },
+    {
+      "id": "p_437004",
+      "tmdb_id": 437004,
+      "nombre": "Atrás hay relámpagos",
+      "poster": "https://image.tmdb.org/t/p/w500/4Xp6sffDZIKs73a5HjFeTRywSNy.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-zuhpyody743h.html"
+        }
+      }
+    },
+    {
+      "id": "p_370235",
+      "tmdb_id": 370235,
+      "nombre": "Badlapur Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/7rhYbJOe2bDMG6OuiFvtZWCxnKQ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xm6pghvowu8v.html"
+        }
+      }
+    },
+    {
+      "id": "p_495659",
+      "tmdb_id": 495659,
+      "nombre": "Bayoneta",
+      "poster": "https://image.tmdb.org/t/p/w500/pZafHTlESLFAClWxIPucStKreNI.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-5lckhe6jy8h1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1139786",
+      "tmdb_id": 1139786,
+      "nombre": "Beach House",
+      "poster": "https://image.tmdb.org/t/p/w500/wh50j6bJMx9shRFFKfXq4lbQUmV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-rymunmkc4268.html"
+        }
+      }
+    },
+    {
+      "id": "p_536768",
+      "tmdb_id": 536768,
+      "nombre": "Beautifully Broken",
+      "poster": "https://image.tmdb.org/t/p/w500/6wOTte8H255f7VIXDjwQt68F5iN.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-u1x23fgqv0qn.html"
+        }
+      }
+    },
+    {
+      "id": "p_446164",
+      "tmdb_id": 446164,
+      "nombre": "Before we Vanish",
+      "poster": "https://image.tmdb.org/t/p/w500/9DDNvFbiqUbnotxQVqYGOPKjM3H.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-e0xuhhow16kf.html"
+        }
+      }
+    },
+    {
+      "id": "p_401686",
+      "tmdb_id": 401686,
+      "nombre": "Berlin, I Love You",
+      "poster": "https://image.tmdb.org/t/p/w500/dz3HP16JStMbRNJP30t9kR5Uoti.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-v7xajype9k9w.html"
+        }
+      }
+    },
+    {
+      "id": "p_20215",
+      "tmdb_id": 20215,
+      "nombre": "Habitación 333",
+      "poster": "https://image.tmdb.org/t/p/w500/9VyMAPsjUIeLf71J2OG5V8DO7Jj.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-bq9k6gncjcej.html"
+        }
+      }
+    },
+    {
+      "id": "p_421601",
+      "tmdb_id": 421601,
+      "nombre": "Bornless Ones",
+      "poster": "https://image.tmdb.org/t/p/w500/ega1G9rdcDsuDQeonGaCpm8FR3S.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-642ttro0e3ul.html"
+        }
+      }
+    },
+    {
+      "id": "p_532649",
+      "tmdb_id": 532649,
+      "nombre": "Book of Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/bl9AX7lOgZuqqdV4dIjW2UxXiHH.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "terror",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gcr4j660hp7c.html"
+        }
+      }
+    },
+    {
+      "id": "p_514234",
+      "tmdb_id": 514234,
+      "nombre": "Bruno Motoneta",
+      "poster": "https://image.tmdb.org/t/p/w500/iZpLOuW70XxMsXw0JETgwCdUjm5.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-atug6yesos4y.html"
+        }
+      }
+    },
+    {
+      "id": "p_503755",
+      "tmdb_id": 503755,
+      "nombre": "Brothers' Nest",
+      "poster": "https://image.tmdb.org/t/p/w500/b2k7IdRHHuD2HZPZMWsZzRFUHoA.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vc6q2ei9zxc2.html"
+        }
+      }
+    },
     {
       "id": "p_460059",
       "tmdb_id": 460059,
@@ -5471,7 +5764,7 @@
       "tmdb_id": 58233,
       "nombre": "Johnny English Returns",
       "poster": "https://image.tmdb.org/t/p/w500/aPtr6wGncgx8bpZQYAAyJqlvYfP.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "accion",
@@ -5480,6 +5773,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-mtjpxgxix7q9.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-r8op2vjn3ebi.html"
         }
       }
     },
@@ -45575,7 +45871,7 @@
       "tmdb_id": 375183,
       "nombre": "Un hombre de familia",
       "poster": "https://image.tmdb.org/t/p/w500/iuMxtIlVuDXHLSnKwAASlXW9DLj.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama"
       ],
@@ -45583,6 +45879,9 @@
         "español latino": {
           "streamwish": "https://streamwish.to/e/e7wz29fn4s7l",
           "fastream": "https://fastream.to/embed-z51dic6sx3m1.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8863ovdnhxh5.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/ttlyvol0187d"

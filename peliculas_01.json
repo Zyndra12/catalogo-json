@@ -1,10 +1,227 @@
 {
   "type": "peliculas",
-  "total": 17705,
-  "version": 108,
+  "total": 17719,
+  "version": 109,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_299536",
+      "tmdb_id": 299536,
+      "nombre": "Vengadores: Infinity War",
+      "poster": "https://image.tmdb.org/t/p/w500/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xzvl73goar99.html"
+        }
+      }
+    },
+    {
+      "id": "p_940543",
+      "tmdb_id": 940543,
+      "nombre": "Los Vengadores: Aventuras a destiempo",
+      "poster": "https://image.tmdb.org/t/p/w500/7nA9AjJ8iZvbBPsFPC2FNoFj568.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pji0xu5w5y46.html"
+        }
+      }
+    },
+    {
+      "id": "p_82776",
+      "tmdb_id": 82776,
+      "nombre": "El ministro y yo",
+      "poster": "https://image.tmdb.org/t/p/w500/77sTJrC54qXyHxRTuaSDvpPlQHb.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-s48pjotrya4x.html"
+        }
+      }
+    },
+    {
+      "id": "p_4995",
+      "tmdb_id": 4995,
+      "nombre": "Boogie nights",
+      "poster": "https://image.tmdb.org/t/p/w500/njDsPPXygxLluTcWrRKtePKIWk.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mur1ala02pej.html"
+        }
+      }
+    },
+    {
+      "id": "p_1400940",
+      "tmdb_id": 1400940,
+      "nombre": "Clayface",
+      "poster": "https://image.tmdb.org/t/p/w500/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/amnxegn2q7nn",
+          "voesx": "https://voe.sx/e/g0ksqceinqkx",
+          "vidhide": "https://vidhidepro.com/v/vq5cyjxvsuu6"
+        }
+      }
+    },
+    {
+      "id": "p_651881",
+      "tmdb_id": 651881,
+      "nombre": "Adiós, idiotas",
+      "poster": "https://image.tmdb.org/t/p/w500/u8J99ZnoukphhdL51apNNAtZUQn.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/f47cuk4kjevq",
+          "voesx": "https://voe.sx/e/hhvcphfmwecr",
+          "vidhide": "https://vidhidepro.com/v/tm9efwej4bv8"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/9eo9oflhkrk9",
+          "voesx": "https://voe.sx/e/3lrlv7lusyuu",
+          "vidhide": "https://vidhidepro.com/v/h7lvwnfyrtnj"
+        }
+      }
+    },
+    {
+      "id": "p_1657630",
+      "tmdb_id": 1657630,
+      "nombre": "El despertar",
+      "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/6nixbmprgs1f",
+          "voesx": "https://voe.sx/e/6ilveheuvpy5",
+          "vidhide": "https://vidhidepro.com/v/cazc2e0o3mm5"
+        }
+      }
+    },
+    {
+      "id": "p_1451078",
+      "tmdb_id": 1451078,
+      "nombre": "Demonio ancestral",
+      "poster": "https://image.tmdb.org/t/p/w500/vIyXdrVCgwHKLNCqU7TcLwLsqZF.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/qmq6b33w8vcf",
+          "voesx": "https://voe.sx/e/ho7liaicq0su",
+          "vidhide": "https://vidhidepro.com/v/qv7i9c3ef1c9"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/4deki6sux96z",
+          "voesx": "https://voe.sx/e/vufbcxv5pb6d",
+          "vidhide": "https://vidhidepro.com/v/lkwg4ek85ya8"
+        }
+      }
+    },
+    {
+      "id": "p_1752312",
+      "tmdb_id": 1752312,
+      "nombre": "Papi Ricky: La Película",
+      "poster": "https://image.tmdb.org/t/p/w500/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/u6wydp157q3b",
+          "voesx": "https://voe.sx/e/ph7tppgutuzz",
+          "vidhide": "https://vidhidepro.com/v/s5p3mbb44ny0"
+        }
+      }
+    },
+    {
+      "id": "p_858035",
+      "tmdb_id": 858035,
+      "nombre": "Klara y el Sol",
+      "poster": "https://image.tmdb.org/t/p/w500/5bHjVU75RMNAbfYRZidFwuDjniD.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/wez8iija5p0x",
+          "voesx": "https://voe.sx/e/fja8owdfreut",
+          "vidhide": "https://vidhidepro.com/v/sv0v6tdkb7u0"
+        }
+      }
+    },
+    {
+      "id": "p_1015154",
+      "tmdb_id": 1015154,
+      "nombre": "Luciérnagas en El Mozote",
+      "poster": "https://image.tmdb.org/t/p/w500/cNFOpANYLJpq0q4rdKs0m2Zwdiu.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/v62r2b2l13y7",
+          "voesx": "https://voe.sx/e/0ieyaedaaz9p",
+          "vidhide": "https://vidhidepro.com/v/hf65d1ef1zfu"
+        }
+      }
+    },
+    {
+      "id": "p_1667189",
+      "tmdb_id": 1667189,
+      "nombre": "Jackrabbit Biker",
+      "poster": "",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/f5e8mb93v5f6",
+          "voesx": "https://voe.sx/e/1atojgfz6yc2",
+          "vidhide": "https://vidhidepro.com/v/0d2l1szpc0vd"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/nn63lda86j85",
+          "voesx": "https://voe.sx/e/a06hluqkihmv",
+          "vidhide": "https://vidhidepro.com/v/k6c8euq7ei37"
+        }
+      }
+    },
+    {
+      "id": "p_1480613",
+      "tmdb_id": 1480613,
+      "nombre": "La silla",
+      "poster": "https://image.tmdb.org/t/p/w500/uC0yE8mjaEVFojev1taQiGDQTat.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español": {
+          "streamwish": "https://streamwish.to/e/7ukg37v5qe5j",
+          "voesx": "https://voe.sx/e/vm3rxwexqcvq",
+          "vidhide": "https://vidhidepro.com/v/05pfkjcul02n"
+        }
+      }
+    },
+    {
+      "id": "p_1422041",
+      "tmdb_id": 1422041,
+      "nombre": "La bola negra",
+      "poster": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español": {
+          "streamwish": "https://streamwish.to/e/ab3b290ih9c1",
+          "voesx": "https://voe.sx/e/r0dmwggqgmmp",
+          "vidhide": "https://vidhidepro.com/v/n7762jnus5v0"
+        }
+      }
+    },
     {
       "id": "p_1509717",
       "tmdb_id": 1509717,
@@ -1205,9 +1422,12 @@
       "tmdb_id": 1198654,
       "nombre": "Bad Apples",
       "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fvyhj4pyxyak.html"
+        },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/7qkcfde34jp1",
           "voesx": "https://voe.sx/e/bnrowaufa1em",
@@ -19453,9 +19673,12 @@
       "tmdb_id": 864,
       "nombre": "Elegidos para el triunfo",
       "poster": "https://image.tmdb.org/t/p/w500/wYnKZnRt43EYy10e5lgqA8ZMu9.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-obc9foaxb1ul.html"
+        },
         "español": {
           "streamwish": "https://streamwish.to/e/te86c475r87e"
         }
@@ -101111,12 +101334,15 @@
       "tmdb_id": 99861,
       "nombre": "Vengadores: La era de Ultrón",
       "poster": "https://image.tmdb.org/t/p/w500/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/ieyekimswhck",
           "filelions": "https://filelions.to/v/9h4wefyvm8ci"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ynwa712chuak.html"
         }
       }
     },
@@ -153720,7 +153946,7 @@
       "tmdb_id": 5375,
       "nombre": "Fred Claus, el hermano gamberro de Santa Claus",
       "poster": "https://image.tmdb.org/t/p/w500/ipkhAexxfaTXEInrNzlhIeuel8p.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "comedia",
@@ -153729,6 +153955,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-6768161sznv9.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mldnr51jg3go.html"
         }
       }
     },
@@ -173685,299 +173914,6 @@
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/pj4qz1n8d59f"
-        }
-      }
-    },
-    {
-      "id": "p_537915",
-      "tmdb_id": 537915,
-      "nombre": "After: Aquí empieza todo",
-      "poster": "https://image.tmdb.org/t/p/w500/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg",
-      "calidad": "4K",
-      "generos": [
-        "romance",
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-jafhz9fyu6j3.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-0n5kee5g44fu.html"
-        }
-      }
-    },
-    {
-      "id": "p_593035",
-      "tmdb_id": 593035,
-      "nombre": "Alien Warfare",
-      "poster": "https://image.tmdb.org/t/p/w500/nuUpcP9zOjiVZUveQEBFCOlIG2I.jpg",
-      "calidad": "HD",
-      "generos": [
-        "accion",
-        "ficcion",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ipocj73t83fw.html"
-        }
-      }
-    },
-    {
-      "id": "p_509635",
-      "tmdb_id": 509635,
-      "nombre": "Alone (Sola)",
-      "poster": "https://image.tmdb.org/t/p/w500/xhjJAI7WGM2adVwc7T5e8TqeyDX.jpg",
-      "calidad": "4K",
-      "generos": [
-        "terror",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-7iaifsieck59.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-yae9o5pltvaw.html"
-        }
-      }
-    },
-    {
-      "id": "p_437032",
-      "tmdb_id": 437032,
-      "nombre": "Ana de día",
-      "poster": "https://image.tmdb.org/t/p/w500/3XsKRqMZJI2GgnYpsfjJXrpiNXy.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-0x4o0m84ebjl.html"
-        }
-      }
-    },
-    {
-      "id": "p_510689",
-      "tmdb_id": 510689,
-      "nombre": "Among the Shadows",
-      "poster": "https://image.tmdb.org/t/p/w500/x4o7Xvn1cmh77uCaZC4hvRRZx7B.jpg",
-      "calidad": "4K",
-      "generos": [
-        "crimen",
-        "terror",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-o50x6hcrs878.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-yrhrglbj82d7.html"
-        }
-      }
-    },
-    {
-      "id": "p_392344",
-      "tmdb_id": 392344,
-      "nombre": "Mirar de nuevo",
-      "poster": "https://image.tmdb.org/t/p/w500/7Bb1vXdtv2BjV6mX8jignRTqG5.jpg",
-      "calidad": "HD",
-      "generos": [
-        "romance",
-        "drama",
-        "accion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-srcvh55oe2oq.html"
-        }
-      }
-    },
-    {
-      "id": "p_437004",
-      "tmdb_id": 437004,
-      "nombre": "Atrás hay relámpagos",
-      "poster": "https://image.tmdb.org/t/p/w500/4Xp6sffDZIKs73a5HjFeTRywSNy.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-zuhpyody743h.html"
-        }
-      }
-    },
-    {
-      "id": "p_370235",
-      "tmdb_id": 370235,
-      "nombre": "Badlapur Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/7rhYbJOe2bDMG6OuiFvtZWCxnKQ.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-xm6pghvowu8v.html"
-        }
-      }
-    },
-    {
-      "id": "p_495659",
-      "tmdb_id": 495659,
-      "nombre": "Bayoneta",
-      "poster": "https://image.tmdb.org/t/p/w500/pZafHTlESLFAClWxIPucStKreNI.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-5lckhe6jy8h1.html"
-        }
-      }
-    },
-    {
-      "id": "p_1139786",
-      "tmdb_id": 1139786,
-      "nombre": "Beach House",
-      "poster": "https://image.tmdb.org/t/p/w500/wh50j6bJMx9shRFFKfXq4lbQUmV.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-rymunmkc4268.html"
-        }
-      }
-    },
-    {
-      "id": "p_536768",
-      "tmdb_id": 536768,
-      "nombre": "Beautifully Broken",
-      "poster": "https://image.tmdb.org/t/p/w500/6wOTte8H255f7VIXDjwQt68F5iN.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-u1x23fgqv0qn.html"
-        }
-      }
-    },
-    {
-      "id": "p_446164",
-      "tmdb_id": 446164,
-      "nombre": "Before we Vanish",
-      "poster": "https://image.tmdb.org/t/p/w500/9DDNvFbiqUbnotxQVqYGOPKjM3H.jpg",
-      "calidad": "HD",
-      "generos": [
-        "ficcion",
-        "drama",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-e0xuhhow16kf.html"
-        }
-      }
-    },
-    {
-      "id": "p_401686",
-      "tmdb_id": 401686,
-      "nombre": "Berlin, I Love You",
-      "poster": "https://image.tmdb.org/t/p/w500/dz3HP16JStMbRNJP30t9kR5Uoti.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-v7xajype9k9w.html"
-        }
-      }
-    },
-    {
-      "id": "p_20215",
-      "tmdb_id": 20215,
-      "nombre": "Habitación 333",
-      "poster": "https://image.tmdb.org/t/p/w500/9VyMAPsjUIeLf71J2OG5V8DO7Jj.jpg",
-      "calidad": "HD",
-      "generos": [
-        "terror"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-bq9k6gncjcej.html"
-        }
-      }
-    },
-    {
-      "id": "p_421601",
-      "tmdb_id": 421601,
-      "nombre": "Bornless Ones",
-      "poster": "https://image.tmdb.org/t/p/w500/ega1G9rdcDsuDQeonGaCpm8FR3S.jpg",
-      "calidad": "HD",
-      "generos": [
-        "terror",
-        "misterio",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-642ttro0e3ul.html"
-        }
-      }
-    },
-    {
-      "id": "p_532649",
-      "tmdb_id": 532649,
-      "nombre": "Book of Monsters",
-      "poster": "https://image.tmdb.org/t/p/w500/bl9AX7lOgZuqqdV4dIjW2UxXiHH.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "terror",
-        "accion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-gcr4j660hp7c.html"
-        }
-      }
-    },
-    {
-      "id": "p_514234",
-      "tmdb_id": 514234,
-      "nombre": "Bruno Motoneta",
-      "poster": "https://image.tmdb.org/t/p/w500/iZpLOuW70XxMsXw0JETgwCdUjm5.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-atug6yesos4y.html"
-        }
-      }
-    },
-    {
-      "id": "p_503755",
-      "tmdb_id": 503755,
-      "nombre": "Brothers' Nest",
-      "poster": "https://image.tmdb.org/t/p/w500/b2k7IdRHHuD2HZPZMWsZzRFUHoA.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "crimen"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-vc6q2ei9zxc2.html"
         }
       }
     }

@@ -1,10 +1,456 @@
 {
   "type": "series",
-  "total": 3723,
-  "version": 108,
+  "total": 3733,
+  "version": 109,
   "chunk": 4,
   "chunks_total": 4,
   "items": [
+    {
+      "id": "s_346",
+      "tmdb_id": 346,
+      "nombre": "Jake Long: Dragón Americano",
+      "poster": "https://image.tmdb.org/t/p/w500/dFiwPC2Q1gWLDecMCEm1FHkdzmd.jpg",
+      "categorias": [
+        "animacion",
+        "serie",
+        "comedia",
+        "familia",
+        "accion"
+      ],
+      "temporadas": {
+        "2": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/9le56n8hdgfu",
+              "voesx": "https://voe.sx/e/w2u2ppa6u5ti"
+            }
+          },
+          "23": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/biltf72jh5r7",
+              "voesx": "https://voe.sx/e/6zxtdffnravo"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/2gkut466k98b"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/jl7vazkontq4",
+              "voesx": "https://voe.sx/e/qtjkufu372te"
+            }
+          },
+          "19": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/57kiegqv55dw",
+              "voesx": "https://voe.sx/e/wgjjidestyxa"
+            }
+          },
+          "25": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/mskyc9jijkvw"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/vmfhm2knfika"
+            }
+          },
+          "27": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/tpnm5p507m6e",
+              "voesx": "https://voe.sx/e/2uhe95elaaxm"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/d95hrns2755p"
+            }
+          },
+          "20": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/oizoku4dyvwu",
+              "voesx": "https://voe.sx/e/bbpqpfxeg88h"
+            }
+          },
+          "12": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/zohy80htskg2"
+            }
+          },
+          "31": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/q52d4fin9xym",
+              "voesx": "https://voe.sx/e/fufpfawvwrof"
+            }
+          },
+          "30": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/7jppsjs4ci6w",
+              "voesx": "https://voe.sx/e/93czyrqzzane"
+            }
+          },
+          "29": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/wjxfdyn0pgvv",
+              "voesx": "https://voe.sx/e/tcay06c3eadk"
+            }
+          },
+          "24": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/lszlsrwihduj",
+              "voesx": "https://voe.sx/e/rpjeqpfsozvo"
+            }
+          },
+          "18": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/2r6sh4nqmso7"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/rilm0xa8ltyr"
+            }
+          },
+          "22": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/haxdfguuy9to"
+            }
+          },
+          "26": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/0unmcp9loeqd",
+              "voesx": "https://voe.sx/e/hargr4bywjsq"
+            }
+          },
+          "17": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/hsjgqw4cqnat"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ktj9az1sksgw",
+              "voesx": "https://voe.sx/e/4yfbkeupo4vm"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/i7vya3f567hl",
+              "voesx": "https://voe.sx/e/bamzmhprnas5"
+            }
+          },
+          "11": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/iya5459a6bzn",
+              "voesx": "https://voe.sx/e/ydeybzs6zs60"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/s8nrjqbadbce",
+              "voesx": "https://voe.sx/e/svzdvyh4hjqw"
+            }
+          },
+          "21": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ttc2sn6wemhe"
+            }
+          },
+          "14": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/tqput7o0u0oc"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/vdboxmdwm42u"
+            }
+          },
+          "15": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/p1zipc9osc44"
+            }
+          },
+          "13": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/81ynkyzmfly4"
+            }
+          },
+          "28": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ghvgl6vuzaje"
+            }
+          },
+          "16": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ai0dsskayda0"
+            }
+          }
+        },
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/6rv5ol4lckzu"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/snyuqjjbazuz",
+              "voesx": "https://voe.sx/e/iqx6z5s9o9mu"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/8z64ctalzcxp",
+              "voesx": "https://voe.sx/e/4e3y12nu0izv"
+            }
+          },
+          "19": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/gq0brcuitone"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ubo8nb4j07j2"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/tst245ul8q2r"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/3d5q662767k9",
+              "voesx": "https://voe.sx/e/esdspdr5la7s"
+            }
+          },
+          "11": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/c7xp8jet7equ"
+            }
+          },
+          "17": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/hn1k7egqztun",
+              "voesx": "https://voe.sx/e/9pbkqcabrwra"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/3k5dpol2b35y"
+            }
+          },
+          "21": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/tmppzardmptx",
+              "voesx": "https://voe.sx/e/xji2zsq3vpch"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/2jy75mfg5dno"
+            }
+          },
+          "20": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/telo6wr96imq"
+            }
+          },
+          "12": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/mzutt3hbxmqq"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/aoei3ebw3kp4"
+            }
+          },
+          "14": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/7pvjb65cyapa"
+            }
+          },
+          "15": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/7ngbd9nee1ww",
+              "voesx": "https://voe.sx/e/l1res17ykrya"
+            }
+          },
+          "18": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/jyqljtilbuym",
+              "voesx": "https://voe.sx/e/ovd1snnrwz8h"
+            }
+          },
+          "13": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/dfgvfuezbydg"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/el3nu0kq494d"
+            }
+          },
+          "16": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/mwrdeulj7uyr"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_93221",
+      "tmdb_id": 93221,
+      "nombre": "The Great North",
+      "poster": "https://image.tmdb.org/t/p/w500/7Ww56dPIuXn4NZGrJJPdoafLHGu.jpg",
+      "categorias": [
+        "animacion",
+        "serie",
+        "comedia"
+      ],
+      "temporadas": {
+        "2": {
+          "4": "https://fastream.to/embed-zighqrcug9vi.html",
+          "8": "https://fastream.to/embed-cb8wpdw8tdf8.html",
+          "2": "https://fastream.to/embed-28l1iru7n9uv.html",
+          "9": "https://fastream.to/embed-apzzaiiag7a7.html",
+          "1": "https://fastream.to/embed-a5u4t5lpvyf8.html",
+          "6": "https://fastream.to/embed-mh5lqok0cij0.html",
+          "10": "https://fastream.to/embed-42auy8ec8w17.html",
+          "5": "https://fastream.to/embed-ilygzr7o85o2.html",
+          "11": "https://fastream.to/embed-d4cy7d6zepiw.html",
+          "12": "https://fastream.to/embed-d4cy7d6zepiw.html",
+          "7": "https://fastream.to/embed-qbnyaa7zo5jx.html",
+          "13": "https://fastream.to/embed-lfzva8vtlhkj.html",
+          "3": "https://fastream.to/embed-m35v9emgl01c.html"
+        },
+        "1": {
+          "4": "https://fastream.to/embed-eu0hj4psjguz.html",
+          "8": "https://fastream.to/embed-wq0kub5lee3g.html",
+          "2": "https://fastream.to/embed-1f7c7ypo0wjm.html",
+          "9": "https://fastream.to/embed-7tab3sg4jlm7.html",
+          "1": "https://fastream.to/embed-ih49eayuxcuf.html",
+          "11": "https://fastream.to/embed-6wn11d3l44fk.html",
+          "5": "https://fastream.to/embed-a8hqkfzeohjw.html",
+          "10": "https://fastream.to/embed-su7e1vewosy8.html",
+          "6": "https://fastream.to/embed-yuisrda6dmxa.html",
+          "7": "https://fastream.to/embed-ybi6hthw8fd7.html",
+          "3": "https://fastream.to/embed-z945t2bsz464.html"
+        },
+        "3": {
+          "4": "https://fastream.to/embed-f5hc0qejz03h.html",
+          "2": "https://fastream.to/embed-sfjgk86nj4ft.html",
+          "9": "https://fastream.to/embed-fd6u8qytvqh0.html",
+          "19": "https://fastream.to/embed-8ea6nsgq4hvb.html",
+          "6": "https://fastream.to/embed-e33qqf6swhb5.html",
+          "5": "https://fastream.to/embed-5etj903dhfi3.html",
+          "10": "https://fastream.to/embed-74cl8izxcmqh.html",
+          "11": "https://fastream.to/embed-qyp7ga1e0z18.html",
+          "17": "https://fastream.to/embed-e4zrv5ntf5vj.html",
+          "7": "https://fastream.to/embed-19dp6pmfe8lk.html",
+          "21": "https://fastream.to/embed-ywpquk19abhs.html",
+          "8": "https://fastream.to/embed-wq0kub5lee3g.html",
+          "20": "https://fastream.to/embed-5jgua59d54z5.html",
+          "12": "https://fastream.to/embed-wqigsdfzlak8.html",
+          "1": "https://fastream.to/embed-af05u78ayh5r.html",
+          "14": "https://fastream.to/embed-igbf6mdchyio.html",
+          "15": "https://fastream.to/embed-23d7qrpl8yeh.html",
+          "18": "https://fastream.to/embed-wcuvt5zscktu.html",
+          "13": "https://fastream.to/embed-ea3p5efnyf1z.html",
+          "16": "https://fastream.to/embed-hi8u1v6ciw0y.html"
+        }
+      }
+    },
+    {
+      "id": "s_70828",
+      "tmdb_id": 70828,
+      "nombre": "Sobreviviendo a Escobar, Alias J.J.",
+      "poster": "https://image.tmdb.org/t/p/w500/97xpke32aNz0XSl6OHLilu9GK63.jpg",
+      "categorias": [
+        "crimen",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "23": "https://fastream.to/embed-91adxusl9zmo.html",
+          "62": "https://fastream.to/embed-ham8tmt1vfaf.html",
+          "54": "https://fastream.to/embed-zun3jiql3k2p.html",
+          "2": "https://fastream.to/embed-a4y8924772dk.html",
+          "25": "https://fastream.to/embed-8q8xtbk8m4mp.html",
+          "10": "https://fastream.to/embed-maftf4ijtocb.html",
+          "47": "https://fastream.to/embed-hf20dl1mcbvk.html",
+          "38": "https://fastream.to/embed-emjc76zqf88s.html",
+          "36": "https://fastream.to/embed-cvw3tl0o6w5m.html",
+          "30": "https://fastream.to/embed-tqb2ahoohg7d.html",
+          "67": "https://fastream.to/embed-d2bhinwoo8m8.html",
+          "22": "https://fastream.to/embed-cvi4rd98jsb9.html",
+          "26": "https://fastream.to/embed-59t5cftb68ja.html",
+          "33": "https://fastream.to/embed-14ehk9u0agdp.html",
+          "53": "https://fastream.to/embed-72rxvsi95uk8.html",
+          "6": "https://fastream.to/embed-icazrxrkygay.html",
+          "41": "https://fastream.to/embed-vjgi4cet7ihk.html",
+          "55": "https://fastream.to/embed-f7ue7lx3fuxy.html",
+          "7": "https://fastream.to/embed-b1hksw3ys2u6.html",
+          "59": "https://fastream.to/embed-cdos3dziv1xf.html",
+          "42": "https://fastream.to/embed-mdtko12yh7h2.html",
+          "51": "https://fastream.to/embed-vimxkxjp3tfk.html",
+          "14": "https://fastream.to/embed-ivjo7x1khenu.html",
+          "15": "https://fastream.to/embed-szz7h4bcxavz.html",
+          "48": "https://fastream.to/embed-6hebthhrzdpz.html",
+          "13": "https://fastream.to/embed-ad7ix9cd8hls.html",
+          "28": "https://fastream.to/embed-s61zyezha6rs.html",
+          "9": "https://fastream.to/embed-zmb24820bhno.html",
+          "68": "https://fastream.to/embed-robpbtrzyl36.html",
+          "43": "https://fastream.to/embed-3be98vqg51ny.html",
+          "19": "https://fastream.to/embed-d57a5y39jmiw.html",
+          "65": "https://fastream.to/embed-rttb9ts1fu04.html",
+          "27": "https://fastream.to/embed-w3yaz7e96erl.html",
+          "63": "https://fastream.to/embed-dfeptl5banxp.html",
+          "8": "https://fastream.to/embed-u4ogu8vda6mg.html",
+          "20": "https://fastream.to/embed-hh6jp6vq2n9o.html",
+          "37": "https://fastream.to/embed-bzpkvsazfria.html",
+          "31": "https://fastream.to/embed-hbsjd8o5jhe0.html",
+          "49": "https://fastream.to/embed-szkjt7f28km4.html",
+          "44": "https://fastream.to/embed-g5ftr6bdrs1e.html",
+          "29": "https://fastream.to/embed-3ibr2vbr2vgv.html",
+          "24": "https://fastream.to/embed-lhuq0auklrr3.html",
+          "18": "https://fastream.to/embed-51hu1lujlrzu.html",
+          "56": "https://fastream.to/embed-aeb8pratau7f.html",
+          "12": "https://fastream.to/embed-0szeryz9lmjn.html",
+          "35": "https://fastream.to/embed-4ualawdeedee.html",
+          "66": "https://fastream.to/embed-6jvaa464e176.html",
+          "3": "https://fastream.to/embed-957blxnefov0.html",
+          "39": "https://fastream.to/embed-kshfguo768h2.html",
+          "50": "https://fastream.to/embed-e6pl8whg4uwm.html",
+          "17": "https://fastream.to/embed-seabjf3urm8n.html",
+          "11": "https://fastream.to/embed-mhcwg6kzww56.html",
+          "5": "https://fastream.to/embed-vbn30yplfv0e.html",
+          "46": "https://fastream.to/embed-uiuet7iypelb.html",
+          "58": "https://fastream.to/embed-vhu94k3zr68x.html",
+          "21": "https://fastream.to/embed-3ig9l0ssio7a.html",
+          "34": "https://fastream.to/embed-nza6qk6g9grj.html",
+          "69": "https://fastream.to/embed-a1p8a154lv31.html",
+          "40": "https://fastream.to/embed-yc7zwwtzehky.html",
+          "64": "https://fastream.to/embed-8vew6px8xmca.html",
+          "32": "https://fastream.to/embed-z97z4ru0bx8v.html",
+          "60": "https://fastream.to/embed-02le4kq9tgyr.html",
+          "57": "https://fastream.to/embed-j09v5m2arsib.html",
+          "52": "https://fastream.to/embed-l1eh6v716kr4.html",
+          "45": "https://fastream.to/embed-g5wsdeaxgjbn.html",
+          "61": "https://fastream.to/embed-kl0qritsjwkb.html",
+          "16": "https://fastream.to/embed-1yqdex798rh7.html"
+        }
+      }
+    },
     {
       "id": "s_60625",
       "tmdb_id": 60625,
