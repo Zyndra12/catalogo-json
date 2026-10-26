@@ -1,10 +1,228 @@
 {
   "type": "peliculas",
-  "total": 17719,
-  "version": 109,
+  "total": 17727,
+  "version": 110,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_583046",
+      "tmdb_id": 583046,
+      "nombre": "1st Summoning",
+      "poster": "https://image.tmdb.org/t/p/w500/2XX4E8zK1l0RXgurixcCP3gxRTr.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2a39wat3ukh6.html"
+        }
+      }
+    },
+    {
+      "id": "p_511443",
+      "tmdb_id": 511443,
+      "nombre": "Una casa en las afueras",
+      "poster": "https://image.tmdb.org/t/p/w500/9cl7FYBQyaiBzw5lRGmLC23RYFe.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-zusrcqjwkrww.html"
+        }
+      }
+    },
+    {
+      "id": "p_672686",
+      "tmdb_id": 672686,
+      "nombre": "La distancia que nos une",
+      "poster": "https://image.tmdb.org/t/p/w500/88ff7dL6D8gHibd5b3Lc5VcPg35.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-cq574qmcjc9m.html"
+        }
+      }
+    },
+    {
+      "id": "p_717694",
+      "tmdb_id": 717694,
+      "nombre": "El informe Auschwitz",
+      "poster": "https://image.tmdb.org/t/p/w500/rTDEDVP6g2H7dC216AbxohDPCX9.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-w6u4ujqyw3ze.html"
+        }
+      }
+    },
+    {
+      "id": "p_716326",
+      "tmdb_id": 716326,
+      "nombre": "30 Rock: A One-Time Special",
+      "poster": "https://image.tmdb.org/t/p/w500/1QteIDPXZeM6xQZPDfaqbLwfv8P.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fh1sn8vd94jk.html"
+        }
+      }
+    },
+    {
+      "id": "p_609181",
+      "tmdb_id": 609181,
+      "nombre": "Brazo de oro",
+      "poster": "https://image.tmdb.org/t/p/w500/5UoVenWeIg5TccxY6LLjSNka8xb.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-z7yr6swltp73.html"
+        }
+      }
+    },
+    {
+      "id": "p_505914",
+      "tmdb_id": 505914,
+      "nombre": "A.I. Rising",
+      "poster": "https://image.tmdb.org/t/p/w500/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-f072lolwtydy.html"
+        }
+      }
+    },
+    {
+      "id": "p_440397",
+      "tmdb_id": 440397,
+      "nombre": "A Demon Within",
+      "poster": "https://image.tmdb.org/t/p/w500/owPn847icCFSQFBPqM2hgamEUsI.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-imq903olwgti.html"
+        }
+      }
+    },
+    {
+      "id": "p_467917",
+      "tmdb_id": 467917,
+      "nombre": "Jake",
+      "poster": "https://image.tmdb.org/t/p/w500/vsSfsvVgNdE5VIelvNqryG6y1kr.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-mxiwang5uvxs.html"
+        }
+      }
+    },
+    {
+      "id": "p_353575",
+      "tmdb_id": 353575,
+      "nombre": "A la sombra de Kennedy",
+      "poster": "https://image.tmdb.org/t/p/w500/4qZUrXT4Dd2oSM1WJM3fpa76gRL.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-yi0f9v3sy71t.html"
+        }
+      }
+    },
+    {
+      "id": "p_537526",
+      "tmdb_id": 537526,
+      "nombre": "Una tierra imaginada",
+      "poster": "https://image.tmdb.org/t/p/w500/owMb6Gq5X0SNw5xnrEaV7GennJt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "misterio",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-3bytx6njdmgw.html"
+        }
+      }
+    },
+    {
+      "id": "p_586333",
+      "tmdb_id": 586333,
+      "nombre": "¿A quién te llevarías a una isla desierta?",
+      "poster": "https://image.tmdb.org/t/p/w500/8hZE44NL6Tz9ZSxWivEtP429UKU.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-020habnv6a6h.html"
+        }
+      }
+    },
+    {
+      "id": "p_435107",
+      "tmdb_id": 435107,
+      "nombre": "A Royal Winter",
+      "poster": "https://image.tmdb.org/t/p/w500/lxeJQe4lcW8AzDrRjzixOrlmihv.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/81ir4ht0e5so",
+          "voesx": "https://voe.sx/e/1lsfrzfz4thi"
+        }
+      }
+    },
+    {
+      "id": "p_551535",
+      "tmdb_id": 551535,
+      "nombre": "Above Ground",
+      "poster": "https://image.tmdb.org/t/p/w500/amqZi7wVcC2q8qAqezfMN9Bu2cw.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/ps7w799em8dn"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/pj4qz1n8d59f"
+        }
+      }
+    },
     {
       "id": "p_537915",
       "tmdb_id": 537915,

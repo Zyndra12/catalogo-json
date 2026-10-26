@@ -1,10 +1,199 @@
 {
   "type": "series",
-  "total": 3733,
-  "version": 109,
+  "total": 3736,
+  "version": 110,
   "chunk": 2,
   "chunks_total": 4,
   "items": [
+    {
+      "id": "s_314402",
+      "tmdb_id": 314402,
+      "nombre": "พี่ฟากชอบเธอมู่",
+      "poster": "https://image.tmdb.org/t/p/w500/nhhfvJRIXC5a7d5eOZOhu1vrTWG.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/87j3u2kgrj6j",
+              "wolfstream": "https://wolfstream.tv/e/ctjoart4sc37"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/s6uz8czp716j",
+              "wolfstream": "https://wolfstream.tv/e/n59ne9bpjd7e"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/njtby75n0sf9",
+              "wolfstream": "https://wolfstream.tv/e/h0sp8iq93jfk"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/aleksupzbijd",
+              "wolfstream": "https://wolfstream.tv/e/u8gizx1r971n"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/0zqlmgcpy2cq",
+              "wolfstream": "https://wolfstream.tv/e/so6ic3efxers"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/l99v08appm3h",
+              "wolfstream": "https://wolfstream.tv/e/4ligcprv63gh"
+            }
+          },
+          "11": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/epyh9q3izpap",
+              "wolfstream": "https://wolfstream.tv/e/8izj1xb3tmjx"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/5onxr647af5c",
+              "wolfstream": "https://wolfstream.tv/e/yy3b45q4oke5"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ixlqa1yt3ioc",
+              "wolfstream": "https://wolfstream.tv/e/tsncu5gdlhm9"
+            }
+          },
+          "14": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/g8cbyz6rxbhu",
+              "wolfstream": "https://wolfstream.tv/e/z3wzer3snegs"
+            }
+          },
+          "12": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/rqam6d1geoog",
+              "wolfstream": "https://wolfstream.tv/e/ucy1zzqz4btv"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1rpbu99jjm4y",
+              "wolfstream": "https://wolfstream.tv/e/1q22yy3pnpzs"
+            }
+          },
+          "15": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/queztkb9ll4x",
+              "wolfstream": "https://wolfstream.tv/e/g9bha1nu0061"
+            }
+          },
+          "13": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/jzixjv1693a4",
+              "wolfstream": "https://wolfstream.tv/e/s1evjhsilkud"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ns8rst0hi6w9",
+              "wolfstream": "https://wolfstream.tv/e/7gs1z4j78m88"
+            }
+          },
+          "16": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/f6czib25bqfx",
+              "wolfstream": "https://wolfstream.tv/e/o67d01x3qrip"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_225152",
+      "tmdb_id": 225152,
+      "nombre": "Barracuda Queens",
+      "poster": "https://image.tmdb.org/t/p/w500/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+      "categorias": [
+        "serie",
+        "drama",
+        "crimen"
+      ],
+      "temporadas": {
+        "2": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/kfa89d47vqvb"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/utfrc5wr9m7j",
+              "vidhide": "https://vidhidepro.com/v/kfn7ugq5c3js"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/d8sdqahuti35"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/keh3g41rh6h1",
+              "vidhide": "https://vidhidepro.com/v/vt0sl26inyvl"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/o3m3m58xyv5a"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/j3k5uidgt7w6"
+            }
+          }
+        },
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/owshuoun0h29"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/h810hs0jpxhm"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/c60vafi0dgal"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/fmeiqug2sgaj"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/71qbcs0nefxz"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/k06bhfys2d2o"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_44163",
       "tmdb_id": 44163,
@@ -150332,258 +150521,6 @@
           "16": [
             "https://vimeos.net/embed-yhvwq157svot.html",
             "https://vimeos.net/embed-58z81cw7xih7.html"
-          ]
-        }
-      }
-    },
-    {
-      "id": "s_69282",
-      "tmdb_id": 69282,
-      "nombre": "Demi-chan wa Kataritai",
-      "poster": "https://image.tmdb.org/t/p/w500/eupiPrergE2WXxkRrIV3XAc8h0q.jpg",
-      "categorias": [
-        "ficcion",
-        "comedia",
-        "animacion",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/rs4mvbxsg0j0",
-              "filelions": "https://filelions.to/v/qo8z9btaa23j",
-              "streamtape": "https://streamtape.com/e/2BoxjQOxdOfZXlV",
-              "voesx": "https://voe.sx/e/7l0qonltroqg",
-              "wolfstream": "https://wolfstream.tv/e/ek4hu8a4kyj9"
-            }
-          },
-          "8": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/0jpuw3yt7p1y",
-              "filelions": "https://filelions.to/v/b2v6wduebmqs",
-              "streamtape": "https://streamtape.com/e/bqyWooeWbecdzR",
-              "voesx": "https://voe.sx/e/45ucjjd60t9x",
-              "wolfstream": "https://wolfstream.tv/e/fkpd0ub7brep"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ck613fnm5om5",
-              "filelions": "https://filelions.to/v/mmyqbbfq81mw",
-              "streamtape": "https://streamtape.com/e/mv8baZzVo4HQDK",
-              "voesx": "https://voe.sx/e/qou144dchox5",
-              "wolfstream": "https://wolfstream.tv/e/vzxl9c4thmoq"
-            }
-          },
-          "12": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/39gwvcud23i3",
-              "filelions": "https://filelions.to/v/ie6od6c73kem",
-              "streamtape": "https://streamtape.com/e/1dmoqjL7QQSe49w",
-              "voesx": "https://voe.sx/e/b2pbotfksu0e",
-              "wolfstream": "https://wolfstream.tv/e/vbewptpsta4q"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/r2em3gd63dbk",
-              "filelions": "https://filelions.to/v/08cuxt1w56z8",
-              "streamtape": "https://streamtape.com/e/M9rjRRWQB8cBzG",
-              "voesx": "https://voe.sx/e/7r5fqdndrjq6",
-              "wolfstream": "https://wolfstream.tv/e/g8vbjif1am5b"
-            }
-          },
-          "11": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/apv53w2heuxt",
-              "filelions": "https://filelions.to/v/0uajtfuusinb",
-              "streamtape": "https://streamtape.com/e/oAAvDxqv24tJQDv",
-              "voesx": "https://voe.sx/e/kd8wzjib3tap",
-              "wolfstream": "https://wolfstream.tv/e/yw1qffv0ez6z"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/fle0ifisb478",
-              "filelions": "https://filelions.to/v/up57mjo9wlxy",
-              "streamtape": "https://streamtape.com/e/WX0g8VoylbCbJ7w",
-              "voesx": "https://voe.sx/e/69z6zokwxu5k",
-              "wolfstream": "https://wolfstream.tv/e/7qykeqobxxac"
-            }
-          },
-          "6": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/zhzlkzgn5gid",
-              "filelions": "https://filelions.to/v/2q8ljzjbjuju",
-              "streamtape": "https://streamtape.com/e/jOpJW6jKMGCJKX",
-              "voesx": "https://voe.sx/e/xbzy5rd2wrlk",
-              "wolfstream": "https://wolfstream.tv/e/v5up9qh7bddh"
-            }
-          },
-          "9": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/i9bf96r3sjdd",
-              "filelions": "https://filelions.to/v/ep1qonusoqku",
-              "streamtape": "https://streamtape.com/e/bRmpYXwkGAHPvXm",
-              "voesx": "https://voe.sx/e/ndzq0b0ftkrc",
-              "wolfstream": "https://wolfstream.tv/e/zrfmyafdkg1h"
-            }
-          },
-          "10": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/uvze1hnppvxq",
-              "filelions": "https://filelions.to/v/bn4l092zin3h",
-              "streamtape": "https://streamtape.com/e/pVK7QgvWYKirY8b",
-              "voesx": "https://voe.sx/e/gb8mb3vepe4t",
-              "wolfstream": "https://wolfstream.tv/e/vvokpnb1kj0f"
-            }
-          },
-          "7": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/snzbikvc8yq7",
-              "filelions": "https://filelions.to/v/nslgzh0rik7a",
-              "streamtape": "https://streamtape.com/e/BLbdLl3RVLCyz1v",
-              "voesx": "https://voe.sx/e/la2am4cz1yrd",
-              "wolfstream": "https://wolfstream.tv/e/wak5uebgttkz"
-            }
-          },
-          "13": "https://vimeos.net/embed-lxh7fhtie0bm.html",
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/fl9xxeyu5akp",
-              "filelions": "https://filelions.to/v/0vgryhna302n",
-              "streamtape": "https://streamtape.com/e/9pKVx9ZLPdcaxve",
-              "voesx": "https://voe.sx/e/e2npd1flvleo",
-              "wolfstream": "https://wolfstream.tv/e/hn6rzsbo15df"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_80560",
-      "tmdb_id": 80560,
-      "nombre": "Sirius the Jaeger",
-      "poster": "https://image.tmdb.org/t/p/w500/z4Eriu63E6U4JPWLCUpn3QbavaQ.jpg",
-      "categorias": [
-        "ficcion",
-        "animacion",
-        "accion",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": [
-            "https://vimeos.net/embed-ji5fe3p2zq0b.html",
-            "https://vimeos.net/embed-58xsijt2pld5.html"
-          ],
-          "8": [
-            "https://vimeos.net/embed-11i238tgf1ht.html",
-            "https://vimeos.net/embed-h5if8pg42pox.html"
-          ],
-          "2": [
-            "https://vimeos.net/embed-zndh00nvobxp.html",
-            "https://vimeos.net/embed-8rfdexqgcqtt.html"
-          ],
-          "9": [
-            "https://vimeos.net/embed-ql84lnxlhtc6.html",
-            "https://vimeos.net/embed-qgb897enserb.html"
-          ],
-          "1": [
-            "https://vimeos.net/embed-yf6usf40w2mj.html",
-            "https://vimeos.net/embed-w6ko5wijcz79.html"
-          ],
-          "11": [
-            "https://vimeos.net/embed-3ifdobedjx7b.html",
-            "https://vimeos.net/embed-jscx0tdtowyl.html"
-          ],
-          "10": [
-            "https://vimeos.net/embed-wz6m6wc938xo.html",
-            "https://vimeos.net/embed-afcw5f9srpki.html"
-          ],
-          "5": [
-            "https://vimeos.net/embed-1pqlu3uwnrmj.html",
-            "https://vimeos.net/embed-g7qk7woz8s9c.html"
-          ],
-          "6": [
-            "https://vimeos.net/embed-rk11is5e8mv8.html",
-            "https://vimeos.net/embed-3bp10xyrsm4l.html"
-          ],
-          "12": [
-            "https://vimeos.net/embed-tsg39et4aqvu.html",
-            "https://vimeos.net/embed-gxzd11uvas9l.html"
-          ],
-          "7": [
-            "https://vimeos.net/embed-w5s1cthpa3l3.html",
-            "https://vimeos.net/embed-62wsjj8jkh3q.html"
-          ],
-          "3": [
-            "https://vimeos.net/embed-y6nnv1mbe3ag.html",
-            "https://vimeos.net/embed-eix2chugyhp4.html"
-          ]
-        }
-      }
-    },
-    {
-      "id": "s_74096",
-      "tmdb_id": 74096,
-      "nombre": "Just Because!",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Ap7g0egqBt9JJA5qNfpxq4jN2.jpg",
-      "categorias": [
-        "drama",
-        "animacion",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": [
-            "https://vimeos.net/embed-axik9ys3kej9.html",
-            "https://vimeos.net/embed-amphwrwml4do.html"
-          ],
-          "8": [
-            "https://vimeos.net/embed-tew3mpw32spa.html",
-            "https://vimeos.net/embed-qs0exv7005tu.html"
-          ],
-          "2": [
-            "https://vimeos.net/embed-wm4r60hfy6w4.html",
-            "https://vimeos.net/embed-9rp5e41fq0xz.html"
-          ],
-          "9": [
-            "https://vimeos.net/embed-yk69shciudfv.html",
-            "https://vimeos.net/embed-2actg3rv56de.html"
-          ],
-          "1": [
-            "https://vimeos.net/embed-815e7774ixdb.html",
-            "https://vimeos.net/embed-sosm17attovu.html"
-          ],
-          "11": [
-            "https://vimeos.net/embed-gq1vw44gffg1.html",
-            "https://vimeos.net/embed-5txvpgw9o4yy.html"
-          ],
-          "10": [
-            "https://vimeos.net/embed-gysyebcsfzj0.html",
-            "https://vimeos.net/embed-5lryt2mkv7nv.html"
-          ],
-          "5": [
-            "https://vimeos.net/embed-r7bxzrya74no.html",
-            "https://vimeos.net/embed-3l1bkjx7wzsg.html"
-          ],
-          "6": [
-            "https://vimeos.net/embed-1teer0ga31lx.html",
-            "https://vimeos.net/embed-og8ks4p22ek7.html"
-          ],
-          "12": [
-            "https://vimeos.net/embed-15f1l7r0jd4s.html",
-            "https://vimeos.net/embed-vsyb32059kdn.html"
-          ],
-          "7": [
-            "https://vimeos.net/embed-wmzdktgrsvlt.html",
-            "https://vimeos.net/embed-p2k7il8wfkaz.html"
-          ],
-          "3": [
-            "https://vimeos.net/embed-a1oy3tljiy4q.html",
-            "https://vimeos.net/embed-fkshnmr2er8q.html"
           ]
         }
       }
