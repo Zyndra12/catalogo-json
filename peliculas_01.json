@@ -1,10 +1,125 @@
 {
   "type": "peliculas",
-  "total": 17727,
-  "version": 110,
+  "total": 17734,
+  "version": 111,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_1283515",
+      "tmdb_id": 1283515,
+      "nombre": "Verity. La sombra de un engaño",
+      "poster": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
+      "calidad": "HD",
+      "generos": [
+        "misterio",
+        "suspense",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://vibuxer.com/e/agycl2k7misb",
+          "voesx": "https://voe.sx/e/oj46bbko3zdl",
+          "vidhide": "https://morencius.com/embed/kdg8zwejrgbd"
+        }
+      }
+    },
+    {
+      "id": "p_1780005",
+      "tmdb_id": 1780005,
+      "nombre": "Contra el huracán",
+      "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hlpyw656ut12.html"
+        }
+      }
+    },
+    {
+      "id": "p_1226878",
+      "tmdb_id": 1226878,
+      "nombre": "Sin Dejar Rastros",
+      "poster": "https://image.tmdb.org/t/p/w500/5w4hbKWif6KM0q9jGN2O4ahhd72.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-nv1dlzwsp2vk.html"
+        }
+      }
+    },
+    {
+      "id": "p_1765072",
+      "tmdb_id": 1765072,
+      "nombre": "You Can See Everything",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/tz5v01diud8x",
+          "voesx": "https://voe.sx/e/p8bgyryl293n",
+          "vidhide": "https://vidhidepro.com/v/t3g0fdlm5m7h"
+        }
+      }
+    },
+    {
+      "id": "p_1484913",
+      "tmdb_id": 1484913,
+      "nombre": "El ases",
+      "poster": "https://image.tmdb.org/t/p/w500/2WP3AFHdceval0tsvndxENylzxu.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/a1y836htjm8y",
+          "voesx": "https://voe.sx/e/b2hy7ldhlozo",
+          "vidhide": "https://vidhidepro.com/v/l7kh541nmswk"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/sp5xz6erw04c",
+          "voesx": "https://voe.sx/e/odm42g91fzjb",
+          "vidhide": "https://vidhidepro.com/v/v74dl1geb2gp"
+        }
+      }
+    },
+    {
+      "id": "p_1482059",
+      "tmdb_id": 1482059,
+      "nombre": "El desastre del sumergible del Titanic",
+      "poster": "https://image.tmdb.org/t/p/w500/i8e4NOl9pF6ahVBkNj06jQrKCJf.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/s014gt0f4auo",
+          "voesx": "https://voe.sx/e/904h5dcy05tv",
+          "vidhide": "https://vidhidepro.com/v/e1376ieipm8q"
+        }
+      }
+    },
+    {
+      "id": "p_1474225",
+      "tmdb_id": 1474225,
+      "nombre": "Viva",
+      "poster": "https://image.tmdb.org/t/p/w500/wz7HsO4RQ5hCkW0Aavv6PoqR0Wo.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/ubd612bc85oi",
+          "voesx": "https://voe.sx/e/qjonpcrjpyck",
+          "vidhide": "https://vidhidepro.com/v/zoqqux3rpnj4"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/3uaptzparz79",
+          "voesx": "https://voe.sx/e/fvrk16jomfhd",
+          "vidhide": "https://vidhidepro.com/v/1ex1zrrc506h"
+        }
+      }
+    },
     {
       "id": "p_1551205",
       "tmdb_id": 1551205,
@@ -5846,12 +5961,15 @@
       "tmdb_id": 37056,
       "nombre": "Cartas a Julieta",
       "poster": "https://image.tmdb.org/t/p/w500/f0shQtWiBevTC15dgvADID99k5b.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/e1qpsob1qa3a",
           "voesx": "https://voe.sx/e/qjmcai0bgq5f"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xhzjnklimyyv.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/bys5q76uvreg",
@@ -53675,9 +53793,12 @@
       "tmdb_id": 1411773,
       "nombre": "The Last Stand of Ellen Cole",
       "poster": "https://image.tmdb.org/t/p/w500/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sld1b9djszsh.html"
+        },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/lgkc9epp810z",
           "voesx": "https://voe.sx/e/sfemil9nqhv9",
@@ -95125,8 +95246,10 @@
       "generos": [],
       "fuentes": {
         "español latino": {
-          "streamwish": "https://streamwish.to/e/c3ld2mtt5rs2",
-          "filelions": "https://filelions.to/v/3twaor3vcmyh"
+          "streamwish": "https://streamwish.to/e/b1778trcfz87",
+          "filelions": "https://filelions.to/v/3twaor3vcmyh",
+          "voesx": "https://voe.sx/e/4typgfvv6jhd",
+          "vidhide": "https://vidhidepro.com/v/x1p7nsq8l1qb"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/ive4dkcqagwd"
@@ -132107,13 +132230,16 @@
       "tmdb_id": 897160,
       "nombre": "Mujer Valiente",
       "poster": "https://image.tmdb.org/t/p/w500/hdqbujWmlmsdVm62Ob8sGuC2kDk.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/ecaovimjd30g",
           "voesx": "https://voe.sx/e/xqd05crp4pga",
           "vidhide": "https://vidhidepro.com/v/z7o52fklcpuo"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hzxrr78c3gr5.html"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/88d2jappyqtl",
@@ -133200,8 +133326,18 @@
       "calidad": "4K",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/j9mhzoph4rqn",
+          "voesx": "https://voe.sx/e/bkm2yh71lr2l",
+          "vidhide": "https://vidhidepro.com/v/s21ymokc4oda"
+        },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-2r9aqk40iqwe.html"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/2ru25mjts4g1",
+          "voesx": "https://voe.sx/e/34borv6tkutv",
+          "vidhide": "https://vidhidepro.com/v/52r319dh1gzs"
         }
       }
     },
@@ -173690,167 +173826,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-ikwpp872q7hm.html"
-        }
-      }
-    },
-    {
-      "id": "p_972533",
-      "tmdb_id": 972533,
-      "nombre": "Sin oxígeno",
-      "poster": "https://image.tmdb.org/t/p/w500/bgcf7lci3pwWSMgHNBlqDDQbyJJ.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/odgtofyd9q3v",
-          "voesx": "https://voe.sx/e/kenahsnvw92o",
-          "goodstream": "https://goodstream.uno/video/embed/xllh72y7h3z4"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/1hdrqdn4ktyb"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/7315zzvqo4x7",
-          "goodstream": "https://goodstream.uno/video/embed/gzbjgv36medm"
-        }
-      }
-    },
-    {
-      "id": "p_346687",
-      "tmdb_id": 346687,
-      "nombre": "El hombre agua",
-      "poster": "https://image.tmdb.org/t/p/w500/1lXwd3eZOE8KoLsmIw7evmiDFTF.jpg",
-      "calidad": "HD",
-      "generos": [
-        "aventura"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-mdcd57tbapuc.html"
-        }
-      }
-    },
-    {
-      "id": "p_714273",
-      "tmdb_id": 714273,
-      "nombre": "Undergods",
-      "poster": "https://image.tmdb.org/t/p/w500/AW2J0D0mpXczJKsvboEkIfFeXf.jpg",
-      "calidad": "HD",
-      "generos": [
-        "fantasia",
-        "ficcion",
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ncqamosk2zfs.html"
-        }
-      }
-    },
-    {
-      "id": "p_668291",
-      "tmdb_id": 668291,
-      "nombre": "#cats_the_mewvie",
-      "poster": "https://image.tmdb.org/t/p/w500/fMSNVeCxpl09nXfo8n7ZjPj8OuB.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-l19b7orkfw6h.html"
-        }
-      }
-    },
-    {
-      "id": "p_402914",
-      "tmdb_id": 402914,
-      "nombre": "Connected",
-      "poster": "https://image.tmdb.org/t/p/w500/tehs152VZkbQXn1wOzwqQ6JQ6EG.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-che7ipf4loag.html"
-        }
-      }
-    },
-    {
-      "id": "p_653712",
-      "tmdb_id": 653712,
-      "nombre": "El asesinato de dos amantes",
-      "poster": "https://image.tmdb.org/t/p/w500/1Y3EmEl00UjmFvu2jP67JK0At2S.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/cq049xt4qt0u"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/22sh961ntdf0"
-        }
-      }
-    },
-    {
-      "id": "p_731738",
-      "tmdb_id": 731738,
-      "nombre": "The Paper Tigers",
-      "poster": "https://image.tmdb.org/t/p/w500/x54tAgLfS51fO5EcipNJJ9tfSRK.jpg",
-      "calidad": "HD",
-      "generos": [
-        "accion",
-        "comedia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-xgh5q3zq5r0t.html"
-        }
-      }
-    },
-    {
-      "id": "p_622469",
-      "tmdb_id": 622469,
-      "nombre": "Mafia Inc.",
-      "poster": "https://image.tmdb.org/t/p/w500/nYa5gSvX9oiWPHO8nQinMSB6LOR.jpg",
-      "calidad": "HD",
-      "generos": [
-        "crimen",
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-sv77x0uehb6p.html"
-        }
-      }
-    },
-    {
-      "id": "p_685615",
-      "tmdb_id": 685615,
-      "nombre": "Doll House",
-      "poster": "https://image.tmdb.org/t/p/w500/pQ2YxzSfK3jNuL77K5MoJeQk4ls.jpg",
-      "calidad": "HD",
-      "generos": [
-        "terror",
-        "drama",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-hg41enlls14t.html"
-        }
-      }
-    },
-    {
-      "id": "p_265759",
-      "tmdb_id": 265759,
-      "nombre": "Hermanos de sangre",
-      "poster": "https://image.tmdb.org/t/p/w500/vRhzd4FOi7ehzmthtswtlGNdqIs.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-mcb5m1889qv5.html"
         }
       }
     }

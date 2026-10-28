@@ -1,10 +1,171 @@
 {
   "type": "peliculas",
-  "total": 17727,
-  "version": 110,
+  "total": 17734,
+  "version": 111,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_972533",
+      "tmdb_id": 972533,
+      "nombre": "Sin oxígeno",
+      "poster": "https://image.tmdb.org/t/p/w500/bgcf7lci3pwWSMgHNBlqDDQbyJJ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/odgtofyd9q3v",
+          "voesx": "https://voe.sx/e/kenahsnvw92o",
+          "goodstream": "https://goodstream.uno/video/embed/xllh72y7h3z4"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/1hdrqdn4ktyb"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/7315zzvqo4x7",
+          "goodstream": "https://goodstream.uno/video/embed/gzbjgv36medm"
+        }
+      }
+    },
+    {
+      "id": "p_346687",
+      "tmdb_id": 346687,
+      "nombre": "El hombre agua",
+      "poster": "https://image.tmdb.org/t/p/w500/1lXwd3eZOE8KoLsmIw7evmiDFTF.jpg",
+      "calidad": "HD",
+      "generos": [
+        "aventura"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-mdcd57tbapuc.html"
+        }
+      }
+    },
+    {
+      "id": "p_714273",
+      "tmdb_id": 714273,
+      "nombre": "Undergods",
+      "poster": "https://image.tmdb.org/t/p/w500/AW2J0D0mpXczJKsvboEkIfFeXf.jpg",
+      "calidad": "HD",
+      "generos": [
+        "fantasia",
+        "ficcion",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ncqamosk2zfs.html"
+        }
+      }
+    },
+    {
+      "id": "p_668291",
+      "tmdb_id": 668291,
+      "nombre": "#cats_the_mewvie",
+      "poster": "https://image.tmdb.org/t/p/w500/fMSNVeCxpl09nXfo8n7ZjPj8OuB.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-l19b7orkfw6h.html"
+        }
+      }
+    },
+    {
+      "id": "p_402914",
+      "tmdb_id": 402914,
+      "nombre": "Connected",
+      "poster": "https://image.tmdb.org/t/p/w500/tehs152VZkbQXn1wOzwqQ6JQ6EG.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-che7ipf4loag.html"
+        }
+      }
+    },
+    {
+      "id": "p_653712",
+      "tmdb_id": 653712,
+      "nombre": "El asesinato de dos amantes",
+      "poster": "https://image.tmdb.org/t/p/w500/1Y3EmEl00UjmFvu2jP67JK0At2S.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/cq049xt4qt0u"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/22sh961ntdf0"
+        }
+      }
+    },
+    {
+      "id": "p_731738",
+      "tmdb_id": 731738,
+      "nombre": "The Paper Tigers",
+      "poster": "https://image.tmdb.org/t/p/w500/x54tAgLfS51fO5EcipNJJ9tfSRK.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xgh5q3zq5r0t.html"
+        }
+      }
+    },
+    {
+      "id": "p_622469",
+      "tmdb_id": 622469,
+      "nombre": "Mafia Inc.",
+      "poster": "https://image.tmdb.org/t/p/w500/nYa5gSvX9oiWPHO8nQinMSB6LOR.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-sv77x0uehb6p.html"
+        }
+      }
+    },
+    {
+      "id": "p_685615",
+      "tmdb_id": 685615,
+      "nombre": "Doll House",
+      "poster": "https://image.tmdb.org/t/p/w500/pQ2YxzSfK3jNuL77K5MoJeQk4ls.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hg41enlls14t.html"
+        }
+      }
+    },
+    {
+      "id": "p_265759",
+      "tmdb_id": 265759,
+      "nombre": "Hermanos de sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/vRhzd4FOi7ehzmthtswtlGNdqIs.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-mcb5m1889qv5.html"
+        }
+      }
+    },
     {
       "id": "p_583046",
       "tmdb_id": 583046,
@@ -81720,7 +81881,7 @@
       "tmdb_id": 44040,
       "nombre": "La trampa del mal",
       "poster": "https://image.tmdb.org/t/p/w500/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "terror",
         "misterio",
@@ -81729,6 +81890,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-yiq8eyo6fr8p.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cd1t3c1p8l9a.html"
         }
       }
     },
