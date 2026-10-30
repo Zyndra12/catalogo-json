@@ -1,74 +1,10 @@
 {
   "type": "series",
   "total": 3739,
-  "version": 111,
+  "version": 112,
   "chunk": 2,
   "chunks_total": 4,
   "items": [
-    {
-      "id": "s_312697",
-      "tmdb_id": 312697,
-      "nombre": "Deber de jurado presenta: Retiro de empresa",
-      "poster": "https://image.tmdb.org/t/p/w500/nunEk2OXJWMaqZVYYmpY5emuZR3.jpg",
-      "categorias": [
-        "serie",
-        "comedia"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFl2UmlGUjhZc0kzR2xocVBKY2JzNEI4VmM3cDF0SHdqM2d1OHZFZUFiWQ=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFhrV2ZHdlFER2R6WXFKRGV5Q2RHdjRGQnQyZDBaOU8rYzZxeGc5cnErcg=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCd1NLbEg4cHVtL3UrcjFKVm11TmpZT28yTlJnOHhJVzNDOTZCQkpXc0Y5SA=="
-            }
-          },
-          "9": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZMFJOanV3OUZrQ0xveHZKQUJyYU1ZdGhZUTFWL0FUMnZ3Qjgyci94TDdUWg=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeE1yMHUxYUdHSlc3TXFzMVZ1WnZoVllGTkp3Q0lpanZjVzBtQWJOOG5RSQ=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZenExMmRvODl5S1FXSjYvWWN5a0ozSms3KzFvajZUbVFsdkZwaXdtalE0Qg=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=U0NEV21LZzY1YkU3TGd4S0hJcHlqb0tDeVlxREg2ZEw5b09vWE1GdHNJRT0="
-            }
-          },
-          "10": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeG44eTB0Y1JNMER2VXR4M1RYWDZyUi9VeENTOVp6WFRuaGRzQm9JdFBLUQ=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZNWdJc252akNnR285TVBlTzZwMFoyOFhVRUlCR3IyVjVFQnVzNmVTbjlYbQ=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCMUdlbVpXOHZCYlJJL1ZhS1p1U0xuUzBQcmlVSDV2cFFVOGJRSm5PMnJrQg=="
-            }
-          }
-        }
-      }
-    },
     {
       "id": "s_221871",
       "tmdb_id": 221871,
@@ -150958,6 +150894,70 @@
           "3": [
             "https://vimeos.net/embed-v8yjy6uxy55r.html",
             "https://vimeos.net/embed-aiawyg4lcz0c.html"
+          ]
+        }
+      }
+    },
+    {
+      "id": "s_76127",
+      "tmdb_id": 76127,
+      "nombre": "Hakumei to Mikochi",
+      "poster": "https://image.tmdb.org/t/p/w500/z07OXMsug7GxKMAQxZcwYsPx43x.jpg",
+      "categorias": [
+        "ficcion",
+        "comedia",
+        "animacion",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": [
+            "https://vimeos.net/embed-ilmk4bujavgw.html",
+            "https://vimeos.net/embed-3wm6ckh5jyiz.html"
+          ],
+          "8": [
+            "https://vimeos.net/embed-krmi8fb4xv4a.html",
+            "https://vimeos.net/embed-yvwsdlbftw8z.html"
+          ],
+          "2": [
+            "https://vimeos.net/embed-lc97h8158ibt.html",
+            "https://vimeos.net/embed-25542bibha5h.html"
+          ],
+          "9": [
+            "https://vimeos.net/embed-7ed5otcqhpet.html",
+            "https://vimeos.net/embed-zvrlnzcg4n08.html"
+          ],
+          "1": [
+            "https://vimeos.net/embed-sxmg3omoftvs.html",
+            "https://vimeos.net/embed-rl6cumofyus3.html"
+          ],
+          "11": [
+            "https://vimeos.net/embed-vd5clo0ggubl.html",
+            "https://vimeos.net/embed-s0lwu052v555.html"
+          ],
+          "10": [
+            "https://vimeos.net/embed-nr9ra2bukjrk.html",
+            "https://vimeos.net/embed-rdbwwpbjfbpc.html"
+          ],
+          "5": [
+            "https://vimeos.net/embed-t7py9j5kpzdr.html",
+            "https://vimeos.net/embed-cp80w1hnd5ad.html"
+          ],
+          "6": [
+            "https://vimeos.net/embed-m1f6lhq5j77z.html",
+            "https://vimeos.net/embed-8aspjyy83za1.html"
+          ],
+          "12": [
+            "https://vimeos.net/embed-q1e3rlvfopox.html",
+            "https://vimeos.net/embed-valef2wpfn0a.html"
+          ],
+          "7": [
+            "https://vimeos.net/embed-sma1ir83nrlr.html",
+            "https://vimeos.net/embed-427lus51q9l9.html"
+          ],
+          "3": [
+            "https://vimeos.net/embed-xh3ftou7nzoe.html",
+            "https://vimeos.net/embed-9bythj56cqqb.html"
           ]
         }
       }

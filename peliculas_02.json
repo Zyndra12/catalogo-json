@@ -1,10 +1,260 @@
 {
   "type": "peliculas",
-  "total": 17734,
-  "version": 111,
+  "total": 17743,
+  "version": 112,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_1244531",
+      "tmdb_id": 1244531,
+      "nombre": "Tiburón blanco: La bestia del mar",
+      "poster": "https://image.tmdb.org/t/p/w500/58xC3Vj5Td1UXhNaOQDOj2ygAH6.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/g4fd74039j0h",
+          "voesx": "https://voe.sx/e/tftujwrhklam",
+          "vidhide": "https://vidhidepro.com/v/wo2ljvaai1cd"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/ogpe1yod25px",
+          "vidhide": "https://vidhidepro.com/v/0oo5torcd9ih"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/zpfrr1tog4fw",
+          "vidhide": "https://vidhidepro.com/v/2f0d0uhcud2p"
+        }
+      }
+    },
+    {
+      "id": "p_520663",
+      "tmdb_id": 520663,
+      "nombre": "La mujer en la ventana",
+      "poster": "https://image.tmdb.org/t/p/w500/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
+      "calidad": "4K",
+      "generos": [
+        "crimen",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/rgjd9tk4tfry",
+          "fastream": "https://fastream.to/embed-yv91r5yo7vv8.html",
+          "voesx": "https://voe.sx/e/ipli9wggkpce"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/9koz6l1d6ueo",
+          "voesx": "https://voe.sx/e/n5jb9dh9pdqz"
+        }
+      }
+    },
+    {
+      "id": "p_675024",
+      "tmdb_id": 675024,
+      "nombre": "El Exorcismo de Carmen Farías",
+      "poster": "https://image.tmdb.org/t/p/w500/pMyOSRURkxF6YId9vOTGsBH1jRb.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/chf5j80vovvq",
+          "fastream": "https://fastream.to/embed-gtt1nmx0fvo3.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dr5uy3vsk9o6.html"
+        }
+      }
+    },
+    {
+      "id": "p_17275",
+      "tmdb_id": 17275,
+      "nombre": "The All Together",
+      "poster": "https://image.tmdb.org/t/p/w500/85JauYUR5iyPrlS30M8jkdAIFDh.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hf098dfu1vf2.html"
+        }
+      }
+    },
+    {
+      "id": "p_825824",
+      "tmdb_id": 825824,
+      "nombre": "The Midwife",
+      "poster": "https://image.tmdb.org/t/p/w500/gidguvUr9TiyjiWO8nctLN4nDvt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9l6qv6lk85or.html"
+        }
+      }
+    },
+    {
+      "id": "p_635012",
+      "tmdb_id": 635012,
+      "nombre": "Long Weekend",
+      "poster": "https://image.tmdb.org/t/p/w500/OyKfblQX6SR2rL6R26g5eYCLHq.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-sapsfe10e2ip.html"
+        }
+      }
+    },
+    {
+      "id": "p_426670",
+      "tmdb_id": 426670,
+      "nombre": "Dolly Parton's Christmas of Many Colors: Circle of Love",
+      "poster": "https://image.tmdb.org/t/p/w500/3PEj0oulUOW8OZ8Mog0fL6Ccc0j.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vaalsjyr3pg9.html"
+        }
+      }
+    },
+    {
+      "id": "p_659360",
+      "tmdb_id": 659360,
+      "nombre": "Drunk Bus",
+      "poster": "https://image.tmdb.org/t/p/w500/dBkljyGgsLiYCwIveQaktbae9WV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vnp1e7xbo95p.html"
+        }
+      }
+    },
+    {
+      "id": "p_334372",
+      "tmdb_id": 334372,
+      "nombre": "Yowamushi Pedal: The Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/aeUViOBU6H09EsUpPNh4O1x7GFt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "animacion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-cvy7i4e4vycq.html"
+        }
+      }
+    },
+    {
+      "id": "p_794960",
+      "tmdb_id": 794960,
+      "nombre": "Blood Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/9umVH1R5Z2I1Fqzg7qwMIR2gpKG.jpg",
+      "calidad": "HD",
+      "generos": [
+        "fantasia",
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-yehoxs8hgdmg.html"
+        }
+      }
+    },
+    {
+      "id": "p_681260",
+      "tmdb_id": 681260,
+      "nombre": "Maya y el Orbe Dorado",
+      "poster": "https://image.tmdb.org/t/p/w500/kmhCsqB8RNEDhO2A0FVFyj03ZcB.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/rl28typtufp9",
+          "filelions": "https://filelions.to/v/xg5bpsn153pw"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/p78zdr43dpf6"
+        }
+      }
+    },
+    {
+      "id": "p_711475",
+      "tmdb_id": 711475,
+      "nombre": "Aquí y ahora",
+      "poster": "https://image.tmdb.org/t/p/w500/7kOjuw40icNKtkviDj7WkPaOb2.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-u99qvlpbjfd5.html"
+        }
+      }
+    },
+    {
+      "id": "p_760195",
+      "tmdb_id": 760195,
+      "nombre": "La separación",
+      "poster": "https://image.tmdb.org/t/p/w500/iHj2K4Caj8BlZzbAOvFt0fAViIh.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/o9iz0i1s3vms",
+          "fastream": "https://fastream.to/embed-6d49jxd2ftdn.html"
+        },
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/43clw18hb09w"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/uhcbq7mb988a"
+        }
+      }
+    },
+    {
+      "id": "p_672541",
+      "tmdb_id": 672541,
+      "nombre": "Lies For Rent",
+      "poster": "https://image.tmdb.org/t/p/w500/4hn98iJphNtUmBmcNxn6ndxY07t.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ikwpp872q7hm.html"
+        }
+      }
+    },
     {
       "id": "p_972533",
       "tmdb_id": 972533,

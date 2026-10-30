@@ -1,74 +1,10 @@
 {
   "type": "series",
   "total": 3739,
-  "version": 111,
+  "version": 112,
   "chunk": 3,
   "chunks_total": 4,
   "items": [
-    {
-      "id": "s_76127",
-      "tmdb_id": 76127,
-      "nombre": "Hakumei to Mikochi",
-      "poster": "https://image.tmdb.org/t/p/w500/z07OXMsug7GxKMAQxZcwYsPx43x.jpg",
-      "categorias": [
-        "ficcion",
-        "comedia",
-        "animacion",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": [
-            "https://vimeos.net/embed-ilmk4bujavgw.html",
-            "https://vimeos.net/embed-3wm6ckh5jyiz.html"
-          ],
-          "8": [
-            "https://vimeos.net/embed-krmi8fb4xv4a.html",
-            "https://vimeos.net/embed-yvwsdlbftw8z.html"
-          ],
-          "2": [
-            "https://vimeos.net/embed-lc97h8158ibt.html",
-            "https://vimeos.net/embed-25542bibha5h.html"
-          ],
-          "9": [
-            "https://vimeos.net/embed-7ed5otcqhpet.html",
-            "https://vimeos.net/embed-zvrlnzcg4n08.html"
-          ],
-          "1": [
-            "https://vimeos.net/embed-sxmg3omoftvs.html",
-            "https://vimeos.net/embed-rl6cumofyus3.html"
-          ],
-          "11": [
-            "https://vimeos.net/embed-vd5clo0ggubl.html",
-            "https://vimeos.net/embed-s0lwu052v555.html"
-          ],
-          "10": [
-            "https://vimeos.net/embed-nr9ra2bukjrk.html",
-            "https://vimeos.net/embed-rdbwwpbjfbpc.html"
-          ],
-          "5": [
-            "https://vimeos.net/embed-t7py9j5kpzdr.html",
-            "https://vimeos.net/embed-cp80w1hnd5ad.html"
-          ],
-          "6": [
-            "https://vimeos.net/embed-m1f6lhq5j77z.html",
-            "https://vimeos.net/embed-8aspjyy83za1.html"
-          ],
-          "12": [
-            "https://vimeos.net/embed-q1e3rlvfopox.html",
-            "https://vimeos.net/embed-valef2wpfn0a.html"
-          ],
-          "7": [
-            "https://vimeos.net/embed-sma1ir83nrlr.html",
-            "https://vimeos.net/embed-427lus51q9l9.html"
-          ],
-          "3": [
-            "https://vimeos.net/embed-xh3ftou7nzoe.html",
-            "https://vimeos.net/embed-9bythj56cqqb.html"
-          ]
-        }
-      }
-    },
     {
       "id": "s_73833",
       "tmdb_id": 73833,
@@ -62541,12 +62477,69 @@
       "nombre": "Lupin",
       "poster": "https://image.tmdb.org/t/p/w500/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
       "categorias": [
-        "serie",
-        "drama",
         "misterio",
-        "crimen"
+        "crimen",
+        "serie",
+        "drama"
       ],
       "temporadas": {
+        "4": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/rmujq1zyaw6o",
+              "earnvids": "https://morencius.com/embed/zuv4bq1adez7",
+              "voesx": "https://voe.sx/e/qmakltop3cao"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/8dyiqtwl4bac",
+              "earnvids": "https://morencius.com/embed/pe9dtv5pqw8d",
+              "voesx": "https://voe.sx/e/kkis0hfvd8mh"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/b5dzcjiwj0eq",
+              "earnvids": "https://morencius.com/embed/lcm5y8ciojaf",
+              "voesx": "https://voe.sx/e/zrdydcjf2fcm"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/y3tmt0672wc6",
+              "earnvids": "https://morencius.com/embed/muv8h5cy3lwq",
+              "voesx": "https://voe.sx/e/fstujmau19ez"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/dv7wnq7lpocr",
+              "earnvids": "https://morencius.com/embed/6lacpmkgxz8y",
+              "voesx": "https://voe.sx/e/gjv31sazvubt"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/gwin6j87i6c9",
+              "earnvids": "https://morencius.com/embed/5lyqvg7ly8m4",
+              "voesx": "https://voe.sx/e/jvjsdjvvwhyu"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/baevbpmy6ofq",
+              "voesx": "https://voe.sx/e/kolzowavx866"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/trk8fy462l5e",
+              "earnvids": "https://morencius.com/embed/sssyrpic04ze",
+              "voesx": "https://voe.sx/e/uetxwhd3xxrt"
+            }
+          }
+        },
         "2": {
           "4": {
             "español latino": {
@@ -62613,8 +62606,7 @@
             "español latino": {
               "vimeos_1": "https://vimeos.net/embed-2rvk1k53113s.html",
               "vimeos2": "https://vimeos.net/embed-2rvk1k53113s.html",
-              "fastream": "https://fastream.to/embed-z4zd5bvq2hfg.html",
-              "vimeos": "https://vimeos.net/embed-q019lu0lp6my.html"
+              "fastream": "https://fastream.to/embed-z4zd5bvq2hfg.html"
             }
           },
           "6": {
@@ -62645,6 +62637,64 @@
             "español latino": {
               "vimeos": "https://vimeos.net/embed-r86mmfyb89zb.html",
               "fastream": "https://fastream.to/embed-hq33efxxlei8.html"
+            }
+          }
+        },
+        "3": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/mcvcdncn19qb",
+              "earnvids": "https://morencius.com/embed/bur8siinb255",
+              "voesx": "https://voe.sx/e/gnpul562o7os"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://vibuxer.com/e/b84d65lwj6pd",
+              "earnvids": "https://morencius.com/embed/1l6brcxk101f",
+              "voesx": "https://voe.sx/e/rsrp2dufqlu7"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/04qiu4ks6sdm",
+              "earnvids": "https://morencius.com/embed/p3g68ovlzeca",
+              "voesx": "https://voe.sx/e/otsli8gw44we"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/8qo6q3fm17eq",
+              "earnvids": "https://morencius.com/embed/c504di5gmcx6",
+              "voesx": "https://voe.sx/e/s8seaqejrviq"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/xscgpafuhx53",
+              "earnvids": "https://morencius.com/embed/pqgvtc6ypkdz",
+              "voesx": "https://voe.sx/e/pn1f1ryk5wbp"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/elf8exvi24in",
+              "earnvids": "https://morencius.com/embed/4kbg9mgmdzpj",
+              "voesx": "https://voe.sx/e/jgvysxkoe0x2"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/7t2o6v08bb1r",
+              "earnvids": "https://morencius.com/embed/o0oa0f1ryhqg",
+              "voesx": "https://voe.sx/e/zmadt0fqcfq1"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://hglink.to/e/3s11oshayycr",
+              "earnvids": "https://morencius.com/embed/jxzkr38o00qm",
+              "voesx": "https://voe.sx/e/lhuj6yluwkrh"
             }
           }
         }

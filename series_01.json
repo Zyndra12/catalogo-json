@@ -1,7 +1,7 @@
 {
   "type": "series",
   "total": 3739,
-  "version": 111,
+  "version": 112,
   "chunk": 1,
   "chunks_total": 4,
   "items": [
@@ -8591,7 +8591,6 @@
             "español latino": {
               "streamwish": "https://streamwish.to/e/s820ik95ffru",
               "earnvids": "https://morencius.com/embed/z31mpdfk675t",
-              "voesx": "https://voe.sx/e/r2mfvcbnwfpw",
               "vidhide": "https://vidhidepro.com/v/79dgehsxe1pu"
             }
           },
@@ -8599,25 +8598,22 @@
             "español latino": {
               "streamwish": "https://streamwish.to/e/yeajbzamnfkg",
               "earnvids": "https://morencius.com/embed/3rejn0ujjdzp",
-              "voesx": "https://voe.sx/e/usmsernxbmaq",
-              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=2&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1",
-              "vidhide": "https://vidhidepro.com/v/e96v0tmkbykk"
+              "vidhide": "https://vidhidepro.com/v/e96v0tmkbykk",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=2&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
             }
           },
           "1": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/oqfrwa7jyfre",
               "earnvids": "https://morencius.com/embed/ff2tmyjmv54f",
-              "voesx": "https://voe.sx/e/x0lcehdjflc6",
-              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=1&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1",
-              "vidhide": "https://vidhidepro.com/v/sog0tcpo5a8t"
+              "vidhide": "https://vidhidepro.com/v/sog0tcpo5a8t",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=1&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
             }
           },
           "3": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/2lxth10vt61z",
               "earnvids": "https://morencius.com/embed/g59sw9p2p89d",
-              "voesx": "https://voe.sx/e/6vz4fo0basmr",
               "vidhide": "https://vidhidepro.com/v/0nfyy14j43i2"
             }
           }
@@ -150517,6 +150513,70 @@
           "3": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/v0wr1r147ii8"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_312697",
+      "tmdb_id": 312697,
+      "nombre": "Deber de jurado presenta: Retiro de empresa",
+      "poster": "https://image.tmdb.org/t/p/w500/nunEk2OXJWMaqZVYYmpY5emuZR3.jpg",
+      "categorias": [
+        "serie",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFl2UmlGUjhZc0kzR2xocVBKY2JzNEI4VmM3cDF0SHdqM2d1OHZFZUFiWQ=="
+            }
+          },
+          "8": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFhrV2ZHdlFER2R6WXFKRGV5Q2RHdjRGQnQyZDBaOU8rYzZxeGc5cnErcg=="
+            }
+          },
+          "2": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCd1NLbEg4cHVtL3UrcjFKVm11TmpZT28yTlJnOHhJVzNDOTZCQkpXc0Y5SA=="
+            }
+          },
+          "9": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZMFJOanV3OUZrQ0xveHZKQUJyYU1ZdGhZUTFWL0FUMnZ3Qjgyci94TDdUWg=="
+            }
+          },
+          "1": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeE1yMHUxYUdHSlc3TXFzMVZ1WnZoVllGTkp3Q0lpanZjVzBtQWJOOG5RSQ=="
+            }
+          },
+          "6": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZenExMmRvODl5S1FXSjYvWWN5a0ozSms3KzFvajZUbVFsdkZwaXdtalE0Qg=="
+            }
+          },
+          "5": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=U0NEV21LZzY1YkU3TGd4S0hJcHlqb0tDeVlxREg2ZEw5b09vWE1GdHNJRT0="
+            }
+          },
+          "10": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeG44eTB0Y1JNMER2VXR4M1RYWDZyUi9VeENTOVp6WFRuaGRzQm9JdFBLUQ=="
+            }
+          },
+          "7": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZNWdJc252akNnR285TVBlTzZwMFoyOFhVRUlCR3IyVjVFQnVzNmVTbjlYbQ=="
+            }
+          },
+          "3": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCMUdlbVpXOHZCYlJJL1ZhS1p1U0xuUzBQcmlVSDV2cFFVOGJRSm5PMnJrQg=="
             }
           }
         }
