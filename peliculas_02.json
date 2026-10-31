@@ -1,10 +1,199 @@
 {
   "type": "peliculas",
-  "total": 17743,
-  "version": 112,
+  "total": 17753,
+  "version": 113,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_815152",
+      "tmdb_id": 815152,
+      "nombre": "Painkiller",
+      "poster": "https://image.tmdb.org/t/p/w500/2YlkF8TxVCh06GDMrYTYTIjweo0.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-k88stihbioqd.html"
+        }
+      }
+    },
+    {
+      "id": "p_32032",
+      "tmdb_id": 32032,
+      "nombre": "David y Catriona",
+      "poster": "https://image.tmdb.org/t/p/w500/tatgNJ8gabsA2y9gIX4mkjqPiKP.jpg",
+      "calidad": "HD",
+      "generos": [
+        "aventura",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-h8icj802lrhq.html"
+        }
+      }
+    },
+    {
+      "id": "p_602734",
+      "tmdb_id": 602734,
+      "nombre": "Spiral: Saw",
+      "poster": "https://image.tmdb.org/t/p/w500/97WyFdS8pQerysSSGezafXHW5ZH.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/8sb6ypqyjcv1",
+          "fastream": "https://fastream.to/embed-imu5tsi4r7k8.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7qlni3mtbjpc.html"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/eyxainv1nbj7"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/jjv0bj40wht4"
+        }
+      }
+    },
+    {
+      "id": "p_624793",
+      "tmdb_id": 624793,
+      "nombre": "Creation Stories",
+      "poster": "https://image.tmdb.org/t/p/w500/2qjWOHYUjJhw5qe86Qk790vaegf.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-8y2dn0qb86m9.html"
+        }
+      }
+    },
+    {
+      "id": "p_826048",
+      "tmdb_id": 826048,
+      "nombre": "Blue Call",
+      "poster": "https://image.tmdb.org/t/p/w500/sOvkpcdGgJnIwl7d8YcUuQ2d4bQ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-du5ee9sgpj33.html"
+        }
+      }
+    },
+    {
+      "id": "p_797946",
+      "tmdb_id": 797946,
+      "nombre": "Ritual maldito",
+      "poster": "https://image.tmdb.org/t/p/w500/fYw6hMTAces9aWbiE4Nscr50E38.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/uzqlw4eyr47a",
+          "voesx": "https://voe.sx/e/dj3m3jh8pd8m"
+        }
+      }
+    },
+    {
+      "id": "p_578701",
+      "tmdb_id": 578701,
+      "nombre": "Aquellos que desean mi muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/tu6kz9Ejm7wljiO58waAuwn1miV.jpg",
+      "calidad": "4K",
+      "generos": [
+        "suspenso",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/e2s5u520blxy",
+          "fastream": "https://fastream.to/embed-d16ty6ndug9b.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-xiedc8g6vdkc.html"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/uwz3ngca6km7"
+        }
+      }
+    },
+    {
+      "id": "p_824617",
+      "tmdb_id": 824617,
+      "nombre": "Mexican Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/3lqrL4zCe59OmiWGOUUQ1uvFGkq.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-q62x4tb95ds0.html"
+        }
+      }
+    },
+    {
+      "id": "p_717192",
+      "tmdb_id": 717192,
+      "nombre": "Ferry",
+      "poster": "https://image.tmdb.org/t/p/w500/w6n1pu9thpCVHILejsuhKf3tNCV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-rpw31ad9mtds.html"
+        }
+      }
+    },
+    {
+      "id": "p_823855",
+      "tmdb_id": 823855,
+      "nombre": "Yo soy todas ellas",
+      "poster": "https://image.tmdb.org/t/p/w500/jAzX5TSKREp3Mhq7nqew4DcXjRZ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/2wh6ypjddb6j"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/brzwxdsvz9h9"
+        }
+      }
+    },
+    {
+      "id": "p_48158",
+      "tmdb_id": 48158,
+      "nombre": "Sarutobi Sasuke and the Army of Darkness 2 - The Earth Chapter",
+      "poster": "https://image.tmdb.org/t/p/w500/1zblmOiCW1RhNuOaUXPQjWt7IfV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-m7707lsysqfx.html"
+        }
+      }
+    },
     {
       "id": "p_1244531",
       "tmdb_id": 1244531,
@@ -45240,7 +45429,7 @@
       "tmdb_id": 604360,
       "nombre": "La 8.ª noche",
       "poster": "https://image.tmdb.org/t/p/w500/dPR5pAL8LjoO8q4rQ7knhzu0TjO.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "misterio",
         "suspenso",
@@ -45251,6 +45440,9 @@
           "streamwish": "https://streamwish.to/e/mubnl7itq7ll",
           "fastream": "https://fastream.to/embed-nt4oap5f5koq.html",
           "voesx": "https://voe.sx/e/ls0bgg9pc2si"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-j7q3v21usxgl.html"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/rjjfhdrvw2w9"
@@ -52885,7 +53077,7 @@
       "tmdb_id": 6552,
       "nombre": "El diablo metió la mano",
       "poster": "https://image.tmdb.org/t/p/w500/dTxy4Y6Ik4fMPi7dTyf7paGn5kB.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "terror",
@@ -52895,6 +53087,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-key10nxnali5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mj07kpi8n3p8.html"
         }
       }
     },
@@ -64299,11 +64494,14 @@
       "tmdb_id": 384346,
       "nombre": "El rifle implacable",
       "poster": "https://image.tmdb.org/t/p/w500/6wRbTvrvzUrFhIyCimz55uziW95.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-pa4xxtbbqlbc.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-0e64ip7ncgq2.html"
         }
       }
     },
@@ -70031,13 +70229,16 @@
       "tmdb_id": 689782,
       "nombre": "Secuestro olvidado",
       "poster": "https://image.tmdb.org/t/p/w500/diak08Un4expQg94JACbXuJSt0J.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso"
       ],
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-nqsat4ylt235.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-i2g2wlmw4drv.html"
         }
       }
     },

@@ -1,10 +1,270 @@
 {
   "type": "series",
-  "total": 3739,
-  "version": 112,
+  "total": 3743,
+  "version": 113,
   "chunk": 2,
   "chunks_total": 4,
   "items": [
+    {
+      "id": "s_118546",
+      "tmdb_id": 118546,
+      "nombre": "Escuela de Clones",
+      "poster": "https://image.tmdb.org/t/p/w500/vw4IXzVhFJWyupZCpJWPSWbctzN.jpg",
+      "categorias": [
+        "serie",
+        "comedia",
+        "animacion"
+      ],
+      "temporadas": {
+        "2": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/lwcj26vwej95"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/rew0p4mzl5t8"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/vkmg4s28hd1x"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/g4r4ewbynepn"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/fghtyw00tq2g"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/hvp7wod6dv5w"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/6mrl569t6q3x"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/m6xe011vr0qj"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/6ndwvae1dkeb"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ndvtxh99p75d"
+            }
+          }
+        },
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/s3353ktxjlhl"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/gi6ixi70i7dz"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ecub51j1pm0s"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/z3121ffoycip"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/edophyiqe0d1"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/kr9b50kgora5"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/y8nxq4aqu79s"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1ycq6ksbhaci"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/x2pmzz3i38xf"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/5cxu01rg1mri"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_225732",
+      "tmdb_id": 225732,
+      "nombre": "Gente Sirena",
+      "poster": "https://image.tmdb.org/t/p/w500/lWIcDfmMOWOxGqMG0OPytMpWWcr.jpg",
+      "categorias": [
+        "documental",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/reffkk8kmyfv"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/dx2cjxmfbpg7"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/thblp16t4zbe"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/b8m59d9eja9d"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_225217",
+      "tmdb_id": 225217,
+      "nombre": "A ambos lados del abismo",
+      "poster": "https://image.tmdb.org/t/p/w500/4UcfOIHnUVxfPW3lIFhzDgYWZrl.jpg",
+      "categorias": [
+        "serie",
+        "drama",
+        "crimen"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/x07j6qnarpqi"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/yp39q82lqwir"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/7hzgnxgeprj4"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/s6hvngem7oiu"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/pxng3ovhwqdx"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/v0wr1r147ii8"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_312697",
+      "tmdb_id": 312697,
+      "nombre": "Deber de jurado presenta: Retiro de empresa",
+      "poster": "https://image.tmdb.org/t/p/w500/nunEk2OXJWMaqZVYYmpY5emuZR3.jpg",
+      "categorias": [
+        "serie",
+        "comedia"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFl2UmlGUjhZc0kzR2xocVBKY2JzNEI4VmM3cDF0SHdqM2d1OHZFZUFiWQ=="
+            }
+          },
+          "8": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFhrV2ZHdlFER2R6WXFKRGV5Q2RHdjRGQnQyZDBaOU8rYzZxeGc5cnErcg=="
+            }
+          },
+          "2": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCd1NLbEg4cHVtL3UrcjFKVm11TmpZT28yTlJnOHhJVzNDOTZCQkpXc0Y5SA=="
+            }
+          },
+          "9": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZMFJOanV3OUZrQ0xveHZKQUJyYU1ZdGhZUTFWL0FUMnZ3Qjgyci94TDdUWg=="
+            }
+          },
+          "1": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeE1yMHUxYUdHSlc3TXFzMVZ1WnZoVllGTkp3Q0lpanZjVzBtQWJOOG5RSQ=="
+            }
+          },
+          "6": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZenExMmRvODl5S1FXSjYvWWN5a0ozSms3KzFvajZUbVFsdkZwaXdtalE0Qg=="
+            }
+          },
+          "5": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=U0NEV21LZzY1YkU3TGd4S0hJcHlqb0tDeVlxREg2ZEw5b09vWE1GdHNJRT0="
+            }
+          },
+          "10": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeG44eTB0Y1JNMER2VXR4M1RYWDZyUi9VeENTOVp6WFRuaGRzQm9JdFBLUQ=="
+            }
+          },
+          "7": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZNWdJc252akNnR285TVBlTzZwMFoyOFhVRUlCR3IyVjVFQnVzNmVTbjlYbQ=="
+            }
+          },
+          "3": {
+            "español latino": {
+              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCMUdlbVpXOHZCYlJJL1ZhS1p1U0xuUzBQcmlVSDV2cFFVOGJRSm5PMnJrQg=="
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_221871",
       "tmdb_id": 221871,
@@ -150714,251 +150974,6 @@
               "voesx": "https://voe.sx/e/v1w4ujqs7qgp"
             }
           }
-        }
-      }
-    },
-    {
-      "id": "s_72505",
-      "tmdb_id": 72505,
-      "nombre": "Isekai wa Smartphone to Tomo ni.",
-      "poster": "https://image.tmdb.org/t/p/w500/8IZgvLzBnclalS1o6rzdYle3oIP.jpg",
-      "categorias": [
-        "ficcion",
-        "serie",
-        "comedia",
-        "accion",
-        "animacion"
-      ],
-      "temporadas": {
-        "2": {
-          "4": {
-            "español latino": {
-              "watchsb": "https://watchsb.com/e/2k219ut5qo0x",
-              "streamwish": "https://streamwish.to/e/ef2ic4yrfs78",
-              "streamtape": "https://streamtape.com/e/jbRzLGzdzBtzAQW"
-            }
-          },
-          "2": {
-            "español latino": {
-              "watchsb": "https://watchsb.com/e/32pg2fo25x3e",
-              "streamtape": "https://streamtape.com/e/eYZKgylAY8uk6J"
-            }
-          },
-          "7": {
-            "español latino": {
-              "watchsb": "https://watchsb.com/e/re6l81b88p1j",
-              "streamwish": "https://streamwish.to/e/o2koucbv1fah",
-              "streamtape": "https://streamtape.com/e/kgkyoRAkP8UyQP",
-              "wolfstream": "https://wolfstream.tv/e/tbxbrlvc4ojc"
-            }
-          },
-          "1": {
-            "español latino": {
-              "watchsb": "https://watchsb.com/e/ntkb55ifesl6",
-              "streamtape": "https://streamtape.com/e/GpM7KgPaWptdea"
-            }
-          },
-          "3": {
-            "español latino": {
-              "watchsb": "https://watchsb.com/e/7a67oqhf94yp",
-              "streamwish": "https://streamwish.to/e/xa0pqs3inoso",
-              "streamtape": "https://streamtape.com/e/Dkw7KA8zZwikv7g"
-            }
-          },
-          "5": {
-            "español latino": {
-              "watchsb": "https://watchsb.com/e/myktsardbuxq",
-              "streamwish": "https://streamwish.to/e/noghtoa87qo3",
-              "streamtape": "https://streamtape.com/e/QKbGl13VRZt0M7l",
-              "wolfstream": "https://wolfstream.tv/e/rcmws6dfhdvb"
-            }
-          },
-          "6": {
-            "español latino": {
-              "watchsb": "https://watchsb.com/e/eouz4ge3k4ss",
-              "streamwish": "https://streamwish.to/e/vteoxq935lby",
-              "streamtape": "https://streamtape.com/e/90zoGVq9eqtakaJ",
-              "wolfstream": "https://wolfstream.tv/e/1ctuusf8dbkf"
-            }
-          }
-        },
-        "1": {
-          "4": [
-            "https://vimeos.net/embed-ii6h03s4iing.html",
-            "https://vimeos.net/embed-m5og7lv4v43r.html"
-          ],
-          "8": [
-            "https://vimeos.net/embed-sshe43hag19e.html",
-            "https://vimeos.net/embed-hesfj01rg696.html"
-          ],
-          "2": [
-            "https://vimeos.net/embed-lrkc7uao4omz.html",
-            "https://vimeos.net/embed-fo3jc1y50hg2.html"
-          ],
-          "9": [
-            "https://vimeos.net/embed-qaucz2jeefhi.html",
-            "https://vimeos.net/embed-jjsa7jmkw0p4.html"
-          ],
-          "1": [
-            "https://vimeos.net/embed-tb4d07sgb7wt.html",
-            "https://vimeos.net/embed-6wteytuibt2q.html"
-          ],
-          "11": [
-            "https://vimeos.net/embed-587lh363fwyw.html",
-            "https://vimeos.net/embed-p9dt3o2ngbot.html"
-          ],
-          "10": [
-            "https://vimeos.net/embed-chw1mxr1xs77.html",
-            "https://vimeos.net/embed-rgxe2gus94zd.html"
-          ],
-          "5": [
-            "https://vimeos.net/embed-kp4agzpbe9ta.html",
-            "https://vimeos.net/embed-ker0nhqunpjb.html"
-          ],
-          "6": [
-            "https://vimeos.net/embed-wwazfvx3qxzh.html",
-            "https://vimeos.net/embed-rsjrbnps9dmj.html"
-          ],
-          "12": [
-            "https://vimeos.net/embed-nxcweb4ci3ky.html",
-            "https://vimeos.net/embed-0pc5zx41rr8s.html"
-          ],
-          "7": [
-            "https://vimeos.net/embed-oh4i4k4b3oji.html",
-            "https://vimeos.net/embed-k7rfmmycoi0o.html"
-          ],
-          "3": [
-            "https://vimeos.net/embed-w6hfsne0k178.html",
-            "https://vimeos.net/embed-5qdhihngetir.html"
-          ]
-        }
-      }
-    },
-    {
-      "id": "s_74081",
-      "tmdb_id": 74081,
-      "nombre": "Blend S",
-      "poster": "https://image.tmdb.org/t/p/w500/slrd0u0lHoQlTTpy7U0A62iWGxB.jpg",
-      "categorias": [
-        "comedia",
-        "drama",
-        "animacion",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": [
-            "https://vimeos.net/embed-hilwmb5rzn8y.html",
-            "https://vimeos.net/embed-u7xbv6c5ujvj.html"
-          ],
-          "8": [
-            "https://vimeos.net/embed-xxa89nophofh.html",
-            "https://vimeos.net/embed-mrnura8ohwje.html"
-          ],
-          "2": [
-            "https://vimeos.net/embed-ecq7ixhtq437.html",
-            "https://vimeos.net/embed-bzqftonjxhq6.html"
-          ],
-          "9": [
-            "https://vimeos.net/embed-y9da8cc807ku.html",
-            "https://vimeos.net/embed-cx4jt41mgycs.html"
-          ],
-          "1": [
-            "https://vimeos.net/embed-5515r5y7pifo.html",
-            "https://vimeos.net/embed-bk6z177w8a0s.html"
-          ],
-          "11": [
-            "https://vimeos.net/embed-w0uqfq7h9p21.html",
-            "https://vimeos.net/embed-3z23mnve7zho.html"
-          ],
-          "10": [
-            "https://vimeos.net/embed-pc1cuz9u589i.html",
-            "https://vimeos.net/embed-mxz8h9ekjipl.html"
-          ],
-          "5": [
-            "https://vimeos.net/embed-hutthqlpypqb.html",
-            "https://vimeos.net/embed-8czsiypmnw6g.html"
-          ],
-          "6": [
-            "https://vimeos.net/embed-oag0jn688rav.html",
-            "https://vimeos.net/embed-di6dambvu08g.html"
-          ],
-          "12": [
-            "https://vimeos.net/embed-leczpau7jszc.html",
-            "https://vimeos.net/embed-5j3nc8xiol7g.html"
-          ],
-          "7": [
-            "https://vimeos.net/embed-q8p8vnmt2aej.html",
-            "https://vimeos.net/embed-mxb3eld61yf0.html"
-          ],
-          "3": [
-            "https://vimeos.net/embed-v8yjy6uxy55r.html",
-            "https://vimeos.net/embed-aiawyg4lcz0c.html"
-          ]
-        }
-      }
-    },
-    {
-      "id": "s_76127",
-      "tmdb_id": 76127,
-      "nombre": "Hakumei to Mikochi",
-      "poster": "https://image.tmdb.org/t/p/w500/z07OXMsug7GxKMAQxZcwYsPx43x.jpg",
-      "categorias": [
-        "ficcion",
-        "comedia",
-        "animacion",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": [
-            "https://vimeos.net/embed-ilmk4bujavgw.html",
-            "https://vimeos.net/embed-3wm6ckh5jyiz.html"
-          ],
-          "8": [
-            "https://vimeos.net/embed-krmi8fb4xv4a.html",
-            "https://vimeos.net/embed-yvwsdlbftw8z.html"
-          ],
-          "2": [
-            "https://vimeos.net/embed-lc97h8158ibt.html",
-            "https://vimeos.net/embed-25542bibha5h.html"
-          ],
-          "9": [
-            "https://vimeos.net/embed-7ed5otcqhpet.html",
-            "https://vimeos.net/embed-zvrlnzcg4n08.html"
-          ],
-          "1": [
-            "https://vimeos.net/embed-sxmg3omoftvs.html",
-            "https://vimeos.net/embed-rl6cumofyus3.html"
-          ],
-          "11": [
-            "https://vimeos.net/embed-vd5clo0ggubl.html",
-            "https://vimeos.net/embed-s0lwu052v555.html"
-          ],
-          "10": [
-            "https://vimeos.net/embed-nr9ra2bukjrk.html",
-            "https://vimeos.net/embed-rdbwwpbjfbpc.html"
-          ],
-          "5": [
-            "https://vimeos.net/embed-t7py9j5kpzdr.html",
-            "https://vimeos.net/embed-cp80w1hnd5ad.html"
-          ],
-          "6": [
-            "https://vimeos.net/embed-m1f6lhq5j77z.html",
-            "https://vimeos.net/embed-8aspjyy83za1.html"
-          ],
-          "12": [
-            "https://vimeos.net/embed-q1e3rlvfopox.html",
-            "https://vimeos.net/embed-valef2wpfn0a.html"
-          ],
-          "7": [
-            "https://vimeos.net/embed-sma1ir83nrlr.html",
-            "https://vimeos.net/embed-427lus51q9l9.html"
-          ],
-          "3": [
-            "https://vimeos.net/embed-xh3ftou7nzoe.html",
-            "https://vimeos.net/embed-9bythj56cqqb.html"
-          ]
         }
       }
     }

@@ -1,10 +1,179 @@
 {
   "type": "peliculas",
-  "total": 17743,
-  "version": 112,
+  "total": 17753,
+  "version": 113,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_1789549",
+      "tmdb_id": 1789549,
+      "nombre": "El regalo de cumpleaños",
+      "poster": "https://image.tmdb.org/t/p/w500/rtifYyLgIgACVwsbVodZ3TZ2Yde.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/el6mc1lzel5k",
+          "voesx": "https://voe.sx/e/n0xzlpghafkr",
+          "vidhide": "https://vidhidepro.com/v/9gvtmn36qk2m"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/oethaecdi6ac",
+          "voesx": "https://voe.sx/e/04g8n584sume",
+          "vidhide": "https://vidhidepro.com/v/0lnv00uvc8hb"
+        }
+      }
+    },
+    {
+      "id": "p_1507696",
+      "tmdb_id": 1507696,
+      "nombre": "Apocalipsis Z: Nuevo mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español": {
+          "streamwish": "https://streamwish.to/e/cds4tiv1vin8",
+          "voesx": "https://voe.sx/e/aq1ag8uxtuse",
+          "vidhide": "https://vidhidepro.com/v/hul45reqgl89"
+        }
+      }
+    },
+    {
+      "id": "p_1284777",
+      "tmdb_id": 1284777,
+      "nombre": "أوسكار: عودة الماموث",
+      "poster": "https://image.tmdb.org/t/p/w500/oIMZzqP9scAxPOrlOYA5Vw9nlZn.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/hyb9nlugfn4x",
+          "voesx": "https://voe.sx/e/wvxg1svu4qp0",
+          "vidhide": "https://vidhidepro.com/v/9bxqjozyzvad"
+        }
+      }
+    },
+    {
+      "id": "p_1428990",
+      "tmdb_id": 1428990,
+      "nombre": "This Is Not a Test",
+      "poster": "https://image.tmdb.org/t/p/w500/w9hlWR9jOVQPiWuMrWqDBirkfmI.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/nrzsw8y0wi34",
+          "voesx": "https://voe.sx/e/mk9emeez46mt",
+          "vidhide": "https://vidhidepro.com/v/vmn5ss8bsv2n"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/tglwiskgv3pe",
+          "voesx": "https://voe.sx/e/w1vgy3ooregz",
+          "vidhide": "https://vidhidepro.com/v/s73axd2k0l3w"
+        }
+      }
+    },
+    {
+      "id": "p_1393056",
+      "tmdb_id": 1393056,
+      "nombre": "Mickey's Slayhouse",
+      "poster": "https://image.tmdb.org/t/p/w500/s6ts9TOGZm41FcL4kmSGV8m1XNr.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/lvzyxsmkpefk",
+          "voesx": "https://voe.sx/e/veb8jtlt5qiq",
+          "vidhide": "https://vidhidepro.com/v/bio0qxi84dsa"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/nq13riuxzfsq",
+          "voesx": "https://voe.sx/e/ijja1zvmce74",
+          "vidhide": "https://vidhidepro.com/v/h6h36hiejigr"
+        }
+      }
+    },
+    {
+      "id": "p_791523",
+      "tmdb_id": 791523,
+      "nombre": "Wildwood: El Bosque Salvaje",
+      "poster": "https://image.tmdb.org/t/p/w500/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/otsrscn48yot",
+          "voesx": "https://voe.sx/e/sqinoxcomno5",
+          "vidhide": "https://vidhidepro.com/v/ru1aohtwuv3q"
+        }
+      }
+    },
+    {
+      "id": "p_1541477",
+      "tmdb_id": 1541477,
+      "nombre": "Nosotros, pero un poco mejor",
+      "poster": "https://image.tmdb.org/t/p/w500/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/y0p4u7za4usm",
+          "voesx": "https://voe.sx/e/h4dt31kfszps",
+          "vidhide": "https://vidhidepro.com/v/vebwgg2p8ond"
+        }
+      }
+    },
+    {
+      "id": "p_1128204",
+      "tmdb_id": 1128204,
+      "nombre": "Feed",
+      "poster": "https://image.tmdb.org/t/p/w500/7rbcPfN9nOWMCTbeIJvTed5prBi.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/nf2ma3873w0o",
+          "voesx": "https://voe.sx/e/xaytixhrjokn",
+          "vidhide": "https://vidhidepro.com/v/18pnr6cry3gy"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-g9ckz4q8dtr5.html"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/n4lhsyiibj4o",
+          "voesx": "https://voe.sx/e/i4vrsxqlbbtp",
+          "vidhide": "https://vidhidepro.com/v/z4p6ohwqybte"
+        }
+      }
+    },
+    {
+      "id": "p_331265",
+      "tmdb_id": 331265,
+      "nombre": "La novicia rebelde",
+      "poster": "https://image.tmdb.org/t/p/w500/cXpTcBHwbWhU5DF1xfaAx8Hr9X4.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ve0wdjg3m82v.html"
+        }
+      }
+    },
+    {
+      "id": "p_6949",
+      "tmdb_id": 6949,
+      "nombre": "¿Qué me pasa, doctor?",
+      "poster": "https://image.tmdb.org/t/p/w500/3JoCcFkyInNh1C8Hb0mhCDldMDN.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-213v0imhlqwz.html"
+        }
+      }
+    },
     {
       "id": "p_154200",
       "tmdb_id": 154200,
@@ -173573,195 +173742,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-lv3rfhihhkzm.html"
-        }
-      }
-    },
-    {
-      "id": "p_815152",
-      "tmdb_id": 815152,
-      "nombre": "Painkiller",
-      "poster": "https://image.tmdb.org/t/p/w500/2YlkF8TxVCh06GDMrYTYTIjweo0.jpg",
-      "calidad": "HD",
-      "generos": [
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-k88stihbioqd.html"
-        }
-      }
-    },
-    {
-      "id": "p_32032",
-      "tmdb_id": 32032,
-      "nombre": "David y Catriona",
-      "poster": "https://image.tmdb.org/t/p/w500/tatgNJ8gabsA2y9gIX4mkjqPiKP.jpg",
-      "calidad": "HD",
-      "generos": [
-        "aventura",
-        "historia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-h8icj802lrhq.html"
-        }
-      }
-    },
-    {
-      "id": "p_602734",
-      "tmdb_id": 602734,
-      "nombre": "Spiral: Saw",
-      "poster": "https://image.tmdb.org/t/p/w500/97WyFdS8pQerysSSGezafXHW5ZH.jpg",
-      "calidad": "4K",
-      "generos": [
-        "terror",
-        "misterio"
-      ],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/8sb6ypqyjcv1",
-          "fastream": "https://fastream.to/embed-imu5tsi4r7k8.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-7qlni3mtbjpc.html"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/eyxainv1nbj7"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/jjv0bj40wht4"
-        }
-      }
-    },
-    {
-      "id": "p_624793",
-      "tmdb_id": 624793,
-      "nombre": "Creation Stories",
-      "poster": "https://image.tmdb.org/t/p/w500/2qjWOHYUjJhw5qe86Qk790vaegf.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "musica"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-8y2dn0qb86m9.html"
-        }
-      }
-    },
-    {
-      "id": "p_826048",
-      "tmdb_id": 826048,
-      "nombre": "Blue Call",
-      "poster": "https://image.tmdb.org/t/p/w500/sOvkpcdGgJnIwl7d8YcUuQ2d4bQ.jpg",
-      "calidad": "HD",
-      "generos": [
-        "terror"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-du5ee9sgpj33.html"
-        }
-      }
-    },
-    {
-      "id": "p_797946",
-      "tmdb_id": 797946,
-      "nombre": "Ritual maldito",
-      "poster": "https://image.tmdb.org/t/p/w500/fYw6hMTAces9aWbiE4Nscr50E38.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/uzqlw4eyr47a",
-          "voesx": "https://voe.sx/e/dj3m3jh8pd8m"
-        }
-      }
-    },
-    {
-      "id": "p_578701",
-      "tmdb_id": 578701,
-      "nombre": "Aquellos que desean mi muerte",
-      "poster": "https://image.tmdb.org/t/p/w500/tu6kz9Ejm7wljiO58waAuwn1miV.jpg",
-      "calidad": "4K",
-      "generos": [
-        "suspenso",
-        "accion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/e2s5u520blxy",
-          "fastream": "https://fastream.to/embed-d16ty6ndug9b.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-xiedc8g6vdkc.html"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/uwz3ngca6km7"
-        }
-      }
-    },
-    {
-      "id": "p_824617",
-      "tmdb_id": 824617,
-      "nombre": "Mexican Moon",
-      "poster": "https://image.tmdb.org/t/p/w500/3lqrL4zCe59OmiWGOUUQ1uvFGkq.jpg",
-      "calidad": "HD",
-      "generos": [
-        "crimen",
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-q62x4tb95ds0.html"
-        }
-      }
-    },
-    {
-      "id": "p_717192",
-      "tmdb_id": 717192,
-      "nombre": "Ferry",
-      "poster": "https://image.tmdb.org/t/p/w500/w6n1pu9thpCVHILejsuhKf3tNCV.jpg",
-      "calidad": "HD",
-      "generos": [
-        "crimen",
-        "drama",
-        "accion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-rpw31ad9mtds.html"
-        }
-      }
-    },
-    {
-      "id": "p_823855",
-      "tmdb_id": 823855,
-      "nombre": "Yo soy todas ellas",
-      "poster": "https://image.tmdb.org/t/p/w500/jAzX5TSKREp3Mhq7nqew4DcXjRZ.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/2wh6ypjddb6j"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/brzwxdsvz9h9"
-        }
-      }
-    },
-    {
-      "id": "p_48158",
-      "tmdb_id": 48158,
-      "nombre": "Sarutobi Sasuke and the Army of Darkness 2 - The Earth Chapter",
-      "poster": "https://image.tmdb.org/t/p/w500/1zblmOiCW1RhNuOaUXPQjWt7IfV.jpg",
-      "calidad": "HD",
-      "generos": [
-        "accion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-m7707lsysqfx.html"
         }
       }
     }

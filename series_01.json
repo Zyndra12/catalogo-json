@@ -1,10 +1,227 @@
 {
   "type": "series",
-  "total": 3739,
-  "version": 112,
+  "total": 3743,
+  "version": 113,
   "chunk": 1,
   "chunks_total": 4,
   "items": [
+    {
+      "id": "s_313699",
+      "tmdb_id": 313699,
+      "nombre": "Balaraw: La isla sangrienta",
+      "poster": "https://image.tmdb.org/t/p/w500/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+      "categorias": [
+        "misterio",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/6tlz7ofxpxg9",
+              "voesx": "https://voe.sx/e/vxrvh1u8niiv",
+              "vidhide": "https://vidhidepro.com/v/13pps54gzuwh"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/32r4xp49hak5",
+              "voesx": "https://voe.sx/e/fe4e6mwbqmz1",
+              "vidhide": "https://vidhidepro.com/v/z5b2v3n0zycu"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1cdzgysvb80e",
+              "voesx": "https://voe.sx/e/fuccuph8kozb",
+              "vidhide": "https://vidhidepro.com/v/btm14fi2s1ww"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/h1fzckf4w9vc",
+              "voesx": "https://voe.sx/e/y79x8hfgms4y",
+              "vidhide": "https://vidhidepro.com/v/nx27kttbnj31"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/jwb0r8kbsge0",
+              "voesx": "https://voe.sx/e/u0yh0ipopz7r",
+              "vidhide": "https://vidhidepro.com/v/vkyvg2o6wm1o"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/xwlg59rivxzz",
+              "voesx": "https://voe.sx/e/tukkpao0a4fn",
+              "vidhide": "https://vidhidepro.com/v/x2xxso1sqw6s"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_336240",
+      "tmdb_id": 336240,
+      "nombre": "El intercambio",
+      "poster": "https://image.tmdb.org/t/p/w500/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+      "categorias": [
+        "misterio",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/xfkvzycko4b0",
+              "voesx": "https://voe.sx/e/ybhvmgyv8up6"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/g1v35dt3f1ya",
+              "voesx": "https://voe.sx/e/ossezfsfxwyn",
+              "vidhide": "https://vidhidepro.com/v/f46ir19nau32"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/uim0310bll3a",
+              "voesx": "https://voe.sx/e/s3z0myxb2ynw",
+              "vidhide": "https://vidhidepro.com/v/22loi5abew81"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/8zf3fqsu3hfx",
+              "voesx": "https://voe.sx/e/k3sap1ecphgp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_334700",
+      "tmdb_id": 334700,
+      "nombre": "El don de engañar",
+      "poster": "https://image.tmdb.org/t/p/w500/2xP7n3cQ5cvHaoMqmpAKt86feBl.jpg",
+      "categorias": [
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/lmcpemfvvh3n",
+              "voesx": "https://voe.sx/e/ozsthwz9ujjw",
+              "vidhide": "https://vidhidepro.com/v/q9w6ignxocwr"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/mj6619dhuchn",
+              "voesx": "https://voe.sx/e/ik3m4bsdnopo",
+              "vidhide": "https://vidhidepro.com/v/g7ml19zkxx3b"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/kwfs6n563icb",
+              "voesx": "https://voe.sx/e/gtjac9qsvtxc",
+              "vidhide": "https://vidhidepro.com/v/fuun5mcmxnvl"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/d3m1dnqtzl15",
+              "voesx": "https://voe.sx/e/axfji53y4srg",
+              "vidhide": "https://vidhidepro.com/v/kqpq5oxaa65k"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/9xjt80ods9d6",
+              "voesx": "https://voe.sx/e/lcda1jkmwjca",
+              "vidhide": "https://vidhidepro.com/v/7v8matubruqh"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/p1jevhneuawp",
+              "voesx": "https://voe.sx/e/m0ehca86wvva",
+              "vidhide": "https://vidhidepro.com/v/fvp4q1y8jml0"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/9iyirwfvdh34",
+              "voesx": "https://voe.sx/e/ygmcwd3z5q3p",
+              "vidhide": "https://vidhidepro.com/v/rwn3l4t42eem"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/al9otnkjdwlx",
+              "voesx": "https://voe.sx/e/daa72kx855bm",
+              "vidhide": "https://vidhidepro.com/v/vshrtjl03toy"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/7hlkbi211zwz",
+              "voesx": "https://voe.sx/e/atslxiitkpun",
+              "vidhide": "https://vidhidepro.com/v/xn9ldxs55z47"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/nwdm7f02cphf",
+              "voesx": "https://voe.sx/e/a1hy2ngusro8",
+              "vidhide": "https://vidhidepro.com/v/p76q7cwwt1gv"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_338689",
+      "tmdb_id": 338689,
+      "nombre": "La Caída de El Mayo",
+      "poster": "https://image.tmdb.org/t/p/w500/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+      "categorias": [
+        "documental",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/khhemu4pzcrt",
+              "voesx": "https://voe.sx/e/j5qzgfltyici",
+              "vidhide": "https://vidhidepro.com/v/dae7vvjiigtv"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/5x3qbrx6un4d",
+              "voesx": "https://voe.sx/e/fmsqm6kle4fn",
+              "vidhide": "https://vidhidepro.com/v/wr1paq1qikpy"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/giwof88hczlb",
+              "voesx": "https://voe.sx/e/xki0r6asr96d",
+              "vidhide": "https://vidhidepro.com/v/i7yr8syg9cex"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_289892",
       "tmdb_id": 289892,
@@ -8591,6 +8808,7 @@
             "español latino": {
               "streamwish": "https://streamwish.to/e/s820ik95ffru",
               "earnvids": "https://morencius.com/embed/z31mpdfk675t",
+              "voesx": "https://voe.sx/e/9lusaaqat6ku",
               "vidhide": "https://vidhidepro.com/v/79dgehsxe1pu"
             }
           },
@@ -8598,23 +8816,40 @@
             "español latino": {
               "streamwish": "https://streamwish.to/e/yeajbzamnfkg",
               "earnvids": "https://morencius.com/embed/3rejn0ujjdzp",
-              "vidhide": "https://vidhidepro.com/v/e96v0tmkbykk",
-              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=2&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
+              "voesx": "https://voe.sx/e/ygjqoixgvykf",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=2&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1",
+              "vidhide": "https://vidhidepro.com/v/e96v0tmkbykk"
             }
           },
           "1": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/oqfrwa7jyfre",
               "earnvids": "https://morencius.com/embed/ff2tmyjmv54f",
-              "vidhide": "https://vidhidepro.com/v/sog0tcpo5a8t",
-              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=1&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
+              "voesx": "https://voe.sx/e/urpkfoxbup62",
+              "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=1&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1",
+              "vidhide": "https://vidhidepro.com/v/sog0tcpo5a8t"
             }
           },
           "3": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/2lxth10vt61z",
               "earnvids": "https://morencius.com/embed/g59sw9p2p89d",
+              "voesx": "https://voe.sx/e/25wpwjhhu5ff",
               "vidhide": "https://vidhidepro.com/v/0nfyy14j43i2"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/44o6w9lh4qs2",
+              "voesx": "https://voe.sx/e/vmz81ew4s8rj",
+              "vidhide": "https://vidhidepro.com/v/lus7tn8jnbbr"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/qemwwskqjklz",
+              "voesx": "https://voe.sx/e/un0vzeotuuqn",
+              "vidhide": "https://vidhidepro.com/v/94kujpyo5wk1"
             }
           }
         }
@@ -150317,266 +150552,6 @@
               "streamwish": "https://streamwish.to/e/rqhyub02myrc",
               "voesx": "https://voe.sx/e/5k5aow1hqiuc",
               "wolfstream": "https://wolfstream.tv/e/ggxgxx9akp9a"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_118546",
-      "tmdb_id": 118546,
-      "nombre": "Escuela de Clones",
-      "poster": "https://image.tmdb.org/t/p/w500/vw4IXzVhFJWyupZCpJWPSWbctzN.jpg",
-      "categorias": [
-        "serie",
-        "comedia",
-        "animacion"
-      ],
-      "temporadas": {
-        "2": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/lwcj26vwej95"
-            }
-          },
-          "8": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/rew0p4mzl5t8"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/vkmg4s28hd1x"
-            }
-          },
-          "9": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/g4r4ewbynepn"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/fghtyw00tq2g"
-            }
-          },
-          "6": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/hvp7wod6dv5w"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/6mrl569t6q3x"
-            }
-          },
-          "10": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/m6xe011vr0qj"
-            }
-          },
-          "7": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/6ndwvae1dkeb"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ndvtxh99p75d"
-            }
-          }
-        },
-        "1": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/s3353ktxjlhl"
-            }
-          },
-          "8": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/gi6ixi70i7dz"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ecub51j1pm0s"
-            }
-          },
-          "9": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/z3121ffoycip"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/edophyiqe0d1"
-            }
-          },
-          "6": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/kr9b50kgora5"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/y8nxq4aqu79s"
-            }
-          },
-          "10": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/1ycq6ksbhaci"
-            }
-          },
-          "7": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/x2pmzz3i38xf"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/5cxu01rg1mri"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_225732",
-      "tmdb_id": 225732,
-      "nombre": "Gente Sirena",
-      "poster": "https://image.tmdb.org/t/p/w500/lWIcDfmMOWOxGqMG0OPytMpWWcr.jpg",
-      "categorias": [
-        "documental",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/reffkk8kmyfv"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/dx2cjxmfbpg7"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/thblp16t4zbe"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/b8m59d9eja9d"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_225217",
-      "tmdb_id": 225217,
-      "nombre": "A ambos lados del abismo",
-      "poster": "https://image.tmdb.org/t/p/w500/4UcfOIHnUVxfPW3lIFhzDgYWZrl.jpg",
-      "categorias": [
-        "serie",
-        "drama",
-        "crimen"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/x07j6qnarpqi"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/yp39q82lqwir"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/7hzgnxgeprj4"
-            }
-          },
-          "6": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/s6hvngem7oiu"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/pxng3ovhwqdx"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/v0wr1r147ii8"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_312697",
-      "tmdb_id": 312697,
-      "nombre": "Deber de jurado presenta: Retiro de empresa",
-      "poster": "https://image.tmdb.org/t/p/w500/nunEk2OXJWMaqZVYYmpY5emuZR3.jpg",
-      "categorias": [
-        "serie",
-        "comedia"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFl2UmlGUjhZc0kzR2xocVBKY2JzNEI4VmM3cDF0SHdqM2d1OHZFZUFiWQ=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZOFhrV2ZHdlFER2R6WXFKRGV5Q2RHdjRGQnQyZDBaOU8rYzZxeGc5cnErcg=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCd1NLbEg4cHVtL3UrcjFKVm11TmpZT28yTlJnOHhJVzNDOTZCQkpXc0Y5SA=="
-            }
-          },
-          "9": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZMFJOanV3OUZrQ0xveHZKQUJyYU1ZdGhZUTFWL0FUMnZ3Qjgyci94TDdUWg=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeE1yMHUxYUdHSlc3TXFzMVZ1WnZoVllGTkp3Q0lpanZjVzBtQWJOOG5RSQ=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZenExMmRvODl5S1FXSjYvWWN5a0ozSms3KzFvajZUbVFsdkZwaXdtalE0Qg=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=U0NEV21LZzY1YkU3TGd4S0hJcHlqb0tDeVlxREg2ZEw5b09vWE1GdHNJRT0="
-            }
-          },
-          "10": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCeG44eTB0Y1JNMER2VXR4M1RYWDZyUi9VeENTOVp6WFRuaGRzQm9JdFBLUQ=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=NTRpYnVaaDg0a3U5SXRKOS9OYjlZNWdJc252akNnR285TVBlTzZwMFoyOFhVRUlCR3IyVjVFQnVzNmVTbjlYbQ=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=Ti9jbURRRmR4Z3lxVTNSdjlnbmlCMUdlbVpXOHZCYlJJL1ZhS1p1U0xuUzBQcmlVSDV2cFFVOGJRSm5PMnJrQg=="
             }
           }
         }
