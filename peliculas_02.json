@@ -1,10 +1,184 @@
 {
   "type": "peliculas",
-  "total": 17753,
-  "version": 113,
+  "total": 17762,
+  "version": 114,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_797309",
+      "tmdb_id": 797309,
+      "nombre": "Notorious B.I.G.: I Got a Story to Tell",
+      "poster": "https://image.tmdb.org/t/p/w500/wwMZiuoucmdVxZmj4HjYSLwAFJh.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-8mjei0837x4c.html"
+        }
+      }
+    },
+    {
+      "id": "p_602302",
+      "tmdb_id": 602302,
+      "nombre": "Recalled",
+      "poster": "https://image.tmdb.org/t/p/w500/5VdCj7o8DsDz66MYwX3iV2Stia3.jpg",
+      "calidad": "HD",
+      "generos": [
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-6lzavmgrfyzj.html"
+        }
+      }
+    },
+    {
+      "id": "p_503736",
+      "tmdb_id": 503736,
+      "nombre": "Ejército de los muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/4h1Uc13QPjHTTUX0bikICWUxTSV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "accion",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-321571r1czd1.html"
+        }
+      }
+    },
+    {
+      "id": "p_572628",
+      "tmdb_id": 572628,
+      "nombre": "Aku no Hana",
+      "poster": "https://image.tmdb.org/t/p/w500/52pOQ52IeQRA2tI3cEZ12Se4GKh.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-futu90jpomgk.html"
+        }
+      }
+    },
+    {
+      "id": "p_337404",
+      "tmdb_id": 337404,
+      "nombre": "Cruella",
+      "poster": "https://image.tmdb.org/t/p/w500/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "crimen",
+        "aventura"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/ojeswt540rk2",
+          "filelions": "https://filelions.to/v/rf6mw7kupxdu",
+          "fastream": "https://fastream.to/embed-dptljslv3e7p.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-fjxz3dlhoyqw.html"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/b2739austyg7"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/te51ykgvlpdp"
+        }
+      }
+    },
+    {
+      "id": "p_782739",
+      "tmdb_id": 782739,
+      "nombre": "The Rise of Sir Longbottom",
+      "poster": "https://image.tmdb.org/t/p/w500/nNVigXo8HVz04KeAW73D4furgFC.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "comedia",
+        "ficcion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kxj6iu39vbu5.html"
+        }
+      }
+    },
+    {
+      "id": "p_784393",
+      "tmdb_id": 784393,
+      "nombre": "Amor en las Alturas",
+      "poster": "https://image.tmdb.org/t/p/w500/kx79D9GEq33U694suW2TtIkk7xe.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-3okziwlv8e59.html"
+        }
+      }
+    },
+    {
+      "id": "p_831227",
+      "tmdb_id": 831227,
+      "nombre": "Liars and Cheats",
+      "poster": "https://image.tmdb.org/t/p/w500/tMnOKKOnqe1Wzdxoi3BW0cZ5KQ6.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-522g1p3191kr.html"
+        }
+      }
+    },
+    {
+      "id": "p_641668",
+      "tmdb_id": 641668,
+      "nombre": "Invocación mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/AuRtSx0XTmB6AIkxVdSFTdR6PfJ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2clze0xv41z5.html"
+        }
+      }
+    },
+    {
+      "id": "p_734780",
+      "tmdb_id": 734780,
+      "nombre": "Un último deseo",
+      "poster": "https://image.tmdb.org/t/p/w500/nlQFKybBpJrpKS65wd7lhiSpnkt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama",
+        "romance",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-lv3rfhihhkzm.html"
+        }
+      }
+    },
     {
       "id": "p_815152",
       "tmdb_id": 815152,
@@ -54441,7 +54615,7 @@
       "tmdb_id": 10003,
       "nombre": "El santo",
       "poster": "https://image.tmdb.org/t/p/w500/lTfhfGiwXTEiK3NQwsAwbw7aTEb.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "suspenso",
         "accion",
@@ -54452,6 +54626,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-vbcl077h5zpl.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8uoz5wxqd3wd.html"
         }
       }
     },

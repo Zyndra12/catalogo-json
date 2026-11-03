@@ -1,10 +1,142 @@
 {
   "type": "peliculas",
-  "total": 17753,
-  "version": 113,
+  "total": 17762,
+  "version": 114,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_41294",
+      "tmdb_id": 41294,
+      "nombre": "Por mis pistolas",
+      "poster": "https://image.tmdb.org/t/p/w500/ssKgWBjx2CmoFvqE8EwbialwRFo.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-8qua3wzp7q8q.html"
+        }
+      }
+    },
+    {
+      "id": "p_1571955",
+      "tmdb_id": 1571955,
+      "nombre": "Colisión",
+      "poster": "https://image.tmdb.org/t/p/w500/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-qj53dimzpcge.html"
+        }
+      }
+    },
+    {
+      "id": "p_39514",
+      "tmdb_id": 39514,
+      "nombre": "Red",
+      "poster": "https://image.tmdb.org/t/p/w500/98L63uVsv71kFWeM4ECdQ0Ko44a.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-i1blc8qy9pev.html"
+        }
+      }
+    },
+    {
+      "id": "p_30131",
+      "tmdb_id": 30131,
+      "nombre": "El Siete Machos",
+      "poster": "https://image.tmdb.org/t/p/w500/stghzuBSuhiBbvAIxrm8D0G8m1z.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ikcw0xe8ctzk.html"
+        }
+      }
+    },
+    {
+      "id": "p_11517",
+      "tmdb_id": 11517,
+      "nombre": "Asalto al tren del dinero",
+      "poster": "https://image.tmdb.org/t/p/w500/um0DjdiCWm0IdKqySjQAlkV6rvv.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-twbl3tifi6ig.html"
+        }
+      }
+    },
+    {
+      "id": "p_1813355",
+      "tmdb_id": 1813355,
+      "nombre": "La historia de Derry",
+      "poster": "https://image.tmdb.org/t/p/w500/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/sz3zfu545ims",
+          "vidhide": "https://vidhidepro.com/v/wy568x24cqoq"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-vq0dyf5d7on1.html"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/50gk2lciz4e9",
+          "vidhide": "https://vidhidepro.com/v/eyrpk1p3oy8n"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/bblcym5dntwa",
+          "vidhide": "https://vidhidepro.com/v/dlqgxql0gn2l"
+        }
+      }
+    },
+    {
+      "id": "p_1458099",
+      "tmdb_id": 1458099,
+      "nombre": "El unico carterista vivo de Nueva York",
+      "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/is9upffgu4i1",
+          "vidhide": "https://vidhidepro.com/v/emqmkfznvahf"
+        }
+      }
+    },
+    {
+      "id": "p_891621",
+      "tmdb_id": 891621,
+      "nombre": "Wild Horse Nine",
+      "poster": "https://image.tmdb.org/t/p/w500/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/ncoyu37o4v2q",
+          "vidhide": "https://vidhidepro.com/v/nu9w2r0c3jbx"
+        }
+      }
+    },
+    {
+      "id": "p_1556321",
+      "tmdb_id": 1556321,
+      "nombre": "ธี่หยด: สมิงเขาขวาง",
+      "poster": "https://image.tmdb.org/t/p/w500/tOhbvoTC10Nf9WTBI1EIwaXz9Et.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/61fpcupdexed",
+          "vidhide": "https://vidhidepro.com/v/ct30mgvhemr0"
+        }
+      }
+    },
     {
       "id": "p_1789549",
       "tmdb_id": 1789549,
@@ -276,13 +408,16 @@
       "tmdb_id": 1596275,
       "nombre": "Drive: Los farsantes",
       "poster": "https://image.tmdb.org/t/p/w500/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/2zlxz5mng4fl",
           "voesx": "https://voe.sx/e/zyzgxu3h7uw4",
           "vidhide": "https://vidhidepro.com/v/st9c8ghbf514"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-iv11jno4h9js.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/6fb3qk9j7m6e",
@@ -11069,11 +11204,14 @@
       "tmdb_id": 15121,
       "nombre": "Sonrisas y lágrimas",
       "poster": "https://image.tmdb.org/t/p/w500/3mYxH1mwSmNoyZF4xvDvcEpH18F.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/qkozve15ti51"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ve0wdjg3m82v.html"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/hzwmgcwuxjtp"
@@ -21688,12 +21826,15 @@
       "tmdb_id": 12589,
       "nombre": "Jimmy Neutron: El niño inventor",
       "poster": "https://image.tmdb.org/t/p/w500/vRf2iD68aCbNJnhjD3cTi2bFTg1.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/ngv7kaczk3cr",
           "filelions": "https://filelions.to/v/en2p3za5i2ja"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-4hp3fdvie2yw.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/d458xxr9j0i4"
@@ -23997,13 +24138,17 @@
       "generos": [],
       "fuentes": {
         "español latino": {
-          "streamwish": "https://streamwish.to/e/u9m8tnxw0qgb"
+          "streamwish": "https://streamwish.to/e/i4ax8tyaypyj",
+          "vidara": "https://vidara.to/e/eGTA3R5ErDgKS",
+          "vidhide": "https://vidhidepro.com/v/2oqecjmq1jw8"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/dde035zwssx2"
         },
         "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/ojr5yjlvj6iy"
+          "streamwish": "https://streamwish.to/e/ikiodc1vk4h9",
+          "vidara": "https://vidara.to/e/42IlMBNoPCFlN",
+          "vidhide": "https://vidhidepro.com/v/yrobnbvt3mf4"
         }
       }
     },
@@ -173568,180 +173713,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-k7a8l2u6oqvc.html"
-        }
-      }
-    },
-    {
-      "id": "p_797309",
-      "tmdb_id": 797309,
-      "nombre": "Notorious B.I.G.: I Got a Story to Tell",
-      "poster": "https://image.tmdb.org/t/p/w500/wwMZiuoucmdVxZmj4HjYSLwAFJh.jpg",
-      "calidad": "HD",
-      "generos": [
-        "musica"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-8mjei0837x4c.html"
-        }
-      }
-    },
-    {
-      "id": "p_602302",
-      "tmdb_id": 602302,
-      "nombre": "Recalled",
-      "poster": "https://image.tmdb.org/t/p/w500/5VdCj7o8DsDz66MYwX3iV2Stia3.jpg",
-      "calidad": "HD",
-      "generos": [
-        "misterio",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-6lzavmgrfyzj.html"
-        }
-      }
-    },
-    {
-      "id": "p_503736",
-      "tmdb_id": 503736,
-      "nombre": "Ejército de los muertos",
-      "poster": "https://image.tmdb.org/t/p/w500/4h1Uc13QPjHTTUX0bikICWUxTSV.jpg",
-      "calidad": "HD",
-      "generos": [
-        "crimen",
-        "accion",
-        "terror"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-321571r1czd1.html"
-        }
-      }
-    },
-    {
-      "id": "p_572628",
-      "tmdb_id": 572628,
-      "nombre": "Aku no Hana",
-      "poster": "https://image.tmdb.org/t/p/w500/52pOQ52IeQRA2tI3cEZ12Se4GKh.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "romance",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-futu90jpomgk.html"
-        }
-      }
-    },
-    {
-      "id": "p_337404",
-      "tmdb_id": 337404,
-      "nombre": "Cruella",
-      "poster": "https://image.tmdb.org/t/p/w500/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
-      "calidad": "4K",
-      "generos": [
-        "comedia",
-        "crimen",
-        "aventura"
-      ],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/ojeswt540rk2",
-          "filelions": "https://filelions.to/v/rf6mw7kupxdu",
-          "fastream": "https://fastream.to/embed-dptljslv3e7p.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-fjxz3dlhoyqw.html"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/b2739austyg7"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/te51ykgvlpdp"
-        }
-      }
-    },
-    {
-      "id": "p_782739",
-      "tmdb_id": 782739,
-      "nombre": "The Rise of Sir Longbottom",
-      "poster": "https://image.tmdb.org/t/p/w500/nNVigXo8HVz04KeAW73D4furgFC.jpg",
-      "calidad": "HD",
-      "generos": [
-        "accion",
-        "comedia",
-        "ficcion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-kxj6iu39vbu5.html"
-        }
-      }
-    },
-    {
-      "id": "p_784393",
-      "tmdb_id": 784393,
-      "nombre": "Amor en las Alturas",
-      "poster": "https://image.tmdb.org/t/p/w500/kx79D9GEq33U694suW2TtIkk7xe.jpg",
-      "calidad": "HD",
-      "generos": [
-        "romance",
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-3okziwlv8e59.html"
-        }
-      }
-    },
-    {
-      "id": "p_831227",
-      "tmdb_id": 831227,
-      "nombre": "Liars and Cheats",
-      "poster": "https://image.tmdb.org/t/p/w500/tMnOKKOnqe1Wzdxoi3BW0cZ5KQ6.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-522g1p3191kr.html"
-        }
-      }
-    },
-    {
-      "id": "p_641668",
-      "tmdb_id": 641668,
-      "nombre": "Invocación mortal",
-      "poster": "https://image.tmdb.org/t/p/w500/AuRtSx0XTmB6AIkxVdSFTdR6PfJ.jpg",
-      "calidad": "HD",
-      "generos": [
-        "terror"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-2clze0xv41z5.html"
-        }
-      }
-    },
-    {
-      "id": "p_734780",
-      "tmdb_id": 734780,
-      "nombre": "Un último deseo",
-      "poster": "https://image.tmdb.org/t/p/w500/nlQFKybBpJrpKS65wd7lhiSpnkt.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "drama",
-        "romance",
-        "familia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-lv3rfhihhkzm.html"
         }
       }
     }
