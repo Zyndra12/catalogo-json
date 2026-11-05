@@ -1,10 +1,276 @@
 {
   "type": "peliculas",
-  "total": 17762,
-  "version": 114,
+  "total": 17776,
+  "version": 115,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_653247",
+      "tmdb_id": 653247,
+      "nombre": "La Gallina Turuleca",
+      "poster": "https://image.tmdb.org/t/p/w500/cTZb36ZHSGWX12GZj6mIE3TAXfe.jpg",
+      "calidad": "HD",
+      "generos": [
+        "familia",
+        "animacion",
+        "musica",
+        "aventura"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-uz52f9vu06vi.html"
+        }
+      }
+    },
+    {
+      "id": "p_515816",
+      "tmdb_id": 515816,
+      "nombre": "Raoul Taburin",
+      "poster": "https://image.tmdb.org/t/p/w500/7fZCy3Fy6vIKdqIjLMmwvLgtApS.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-53x61lloru3m.html"
+        }
+      }
+    },
+    {
+      "id": "p_673673",
+      "tmdb_id": 673673,
+      "nombre": "The Ghost and the Tout",
+      "poster": "https://image.tmdb.org/t/p/w500/3mqnfMFaSKBLDkGtSCbc6rr8GXa.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vl4lsfkjwmhq.html"
+        }
+      }
+    },
+    {
+      "id": "p_455839",
+      "tmdb_id": 455839,
+      "nombre": "Time Trap",
+      "poster": "https://image.tmdb.org/t/p/w500/583rpyMn8UL8F2oH26Sz6WoKDDe.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "aventura"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ta5ow8woe73i.html"
+        }
+      }
+    },
+    {
+      "id": "p_619650",
+      "tmdb_id": 619650,
+      "nombre": "Hay algo en el agua",
+      "poster": "https://image.tmdb.org/t/p/w500/zv9S5kuL49PY7Rm4vjLdJggc2kE.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-qvkjb0obl1ci.html"
+        }
+      }
+    },
+    {
+      "id": "p_572988",
+      "tmdb_id": 572988,
+      "nombre": "나랏말싸미",
+      "poster": "https://image.tmdb.org/t/p/w500/2Gj1tF7IaK7kMizDZA7RunJOzNR.jpg",
+      "calidad": "HD",
+      "generos": [
+        "historia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-zgk02jmedf06.html"
+        }
+      }
+    },
+    {
+      "id": "p_702633",
+      "tmdb_id": 702633,
+      "nombre": "Un crack",
+      "poster": "https://image.tmdb.org/t/p/w500/fIHy8qcl5gDJNRuwEI0hbbu8JFC.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kou7xz877kv2.html"
+        }
+      }
+    },
+    {
+      "id": "p_67271",
+      "tmdb_id": 67271,
+      "nombre": "A Day in Black and White",
+      "poster": "",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-trs9l37lf25k.html"
+        }
+      }
+    },
+    {
+      "id": "p_693019",
+      "tmdb_id": 693019,
+      "nombre": "Alma pura",
+      "poster": "https://image.tmdb.org/t/p/w500/vto5GLsj3J2mdW2uVQjsJQv4aPx.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-6q1yzscpobfh.html"
+        }
+      }
+    },
+    {
+      "id": "p_699280",
+      "tmdb_id": 699280,
+      "nombre": "Becoming",
+      "poster": "https://image.tmdb.org/t/p/w500/f0vo1yoEVlbpJ0Fkn0FgU7dTrO8.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-b7mdngzekdij.html"
+        }
+      }
+    },
+    {
+      "id": "p_698538",
+      "tmdb_id": 698538,
+      "nombre": "Bu y Bu, una aventura interdimensional",
+      "poster": "https://image.tmdb.org/t/p/w500/AdZlD3pROGGHfFM2Tg38sp8T4bN.jpg",
+      "calidad": "HD",
+      "generos": [
+        "aventura",
+        "fantasia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-m50qkf1sewxt.html"
+        }
+      }
+    },
+    {
+      "id": "p_758336",
+      "tmdb_id": 758336,
+      "nombre": "Love Again",
+      "poster": "https://image.tmdb.org/t/p/w500/2Thn2wpSmiZjmGKHeJdxqDYpuzX.jpg",
+      "calidad": "4K",
+      "generos": [
+        "romance",
+        "drama",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ju956eogdrs2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-x9h1o8og1o1w.html"
+        }
+      }
+    },
+    {
+      "id": "p_477018",
+      "tmdb_id": 477018,
+      "nombre": "Los traductores",
+      "poster": "https://image.tmdb.org/t/p/w500/oHFDHkElzSynflEhpY17jL1cX1h.jpg",
+      "calidad": "HD",
+      "generos": [
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-susccg9cpdpr.html"
+        }
+      }
+    },
+    {
+      "id": "p_257377",
+      "tmdb_id": 257377,
+      "nombre": "Circle of Deception",
+      "poster": "https://image.tmdb.org/t/p/w500/c8PrppLJpw4iIfoc0MSQeTJ5gng.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-am1o9hliju3l.html"
+        }
+      }
+    },
+    {
+      "id": "p_596252",
+      "tmdb_id": 596252,
+      "nombre": "El odioso Peter Tatchell",
+      "poster": "https://image.tmdb.org/t/p/w500/zKm4q1jhOBgEQygDTgIet9Xi7z1.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-pyud20njc8vj.html"
+        }
+      }
+    },
+    {
+      "id": "p_824649",
+      "tmdb_id": 824649,
+      "nombre": "100m Criminal Conviction",
+      "poster": "https://image.tmdb.org/t/p/w500/mO5dk8tsfukxmGotZp9JaFQhF4a.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama",
+        "suspenso",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ia1ciynvf9ih.html"
+        }
+      }
+    },
+    {
+      "id": "p_40634",
+      "tmdb_id": 40634,
+      "nombre": "Loca",
+      "poster": "https://image.tmdb.org/t/p/w500/eGerbrDRMTuIM58a6ZDA762afma.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-k7a8l2u6oqvc.html"
+        }
+      }
+    },
     {
       "id": "p_797309",
       "tmdb_id": 797309,
@@ -6767,7 +7033,7 @@
           "fastream": "https://fastream.to/embed-mtjpxgxix7q9.html"
         },
         "español castellano": {
-          "la_movie": "https://vimeos.net/embed-r8op2vjn3ebi.html"
+          "la_movie": "https://vimeos.net/embed-r1pbh06ktuwj.html"
         }
       }
     },
@@ -64933,7 +65199,7 @@
       "tmdb_id": 82779,
       "nombre": "El señor fotógrafo",
       "poster": "https://image.tmdb.org/t/p/w500/rGmP5zYLDi7fokr1ndIomoqDVDl.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "comedia",
         "suspenso"
@@ -64943,6 +65209,9 @@
           "streamwish": "https://streamwish.to/e/qvvlbzk83m5p",
           "fastream": "https://fastream.to/embed-n2uuayfbp2hw.html",
           "voesx": "https://voe.sx/e/hm1lnwpsy1cv"
+        },
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
         }
       }
     },
@@ -117184,9 +117453,12 @@
       "calidad": "HD",
       "generos": [],
       "fuentes": {
-        "español": {
+        "español castellano": {
           "streamwish": "https://streamwish.to/e/xlpcvg179yqn",
-          "vidhide": "https://vidhidepro.com/v/im4s168enut9"
+          "vidhide": "https://callistanise.com/v/im4s168enut9"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/xlpcvg179yqn"
         }
       }
     },
