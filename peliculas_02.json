@@ -1,10 +1,627 @@
 {
   "type": "peliculas",
-  "total": 17776,
-  "version": 115,
+  "total": 17800,
+  "version": 116,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_554596",
+      "tmdb_id": 554596,
+      "nombre": "No manches, Frida 2: paraíso destruido",
+      "poster": "https://image.tmdb.org/t/p/w500/rG7rDoTe1ZEa936eonDCkV76nkx.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2x25s3quxt4g.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-6rtb5tel8gba.html"
+        }
+      }
+    },
+    {
+      "id": "p_208540",
+      "tmdb_id": 208540,
+      "nombre": "Once Upon a Time in Mumbai Dobaara!",
+      "poster": "https://image.tmdb.org/t/p/w500/guXvxt6hvZyQqHXGYuvujtuxcCQ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-z2q14d1llqg1.html"
+        }
+      }
+    },
+    {
+      "id": "p_1245241",
+      "tmdb_id": 1245241,
+      "nombre": "Paisaje",
+      "poster": "https://image.tmdb.org/t/p/w500/fq9gDz3BWc2czebTumq4g2sZ4N7.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-0zqiwbx78osx.html"
+        }
+      }
+    },
+    {
+      "id": "p_438146",
+      "tmdb_id": 438146,
+      "nombre": "Pájaros de verano",
+      "poster": "https://image.tmdb.org/t/p/w500/ydm0Vgol5t5QMWu11CkCHnrgDfX.jpg",
+      "calidad": "4K",
+      "generos": [
+        "drama",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fyl5jf7kid57.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-riu0cr1ll34s.html"
+        }
+      }
+    },
+    {
+      "id": "p_447404",
+      "tmdb_id": 447404,
+      "nombre": "Pokémon Detective Pikachu",
+      "poster": "https://image.tmdb.org/t/p/w500/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
+      "calidad": "4K",
+      "generos": [
+        "accion",
+        "aventura",
+        "fantasia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-icei0g8azqjs.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2hm9rg1rh7vy.html"
+        }
+      }
+    },
+    {
+      "id": "p_9331",
+      "tmdb_id": 9331,
+      "nombre": "Peligro inminente",
+      "poster": "https://image.tmdb.org/t/p/w500/12iBmLbwRT7xUxdomQhphsVh3GK.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-11yil14i8kz7.html"
+        }
+      }
+    },
+    {
+      "id": "p_417688",
+      "tmdb_id": 417688,
+      "nombre": "Pimp",
+      "poster": "https://image.tmdb.org/t/p/w500/aLFt9swGFQpujVXzbj9LWowjX6C.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ozvtnn569mdi.html"
+        }
+      }
+    },
+    {
+      "id": "p_523561",
+      "tmdb_id": 523561,
+      "nombre": "Per el afortunado",
+      "poster": "https://image.tmdb.org/t/p/w500/kfG0XHNxG3GS4R11tWk61vGjqKo.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/4fsn8wo3ffio",
+          "voesx": "https://voe.sx/e/i7jrwugyn2ts"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/ks30u0x9v4m0"
+        }
+      }
+    },
+    {
+      "id": "p_25318",
+      "tmdb_id": 25318,
+      "nombre": "La escapada de Sobibor (Escapada final)",
+      "poster": "https://image.tmdb.org/t/p/w500/gE2RTZ8JkZtiHaO1qUM49lw0vCp.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/5yzyqpokbsyw",
+          "fastream": "https://fastream.to/embed-jjvq7gmyx5cl.html",
+          "voesx": "https://voe.sx/e/ff5tgo6burwv"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/un0wwqyf9fgc"
+        }
+      }
+    },
+    {
+      "id": "p_746867",
+      "tmdb_id": 746867,
+      "nombre": "Sin amor",
+      "poster": "https://image.tmdb.org/t/p/w500/7ZwSfKGzJVSwsjaySIM2AJ7SH3o.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4qrha5entdel.html"
+        }
+      }
+    },
+    {
+      "id": "p_543033",
+      "tmdb_id": 543033,
+      "nombre": "Ruben Brandt, coleccionista",
+      "poster": "https://image.tmdb.org/t/p/w500/m8IEkAXTMRxNGp8ZJau9KPLHS56.jpg",
+      "calidad": "HD",
+      "generos": [
+        "animacion",
+        "accion",
+        "suspenso",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-lctvv9ngipwn.html"
+        }
+      }
+    },
+    {
+      "id": "p_431075",
+      "tmdb_id": 431075,
+      "nombre": "Polaroid",
+      "poster": "https://image.tmdb.org/t/p/w500/ghNua7wru2APolXOutWqO5kpJrI.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-5v02oubc6mos.html"
+        }
+      }
+    },
+    {
+      "id": "p_568344",
+      "tmdb_id": 568344,
+      "nombre": "The Take Down",
+      "poster": "https://image.tmdb.org/t/p/w500/rIcTuIeN6DgBPpoNH5WCU3LtjIN.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kwxydpsy0cp6.html"
+        }
+      }
+    },
+    {
+      "id": "p_422047",
+      "tmdb_id": 422047,
+      "nombre": "The Dwarves of Demrel",
+      "poster": "https://image.tmdb.org/t/p/w500/xdJVC9zIxqyXPMfz6luRsh0Jxv8.jpg",
+      "calidad": "HD",
+      "generos": [
+        "fantasia",
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ev714qjbr0rk.html"
+        }
+      }
+    },
+    {
+      "id": "p_411728",
+      "tmdb_id": 411728,
+      "nombre": "Entre la razón y la locura",
+      "poster": "https://image.tmdb.org/t/p/w500/iujhDhSHxMUrWnEY7WDIqTsxfOg.jpg",
+      "calidad": "4K",
+      "generos": [
+        "historia",
+        "drama",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-z75fbwvue3fu.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hpbocb3lrxqd.html"
+        }
+      }
+    },
+    {
+      "id": "p_719643",
+      "tmdb_id": 719643,
+      "nombre": "Black Is King",
+      "poster": "https://image.tmdb.org/t/p/w500/2u1cyQgBpWWypISdbUDCu2hasGV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-60q7qx9q11lj.html"
+        }
+      }
+    },
+    {
+      "id": "p_842675",
+      "tmdb_id": 842675,
+      "nombre": "La Tierra errante II",
+      "poster": "https://image.tmdb.org/t/p/w500/dCDAPDbySxYewfSzWGvQssy04sW.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español": {
+          "streamwish": "https://streamwish.to/e/tvtgsu836hvc",
+          "voesx": "https://voe.sx/e/rhu8yj9eyyvv"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/e1657p0g14qh",
+          "voesx": "https://voe.sx/e/smeggqymwacu"
+        }
+      }
+    },
+    {
+      "id": "p_461108",
+      "tmdb_id": 461108,
+      "nombre": "Toxic Shark",
+      "poster": "https://image.tmdb.org/t/p/w500/sZx7JcVyfgh2OpfbUlZru23BX0a.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "ficcion",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-64cuiqnrazhb.html"
+        }
+      }
+    },
+    {
+      "id": "p_454458",
+      "tmdb_id": 454458,
+      "nombre": "UglyDolls: Extraordinariamente feos",
+      "poster": "https://image.tmdb.org/t/p/w500/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg",
+      "calidad": "HD",
+      "generos": [
+        "animacion",
+        "musica",
+        "familia",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kagcdkvbsdbk.html"
+        }
+      }
+    },
+    {
+      "id": "p_339380",
+      "tmdb_id": 339380,
+      "nombre": "Una cuestión de género",
+      "poster": "https://image.tmdb.org/t/p/w500/eXbt9oUWzWAVVzxOb8HP1g8S9c.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/1nmqltqpi1eo",
+          "voesx": "https://voe.sx/e/m1fb3vdzun8e"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/q0sy9nfeyg00"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/xwk68exb1s9x"
+        }
+      }
+    },
+    {
+      "id": "p_533981",
+      "tmdb_id": 533981,
+      "nombre": "Tiempo después",
+      "poster": "https://image.tmdb.org/t/p/w500/9lg0IyG4MuvgJMFUEuw8cuIX1KR.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "ficcion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-zl5is77d1qtn.html"
+        }
+      }
+    },
+    {
+      "id": "p_514439",
+      "tmdb_id": 514439,
+      "nombre": "Más allá de la esperanza",
+      "poster": "https://image.tmdb.org/t/p/w500/fNMHKpqpr5rrKLYlOhRfzZCa0wv.jpg",
+      "calidad": "4K",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9dnby4gxrp6i.html"
+        }
+      }
+    },
+    {
+      "id": "p_513083",
+      "tmdb_id": 513083,
+      "nombre": "Amigas con solera",
+      "poster": "https://image.tmdb.org/t/p/w500/kIcPwatJvCX4gLeJcwEPEHDGclJ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gauk3bubgfzx.html"
+        }
+      }
+    },
+    {
+      "id": "p_376576",
+      "tmdb_id": 376576,
+      "nombre": "Without Name",
+      "poster": "https://image.tmdb.org/t/p/w500/ppXrjiMiPLYlPmbpKMLzDUygpoF.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "misterio",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fy21yupcs2g1.html"
+        }
+      }
+    },
+    {
+      "id": "p_447233",
+      "tmdb_id": 447233,
+      "nombre": "Wonderkid",
+      "poster": "https://image.tmdb.org/t/p/w500/a8BBOzVUGA0s2Yk2scxd0KRNS8R.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-tbi22788ziok.html"
+        }
+      }
+    },
+    {
+      "id": "p_787377",
+      "tmdb_id": 787377,
+      "nombre": "Del stress a la felicidad",
+      "poster": "https://image.tmdb.org/t/p/w500/rGXLnLv4Br2eltGtOQmRmVOi93p.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hn75jt0ra9pn.html"
+        }
+      }
+    },
+    {
+      "id": "p_854147",
+      "tmdb_id": 854147,
+      "nombre": "Funny Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/oaM3cmHe2oL6lqgpNmqf4PSXIlz.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica",
+        "romance",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-0p5jyprwr28p.html"
+        }
+      }
+    },
+    {
+      "id": "p_385128",
+      "tmdb_id": 385128,
+      "nombre": "Fast & Furious 9",
+      "poster": "https://image.tmdb.org/t/p/w500/TX1T3c3CDBN0y8iDNvlQbtiA5Z.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/aa5sflj56f6o"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/f6hk428nft54"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/54b6monxq017",
+          "voesx": "https://voe.sx/e/epxykmeucpiw"
+        }
+      }
+    },
+    {
+      "id": "p_608813",
+      "tmdb_id": 608813,
+      "nombre": "In Full Bloom",
+      "poster": "https://image.tmdb.org/t/p/w500/1wuF9taTYow71eaIqfrJLHHrokg.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-of7t9v7miv52.html"
+        }
+      }
+    },
+    {
+      "id": "p_600184",
+      "tmdb_id": 600184,
+      "nombre": "La maldición de Lake Manor",
+      "poster": "https://image.tmdb.org/t/p/w500/swpaIAYnZdHNCn9OAcP6qGNm6kH.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "terror",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-1bnwzvsysvx1.html"
+        }
+      }
+    },
+    {
+      "id": "p_560204",
+      "tmdb_id": 560204,
+      "nombre": "Arkansas: Un lugar peligroso",
+      "poster": "https://image.tmdb.org/t/p/w500/ieNGttYsxunAANK9LRZa4LdkEqi.jpg",
+      "calidad": "4K",
+      "generos": [
+        "crimen",
+        "suspenso",
+        "accion",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-wquns78bo85m.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l8uksrjqekja.html"
+        }
+      }
+    },
+    {
+      "id": "p_678314",
+      "tmdb_id": 678314,
+      "nombre": "Andrés Iniesta: el héroe inesperado",
+      "poster": "https://image.tmdb.org/t/p/w500/b1rVIl8DMtcJh2adu2SER4x3D3v.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xpjzwiaplw03.html"
+        }
+      }
+    },
+    {
+      "id": "p_693489",
+      "tmdb_id": 693489,
+      "nombre": "Be Still And Know",
+      "poster": "https://image.tmdb.org/t/p/w500/2PAAxTxE202qG3WOAoEmkNcOXfT.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-11vkwms21www.html"
+        }
+      }
+    },
+    {
+      "id": "p_701062",
+      "tmdb_id": 701062,
+      "nombre": "Sí, mi amor",
+      "poster": "https://image.tmdb.org/t/p/w500/gKo5wY3YbfvfHkUUTl9eovMc3bq.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "familia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-jqtrjgm4db75.html"
+        }
+      }
+    },
+    {
+      "id": "p_661095",
+      "tmdb_id": 661095,
+      "nombre": "Loco por vos",
+      "poster": "https://image.tmdb.org/t/p/w500/cCknM93iXmPorUxb51cGn0qTxnd.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xwx27np5t77d.html"
+        }
+      }
+    },
+    {
+      "id": "p_571123",
+      "tmdb_id": 571123,
+      "nombre": "Natalie Wood: Entre bambalinas",
+      "poster": "https://image.tmdb.org/t/p/w500/wLpsJrV0lgXMICPjlpQVHngP7Pg.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-mzf6ey5b86lp.html"
+        }
+      }
+    },
+    {
+      "id": "p_347452",
+      "tmdb_id": 347452,
+      "nombre": "螢の光",
+      "poster": "",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-c27nooahbkhk.html"
+        }
+      }
+    },
     {
       "id": "p_653247",
       "tmdb_id": 653247,
@@ -113667,6 +114284,11 @@
       "calidad": "HD",
       "generos": [],
       "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/8e1ceiscs773",
+          "vidara": "https://vidara.to/e/krEZizEQW5KhR",
+          "vidhide": "https://vidhidepro.com/v/us41kao9m0up"
+        },
         "español": {
           "streamwish": "https://streamwish.to/e/7u2qe9x4q5l4",
           "vidhide": "https://vidhidepro.com/v/slpwrblrq6ti"
