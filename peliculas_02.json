@@ -1,10 +1,583 @@
 {
   "type": "peliculas",
-  "total": 17800,
-  "version": 116,
+  "total": 17832,
+  "version": 117,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_495398",
+      "tmdb_id": 495398,
+      "nombre": "Intercambio Mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/8lmxueK2DghZiVaJ9RK8yW435lQ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/halsz8zpxmtk"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/dzjtjpa6eqt8"
+        }
+      }
+    },
+    {
+      "id": "p_8984",
+      "tmdb_id": 8984,
+      "nombre": "Acoso",
+      "poster": "https://image.tmdb.org/t/p/w500/rrF4W4nHbgZ1G4Dj2G1fQYU8N0t.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "drama",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ha3z212w3v64.html"
+        }
+      }
+    },
+    {
+      "id": "p_460070",
+      "tmdb_id": 460070,
+      "nombre": "J.T. LeRoy Engañando a Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/Wg0YBYLmNQqKZAGcc8hhdGqkcY.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "historia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-5wjmztbkokz4.html"
+        }
+      }
+    },
+    {
+      "id": "p_302349",
+      "tmdb_id": 302349,
+      "nombre": "Iron Sky: The Coming Race",
+      "poster": "https://image.tmdb.org/t/p/w500/l5t2Nf1F7iQUKTrODg93xmQzZLj.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "comedia",
+        "fantasia",
+        "ficcion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-axnx2gadiah3.html"
+        }
+      }
+    },
+    {
+      "id": "p_458156",
+      "tmdb_id": 458156,
+      "nombre": "John Wick: Capítulo 3 - Parabellum",
+      "poster": "https://image.tmdb.org/t/p/w500/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/tveb89i43ba1"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/1vws5ixk5jnj"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/5dqdqdgi1dzf"
+        }
+      }
+    },
+    {
+      "id": "p_475007",
+      "tmdb_id": 475007,
+      "nombre": "La búsqueda de la felicidad",
+      "poster": "https://image.tmdb.org/t/p/w500/zwrFLIV0N5V3b04818RVscmAW6s.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-sr8rnce7n78p.html"
+        }
+      }
+    },
+    {
+      "id": "p_603905",
+      "tmdb_id": 603905,
+      "nombre": "Karol G: La guerrera del género",
+      "poster": "https://image.tmdb.org/t/p/w500/fSy2NUgM8k2J1l6emSLAUqJIviE.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-57dqtnkbs627.html"
+        }
+      }
+    },
+    {
+      "id": "p_597160",
+      "tmdb_id": 597160,
+      "nombre": "La mujer del siglo",
+      "poster": "https://image.tmdb.org/t/p/w500/htK87MXiFjcwe7Q1wcu1QDv1Y6E.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-uzo29trbnatn.html"
+        }
+      }
+    },
+    {
+      "id": "p_541611",
+      "tmdb_id": 541611,
+      "nombre": "La directora de orquesta",
+      "poster": "https://image.tmdb.org/t/p/w500/5MOJF6he3T64nbjvb8Q2wNmTOYZ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/1zhygntamw88"
+        },
+        "español": {
+          "hqq": "https://hqq.tv/player/embed_player.php?vid=dGpVWmovSUlDdGo0NkZsMEY1WnpRZz09&autoplay=no"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/4tc0dci0fika"
+        }
+      }
+    },
+    {
+      "id": "p_517373",
+      "tmdb_id": 517373,
+      "nombre": "Killing for the Prosecution",
+      "poster": "https://image.tmdb.org/t/p/w500/3uCdUi5K8uY4xErJhTQlTyB0fFt.jpg",
+      "calidad": "HD",
+      "generos": [
+        "misterio",
+        "drama",
+        "crimen",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-735p4tbeei2e.html"
+        }
+      }
+    },
+    {
+      "id": "p_524736",
+      "tmdb_id": 524736,
+      "nombre": "Kuntilanak",
+      "poster": "https://image.tmdb.org/t/p/w500/8uChA7zGYMBk8Xc57LAKzofyaku.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-obk2ppmbkw3t.html"
+        }
+      }
+    },
+    {
+      "id": "p_571234",
+      "tmdb_id": 571234,
+      "nombre": "La gran aventura de los Lunnis y el libro mágico",
+      "poster": "https://image.tmdb.org/t/p/w500/vyIb9OAsOtH0FXTkUPeazWN1mUm.jpg",
+      "calidad": "HD",
+      "generos": [
+        "fantasia",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-j3lcfvhearaf.html"
+        }
+      }
+    },
+    {
+      "id": "p_469310",
+      "tmdb_id": 469310,
+      "nombre": "La increíble historia de la pera gigante",
+      "poster": "https://image.tmdb.org/t/p/w500/8wB4uAEkKxdmMjUwwE8hjtzRRjs.jpg",
+      "calidad": "HD",
+      "generos": [
+        "animacion",
+        "aventura",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-sltuemwtvzxk.html"
+        }
+      }
+    },
+    {
+      "id": "p_522518",
+      "tmdb_id": 522518,
+      "nombre": "Tu mejor amigo: Un nuevo viaje",
+      "poster": "https://image.tmdb.org/t/p/w500/cq7oRDzpSSldtyUuhW8aDL53OCV.jpg",
+      "calidad": "4K",
+      "generos": [
+        "familia",
+        "aventura",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-p812rzie4wvo.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-hzo8ukgf1new.html"
+        }
+      }
+    },
+    {
+      "id": "p_826047",
+      "tmdb_id": 826047,
+      "nombre": "Por qué?",
+      "poster": "https://image.tmdb.org/t/p/w500/pUtVav8oa6y65K1REmFEcW7X3S7.jpg",
+      "calidad": "4K",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-418fcm1y5rm6.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-v71eq44ruhot.html"
+        }
+      }
+    },
+    {
+      "id": "p_482936",
+      "tmdb_id": 482936,
+      "nombre": "La quietud",
+      "poster": "https://image.tmdb.org/t/p/w500/gpg0U8cedWfwaAMjacXKOacFlrE.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2ni7ubdv017m.html"
+        }
+      }
+    },
+    {
+      "id": "p_289269",
+      "tmdb_id": 289269,
+      "nombre": "Lady Bloodfight",
+      "poster": "https://image.tmdb.org/t/p/w500/hDZzETrYegrB6pYpHKKzdwux6Km.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/b87vd01ola4i"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/acy8kfasieqn"
+        }
+      }
+    },
+    {
+      "id": "p_338768",
+      "tmdb_id": 338768,
+      "nombre": "Larga vida y prosperidad",
+      "poster": "https://image.tmdb.org/t/p/w500/gkl9yRjmSIdClE6AkvqUPdjCkIJ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-75vmixvlhw11.html"
+        }
+      }
+    },
+    {
+      "id": "p_586707",
+      "tmdb_id": 586707,
+      "nombre": "Life Like",
+      "poster": "https://image.tmdb.org/t/p/w500/uOVGbT6TR8qiZiruX66yBRXq9Nv.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "ficcion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fwh05t3rbd8c.html"
+        }
+      }
+    },
+    {
+      "id": "p_477331",
+      "tmdb_id": 477331,
+      "nombre": "Long Shot",
+      "poster": "https://image.tmdb.org/t/p/w500/8LDeHrG8RBluJ7IkPgBaOMkU3fl.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-3t0vkhld9j3b.html"
+        }
+      }
+    },
+    {
+      "id": "p_10830",
+      "tmdb_id": 10830,
+      "nombre": "Matilda",
+      "poster": "https://image.tmdb.org/t/p/w500/icsytUzUc9f97a9SdafFG0eqijR.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "familia",
+        "fantasia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-87kcqtgng7no.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7ffhzqrsj6sx.html"
+        }
+      }
+    },
+    {
+      "id": "p_565221",
+      "tmdb_id": 565221,
+      "nombre": "Los Despiadados",
+      "poster": "https://image.tmdb.org/t/p/w500/xRi4UILqPIyXtKajVyrmZEmLGh4.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-logevuwakiia.html"
+        }
+      }
+    },
+    {
+      "id": "p_449562",
+      "tmdb_id": 449562,
+      "nombre": "Timadoras compulsivas",
+      "poster": "https://image.tmdb.org/t/p/w500/9TI2hkMQ2pmzoVKNNko2CSuvJfH.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-7iit5dgxuj27.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-cp25yxy78r3i.html"
+        }
+      }
+    },
+    {
+      "id": "p_1038263",
+      "tmdb_id": 1038263,
+      "nombre": "María Callas",
+      "poster": "https://image.tmdb.org/t/p/w500/pk0wxkrZatW33u5NM3Ix45EqSSZ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/fph0zgnlcxxt",
+          "voesx": "https://voe.sx/e/yxjwq31eswac",
+          "vidhide": "https://vidhidepro.com/v/jcgbsw9dosgd"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/5l2kya2qzdxi",
+          "vidhide": "https://vidhidepro.com/v/x2imq0cslrxs"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/tftewx0191iu",
+          "voesx": "https://voe.sx/e/hxn97jn6umnl"
+        }
+      }
+    },
+    {
+      "id": "p_695596",
+      "tmdb_id": 695596,
+      "nombre": "Los vigilantes de Malibú: La nueva ola",
+      "poster": "https://image.tmdb.org/t/p/w500/7B1gSxMdgZCCJcMRgo65T5lByMw.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ktdvd7gyeiw7.html"
+        }
+      }
+    },
+    {
+      "id": "p_195589",
+      "tmdb_id": 195589,
+      "nombre": "Malditos vecinos",
+      "poster": "https://image.tmdb.org/t/p/w500/i4XNSun7PHrbNNlTGbb4iGGtW6s.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hwfb5w026na7.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-l4j9k53glq09.html"
+        }
+      }
+    },
+    {
+      "id": "p_438426",
+      "tmdb_id": 438426,
+      "nombre": "Maya Dardel",
+      "poster": "https://image.tmdb.org/t/p/w500/hs46JtRph0qKdbiC7UJ72Vj9iNa.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-c24g2i29dxol.html"
+        }
+      }
+    },
+    {
+      "id": "p_477666",
+      "tmdb_id": 477666,
+      "nombre": "Mi mejor amigo",
+      "poster": "https://image.tmdb.org/t/p/w500/zWWx4N0SaXT3iAaPVKx65Bq3mrg.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-c2uqrahahq3w.html"
+        }
+      }
+    },
+    {
+      "id": "p_544530",
+      "tmdb_id": 544530,
+      "nombre": "Munafik 2",
+      "poster": "https://image.tmdb.org/t/p/w500/rbgVGRcIBDrWU0pE2Aafxm0PwXX.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "misterio",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-p1qp2nxjdpfd.html"
+        }
+      }
+    },
+    {
+      "id": "p_505262",
+      "tmdb_id": 505262,
+      "nombre": "My Hero Academia: Dos héroes",
+      "poster": "https://image.tmdb.org/t/p/w500/9LjBVBcRM0VW2yywXu5p6bqX965.jpg",
+      "calidad": "4K",
+      "generos": [
+        "animacion",
+        "accion",
+        "aventura",
+        "fantasia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/hdiiov3eyvoc",
+          "fastream": "https://fastream.to/embed-nq362hs6lqnl.html",
+          "voesx": "https://voe.sx/e/mbz0piso2jy7"
+        },
+        "japonés": {
+          "streamwish": "https://streamwish.to/e/lja4q3w0fm4w",
+          "voesx": "https://voe.sx/e/tplfurw0lumq"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-mivsdws44ir3.html"
+        }
+      }
+    },
+    {
+      "id": "p_507612",
+      "tmdb_id": 507612,
+      "nombre": "My Little Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/cmmuhGssDk6uNjEL6GIo1iBWE5r.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-dyiwm9dvyffw.html"
+        }
+      }
+    },
+    {
+      "id": "p_9603",
+      "tmdb_id": 9603,
+      "nombre": "Clueless (Fuera de onda)",
+      "poster": "https://image.tmdb.org/t/p/w500/2VDuwNrVXuD3UTlFDUXBx51E5tL.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-85d0oxt9v9c1.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-i9wzp9v409vh.html"
+        }
+      }
+    },
+    {
+      "id": "p_582607",
+      "tmdb_id": 582607,
+      "nombre": "See You Yesterday",
+      "poster": "https://image.tmdb.org/t/p/w500/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg",
+      "calidad": "4K",
+      "generos": [
+        "ficcion",
+        "drama",
+        "aventura",
+        "crimen",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-jc9queb4grve.html"
+        },
+        "español castellano": {
+          "la_movie": "https://lamovie.org/embed.html?v=1"
+        }
+      }
+    },
     {
       "id": "p_554596",
       "tmdb_id": 554596,
@@ -7943,7 +8516,7 @@
       "tmdb_id": 9533,
       "nombre": "El dragón rojo",
       "poster": "https://image.tmdb.org/t/p/w500/y6wmFX2hY3GS1rWpCwh5MnsMzLa.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "crimen",
         "suspenso",
@@ -7952,6 +8525,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-3dbmt635m9p8.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-edurwyqpw56z.html"
         }
       }
     },
@@ -65828,7 +66404,7 @@
           "voesx": "https://voe.sx/e/hm1lnwpsy1cv"
         },
         "español castellano": {
-          "la_movie": "https://lamovie.org/embed.html?v=1"
+          "la_movie": "https://vimeos.net/embed-i9dgivis7ev7.html"
         }
       }
     },
@@ -67481,7 +68057,7 @@
       "tmdb_id": 11860,
       "nombre": "Sabrina (y sus amores)",
       "poster": "https://image.tmdb.org/t/p/w500/pKxuFbkT0QMbY7yAQjFXcexhqsI.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "romance",
         "drama",
@@ -67490,6 +68066,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-qcqftg73offa.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-wp4o8m54mn0w.html"
         }
       }
     },
@@ -93145,28 +93724,6 @@
         },
         "español castellano": {
           "la_movie": "https://vimeos.net/embed-ozt1ygpjb1d0.html"
-        }
-      }
-    },
-    {
-      "id": "p_91314",
-      "tmdb_id": 91314,
-      "nombre": "Transformers: La era de la extinción",
-      "poster": "https://image.tmdb.org/t/p/w500/owqV5Qo2DMMomfB1fS6xYWv3yEh.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/ok1lxs3skgom",
-          "filelions": "https://filelions.to/v/1w4rkhbx43oq"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/zah6vbweytaq",
-          "voesx": "https://voe.sx/e/k2wh6hhejdny"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/ore3bcmy56md",
-          "voesx": "https://voe.sx/e/rkgna82ofxhg"
         }
       }
     },
