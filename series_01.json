@@ -1,10 +1,773 @@
 {
   "type": "series",
-  "total": 3763,
-  "version": 117,
+  "total": 3774,
+  "version": 118,
   "chunk": 1,
   "chunks_total": 4,
   "items": [
+    {
+      "id": "s_341769",
+      "tmdb_id": 341769,
+      "nombre": "Valentín: La muerte del Gallo de Oro",
+      "poster": "https://image.tmdb.org/t/p/w500/qKO5KNwWzhsk4Z3xbWsbX7I7SXf.jpg",
+      "categorias": [
+        "crimen",
+        "documental",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/oc8421spvkjd",
+              "vidara": "https://vidara.to/e/TCl8VhAdHn4YQ",
+              "voesx": "https://voe.sx/e/iwv0rnzymu7y",
+              "vidhide": "https://vidhidepro.com/v/xlmebr5wk4th"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/d2krcoh9fsue",
+              "vidara": "https://vidara.to/e/ukx7Fi09xYYb2",
+              "voesx": "https://voe.sx/e/k6pyrxye2hev",
+              "vidhide": "https://vidhidepro.com/v/qfrpfrq69dg7"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ss9p07t2c2by",
+              "vidara": "https://vidara.to/e/uprPC4l3f8JO0",
+              "voesx": "https://voe.sx/e/iacqe4uhspz9",
+              "vidhide": "https://vidhidepro.com/v/xrxfl0652iim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_249565",
+      "tmdb_id": 249565,
+      "nombre": "The Good Daughter",
+      "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "categorias": [
+        "drama",
+        "serie",
+        "misterio"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/s1dkc3621kuy",
+              "vidara": "https://vidara.to/e/KDPh72leqtp0L",
+              "voesx": "https://voe.sx/e/lolm3qnnsjr8",
+              "vidhide": "https://vidhidepro.com/v/u7r29zajcdzv"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/nbstonpmqesz",
+              "vidara": "https://vidara.to/e/ICYfp5aSOjkcy",
+              "voesx": "https://voe.sx/e/cjijuutfxdxq",
+              "vidhide": "https://vidhidepro.com/v/kfo9p8czehud"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/y0hu7stre1a4",
+              "vidara": "https://vidara.to/e/aZ3lLEnvUUXyI",
+              "voesx": "https://voe.sx/e/xcdtvygooqte",
+              "vidhide": "https://vidhidepro.com/v/fo8zembzg87y"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/hu28752tnb82",
+              "vidara": "https://vidara.to/e/ZQU4rrbGP13AM",
+              "voesx": "https://voe.sx/e/iqaq5ulv3je4",
+              "vidhide": "https://vidhidepro.com/v/f27e2gbwpo3f"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/phjg5f5invwa",
+              "vidara": "https://vidara.to/e/IPK5Dzr7bhnQD",
+              "voesx": "https://voe.sx/e/wcc3epagx896",
+              "vidhide": "https://vidhidepro.com/v/rdbnbw0ohtpq"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/r44zmf3t6b4p",
+              "vidara": "https://vidara.to/e/jxOU1N0c3ru1q",
+              "voesx": "https://voe.sx/e/fiap3sx8637h",
+              "vidhide": "https://vidhidepro.com/v/l049bf0ejce1"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_213834",
+      "tmdb_id": 213834,
+      "nombre": "Mujeres Asesinas",
+      "poster": "https://image.tmdb.org/t/p/w500/ek71Mmm4QPDGwgp8ar1OWY75KG7.jpg",
+      "categorias": [
+        "drama",
+        "serie",
+        "misterio"
+      ],
+      "temporadas": {
+        "4": {
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/jz6nh7tlzsvk",
+              "vidara": "https://vidara.to/e/riWLJYJ09RODL",
+              "voesx": "https://voe.sx/e/dxsucltqcqwg",
+              "vidhide": "https://vidhidepro.com/v/q28cl5nnipfq"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/v6xvmf1r5v5g",
+              "vidara": "https://vidara.to/e/OS2jDL4YjKem5",
+              "voesx": "https://voe.sx/e/yztbkiexbzzn",
+              "vidhide": "https://vidhidepro.com/v/l3fg22wbn7no"
+            }
+          }
+        },
+        "2": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/4gk5fhqzk40f",
+              "vidara": "https://vidara.to/e/gmKskF5iZBuqk",
+              "voesx": "https://voe.sx/e/wcwdzodap4bw",
+              "vidhide": "https://vidhidepro.com/v/wmegear5nq9e"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/qq7dtv5gwxa2",
+              "vidara": "https://vidara.to/e/F8t7YZimPczhG",
+              "voesx": "https://voe.sx/e/drtm0nmb8sey",
+              "vidhide": "https://vidhidepro.com/v/r9tcilm63rhf"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/4cvcj3bhays9",
+              "vidara": "https://vidara.to/e/YKp6utGZI22xP",
+              "voesx": "https://voe.sx/e/erdfz7jxvd8y",
+              "vidhide": "https://vidhidepro.com/v/75y67f78owy2"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/gtpwcpxacn39",
+              "vidara": "https://vidara.to/e/CL9vipfbTWFvf",
+              "voesx": "https://voe.sx/e/eqgmb9ew0kgi",
+              "vidhide": "https://vidhidepro.com/v/wojhdflpts4j"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/3v94f0unbjcj",
+              "vidara": "https://vidara.to/e/CZc9UZHgIf4bN",
+              "voesx": "https://voe.sx/e/8lr6lfcgqi5b",
+              "vidhide": "https://vidhidepro.com/v/r2d399h9wi3v"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/vb3pn47rmuit",
+              "vidara": "https://vidara.to/e/XRZGNTVbGz37S",
+              "voesx": "https://voe.sx/e/ldskqnnatze4",
+              "vidhide": "https://vidhidepro.com/v/u5zgyr2rhzm9"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/6un9hzcztbjw",
+              "vidara": "https://vidara.to/e/EmNCnnyWb93A1",
+              "voesx": "https://voe.sx/e/qtff2jiu6cuc",
+              "vidhide": "https://vidhidepro.com/v/sf4shcl6cx1n"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/8x5o0ej3v8pb",
+              "vidara": "https://vidara.to/e/0yYc25H0GA5EX",
+              "voesx": "https://voe.sx/e/pe2rysm0j1xp",
+              "vidhide": "https://vidhidepro.com/v/i0pk3iukw3fu"
+            }
+          }
+        },
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/02nqivsscsmu",
+              "vidara": "https://vidara.to/e/zZb1y618GIpiE",
+              "voesx": "https://voe.sx/e/i2ritzd4ecj0",
+              "vidhide": "https://vidhidepro.com/v/g6zc7dxka3lu"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/739kxygy00lv",
+              "vidara": "https://vidara.to/e/YL3KevXPZi8rs",
+              "voesx": "https://voe.sx/e/woavudygfwe5",
+              "vidhide": "https://vidhidepro.com/v/n613d6mrvack"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/wk1bi7pbaj3r",
+              "vidara": "https://vidara.to/e/blwFekpBU7ZRg",
+              "voesx": "https://voe.sx/e/dfcfxd3bkd2d",
+              "vidhide": "https://vidhidepro.com/v/npxayxqb114m"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/59sis93emraw",
+              "vidara": "https://vidara.to/e/Dg68EEwtCFCIf",
+              "voesx": "https://voe.sx/e/aukttwiw1mgy",
+              "vidhide": "https://vidhidepro.com/v/vie1ecrqw7mv"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/9j6sarnvbyun",
+              "vidara": "https://vidara.to/e/Ugwu9TZIWoOiQ",
+              "voesx": "https://voe.sx/e/re0pl2kdksre",
+              "vidhide": "https://vidhidepro.com/v/6lut90596n0o"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ovzea17p2ptq",
+              "vidara": "https://vidara.to/e/OmnPWkaDPSygM",
+              "voesx": "https://voe.sx/e/8ecjcdaxeejs",
+              "vidhide": "https://vidhidepro.com/v/g3loyyb0gwyp"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/94s38vh5zwsc",
+              "vidara": "https://vidara.to/e/qk6GcZScUITeg",
+              "voesx": "https://voe.sx/e/dcgumra5girq",
+              "vidhide": "https://vidhidepro.com/v/oxn1rfb3xtqv"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/42nq9tfnv0kk",
+              "vidara": "https://vidara.to/e/MqmJvr8CtLf9M",
+              "voesx": "https://voe.sx/e/jytvolcmkf4u",
+              "vidhide": "https://vidhidepro.com/v/bteook5lrm6m"
+            }
+          }
+        },
+        "3": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/mhvgnsmfkjva",
+              "vidara": "https://vidara.to/e/qOhyL041moEvo",
+              "voesx": "https://voe.sx/e/6qfok4gq4uzb",
+              "vidhide": "https://vidhidepro.com/v/nwo6zeunf0m1"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/w9r3q1yptck1",
+              "vidara": "https://vidara.to/e/ubdDv0cIOMxps",
+              "voesx": "https://voe.sx/e/fe6j0l6913xg",
+              "vidhide": "https://vidhidepro.com/v/erxy3tc1r5cd"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/cp83ur3ogpoq",
+              "vidara": "https://vidara.to/e/rvzCnYgt35bQP",
+              "voesx": "https://voe.sx/e/vme3zyx55b8p",
+              "vidhide": "https://vidhidepro.com/v/hen0g3r0iahx"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1iaqihn5zc3b",
+              "vidara": "https://vidara.to/e/330aiV3qVto7E",
+              "voesx": "https://voe.sx/e/biikdvzlyuq8",
+              "vidhide": "https://vidhidepro.com/v/6o662dq0fynv"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/cyjm7rjxvsck",
+              "vidara": "https://vidara.to/e/fBXyKIkYHELgi",
+              "voesx": "https://voe.sx/e/bvzogpaod6ya",
+              "vidhide": "https://vidhidepro.com/v/twkai9b0du3j"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/tgvl3pdt7936",
+              "vidara": "https://vidara.to/e/Xe5B6mNEiS9bF",
+              "voesx": "https://voe.sx/e/dfkxlbypg09t",
+              "vidhide": "https://vidhidepro.com/v/vsbm0cnl9lhf"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/kt603klh8ef8",
+              "vidara": "https://vidara.to/e/BTMZmEpeznSEk",
+              "voesx": "https://voe.sx/e/pf7czsqekull",
+              "vidhide": "https://vidhidepro.com/v/69naai1eckze"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/e7t02k508sol",
+              "vidara": "https://vidara.to/e/aweu0xcvJXuGN",
+              "voesx": "https://voe.sx/e/2kh2lavvvkzl",
+              "vidhide": "https://vidhidepro.com/v/hne0mnmgtmcl"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_314541",
+      "tmdb_id": 314541,
+      "nombre": "Sobrevivir al paraíso: Más allá de los Testigos de Jehová",
+      "poster": "https://image.tmdb.org/t/p/w500/t7c7hRzx3CGzLiIxj5yEjLbGquJ.jpg",
+      "categorias": [
+        "documental",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/7eep46i6bypv",
+              "vidara": "https://vidara.to/e/zduFgA3Ac2URY",
+              "voesx": "https://voe.sx/e/kf3wjgyvj8tv",
+              "vidhide": "https://vidhidepro.com/v/d76nbgkryo8k"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/z5p6huswzo8d",
+              "vidara": "https://vidara.to/e/FqcR2mu4ZOec1",
+              "voesx": "https://voe.sx/e/dw6mzq9amfhm",
+              "vidhide": "https://vidhidepro.com/v/pcqsz49oxo5a"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/onmcbqq17bou",
+              "vidara": "https://vidara.to/e/EZ34HgY0Mc1pI",
+              "voesx": "https://voe.sx/e/wo73ctc5ghfv",
+              "vidhide": "https://vidhidepro.com/v/f603ukzuxkrd"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_340168",
+      "tmdb_id": 340168,
+      "nombre": "Operación Cisne Negro",
+      "poster": "https://image.tmdb.org/t/p/w500/C5xxahVUFpHIsyriO6SshhtP02.jpg",
+      "categorias": [
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/02a6osobd8p3",
+              "voesx": "https://voe.sx/e/tte6xhl3xdjj",
+              "vidhide": "https://vidhidepro.com/v/2biw4oksq4lh"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/dgc6ygyayoh9",
+              "vidara": "https://vidara.to/e/L4a5HZ87m4yFO",
+              "voesx": "https://voe.sx/e/k5iklxhu5yfn",
+              "vidhide": "https://vidhidepro.com/v/gil0ndx9rd79"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_336243",
+      "tmdb_id": 336243,
+      "nombre": "El claroscuro",
+      "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+      "categorias": [
+        "comedia",
+        "crimen",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/pt2bx1lm17sk",
+              "vidara": "https://vidara.to/e/PV35S7cJ81n3U",
+              "voesx": "https://voe.sx/e/dmnwtmaa46kt",
+              "vidhide": "https://vidhidepro.com/v/qv17glack56t"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/hgknqbg6l7wn",
+              "voesx": "https://voe.sx/e/s0fnoeoh2x2q",
+              "vidhide": "https://vidhidepro.com/v/3kemve4r8f0m"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/lsgvgkewmiap",
+              "voesx": "https://voe.sx/e/repidsydrrtl",
+              "vidhide": "https://vidhidepro.com/v/6vvmjtswvekf"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/xq0to0a6vb82",
+              "vidara": "https://vidara.to/e/JExrx9VevNFxB",
+              "voesx": "https://voe.sx/e/z7gvs7lefzjm",
+              "vidhide": "https://vidhidepro.com/v/ccj6lh5tddbk"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/hnmlxsn899x8",
+              "voesx": "https://voe.sx/e/9p9chbygpfmk",
+              "vidhide": "https://vidhidepro.com/v/7iwhxgub2a2b"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/7w4ig7ep1uei",
+              "voesx": "https://voe.sx/e/0ie6l6blow1k",
+              "vidhide": "https://vidhidepro.com/v/f2kfv3aowyda"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/f3qfny8vt9g1",
+              "voesx": "https://voe.sx/e/8vn0absxgwlt",
+              "vidhide": "https://vidhidepro.com/v/z1hhu9onx9zb"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/urmvn6ni8jny",
+              "vidara": "https://vidara.to/e/V4R3BWhhv4OfL",
+              "voesx": "https://voe.sx/e/jmw2tv5gm9nu",
+              "vidhide": "https://vidhidepro.com/v/e89fdqr07vtw"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_338562",
+      "tmdb_id": 338562,
+      "nombre": "La ley de Alicia",
+      "poster": "https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+      "categorias": [
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1ktw5zuzaypx",
+              "vidara": "https://vidara.to/e/UJkpkJGyqHBVG",
+              "voesx": "https://voe.sx/e/t53essxoer9c",
+              "vidhide": "https://vidhidepro.com/v/ftobbsrn482s"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/95o55gd7m62t",
+              "voesx": "https://voe.sx/e/3trj9ttzfmrt",
+              "vidhide": "https://vidhidepro.com/v/7h5qvwyjcbwy"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/p09w64asftrs",
+              "vidara": "https://vidara.to/e/ZngSOOjguPdsG",
+              "voesx": "https://voe.sx/e/augqf1iaeybm",
+              "vidhide": "https://vidhidepro.com/v/78bbu4k69m52"
+            }
+          },
+          "9": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/frz90xw0j6ax",
+              "voesx": "https://voe.sx/e/vafo5lz29ytd",
+              "vidhide": "https://vidhidepro.com/v/cyfy39e7dk7i"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/zbatkuov63wp",
+              "vidara": "https://vidara.to/e/3VQ8QB8o2EG1C",
+              "voesx": "https://voe.sx/e/agmutybqtzew",
+              "vidhide": "https://vidhidepro.com/v/2lwij77u3r0e"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/809wd805le9r",
+              "voesx": "https://voe.sx/e/xsnbamwuldte",
+              "vidhide": "https://vidhidepro.com/v/65fa2ut22l7g"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1jwg8ajh9kbx",
+              "vidara": "https://vidara.to/e/LyEFiN8QdV4YN",
+              "voesx": "https://voe.sx/e/jzrzskzao3ul",
+              "vidhide": "https://vidhidepro.com/v/xjnkkfncqstg"
+            }
+          },
+          "10": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/k68bspl8l6uk",
+              "vidara": "https://vidara.to/e/2z5t5GdG0fZib",
+              "voesx": "https://voe.sx/e/c1bhafrsnrqn",
+              "vidhide": "https://vidhidepro.com/v/4knghf25ltkg"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/ch1mo0ynw9ah",
+              "voesx": "https://voe.sx/e/z9hjulfrizpw",
+              "vidhide": "https://vidhidepro.com/v/f7n11ynlpw0v"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/q0isga94l5p8",
+              "vidara": "https://vidara.to/e/goq8Jo1DTuvHl",
+              "voesx": "https://voe.sx/e/zcbra6vyiwm5",
+              "vidhide": "https://vidhidepro.com/v/m90plm86pqqw"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_334859",
+      "tmdb_id": 334859,
+      "nombre": "Chávez vs Chávez",
+      "poster": "https://image.tmdb.org/t/p/w500/t9uA5QjyS3rSz81LuYEAGK37Oqu.jpg",
+      "categorias": [
+        "documental",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/pxhoj9xkdimp",
+              "vidara": "https://vidara.to/e/2gZvll9QyNrGe",
+              "voesx": "https://voe.sx/e/0ltxptvgj8sl",
+              "vidhide": "https://vidhidepro.com/v/kuzae2rchw8u"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/2h90vyu4vyhb",
+              "vidara": "https://vidara.to/e/2iX3gcvoQTey1",
+              "voesx": "https://voe.sx/e/c5m6ux3nt7na",
+              "vidhide": "https://vidhidepro.com/v/ehh608aijkct"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/5ugatitahbgg",
+              "vidara": "https://vidara.to/e/qeqcabwftkfYM",
+              "voesx": "https://voe.sx/e/63iihtihhm8d",
+              "vidhide": "https://vidhidepro.com/v/e6045evidlr5"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/pf2ul47apb0c",
+              "vidara": "https://vidara.to/e/caIC8hu2fu8ra",
+              "voesx": "https://voe.sx/e/c1907mlkfp4a",
+              "vidhide": "https://vidhidepro.com/v/r9877qkcv76x"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/9vzxl6v4kxgt",
+              "vidara": "https://vidara.to/e/L6rpaHUX7SkIR",
+              "voesx": "https://voe.sx/e/iiqpa8u0mvka",
+              "vidhide": "https://vidhidepro.com/v/qqn5mpo8we2e"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_334470",
+      "tmdb_id": 334470,
+      "nombre": "It Gets Worse",
+      "poster": "https://image.tmdb.org/t/p/w500/xm3NMFDjgPRjgCmH5uo3LuVZYBX.jpg",
+      "categorias": [
+        "comedia",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/apc548oi9y82",
+              "vidara": "https://vidara.to/e/1XSjEsTiqC0ky",
+              "voesx": "https://voe.sx/e/vw50fuontlad",
+              "vidhide": "https://vidhidepro.com/v/fasrazobns13"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/wu2uja1vp1lf",
+              "vidara": "https://vidara.to/e/5OGvLsgWlsC48",
+              "voesx": "https://voe.sx/e/mgojnymexldb",
+              "vidhide": "https://vidhidepro.com/v/hhjcfcmz4e09"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/za3dwjda28ik",
+              "vidara": "https://vidara.to/e/m0yFc73VA4Jph",
+              "voesx": "https://voe.sx/e/trafb45u759v",
+              "vidhide": "https://vidhidepro.com/v/n6kv3bnsqpq0"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/zp7yrp9hi1n9",
+              "vidara": "https://vidara.to/e/pbzx865NkeQMt",
+              "voesx": "https://voe.sx/e/kfszupjrmihj",
+              "vidhide": "https://vidhidepro.com/v/afuu99k50hnb"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/o7fsrytw9l39",
+              "vidara": "https://vidara.to/e/ae8d3sb3YCHNJ",
+              "voesx": "https://voe.sx/e/315onn8hlwik",
+              "vidhide": "https://vidhidepro.com/v/5yujly30hwk3"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/1sa8qjeivk4h",
+              "vidara": "https://vidara.to/e/ACKaojs2K5khl",
+              "voesx": "https://voe.sx/e/kpbtzexlk3qe",
+              "vidhide": "https://vidhidepro.com/v/u0w81lxi6mra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_313100",
+      "tmdb_id": 313100,
+      "nombre": "Hola, clase",
+      "poster": "https://image.tmdb.org/t/p/w500/sBprJ6cIkWWKl4ABWgxNDKxe9kL.jpg",
+      "categorias": [
+        "drama",
+        "serie"
+      ],
+      "temporadas": {
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/6xbgojxu7nr3",
+              "vidara": "https://vidara.to/e/7or0QcfTTneKa",
+              "voesx": "https://voe.sx/e/mfacp3r8cq7z",
+              "vidhide": "https://vidhidepro.com/v/mjyffmu4m9hb"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/iydrbrcgxgcg",
+              "vidara": "https://vidara.to/e/rqsbvDvUdWXPe",
+              "voesx": "https://voe.sx/e/1sugdxgocbql",
+              "vidhide": "https://vidhidepro.com/v/iphl9qphzc8n"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/4askuz279o8f",
+              "vidara": "https://vidara.to/e/q7z9tWUASKXNn",
+              "voesx": "https://voe.sx/e/9hduywezrw6d",
+              "vidhide": "https://vidhidepro.com/v/pp4r4uwpv1iw"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/nckfkrc9sl0j",
+              "vidara": "https://vidara.to/e/adTXFx1XB1QQ6",
+              "voesx": "https://voe.sx/e/hs7nvdlongkp",
+              "vidhide": "https://vidhidepro.com/v/6hgnqsxtfs2u"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/o9cxd1fm0ybj",
+              "vidara": "https://vidara.to/e/5GcbGKJhWSyvU",
+              "voesx": "https://voe.sx/e/fuilopsalc7i",
+              "vidhide": "https://vidhidepro.com/v/r7hhj4lkjlxf"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "s_254630",
+      "tmdb_id": 254630,
+      "nombre": "12 12 12",
+      "poster": "https://image.tmdb.org/t/p/w500/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+      "categorias": [
+        "crimen",
+        "accion",
+        "serie",
+        "drama"
+      ],
+      "temporadas": {
+        "1": {
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/9pjnf1qdc5qi",
+              "vidara": "https://vidara.to/e/OASH2zi6otmnz",
+              "voesx": "https://voe.sx/e/eghuijdalkvv",
+              "vidhide": "https://vidhidepro.com/v/kytbw43a3ya8"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/oh1z32wd0g4d",
+              "vidara": "https://vidara.to/e/XjbyfXHqssehh",
+              "voesx": "https://voe.sx/e/1n951nnt303f",
+              "vidhide": "https://vidhidepro.com/v/k9okfskl4azr"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "s_44006",
       "tmdb_id": 44006,
@@ -2604,6 +3367,14 @@
               "vidhide": "https://vidhidepro.com/v/r7vm56xxc66c"
             }
           },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/vfgd47y0fixz",
+              "vidara": "https://vidara.to/e/a0qHW0PE2PT1Z",
+              "voesx": "https://voe.sx/e/jzwvzmdabkkx",
+              "vidhide": "https://vidhidepro.com/v/shtfczzqpvz1"
+            }
+          },
           "2": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/wloxh8n1vbbr",
@@ -2626,6 +3397,22 @@
               "vidara": "https://vidara.to/e/667HXdehNYKSP",
               "voesx": "https://voe.sx/e/nbxc31szcngo",
               "vidhide": "https://vidhidepro.com/v/bsfqjs8e9fmt"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/m4s3w4kka8yw",
+              "vidara": "https://vidara.to/e/D53KLngF6tJcY",
+              "voesx": "https://voe.sx/e/9n4hu5rs9q5u",
+              "vidhide": "https://vidhidepro.com/v/5t4q8wpmp1xj"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/8k8fueazldzc",
+              "vidara": "https://vidara.to/e/TxLm6AzGv0WGX",
+              "voesx": "https://voe.sx/e/3cmrqj9mrit3",
+              "vidhide": "https://vidhidepro.com/v/7565bymsox8f"
             }
           },
           "3": {
@@ -2654,64 +3441,72 @@
           "4": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/h5iwi68b6d6x",
+              "vimeos": "https://vimeos.net/embed-t9axvfzvuosa.html",
               "vidara": "https://vidara.to/e/5uu8mtGNxGMrR",
-              "voesx": "https://voe.sx/e/bdkluhwf1uzr",
+              "voesx": "https://voe.sx/e/w85h7q3el5gy",
               "vidhide": "https://vidhidepro.com/v/vpobng8zbgbj"
             }
           },
           "8": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/2m9owzjw0nua",
+              "vimeos": "https://vimeos.net/embed-wcwc1j997yvz.html",
               "vidara": "https://vidara.to/e/0zcWXNeTs26Mf",
-              "voesx": "https://voe.sx/e/se5zwxoif9k6",
+              "voesx": "https://voe.sx/e/egw9ezf3mdmd",
               "vidhide": "https://vidhidepro.com/v/qh9p3e2t32vs"
             }
           },
           "2": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/2hiq4k3av9x1",
+              "vimeos": "https://vimeos.net/embed-h3o3he2nlmp9.html",
               "vidara": "https://vidara.to/e/Y7ReVV7HnM7Uf",
-              "voesx": "https://voe.sx/e/nfvi2a6gygue",
+              "voesx": "https://voe.sx/e/izywnjordmr0",
               "vidhide": "https://vidhidepro.com/v/7z1whreab07k"
             }
           },
           "1": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/kr0gfka5oq2z",
+              "vimeos": "https://vimeos.net/embed-q2lbfzwiz53m.html",
               "vidara": "https://vidara.to/e/qGMaw7Snysndh",
-              "voesx": "https://voe.sx/e/grwbmpalqpni",
+              "voesx": "https://voe.sx/e/5zqgndb0gwjd",
               "vidhide": "https://vidhidepro.com/v/5mq7bqim5fg5"
             }
           },
           "6": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/o8zy7ss3j7ur",
+              "vimeos": "https://vimeos.net/embed-pnyv6nwym3vx.html",
               "vidara": "https://vidara.to/e/KZ1I9h2sxmF2q",
-              "voesx": "https://voe.sx/e/ask6oyortwjx",
+              "voesx": "https://voe.sx/e/lusglb2zrcen",
               "vidhide": "https://vidhidepro.com/v/r70qmpwneol0"
             }
           },
           "5": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/jssdm888z8sl",
+              "vimeos": "https://vimeos.net/embed-xd7fbia8m9bx.html",
               "vidara": "https://vidara.to/e/LYJvzNV98rF26",
-              "voesx": "https://voe.sx/e/y1oejqhoxctv",
+              "voesx": "https://voe.sx/e/vaxvqlxokfi7",
               "vidhide": "https://vidhidepro.com/v/x1xb6wzb9i2w"
             }
           },
           "7": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/katc70cyz24b",
+              "vimeos": "https://vimeos.net/embed-6nulvbaparyj.html",
               "vidara": "https://vidara.to/e/qSIgesEBaNKgo",
-              "voesx": "https://voe.sx/e/2xm9vr2aauuq",
+              "voesx": "https://voe.sx/e/scr5ykgtxmeu",
               "vidhide": "https://vidhidepro.com/v/kdrr245x7g0e"
             }
           },
           "3": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/mab7l880crp4",
+              "vimeos": "https://vimeos.net/embed-05p443079t75.html",
               "vidara": "https://vidara.to/e/INSfVLI5UxJvI",
-              "voesx": "https://voe.sx/e/kqykyg13kvoz",
+              "voesx": "https://voe.sx/e/6e8xfpnsfc1k",
               "vidhide": "https://vidhidepro.com/v/l8xtfjkuqeya"
             }
           }
@@ -2981,9 +3776,26 @@
           "1": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/odlbt8j7n50r",
+              "vimeos": "https://vimeos.net/embed-ogsvv3iobu5z.html",
               "vidara": "https://vidara.to/e/MSXt5RH39Vo9V",
               "voesx": "https://voe.sx/e/skn7y5vrqi8s",
               "vidhide": "https://vidhidepro.com/v/ky6r92xlkcda"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/yq8dke0b7te5",
+              "vidara": "https://vidara.to/e/utdknuANvHoUr",
+              "voesx": "https://voe.sx/e/vwtawpgvrzbu",
+              "vidhide": "https://vidhidepro.com/v/g1v6i6igemee"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/wusr5pbpjx5p",
+              "vidara": "https://vidara.to/e/FKjCsizu7QLFD",
+              "voesx": "https://voe.sx/e/jr06jknvd7qo",
+              "vidhide": "https://vidhidepro.com/v/21g4xrae3c40"
             }
           },
           "3": {
@@ -3402,6 +4214,14 @@
               "vidara": "https://vidara.to/e/tGVsjDZCjc7sI",
               "voesx": "https://voe.sx/e/6ylk3madu8gz",
               "vidhide": "https://vidhidepro.com/v/2ul3u5clh9w5"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/nlt9as1l3dp1",
+              "vidara": "https://vidara.to/e/j8ceH6SCn3eDY",
+              "voesx": "https://voe.sx/e/ehbu2krtpimv",
+              "vidhide": "https://vidhidepro.com/v/lkb1083olfcd"
             }
           }
         }
@@ -5697,6 +6517,7 @@
           "4": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/crcfwcus1mkz",
+              "vimeos": "https://vimeos.net/embed-yi8anuhthsmf.html",
               "voesx": "https://voe.sx/e/7xbquydyca49",
               "vidhide": "https://vidhidepro.com/v/d6mq65bkw50z"
             }
@@ -5704,6 +6525,7 @@
           "8": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/wk77vgtkvy38",
+              "vimeos": "https://vimeos.net/embed-54v9vvv6gsj3.html",
               "voesx": "https://voe.sx/e/vawaljicc5v5",
               "vidhide": "https://vidhidepro.com/v/xv7pu5nu4i2y"
             }
@@ -5711,6 +6533,7 @@
           "2": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/hcex3q6wtilt",
+              "vimeos": "https://vimeos.net/embed-hf82nc9oqbmu.html",
               "voesx": "https://voe.sx/e/d4hrutal7yfg",
               "vidhide": "https://vidhidepro.com/v/zbx1xvz5ffki"
             }
@@ -5718,6 +6541,7 @@
           "1": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/1qqqsbgxqu67",
+              "vimeos": "https://vimeos.net/embed-vj2nctiqy175.html",
               "voesx": "https://voe.sx/e/scsu99ojicuw",
               "vidhide": "https://vidhidepro.com/v/f9o5ph7xv42x"
             }
@@ -5725,6 +6549,7 @@
           "6": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/cdreitmkbjyt",
+              "vimeos": "https://vimeos.net/embed-2fbyoxwfm4nd.html",
               "voesx": "https://voe.sx/e/coymtnuezqde",
               "vidhide": "https://vidhidepro.com/v/gwmvwqy5w1b5"
             }
@@ -5732,6 +6557,7 @@
           "5": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/ywq6f3p4p7uc",
+              "vimeos": "https://vimeos.net/embed-mr37de6btu9i.html",
               "voesx": "https://voe.sx/e/jz5cbnl0rlij",
               "vidhide": "https://vidhidepro.com/v/ctw05vq3aclm"
             }
@@ -5739,6 +6565,7 @@
           "7": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/n8zy4dy9xm2m",
+              "vimeos": "https://vimeos.net/embed-mj9nl3et7o6q.html",
               "voesx": "https://voe.sx/e/gj6kroqpes12",
               "vidhide": "https://vidhidepro.com/v/bnge1802y8vv"
             }
@@ -5746,6 +6573,7 @@
           "3": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/urd46wt3u0cn",
+              "vimeos": "https://vimeos.net/embed-lvbc0zhvz9ve.html",
               "voesx": "https://voe.sx/e/esdhf0dbfzwc",
               "vidhide": "https://vidhidepro.com/v/uljzwl0hgcok"
             }
@@ -14649,23 +15477,23 @@
             "español latino": {
               "streamwish": "https://streamwish.to/e/s820ik95ffru",
               "earnvids": "https://morencius.com/embed/z31mpdfk675t",
-              "voesx": "https://voe.sx/e/9lusaaqat6ku",
+              "voesx": "https://voe.sx/e/irhzovcj63fb",
               "vidhide": "https://vidhidepro.com/v/79dgehsxe1pu"
             }
           },
-          "7": {
+          "8": {
             "español latino": {
-              "voesx_2": "https://voe.sx/e/5oa2tcefhxe1",
-              "streamwish": "https://hglink.to/e/pl0opozkby1l",
-              "earnvids": "https://morencius.com/embed/7begww6lwv9y",
-              "voesx": "https://voe.sx/e/kxxcqasprmy8"
+              "streamwish": "https://streamwish.to/e/q28t7si12myp",
+              "vidara": "https://vidara.to/e/LbytkaImkoIdq",
+              "voesx": "https://voe.sx/e/e949chbje5u9",
+              "vidhide": "https://vidhidepro.com/v/s0ped956cinn"
             }
           },
           "2": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/yeajbzamnfkg",
               "earnvids": "https://morencius.com/embed/3rejn0ujjdzp",
-              "voesx": "https://voe.sx/e/ygjqoixgvykf",
+              "voesx": "https://voe.sx/e/naha4fywmffk",
               "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=2&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1",
               "vidhide": "https://vidhidepro.com/v/e96v0tmkbykk"
             }
@@ -14674,7 +15502,7 @@
             "español latino": {
               "streamwish": "https://streamwish.to/e/oqfrwa7jyfre",
               "earnvids": "https://morencius.com/embed/ff2tmyjmv54f",
-              "voesx": "https://voe.sx/e/urpkfoxbup62",
+              "voesx": "https://voe.sx/e/zqus1ixdbcjg",
               "vimeus": "https://vimeus.com/e/serie?tmdb=213375&se=1&ep=1&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1",
               "vidhide": "https://vidhidepro.com/v/sog0tcpo5a8t"
             }
@@ -14682,22 +15510,32 @@
           "6": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/qemwwskqjklz",
-              "voesx": "https://voe.sx/e/un0vzeotuuqn",
+              "voesx": "https://voe.sx/e/xxp2tshmoerh",
               "vidhide": "https://vidhidepro.com/v/94kujpyo5wk1"
             }
           },
           "5": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/44o6w9lh4qs2",
-              "voesx": "https://voe.sx/e/vmz81ew4s8rj",
+              "voesx": "https://voe.sx/e/8ssqis3vdzuu",
               "vidhide": "https://vidhidepro.com/v/lus7tn8jnbbr"
+            }
+          },
+          "7": {
+            "español latino": {
+              "voesx_2": "https://voe.sx/e/5oa2tcefhxe1",
+              "vidara": "https://vidara.to/e/MZBqB6Mdoru5r",
+              "streamwish": "https://streamwish.to/e/qus354ml4x94",
+              "earnvids": "https://morencius.com/embed/7begww6lwv9y",
+              "voesx": "https://voe.sx/e/4iaxk9ccp9ly",
+              "vidhide": "https://vidhidepro.com/v/53fkh9e32u3h"
             }
           },
           "3": {
             "español latino": {
               "streamwish": "https://streamwish.to/e/2lxth10vt61z",
               "earnvids": "https://morencius.com/embed/g59sw9p2p89d",
-              "voesx": "https://voe.sx/e/25wpwjhhu5ff",
+              "voesx": "https://voe.sx/e/p3qvgnqwitsk",
               "vidhide": "https://vidhidepro.com/v/0nfyy14j43i2"
             }
           }
@@ -59014,45 +59852,111 @@
         "misterio"
       ],
       "temporadas": {
-        "1": {
+        "2": {
           "4": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-qct9lsqh83ii.html"
-            }
-          },
-          "8": {
-            "español latino": {
-              "vimeos": "https://vimeos.net/embed-j8zpi0p8u4gk.html"
+              "streamwish": "https://streamwish.to/e/euaeuhkqierh",
+              "vidara": "https://vidara.to/e/820KSiZX2kPj3",
+              "voesx": "https://voe.sx/e/rhvmxa0tliua",
+              "vidhide": "https://vidhidepro.com/v/4cze7ixmfuk0"
             }
           },
           "2": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-v87xi6acb35c.html"
+              "streamwish": "https://streamwish.to/e/nnfikcutu43d",
+              "vidara": "https://vidara.to/e/RGZuh9yGG0qMf",
+              "voesx": "https://voe.sx/e/juranp6ae0iu",
+              "vidhide": "https://vidhidepro.com/v/rc61vqha49ck"
             }
           },
           "1": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-0y3c1aoie84l.html"
-            }
-          },
-          "6": {
-            "español latino": {
-              "vimeos": "https://vimeos.net/embed-ar2oa0rti8l5.html"
-            }
-          },
-          "5": {
-            "español latino": {
-              "vimeos": "https://vimeos.net/embed-47x86jimmg9w.html"
-            }
-          },
-          "7": {
-            "español latino": {
-              "vimeos": "https://vimeos.net/embed-p7x7ksfzqbor.html"
+              "streamwish": "https://streamwish.to/e/gm3t07i355zf",
+              "vidara": "https://vidara.to/e/2QklTf1wRH8lY",
+              "voesx": "https://voe.sx/e/ubsorbribs5b",
+              "vidhide": "https://vidhidepro.com/v/isv0udw6427u"
             }
           },
           "3": {
             "español latino": {
-              "vimeos": "https://vimeos.net/embed-y2olwdw1irqv.html"
+              "streamwish": "https://streamwish.to/e/8v629f5vha6t",
+              "vidara": "https://vidara.to/e/pKvaX2BOnRJb8",
+              "voesx": "https://voe.sx/e/cxsdpgmivczc",
+              "vidhide": "https://vidhidepro.com/v/v2cpm6twmotl"
+            }
+          }
+        },
+        "1": {
+          "4": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/34on531pqdu7",
+              "vimeos": "https://vimeos.net/embed-qct9lsqh83ii.html",
+              "vidara": "https://vidara.to/e/WKHj00eGmy6Ni",
+              "voesx": "https://voe.sx/e/g4wbns2loohd",
+              "vidhide": "https://vidhidepro.com/v/lg8012tg9ei9"
+            }
+          },
+          "8": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/8xl3kcc5266w",
+              "vimeos": "https://vimeos.net/embed-j8zpi0p8u4gk.html",
+              "vidara": "https://vidara.to/e/HHoG23AuDr1ai",
+              "voesx": "https://voe.sx/e/5esmqkuzip6i",
+              "vidhide": "https://vidhidepro.com/v/9lsow5gm934y"
+            }
+          },
+          "2": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/jrpbfeic1y7e",
+              "vimeos": "https://vimeos.net/embed-v87xi6acb35c.html",
+              "vidara": "https://vidara.to/e/LE76FEwqJSi10",
+              "voesx": "https://voe.sx/e/a17drbw7x5ah",
+              "vidhide": "https://vidhidepro.com/v/kkoad14fxmtv"
+            }
+          },
+          "1": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/fz152tqxw5eu",
+              "vimeos": "https://vimeos.net/embed-0y3c1aoie84l.html",
+              "vidara": "https://vidara.to/e/hk3n29s0gTbL9",
+              "voesx": "https://voe.sx/e/bdeomotlcbf5",
+              "vidhide": "https://vidhidepro.com/v/6ln458z1trpu"
+            }
+          },
+          "6": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/riodrkwvgejj",
+              "vimeos": "https://vimeos.net/embed-ar2oa0rti8l5.html",
+              "vidara": "https://vidara.to/e/v7xFy4byomi2h",
+              "voesx": "https://voe.sx/e/brqzjfvcnkzm",
+              "vidhide": "https://vidhidepro.com/v/obq4z0gqkm4s"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/u7v2ahouotyz",
+              "vimeos": "https://vimeos.net/embed-47x86jimmg9w.html",
+              "vidara": "https://vidara.to/e/wHrKMe6RdwuWW",
+              "voesx": "https://voe.sx/e/g02fjvh6rkiz",
+              "vidhide": "https://vidhidepro.com/v/vxkttliwg4cl"
+            }
+          },
+          "7": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/46k5o5fgk15u",
+              "vimeos": "https://vimeos.net/embed-p7x7ksfzqbor.html",
+              "vidara": "https://vidara.to/e/t0k4PBABmPOyo",
+              "voesx": "https://voe.sx/e/aj3yetbccf3n",
+              "vidhide": "https://vidhidepro.com/v/7xb1qyy4xu48"
+            }
+          },
+          "3": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/216t2kxjbrzb",
+              "vimeos": "https://vimeos.net/embed-y2olwdw1irqv.html",
+              "vidara": "https://vidara.to/e/K9OGcl8Kiaac5",
+              "voesx": "https://voe.sx/e/kuvfxfueiif1",
+              "vidhide": "https://vidhidepro.com/v/9zmirnkiti78"
             }
           }
         }
@@ -123767,14 +124671,15 @@
         "1": {
           "4": {
             "español latino": {
-              "streamwish": "https://streamwish.to/e/k28886d5sctj",
-              "filelions": "https://filelions.to/v/0f11ue9olxkg"
+              "streamwish": "https://streamwish.to/e/m4to87soe73d",
+              "filelions": "https://filelions.to/v/0f11ue9olxkg",
+              "voesx": "https://voe.sx/e/oqjarnwyxldz",
+              "vidhide": "https://vidhidepro.com/v/4271lvyuuw0k"
             }
           },
-          "2": {
+          "17": {
             "español latino": {
-              "streamwish": "https://streamwish.to/e/ldvomwieoych",
-              "filelions": "https://filelions.to/v/rzr4z3p4rfjr"
+              "filelions": "https://filelions.to/v/dbkctez9xu7a"
             }
           },
           "9": {
@@ -123788,15 +124693,9 @@
               "filelions": "https://filelions.to/v/83kd586l4vah"
             }
           },
-          "6": {
+          "11": {
             "español latino": {
-              "filelions": "https://filelions.to/v/bx1kht28tabn"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/gq2i5n64076k",
-              "filelions": "https://filelions.to/v/iax9cgbzyzkg"
+              "filelions": "https://filelions.to/v/n82ugbrg5vxd"
             }
           },
           "25": {
@@ -123810,20 +124709,39 @@
               "filelions": "https://filelions.to/v/09930iuxv3ee"
             }
           },
-          "11": {
+          "2": {
             "español latino": {
-              "filelions": "https://filelions.to/v/n82ugbrg5vxd"
+              "streamwish": "https://streamwish.to/e/wg7l1h1hwjez",
+              "filelions": "https://filelions.to/v/rzr4z3p4rfjr",
+              "voesx": "https://voe.sx/e/m8yl0fjsa3fk",
+              "vidhide": "https://vidhidepro.com/v/rw766a30rm2a"
+            }
+          },
+          "5": {
+            "español latino": {
+              "streamwish": "https://streamwish.to/e/9iashkfjsw8t",
+              "vidara": "https://vidara.to/e/DXZszYJMF7ias",
+              "filelions": "https://filelions.to/v/iax9cgbzyzkg",
+              "voesx": "https://voe.sx/e/rutx61a5cju0",
+              "vidhide": "https://vidhidepro.com/v/afokyft3p2lc"
             }
           },
           "7": {
             "español latino": {
-              "streamwish": "https://streamwish.to/e/lrjpmi29dhs8",
-              "filelions": "https://filelions.to/v/tbvzhm74slmf"
+              "streamwish": "https://streamwish.to/e/fulvfcserith",
+              "vidara": "https://vidara.to/e/rnZ58qivQHYN0",
+              "filelions": "https://filelions.to/v/tbvzhm74slmf",
+              "voesx": "https://voe.sx/e/o7ic3blw9c0d",
+              "vidhide": "https://vidhidepro.com/v/985rwx3ls8s1"
             }
           },
-          "17": {
+          "6": {
             "español latino": {
-              "filelions": "https://filelions.to/v/dbkctez9xu7a"
+              "streamwish": "https://streamwish.to/e/ckula50969uv",
+              "vidara": "https://vidara.to/e/cvmHGtFWHgTce",
+              "filelions": "https://filelions.to/v/bx1kht28tabn",
+              "voesx": "https://voe.sx/e/1j9qss8bfelt",
+              "vidhide": "https://vidhidepro.com/v/ccr1jr7zr288"
             }
           },
           "21": {
@@ -123831,9 +124749,10 @@
               "streamwish": "https://streamwish.to/e/jpkum436r031"
             }
           },
-          "8": {
+          "14": {
             "español latino": {
-              "filelions": "https://filelions.to/v/bxkw5uy4l3am"
+              "streamwish": "https://streamwish.to/e/hdg0zfvgl386",
+              "filelions": "https://filelions.to/v/xd3rdl7slu99"
             }
           },
           "20": {
@@ -123849,13 +124768,20 @@
           },
           "1": {
             "español latino": {
-              "filelions": "https://filelions.to/v/598c2zsn4zuu"
+              "streamwish": "https://streamwish.to/e/z5i24nfkvhel",
+              "vidara": "https://vidara.to/e/h7I9XltZbViQP",
+              "filelions": "https://filelions.to/v/598c2zsn4zuu",
+              "voesx": "https://voe.sx/e/a58rp9ljfy1t",
+              "vidhide": "https://vidhidepro.com/v/uu1y2017xhy6"
             }
           },
-          "14": {
+          "8": {
             "español latino": {
-              "streamwish": "https://streamwish.to/e/hdg0zfvgl386",
-              "filelions": "https://filelions.to/v/xd3rdl7slu99"
+              "streamwish": "https://streamwish.to/e/bxhkuilhdu0w",
+              "vidara": "https://vidara.to/e/Rcfk43zlz05H2",
+              "filelions": "https://filelions.to/v/bxkw5uy4l3am",
+              "voesx": "https://voe.sx/e/jjdlyl30bgyl",
+              "vidhide": "https://vidhidepro.com/v/vv9oaalxopxk"
             }
           },
           "24": {
@@ -123880,7 +124806,10 @@
           },
           "3": {
             "español latino": {
-              "filelions": "https://filelions.to/v/olr5wgb4nvy4"
+              "streamwish": "https://streamwish.to/e/w0ja0wct7izd",
+              "filelions": "https://filelions.to/v/olr5wgb4nvy4",
+              "voesx": "https://voe.sx/e/rfh63gacsp3s",
+              "vidhide": "https://vidhidepro.com/v/l6sp5c2oa845"
             }
           },
           "22": {
@@ -150038,952 +150967,6 @@
           "3": {
             "español latino": {
               "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0akFMV21VWUFwRmtlVFRwZ3ZzSjE4ZUFKRTVJRFlwL1drSENua08rc0hzVg=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_306762",
-      "tmdb_id": 306762,
-      "nombre": "El amor a través de un prisma",
-      "poster": "https://image.tmdb.org/t/p/w500/gFCpJ2uVepp1yzEsXX5cQu4ntKB.jpg",
-      "categorias": [
-        "serie",
-        "drama",
-        "animacion"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aHN6K1RBNGNJaTRHRmk0VnVzU1hzcHJhV0REV1B4b0VSaGpsd1I0MjA0eg=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bGtJcFVUQmlMMVB4U2lrbStud29BK25aOXpNZitQUmsyVXgwamx5RXdFUg=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cy9FU2NXYkRhQXIyakJKSm0yLzNuYkhqWDZ3dFhwRU5QYnpnSjNyWklFVQ=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bkN6ZXNFci9HN010aXZ3S1RmS0RvNTFzUmNzM2VzUGtBYis1aVJxdHRhSA=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bVo4eFptU2hCSmE1S1Flb2ZzYWlNOGtyV1kxaDMyNTBVdldGYVlTeGdwZA=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aWlhamZtVFlDNDNEZmJvNExKOVlZcDlFa3Ywa1FsNmRJaERoSDlZRFBNeg=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cTRZUDJrbSswcFZnRjFqQmh5UHpBdDlJNHkwRmkwaDlwSm9xYWpNZkhPZQ=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cVpnOFlpV3FiQ3lvYmljUmdldEZJVkFRSUowZEVRckdFUGhSdXBRQU5xVA=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_127727",
-      "tmdb_id": 127727,
-      "nombre": "Middlemost Post: Servicio Postal",
-      "poster": "https://image.tmdb.org/t/p/w500/4YYG6xn24XwEAvgQVgg6K1Gmhpy.jpg",
-      "categorias": [
-        "serie",
-        "comedia",
-        "animacion"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cytnc1VINXNncE1lMUt4SGEwdG9JeGVHa1k5cGpzbElkdmUwdWtpOTFTdQ=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bEc4K0RGTHJNZ0c3aU54OEFMZmJHekNCVE5vOWUvb0Y4czFhU2Q1NE5qcA=="
-            }
-          },
-          "9": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0Z1NKTGVoUFBhWkx0M2lCZHZPSEd5WEpqcnFVTURMNExDSkdVaG9rR0E0dg=="
-            }
-          },
-          "19": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bG5PcE91MUU5clZaQjd5d3lXb3JVTkdLeXJvak1tWGtXajJPaDhhS3hqVQ=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0a3pZNzhnUVpVdVFVWlo2aHlGcDJSdFhBWGd3ZnBicjRpeXpYb3g0Y1RyZQ=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b0J1VWR3UG1hZDcrQzhZQ3NFQko1OVZEcHp5L1R3VlVnYVFGREQ5ZXVtTw=="
-            }
-          },
-          "10": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0a3dKUlJXL3h3L0plV2xxcFgxd1d3OEFVekRwYTVrdWNpRzE3MENzYXpxVA=="
-            }
-          },
-          "11": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aFE0b1F4Z3ExU2o3N1ZHYmZFRFZYS290akQxUnA0TFNtQnRBdisveHQvUw=="
-            }
-          },
-          "17": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bDF4WmtEeGFxRGJXemovNVBSbXBQL2I0cDFxVU9yZzBCdG1iUmpXcVRCRA=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aysrdzQ0SjhGVHFsMEpSV0Z2ZXM5cmlnZGxGSkJBUGp4bm5sbDJQNE0zMg=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bFlWMUxxMkpHRUQwcDU0NVpvQ05DR2tBeFlkVG9POHlRbXVhb0NIUnZBQg=="
-            }
-          },
-          "20": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0a1M3UXlPY0FmTVFMN2FVRkxCcS9HSTNmUWV6MU02RXBHOVFrM1BEbk14Lw=="
-            }
-          },
-          "12": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aWtFRCtPSlh5Rkg4bGhPS29HT2pGL1ZETVdOSnZpZjJ3ZUlxdlFmY2VYYw=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aTBkNCtNS3ZpSTZYUTB1M1QxZU9ENnovZFY0cyt0SmJEMW9DQXpBVmFqaA=="
-            }
-          },
-          "14": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dkRRYkNqaGQ2Z2c3SDhqSmQ4d2tOc2J4eEhjcG1BYmt3VkhjNnNsTzFBaQ=="
-            }
-          },
-          "15": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0ZzFxclNPb3RSK0J0THA4clhoLzZBdVFMdXd0S2crZGJZUkc4VEhYZWZyVg=="
-            }
-          },
-          "18": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aTBRN2NGZ3lkSytMNGlWVmduSHM3OVNwRFpMTTRmZTBlT21McytRTzY0SQ=="
-            }
-          },
-          "13": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0Z2VlMmIxajI1OTg0U2ZMdWQ4cFMxbTVpbGR1RWhOZGxRYmxJam94bHc1Ug=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aFJ2Vkx0T1daS1RPSHBtUW1IbnNBY0k1Z0JXYjNnS2NvUVUxeWgvZ2xpdQ=="
-            }
-          },
-          "16": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bFVTQUVJUW1rbHozRllSclBuL2pJRUp5elNheHRBNnkvL0wrUjVwbWsxWA=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_210694",
-      "tmdb_id": 210694,
-      "nombre": "Cachorros fantasmas",
-      "poster": "https://image.tmdb.org/t/p/w500/3yccG9BPcO7895d3IHKRmfGJHfD.jpg",
-      "categorias": [
-        "serie",
-        "familia"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0clZ3SElaTDRuVmp2aEVSTlRqN2pQajVLUTVCQjB2aklqTVQrMDRTRXd3eg=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0ckx2dkcwNGEwQml3MEVOdG9wSm00SmhmNFpoRnR5aE9XMjZrQzU2QjhXSQ=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cytnc1VINXNncE1lMUt4SGEwdG9Jd2hNdDNQdmljYkpEYkZraloyV2l6Ug=="
-            }
-          },
-          "9": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dTYvcFpVVi8xKzVFb1FTeDNsdzY5bWJyUTZoVnpLZ2dWdTVhM04yZW9iLw=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bVBFZ1dsSERwb0prU2Vtc29IbFN2QStnOC91SXNvMnZDZWJsczcvbUxINQ=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bUJVYzA1bUhHdjNVOTBxQmZmdElrNFkwRXZ5SktLbkhDMHdRRTdKQWx4Wg=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bHp6SVhmRlBzY1dHbXFscmdTTHowUjlGdE9KaG1RWk85RFNiNUJhbDFJTw=="
-            }
-          },
-          "10": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cnJCYjFJaktoWjlDN0RvTU1HTCs1T0dTcnRBTVliYzJsc2lhOEVOMitEVg=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bGVpNk96dnlXbmRwOGt0Qjh3a0YvbzQvVHJDNVRMK2JUQmM1V1QydEJJYg=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b3lEUFVuMDFxd2tkdEJOUU9URHhkMmtkV3pKamsvaHl3eGFnTWpyaUdFUA=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_207704",
-      "tmdb_id": 207704,
-      "nombre": "Las de la última fila",
-      "poster": "https://image.tmdb.org/t/p/w500/6BYd8sGyGoUuOzhNsQo0tvSPzsk.jpg",
-      "categorias": [
-        "serie",
-        "drama",
-        "comedia"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dXF6aXBGdXFpVGkyVkhsZTNwVXdqMVlVblpSZUlHTklnWEpTaDVVT01xVw=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dHFHOWNrWExDb1FlWDFOUW55M3VuWm1DWTI3aEQvcVlRM24zMWJKbWFqNA=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aDByZk13T0F5RlV2ZnlyQVRKNVBNaVJwd2xQRU1UazNSbmVQbVY4dEcySA=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dm1HWnJvV2RyS0hYMk9BZjl2bTQ3MHdJUGJZb3ZHN0JTK3dseUxoZWE0bw=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0c3lMVmFjZ3ZZYitheVFac0RmRVQzSWxxZDJ2UVdIaEt3MzJRK3JuNThSSA=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0c0RhNXRLNllHeUM3V3ZwTFRLSE9hMm1YTmplTHFVUEd1bXNIZzAwSERVRw=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_152511",
-      "tmdb_id": 152511,
-      "nombre": "Las inclemencias del amor",
-      "poster": "https://image.tmdb.org/t/p/w500/8yaXYMZEtCUR1bZWrgnYe97c9UE.jpg",
-      "categorias": [
-        "serie",
-        "drama",
-        "comedia"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0a1hHOWFZVjYyVVZwY3lrWnQ4VnoybDlWSGJZWlNYSDFjU3NuOEt3SDhOZQ=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0c0V2OGt5S1F6S05CMWFVS2JRbktRN0lJWGwyZFYyRnFQRzk2YnU3b0k3UA=="
-            }
-          },
-          "9": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0ckZJbllWVkNGVWdxcVBDL1djRVhWM0RXUnNaMlNTQ29IVEIxZTYyeVdrcA=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cmcrck9rdUFMem1DRHdLSXlSS0VETm1MVW4yMnBzaGJCM1FmSjdyNWcxWQ=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b01zQWNDMFlSMmo4aXJ2TXp0V1pjTjJQQWwvM3Z3QVNTYjZWUDRYVUxBSw=="
-            }
-          },
-          "10": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dWtML2ZnbHF6SGVyRkt0cFZpVnFidEpodTJNSVd0elhTaHF5dTFveVgyRg=="
-            }
-          },
-          "11": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0a01TMjM3RmhYQnBnRDU3RG10a0YrWHJuVWpWYkoybDlXODdoOUZMa0FhSg=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dWNJUkMzbkRNT1BCQUYrT2JkK0EvaEFkVkFSdXVqYXBrNXNmY090WUZXQQ=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bXlxMlJNck0wVTFvbjVrdXhQL29US2hrb3BLNk1HaDA2L0RCUHVpYXZDcw=="
-            }
-          },
-          "14": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cTJ6TmJmWHVxTGNPcS81S3JRbGM4TG12T3ZnUVU0Z2RnaWFKS2dIampwaQ=="
-            }
-          },
-          "12": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cUdFZXJEbHhvVk9ndzdBSFRESzdOQVlvTjU4eTQ3QjJpSUVHaGFaQ1lTdA=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aHJzVU0wWlhMdzhVWnBJMHVPVUR4em1JK3VlVGFGMHhRRDhKUDhWdzIydw=="
-            }
-          },
-          "15": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dHF6RWN6dFE1eUlETDVEL0JWNlJUUVp5eFR5elVQN2FLYzVieUpqOU1hUg=="
-            }
-          },
-          "13": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dkpaZ3NNTTRhT3dpR3JFMmxCNk5EM3JPamNDbEY5eWRuTWVFMkpMSDNoRQ=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0a0tKb1I0UEtsMTlYOGlrenZTT25pbDBGbHVVTTF4UWt5Q25QeGZQeVVjNg=="
-            }
-          },
-          "16": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b0dGVGpjM2VTZmp4NGFVajIxa09XTmxMZnJtZUhRM2lDRXR0cnhDaTd0dA=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_85658",
-      "tmdb_id": 85658,
-      "nombre": "Fantasmagorias",
-      "poster": "https://image.tmdb.org/t/p/w500/3rMSEyqBY43D31dN1IsfGZiED6N.jpg",
-      "categorias": [
-        "serie",
-        "animacion"
-      ],
-      "temporadas": {
-        "2": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bEpVRnBNWXgvWHpGREw3ZUNIWG82RmFXWW9rc1RDdEdIVlZCU2lOWWZpSw=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aEZJVDZUSmg2V01oejRFbzlNU3htK2dpSTZyZFlxdnZjWCtqd3Azam85Rg=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aWFmbWMxNEI4TTRSNFg5OUMyckV1ZHdnVXIzM1oyeW5FWS9BU2dyWnpjNA=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b094NUI1MUhkYlNiRjVSTDJ2RHVvSXdsS0pNRHRTMWwzU1dMSkhvWndQWQ=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bFE2YjBGTDNxeXpIK1lPa1BZdXJvT1NPcHkyWkk4a2pVSExLcXkzK01XKw=="
-            }
-          }
-        },
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bEdnM1lFeHNTMlo5TFBLSEtiZ1VLdUlxOFNhNERjZDIrWUVZd3I0d0NKOQ=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cmcrck9rdUFMem1DRHdLSXlSS0VEUFRvZGgxK3ZrdHRMRXpVR24rcWZSYQ=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0ak9lUVE0Y1FYSHYwWnhWdVp2WW9VbGVCeVl4MGJiTGljZ09SQ0QyY2diYQ=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aWI4OWh4cVlVUlFEYU5wR0JlMVNHOXh2ZmxuTkxxRjZDNlh1NUQ4QWZWTw=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aGJobk5iS1Z4Um9IZW8rUW9TbS9iTlZHNlI3OUc3dVhHMWpFZnJUSmN4YQ=="
-            }
-          }
-        },
-        "3": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bzBzZW5uMzg5MUgzMm5rbkdtU1FObHN4VGhrd0gxdzFXUEw3VGJ3cWV3Qg=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0c1ZsdUtzc29LWFd1a2JZY0dGM3dCd0VOS2szTjN5dDJwamkxUWx0OVoybQ=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dFhtc1orMDNkUXVoY2xJNi8zQW45aGllQjczTjNVTXE3RStSMHRmU0Nlcg=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aGd2WE8yUXZJMTd1blE5b05UTHAzazBNeFpUakI1K2tvelVRTnZxUGI0TQ=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_69776",
-      "tmdb_id": 69776,
-      "nombre": "Jeff y unos aliens",
-      "poster": "https://image.tmdb.org/t/p/w500/5oh09hT70NmkA2tEo6EUzteMWhI.jpg",
-      "categorias": [
-        "serie",
-        "animacion"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cUtyVm1rTXc1Y3FIL1gwdEFEZnhxUjZjK1lXSC90TTVmVitnb0FHQzdSLw=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cVlXNVVDWmE3ZUlBZHZaT2UrV3lBNWNVc0xEckJ2eEVqUkUrSVNpUmU2Uw=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dU1DOWR1amJNNlFidEx6dDlBcDVsTTE2SVJYaEtoRFZoRTlldDFscWdxaA=="
-            }
-          },
-          "9": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aEpTWkdxMjlMMm1yWnhSQ1owUUJFREsrd2xQMmVtL1JOV21QY0t2cFI3Tg=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cUxhOUQ3YjZ3Q1pmUzFYdEJSOUdZN0NRRGducml2eTNGdVNGOVNndWV2Ug=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0Z2VlMmIxajI1OTg0U2ZMdWQ4cFMxa0FkL3A0aEZHd0k0RVhlK1o0dzJ1QQ=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bEdnM1lFeHNTMlo5TFBLSEtiZ1VLdS9RdGtmTm1tSWx2SDhpek5CdkRJMA=="
-            }
-          },
-          "10": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cml2OURHNWo0UWtQT09vc2REMCtBSHZHdzJqUGZvVHFxRE1Ick5tOVVWTA=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cHJtL2YwRWpvb2wvalBkR1RrTzZIL0V1UlBLV0RURFJtNVpJUHlGNFYvQg=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0a1BBSXRGSm01SEJJWTlDT3NnSXdVRUhCVG8xNTNqWHI4clhFMldzcnM0Lw=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_120999",
-      "tmdb_id": 120999,
-      "nombre": "El repatriado",
-      "poster": "https://image.tmdb.org/t/p/w500/4sS1gOz5w9i2trLZrTo5krcWlx3.jpg",
-      "categorias": [
-        "serie",
-        "drama"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bmRSb0NDRENVNXB4WFJvZ2NSZkhKRHFvbjExSDJacXlXa0dqMWcxMTJXSA=="
-            }
-          },
-          "8": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cHpPSTZyTnhadGV2U0VJdzFWcm5MN0gzTUsyeDlHSmlDNElobCs3ODMzSg=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bnJlM1VRM0dWTW9QcDVub2RuditnMzlEL3JHSFJFQVRueGhwcmQvOE5aTg=="
-            }
-          },
-          "9": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cjI0K0w3MGs2MElFZnIzMXV6RjZWUUlUSi8wTHdvbmozOWRkemJxR0tJSw=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b2tvZ1dLUkF5bEhlM0JCRTBRc0dCMVcxYjhMVTRCVnRnNm42SHFPbkJqbA=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b0ZXZkFVQlBWelU5WGYyYUYrUitJVzVWT2dZWEV6cVIvYkZuRVNHck9uUg=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b0xrLzZyMTJySzUwbDMzbkdycnU0WGZvUTJuRTM5bzFFU3dOeGNWUy9VTQ=="
-            }
-          },
-          "10": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0dFIwQWsrTmlKUFhlMWFQZ3BTSmMzVjZJblVxK09HcWRjTDlUR2JtM2luWg=="
-            }
-          },
-          "7": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aHRhT2F3RzhEVVkvV3FSWXFlY3phY2hMMVNGVGkwOVRyb1dpVlcrd2Y5QQ=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0Z2ozUFZhR1R2Uy9aUnV6TDQwT2ppVVpqQVJXSmVYMTNtMUNmbjFtajVEKw=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_205971",
-      "tmdb_id": 205971,
-      "nombre": "Maestros de la pizza",
-      "poster": "https://image.tmdb.org/t/p/w500/aiPwS3FljiaDWi2kc7AzRsHN3Yu.jpg",
-      "categorias": [
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0amNuMGp4bjNUOWZFTGFSbFhHN1ZKWWpCWHVlRlUvWXJyYmNha2QrS2x2Rg=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bkF5aVZsUHh0UVJDNVBVdThZMUFVQ1BPbXNOYmlxY0RBYm1Kd3dVeXVrKw=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0c1JEY1FJSjd1TTlqeDh2dC9Pa09IMGRxWXlHbDBNT0I3a215SjBtc0t2Sw=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_109",
-      "tmdb_id": 109,
-      "nombre": "Blue Water High",
-      "poster": "https://image.tmdb.org/t/p/w500/4S5Twq1WW3Ihn3x2mvnL8i5pVC.jpg",
-      "categorias": [
-        "serie",
-        "drama",
-        "comedia"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aFBKZXR4OXFna2VZN0FkcnI1Q2J5MDk3bTUrSG82VjYzQkFGQnpFWmtRaw=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bnVGNGEvM3VucDd6Q0xGY0RYMHJEVW40TUhRNmR1NTZuSUEzR2swVm5HQw=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0Z2JqcVdXaHQrSGRKak9BMXJiTmZaZkxvamhKbWc5VWw2YU9GQjVJeWQ1Ng=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0akh5bWNGL3JyWU9PVXYwemhZTWZKdFNEZDR6R2tVRkw3UTZVRmxzbGNPVQ=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0b2tvNk1BZ1RxVWtDTW9WUVNJOTlCTHRDSEpFdmNOcG93WWVFemxUNGtsbA=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aE9xQWhORkVKNitBcGlWaUpRL1ptQlF2dXVLM0dZN2V2eDNrbHJ5d3VHTQ=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_211269",
-      "tmdb_id": 211269,
-      "nombre": "Un mundo de juegos",
-      "poster": "https://image.tmdb.org/t/p/w500/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
-      "categorias": [
-        "documental",
-        "serie"
-      ],
-      "temporadas": {
-        "1": {
-          "4": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0bmRPa09vWXQxSS9SRnZac0lzbXErY282QTFjaTk0cDRiRzM0VU5XUmxhMA=="
-            }
-          },
-          "2": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aHk1aVAwcktGZzkwbC9aRjhwMWlTbFVEbzdDZlI4Rmt0cFo1Y3dWSFFmNA=="
-            }
-          },
-          "1": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0cWtyUU14Q2ZTYkVGcU9SekI5VHBqcFBSZFpCaW9aKzBpT2h0M0JDRUlyOQ=="
-            }
-          },
-          "6": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aWI4OWh4cVlVUlFEYU5wR0JlMVNHK1RGSy9zdHYzTWZNZ3lkbG9XZHdCeg=="
-            }
-          },
-          "5": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0aU9qQWVYVXJJOTViK3pkS1c1cHpzWFM4cytyZ0JGWHBsMHJuZ2tRVnVGcQ=="
-            }
-          },
-          "3": {
-            "español latino": {
-              "pelisplus": "https://www.pelisplus.lat/player/auto.php?h=L2FoRUNJMVZQbXhLMGZZQml2Tzl0akh5bWNGL3JyWU9PVXYwemhZTWZKc3hDd3R1Wkp4NzgvYk1RcGhiaGEvUA=="
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "s_312541",
-      "tmdb_id": 312541,
-      "nombre": "大明暗影三百忠魂",
-      "poster": "https://image.tmdb.org/t/p/w500/jJH637ygjLjVzPVd9e7DWUqPrUm.jpg",
-      "categorias": [
-        "serie",
-        "drama"
-      ],
-      "temporadas": {
-        "2": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/27ujjy7n66mh"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/8w28c7lkp534",
-              "vidhide": "https://vidhidepro.com/v/ze9bm0uvkk7b"
-            }
-          },
-          "9": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/8662tugv1ejy",
-              "vidhide": "https://vidhidepro.com/v/yytd0xdlhgkb"
-            }
-          },
-          "17": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/x3kr9vx9sewg",
-              "vidhide": "https://vidhidepro.com/v/ylvoo2qnjuo0"
-            }
-          },
-          "6": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/iwt6h4hpadxv",
-              "vidhide": "https://vidhidepro.com/v/e0vl4dt0as2s"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/5lh57accpe90",
-              "vidhide": "https://vidhidepro.com/v/6xtvlwq6isnl"
-            }
-          },
-          "10": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/sm99trcvbiwz",
-              "vidhide": "https://vidhidepro.com/v/p3yd6ukyd0l1"
-            }
-          },
-          "11": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/v61l1tmzi6b0",
-              "vidhide": "https://vidhidepro.com/v/00coce24qm7z"
-            }
-          },
-          "7": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/iqx4hg4co2kt",
-              "vidhide": "https://vidhidepro.com/v/sngt06jie77d"
-            }
-          },
-          "21": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/jvvzh4s48x4w"
-            }
-          },
-          "8": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/8re6lswlj96l"
-            }
-          },
-          "14": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/w86bq7iueabr",
-              "vidhide": "https://vidhidepro.com/v/tadd9kh0b9oh"
-            }
-          },
-          "12": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/mggx5ue0kd1q",
-              "vidhide": "https://vidhidepro.com/v/q7kitx8f23wf"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/3flwo35qh8fg",
-              "vidhide": "https://vidhidepro.com/v/712wvrujj8fz"
-            }
-          },
-          "15": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/vm8cocq1fl4f",
-              "vidhide": "https://vidhidepro.com/v/ds275i0jxsvd"
-            }
-          },
-          "13": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ju375mty9iph",
-              "vidhide": "https://vidhidepro.com/v/xk7wswsgyqp0"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/qxs5tgr7d44v",
-              "vidhide": "https://vidhidepro.com/v/c69c61zww3ty"
-            }
-          },
-          "16": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/neaokvqs1227"
-            }
-          },
-          "22": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/7etlpn6a30ao"
-            }
-          }
-        },
-        "1": {
-          "4": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/uiu55l5i8dl6"
-            }
-          },
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/gykmek4iori9",
-              "vidhide": "https://vidhidepro.com/v/9rjechafzmfl"
-            }
-          },
-          "9": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/bxnbjd8k3nex"
-            }
-          },
-          "17": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/paueahfjhmyk",
-              "vidhide": "https://vidhidepro.com/v/lyjif9cd9cgd"
-            }
-          },
-          "6": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/hvurhgbzzp6s"
-            }
-          },
-          "5": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/b0e8uau18o3b"
-            }
-          },
-          "10": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/lic5ec44bqlv"
-            }
-          },
-          "11": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/io7nkus386zu",
-              "vidhide": "https://vidhidepro.com/v/s3lm7sqhg5lf"
-            }
-          },
-          "7": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/zqlx5hb9n6uz"
-            }
-          },
-          "8": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/5b2zwim50ssg",
-              "vidhide": "https://vidhidepro.com/v/8ybkywomp04b"
-            }
-          },
-          "14": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/q24tt1z00xaw"
-            }
-          },
-          "12": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/g9rdbgrdr4bv",
-              "vidhide": "https://vidhidepro.com/v/w1ng785xpgj1"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/8ff0lap3zukz",
-              "vidhide": "https://vidhidepro.com/v/74ue5vz3m9wy"
-            }
-          },
-          "15": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ljtei2pz5zzy",
-              "vidhide": "https://vidhidepro.com/v/h715bo6g2o41"
-            }
-          },
-          "18": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/lkbl83g6oe86",
-              "vidhide": "https://vidhidepro.com/v/t5djlssvoozu"
-            }
-          },
-          "13": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/ovcs8a3jkxju"
-            }
-          },
-          "3": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/au67opojkf6g",
-              "vidhide": "https://vidhidepro.com/v/4vy9pach3f3m"
-            }
-          },
-          "16": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/zhjcp8a9j8ds",
-              "vidhide": "https://vidhidepro.com/v/iw0q7wxx4spr"
-            }
-          }
-        },
-        "3": {
-          "2": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/7d84dgg6i00j",
-              "vidhide": "https://vidhidepro.com/v/5c4dkazugrt9"
-            }
-          },
-          "1": {
-            "español latino": {
-              "streamwish": "https://streamwish.to/e/z8hzw2v7sc3e",
-              "vidhide": "https://vidhidepro.com/v/q42vnug5nco3"
             }
           }
         }

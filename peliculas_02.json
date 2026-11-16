@@ -1,10 +1,525 @@
 {
   "type": "peliculas",
-  "total": 17832,
-  "version": 117,
+  "total": 17856,
+  "version": 118,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_417978",
+      "tmdb_id": 417978,
+      "nombre": "Backseat Fighter",
+      "poster": "https://image.tmdb.org/t/p/w500/ynnIXRXZhs1wSSjpLkUtPpOIK9V.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "accion",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-0mld2ujekshy.html"
+        }
+      }
+    },
+    {
+      "id": "p_245718",
+      "tmdb_id": 245718,
+      "nombre": "Bad Movie Police: Case #2: ChickBoxer",
+      "poster": "",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-s2krxg7ue9hr.html"
+        }
+      }
+    },
+    {
+      "id": "p_517093",
+      "tmdb_id": 517093,
+      "nombre": "Héroes de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/anL1b22zyf9NnM3BPuy9tZxb22a.jpg",
+      "calidad": "4K",
+      "generos": [
+        "drama",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4r4hm3zwbbc2.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-veybvduzyid8.html"
+        }
+      }
+    },
+    {
+      "id": "p_29957",
+      "tmdb_id": 29957,
+      "nombre": "Barracuda",
+      "poster": "https://image.tmdb.org/t/p/w500/qtFSPD7xfRFo2UIgKVMXbD1T15U.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-zjonyqs5l90d.html"
+        }
+      }
+    },
+    {
+      "id": "p_486070",
+      "tmdb_id": 486070,
+      "nombre": "Bendita locura",
+      "poster": "https://image.tmdb.org/t/p/w500/AfZcKJ4yep727c269iCgLEqmlcG.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-d4kaa9yuc2fc.html"
+        }
+      }
+    },
+    {
+      "id": "p_493488",
+      "tmdb_id": 493488,
+      "nombre": "Buffalo Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/o1Bn2zlIDJSnM5aOljbOPTM6Kf9.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ukwf0ste51bk.html"
+        }
+      }
+    },
+    {
+      "id": "p_164647",
+      "tmdb_id": 164647,
+      "nombre": "Blue Iguana",
+      "poster": "https://image.tmdb.org/t/p/w500/pv4pIlw3Uv5GmI9w0yLMaLTLuf4.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "accion",
+        "comedia",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9ldsi1on4tsa.html"
+        }
+      }
+    },
+    {
+      "id": "p_531309",
+      "tmdb_id": 531309,
+      "nombre": "El hijo",
+      "poster": "https://image.tmdb.org/t/p/w500/aLiZaqHGVXFruqJoXAHvJD8oeoz.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/dcm4bo2j390j",
+          "voesx": "https://voe.sx/e/dzdalhgzcdsg"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/p3mucy6955t3",
+          "voesx": "https://voe.sx/e/m1pu7qcdoi81"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/o2eqlvg57u9a",
+          "voesx": "https://voe.sx/e/ugzpmq6wys7v"
+        }
+      }
+    },
+    {
+      "id": "p_581997",
+      "tmdb_id": 581997,
+      "nombre": "Batman vs. las Tortugas Ninja",
+      "poster": "https://image.tmdb.org/t/p/w500/wgBBB3Auky610UPhWdb0hBnwQzM.jpg",
+      "calidad": "4K",
+      "generos": [
+        "animacion",
+        "ficcion",
+        "aventura",
+        "crimen",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-7x3xzs3jwxng.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-2xiy5i0xggoe.html"
+        }
+      }
+    },
+    {
+      "id": "p_33125",
+      "tmdb_id": 33125,
+      "nombre": "Border",
+      "poster": "https://image.tmdb.org/t/p/w500/qBfe7zVYWxeBm1SaOa2rPsQSi9A.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "drama",
+        "historia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4iymreh9hccv.html"
+        }
+      }
+    },
+    {
+      "id": "p_507313",
+      "tmdb_id": 507313,
+      "nombre": "Carga",
+      "poster": "https://image.tmdb.org/t/p/w500/pIHqEw6TZIRS9AhifauEoIiyBz5.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-eaotzfew9o34.html"
+        }
+      }
+    },
+    {
+      "id": "p_461708",
+      "tmdb_id": 461708,
+      "nombre": "Cerco de sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/y4LZfGB5yV66o029kpUu6KtxQf5.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2rgsp92yeqhj.html"
+        }
+      }
+    },
+    {
+      "id": "p_426618",
+      "tmdb_id": 426618,
+      "nombre": "Cuando el amor te toca",
+      "poster": "https://image.tmdb.org/t/p/w500/2l076SrQ8XB9ZOYCVfQaxsBHWzD.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4avjwd7gz36k.html"
+        }
+      }
+    },
+    {
+      "id": "p_214884",
+      "tmdb_id": 214884,
+      "nombre": "Divorcio mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/m7pvBMmYoVm0JZ17jsvgAL6Xlm4.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-w5kta4dsnr6l.html"
+        }
+      }
+    },
+    {
+      "id": "p_427393",
+      "tmdb_id": 427393,
+      "nombre": "Cuando yo no esté",
+      "poster": "https://image.tmdb.org/t/p/w500/qQrNqErLaKw9vUbEjIdGaXIqjqd.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kj20aokyjfav.html"
+        }
+      }
+    },
+    {
+      "id": "p_597237",
+      "tmdb_id": 597237,
+      "nombre": "Calum von Moger: Unbroken",
+      "poster": "https://image.tmdb.org/t/p/w500/aaHxTzR44BhOzB1geddwKU2a8tW.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ptqox8wkq97w.html"
+        }
+      }
+    },
+    {
+      "id": "p_108256",
+      "tmdb_id": 108256,
+      "nombre": "El buen Sam",
+      "poster": "https://image.tmdb.org/t/p/w500/5onB7ztbHn0OK4tIHCXvmZGmF09.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gf9c2gktpid0.html"
+        }
+      }
+    },
+    {
+      "id": "p_510338",
+      "tmdb_id": 510338,
+      "nombre": "Dry Martina",
+      "poster": "https://image.tmdb.org/t/p/w500/gA6nTGlDtFdRtGEYHSEBzSJ1Xzy.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-g17js8kv1pld.html"
+        }
+      }
+    },
+    {
+      "id": "p_900308",
+      "tmdb_id": 900308,
+      "nombre": "El carnicero",
+      "poster": "https://image.tmdb.org/t/p/w500/11bNceOaK1kX7jigssY8FafJiqb.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-mdmexxq29dhg.html"
+        }
+      }
+    },
+    {
+      "id": "p_505058",
+      "tmdb_id": 505058,
+      "nombre": "Eliminado: Dark Web",
+      "poster": "https://image.tmdb.org/t/p/w500/dQM2LDOmolIGt7WzcHl6ZSUAdci.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/qkvog23kfkrr",
+          "voesx": "https://voe.sx/e/fvoknfdclahr"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/qtpbrqmrnbav"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/hpflt04rc5y4",
+          "voesx": "https://voe.sx/e/u0nbn7phvsdb"
+        }
+      }
+    },
+    {
+      "id": "p_761061",
+      "tmdb_id": 761061,
+      "nombre": "Elvis Presley: Buscador incansable",
+      "poster": "https://image.tmdb.org/t/p/w500/meB90xJTtWs4L4z2nYF1WhCUPf3.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-421cap14jpxg.html"
+        }
+      }
+    },
+    {
+      "id": "p_11230",
+      "tmdb_id": 11230,
+      "nombre": "El mono borracho en el ojo del tigre",
+      "poster": "https://image.tmdb.org/t/p/w500/wszKyngvXqBp5trBSUkllHQenpW.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ds5pk73ntwk3.html"
+        }
+      }
+    },
+    {
+      "id": "p_487297",
+      "tmdb_id": 487297,
+      "nombre": "¿En qué piensan los hombres?",
+      "poster": "https://image.tmdb.org/t/p/w500/3f0clsVYV8nDRPDi0OEcrDtYNsZ.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fhsxczrpjrxb.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-ctcwas6d59ww.html"
+        }
+      }
+    },
+    {
+      "id": "p_561417",
+      "tmdb_id": 561417,
+      "nombre": "Generation Iron 3",
+      "poster": "https://image.tmdb.org/t/p/w500/cdm2o0ODl4iG3fFpLaioesMBGWy.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-9i9jbnb3k448.html"
+        }
+      }
+    },
+    {
+      "id": "p_512019",
+      "tmdb_id": 512019,
+      "nombre": "Gente que viene y bah",
+      "poster": "https://image.tmdb.org/t/p/w500/nHaZbu9rtmDheImnkKz1kLHM86I.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-uaw6x1nfcalr.html"
+        }
+      }
+    },
+    {
+      "id": "p_457799",
+      "tmdb_id": 457799,
+      "nombre": "Extremadamente cruel, malvado y perverso",
+      "poster": "https://image.tmdb.org/t/p/w500/jzo6I6SKTFPLXK8BqZhq7sTVCSV.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "crimen"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ki4qdbof6mqd.html"
+        }
+      }
+    },
+    {
+      "id": "p_543343",
+      "tmdb_id": 543343,
+      "nombre": "Guava Island",
+      "poster": "https://image.tmdb.org/t/p/w500/oQ5OnvNNGUYOPh3iTjmqx6GPsdc.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "suspenso",
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-3o1d1z9s5vvb.html"
+        }
+      }
+    },
+    {
+      "id": "p_376865",
+      "tmdb_id": 376865,
+      "nombre": "High Life",
+      "poster": "https://image.tmdb.org/t/p/w500/eNwYbvtI1MCYofxvUTrXvWz7ASB.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "drama",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-a5kh4n6757we.html"
+        }
+      }
+    },
+    {
+      "id": "p_593691",
+      "tmdb_id": 593691,
+      "nombre": "HOMECOMING: A film by Beyoncé",
+      "poster": "https://image.tmdb.org/t/p/w500/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-qobfnpxcjom9.html"
+        }
+      }
+    },
+    {
+      "id": "p_369196",
+      "tmdb_id": 369196,
+      "nombre": "I Spit on Your Grave: Déjà Vu",
+      "poster": "https://image.tmdb.org/t/p/w500/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso",
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fm0tyrdkcnye.html"
+        }
+      }
+    },
+    {
+      "id": "p_471616",
+      "tmdb_id": 471616,
+      "nombre": "Indian Horse",
+      "poster": "https://image.tmdb.org/t/p/w500/6PRmK9svHolvZ2CLNoBkmViYlrB.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-oobzos78hbxl.html"
+        }
+      }
+    },
     {
       "id": "p_495398",
       "tmdb_id": 495398,
@@ -109544,7 +110059,7 @@
       "tmdb_id": 11667,
       "nombre": "Street Fighter: La última batalla",
       "poster": "https://image.tmdb.org/t/p/w500/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "aventura",
@@ -109557,6 +110072,9 @@
           "filelions": "https://filelions.to/v/u1egsny52fff",
           "fastream": "https://fastream.to/embed-uo8zdt7cw9li.html",
           "voesx": "https://voe.sx/e/ilcmqcbylrxl"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-kxxrq4vhdcx6.html"
         },
         "español": {
           "streamwish": "https://streamwish.to/e/ceuw7yogr1pk",

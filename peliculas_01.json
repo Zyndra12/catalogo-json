@@ -1,10 +1,402 @@
 {
   "type": "peliculas",
-  "total": 17832,
-  "version": 117,
+  "total": 17856,
+  "version": 118,
   "chunk": 1,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_1518204",
+      "tmdb_id": 1518204,
+      "nombre": "Allen",
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/81xmw1ffstbp",
+          "vidhide": "https://vidhidepro.com/v/jak3aougkwuf"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/ws8zxlxdsu9c",
+          "vidhide": "https://vidhidepro.com/v/uk5ay7y828d9"
+        }
+      }
+    },
+    {
+      "id": "p_1238735",
+      "tmdb_id": 1238735,
+      "nombre": "The Floaters",
+      "poster": "https://image.tmdb.org/t/p/w500/6VHAOIOO4MJXv19EtW5WFVRWztH.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/4m3hd1ux3fwf",
+          "vidara": "https://vidara.to/e/Zh1gBtHo4nACK",
+          "vidhide": "https://vidhidepro.com/v/rn5epfvxb366"
+        }
+      }
+    },
+    {
+      "id": "p_1564004",
+      "tmdb_id": 1564004,
+      "nombre": "Rodeo Christmas Romance",
+      "poster": "https://image.tmdb.org/t/p/w500/mP9JtC1d3gySB7Lqw8lKUYOTNg1.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/m7qqk8ebb0so",
+          "vidhide": "https://vidhidepro.com/v/o86k9t3wz7b8"
+        }
+      }
+    },
+    {
+      "id": "p_1599301",
+      "tmdb_id": 1599301,
+      "nombre": "A Fighting Legacy",
+      "poster": "https://image.tmdb.org/t/p/w500/BVaY7tLXbk2xXP5EagoFkYE1GT.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/b2qqgxqp273r",
+          "vidara": "https://vidara.to/e/TSCHheC8bOTAA",
+          "vidhide": "https://vidhidepro.com/v/mdwzcf6ytjrm"
+        }
+      }
+    },
+    {
+      "id": "p_348898",
+      "tmdb_id": 348898,
+      "nombre": "Marshall's Miracle",
+      "poster": "https://image.tmdb.org/t/p/w500/dXOWIURPHNtRogxmv44oTE9zVa8.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/iecdpksv6xg1",
+          "vidhide": "https://vidhidepro.com/v/klwbbbpajwln"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/vhmn75nwmna4",
+          "vidara": "https://vidara.to/e/mK702aRdi2RbU",
+          "vidhide": "https://vidhidepro.com/v/20l4n9uic20g"
+        }
+      }
+    },
+    {
+      "id": "p_1513319",
+      "tmdb_id": 1513319,
+      "nombre": "Secuestro en Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/uImKVUa0IGSC670QhcWadT5Eh9p.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/eayxenileriw",
+          "vidara": "https://vidara.to/e/La6CA8XvLM7Fn",
+          "vidhide": "https://vidhidepro.com/v/wuzxy1piz5wn"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/f46cqbs66xzd",
+          "vidara": "https://vidara.to/e/vZ5KPgfS6inPK",
+          "vidhide": "https://vidhidepro.com/v/g8k7onnr3zcr"
+        }
+      }
+    },
+    {
+      "id": "p_19053",
+      "tmdb_id": 19053,
+      "nombre": "La chica del valle",
+      "poster": "https://image.tmdb.org/t/p/w500/lrVD0u477BZsg5Fp7gIFjZQBU24.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/esc9mjbb9sax",
+          "vidara": "https://vidara.to/e/pu06YJKlJDPmK",
+          "vidhide": "https://vidhidepro.com/v/89hqql63wtl4"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/8gk1scubamn5",
+          "vidara": "https://vidara.to/e/DD4Q6iKto0tKh",
+          "vidhide": "https://vidhidepro.com/v/trl1dvtsaign"
+        }
+      }
+    },
+    {
+      "id": "p_1780407",
+      "tmdb_id": 1780407,
+      "nombre": "Snoopy presenta: 12 días para Navidad",
+      "poster": "https://image.tmdb.org/t/p/w500/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/ykyrzrq6u6gx",
+          "vidara": "https://vidara.to/e/vaNz9a0XMWDQw",
+          "vidhide": "https://vidhidepro.com/v/fkhpu4o1iazc"
+        }
+      }
+    },
+    {
+      "id": "p_1050981",
+      "tmdb_id": 1050981,
+      "nombre": "Siendo Heumann",
+      "poster": "https://image.tmdb.org/t/p/w500/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español": {
+          "streamwish": "https://streamwish.to/e/y7erwv5aujvr",
+          "vidara": "https://vidara.to/e/BTEFRenphqMbL",
+          "vidhide": "https://vidhidepro.com/v/960yzhxdrlla"
+        }
+      }
+    },
+    {
+      "id": "p_1757324",
+      "tmdb_id": 1757324,
+      "nombre": "Insecta",
+      "poster": "https://image.tmdb.org/t/p/w500/3FzjY7P79R5sb3hCQUWEy7MT6Fs.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/80whngibhku3",
+          "vidara": "https://vidara.to/e/4Y2q4yZDtxGWw",
+          "vidhide": "https://vidhidepro.com/v/byi2e6efgtz0"
+        }
+      }
+    },
+    {
+      "id": "p_1737740",
+      "tmdb_id": 1737740,
+      "nombre": "Fresh Meat",
+      "poster": "https://image.tmdb.org/t/p/w500/pDO9mCRhWEtl6MRTksWZ1bPBrnZ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/jdqp1pvkm57m",
+          "vidhide": "https://vidhidepro.com/v/4mamcq3z9kso"
+        }
+      }
+    },
+    {
+      "id": "p_41215",
+      "tmdb_id": 41215,
+      "nombre": "Black Death",
+      "poster": "https://image.tmdb.org/t/p/w500/8RfeSQHqffrGj8JirFYbA6rK4wJ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/heamhneo694c",
+          "vidhide": "https://vidhidepro.com/v/mpv1zr9sshz4"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/w5tub7wdlskx",
+          "vidhide": "https://vidhidepro.com/v/ra5r3mph756r"
+        }
+      }
+    },
+    {
+      "id": "p_11974",
+      "tmdb_id": 11974,
+      "nombre": "No matarás... al vecino",
+      "poster": "https://image.tmdb.org/t/p/w500/zbQPkq3vTd25Iyg1kYK67r80Jht.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/1xv4qyde0e90",
+          "vidhide": "https://vidhidepro.com/v/fc1bkw04ac93"
+        }
+      }
+    },
+    {
+      "id": "p_1724470",
+      "tmdb_id": 1724470,
+      "nombre": "Al Filo de la Navaja",
+      "poster": "",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/osmx6bywhrsu",
+          "vidara": "https://vidara.to/e/p4OpCHfpYXRzV",
+          "vidhide": "https://vidhidepro.com/v/xo3rgl6j8krp"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/4mn9hfcxfi39",
+          "vidara": "https://vidara.to/e/WzuGBpfvbMfTW",
+          "vidhide": "https://vidhidepro.com/v/q9i8vxrozr9s"
+        }
+      }
+    },
+    {
+      "id": "p_1184941",
+      "tmdb_id": 1184941,
+      "nombre": "Blue Heron",
+      "poster": "https://image.tmdb.org/t/p/w500/8qy2dbkyeLj0Jh2lUPLCNTHMmxy.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/1jdo55z5c9yz",
+          "vidara": "https://vidara.to/e/Df4HHnCaZwKnj",
+          "vidhide": "https://vidhidepro.com/v/zlpaewzqirxb"
+        }
+      }
+    },
+    {
+      "id": "p_1447053",
+      "tmdb_id": 1447053,
+      "nombre": "Mi niñera es una bruja",
+      "poster": "https://image.tmdb.org/t/p/w500/mYyIQJ67EBpgPcQlDgF6yF4izlH.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/cnfugbs6prym",
+          "vidara": "https://vidara.to/e/VrmkS6hu9g5mA",
+          "vidhide": "https://vidhidepro.com/v/g0z48cne4992"
+        }
+      }
+    },
+    {
+      "id": "p_1616687",
+      "tmdb_id": 1616687,
+      "nombre": "No nos rendimos",
+      "poster": "https://image.tmdb.org/t/p/w500/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/oxsn0s6ts3vn",
+          "vidhide": "https://vidhidepro.com/v/btgczmusnfdo"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/z1vtuitpmcjf",
+          "vidhide": "https://vidhidepro.com/v/yeplk7o515p9"
+        }
+      }
+    },
+    {
+      "id": "p_1381273",
+      "tmdb_id": 1381273,
+      "nombre": "Paper Tiger. Negocios de familia",
+      "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/5tm6e9qnpd19",
+          "vidara": "https://vidara.to/e/me2pyEd1ngnIm",
+          "vidhide": "https://vidhidepro.com/v/h1tt6otjvwv3"
+        }
+      }
+    },
+    {
+      "id": "p_1757174",
+      "tmdb_id": 1757174,
+      "nombre": "El intercambio navideño",
+      "poster": "https://image.tmdb.org/t/p/w500/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/0xksw09dxzas",
+          "vidara": "https://vidara.to/e/3HK3aORmlWLQy",
+          "vidhide": "https://vidhidepro.com/v/pixawsdsp4v4"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/5puzbzyavety",
+          "vidhide": "https://vidhidepro.com/v/8s8zzal9d5j1"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/79uysjexkjp0",
+          "vidhide": "https://vidhidepro.com/v/hn6gr78f5a9f"
+        }
+      }
+    },
+    {
+      "id": "p_9674",
+      "tmdb_id": 9674,
+      "nombre": "Ring 0: Birthday",
+      "poster": "https://image.tmdb.org/t/p/w500/x0ZrQmfBHgF0VA8en7K6tpnDGIT.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/q7wryh8jvb15",
+          "vidara": "https://vidara.to/e/kgacLpLTCJXhw",
+          "vidhide": "https://vidhidepro.com/v/665ndul9ctn9"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/0wxne8tzbqty",
+          "vidara": "https://vidara.to/e/2DpEuSlEHKz7S",
+          "vidhide": "https://vidhidepro.com/v/o837gnprpn3r"
+        }
+      }
+    },
+    {
+      "id": "p_1231623",
+      "tmdb_id": 1231623,
+      "nombre": "A Christmas Castle Proposal: A Royal in Paradise II",
+      "poster": "https://image.tmdb.org/t/p/w500/f1vhK5Lz3N7OIETraPjnTqZtZkN.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/mw0pkzoqj6ag",
+          "vidara": "https://vidara.to/e/bU8yq3BpPf4ia",
+          "vidhide": "https://vidhidepro.com/v/i7nxafcauqzz"
+        }
+      }
+    },
+    {
+      "id": "p_9664",
+      "tmdb_id": 9664,
+      "nombre": "Flyboys: Héroes del aire",
+      "poster": "https://image.tmdb.org/t/p/w500/sjQQc3LjSNPq5B23uPE0dsnY896.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-o7x4rrayalpn.html"
+        }
+      }
+    },
+    {
+      "id": "p_11969",
+      "tmdb_id": 11969,
+      "nombre": "Tombstone: La leyenda de Wyatt Earp",
+      "poster": "https://image.tmdb.org/t/p/w500/moAfncos756VZqsrJiZ62nB7mYT.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-48u37x7a1hmm.html"
+        }
+      }
+    },
+    {
+      "id": "p_14430",
+      "tmdb_id": 14430,
+      "nombre": "La ley de Herodes",
+      "poster": "https://image.tmdb.org/t/p/w500/1rlZ7v5Rj5pYaDMzRr9BaeRhMU9.jpg",
+      "calidad": "4K",
+      "generos": [],
+      "fuentes": {
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-w0qt9aql3lx7.html"
+        }
+      }
+    },
     {
       "id": "p_91314",
       "tmdb_id": 91314,
@@ -28,11 +420,14 @@
       "tmdb_id": 1400837,
       "nombre": "La otra madre",
       "poster": "https://image.tmdb.org/t/p/w500/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "voesx": "https://voe.sx/e/q5yo8gb9wgcw"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7t0r7ooe2llz.html"
         }
       }
     },
@@ -58,9 +453,11 @@
       "generos": [],
       "fuentes": {
         "español latino": {
-          "streamwish": "https://vibuxer.com/e/xb0jwt779s3d",
+          "streamwish": "https://streamwish.to/e/ar5trq9zafd4",
+          "vidara": "https://vidara.to/e/SMerlbgLRKm6r",
           "earnvids": "https://morencius.com/embed/04ad906gwqpk",
-          "voesx": "https://voe.sx/e/hgvi1xdffmxu"
+          "voesx": "https://voe.sx/e/hgvi1xdffmxu",
+          "vidhide": "https://vidhidepro.com/v/i7ui5zsyke04"
         }
       }
     },
@@ -17368,8 +17765,10 @@
           "voesx": "https://voe.sx/e/5jrszgfwk8zn"
         },
         "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/f0o16oj5b1r1",
-          "voesx": "https://voe.sx/e/08dgbmiidmqn"
+          "streamwish": "https://streamwish.to/e/ork8phpus011",
+          "vidara": "https://vidara.to/e/sDHArCVY2ie4y",
+          "voesx": "https://voe.sx/e/08dgbmiidmqn",
+          "vidhide": "https://vidhidepro.com/v/dnjc21i80bis"
         }
       }
     },
@@ -172889,521 +173288,6 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-awwd7bejo6a3.html"
-        }
-      }
-    },
-    {
-      "id": "p_417978",
-      "tmdb_id": 417978,
-      "nombre": "Backseat Fighter",
-      "poster": "https://image.tmdb.org/t/p/w500/ynnIXRXZhs1wSSjpLkUtPpOIK9V.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "accion",
-        "crimen"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-0mld2ujekshy.html"
-        }
-      }
-    },
-    {
-      "id": "p_245718",
-      "tmdb_id": 245718,
-      "nombre": "Bad Movie Police: Case #2: ChickBoxer",
-      "poster": "",
-      "calidad": "HD",
-      "generos": [
-        "accion",
-        "comedia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-s2krxg7ue9hr.html"
-        }
-      }
-    },
-    {
-      "id": "p_517093",
-      "tmdb_id": 517093,
-      "nombre": "Héroes de guerra",
-      "poster": "https://image.tmdb.org/t/p/w500/anL1b22zyf9NnM3BPuy9tZxb22a.jpg",
-      "calidad": "4K",
-      "generos": [
-        "drama",
-        "accion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-4r4hm3zwbbc2.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-veybvduzyid8.html"
-        }
-      }
-    },
-    {
-      "id": "p_29957",
-      "tmdb_id": 29957,
-      "nombre": "Barracuda",
-      "poster": "https://image.tmdb.org/t/p/w500/qtFSPD7xfRFo2UIgKVMXbD1T15U.jpg",
-      "calidad": "HD",
-      "generos": [
-        "terror",
-        "suspenso"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-zjonyqs5l90d.html"
-        }
-      }
-    },
-    {
-      "id": "p_486070",
-      "tmdb_id": 486070,
-      "nombre": "Bendita locura",
-      "poster": "https://image.tmdb.org/t/p/w500/AfZcKJ4yep727c269iCgLEqmlcG.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "familia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-d4kaa9yuc2fc.html"
-        }
-      }
-    },
-    {
-      "id": "p_493488",
-      "tmdb_id": 493488,
-      "nombre": "Buffalo Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/o1Bn2zlIDJSnM5aOljbOPTM6Kf9.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "accion"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ukwf0ste51bk.html"
-        }
-      }
-    },
-    {
-      "id": "p_164647",
-      "tmdb_id": 164647,
-      "nombre": "Blue Iguana",
-      "poster": "https://image.tmdb.org/t/p/w500/pv4pIlw3Uv5GmI9w0yLMaLTLuf4.jpg",
-      "calidad": "HD",
-      "generos": [
-        "suspenso",
-        "accion",
-        "comedia",
-        "misterio"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-9ldsi1on4tsa.html"
-        }
-      }
-    },
-    {
-      "id": "p_531309",
-      "tmdb_id": 531309,
-      "nombre": "El hijo",
-      "poster": "https://image.tmdb.org/t/p/w500/aLiZaqHGVXFruqJoXAHvJD8oeoz.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/dcm4bo2j390j",
-          "voesx": "https://voe.sx/e/dzdalhgzcdsg"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/p3mucy6955t3",
-          "voesx": "https://voe.sx/e/m1pu7qcdoi81"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/o2eqlvg57u9a",
-          "voesx": "https://voe.sx/e/ugzpmq6wys7v"
-        }
-      }
-    },
-    {
-      "id": "p_581997",
-      "tmdb_id": 581997,
-      "nombre": "Batman vs. las Tortugas Ninja",
-      "poster": "https://image.tmdb.org/t/p/w500/wgBBB3Auky610UPhWdb0hBnwQzM.jpg",
-      "calidad": "4K",
-      "generos": [
-        "animacion",
-        "ficcion",
-        "aventura",
-        "crimen",
-        "comedia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-7x3xzs3jwxng.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-2xiy5i0xggoe.html"
-        }
-      }
-    },
-    {
-      "id": "p_33125",
-      "tmdb_id": 33125,
-      "nombre": "Border",
-      "poster": "https://image.tmdb.org/t/p/w500/qBfe7zVYWxeBm1SaOa2rPsQSi9A.jpg",
-      "calidad": "HD",
-      "generos": [
-        "accion",
-        "drama",
-        "historia",
-        "romance"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-4iymreh9hccv.html"
-        }
-      }
-    },
-    {
-      "id": "p_507313",
-      "tmdb_id": 507313,
-      "nombre": "Carga",
-      "poster": "https://image.tmdb.org/t/p/w500/pIHqEw6TZIRS9AhifauEoIiyBz5.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-eaotzfew9o34.html"
-        }
-      }
-    },
-    {
-      "id": "p_461708",
-      "tmdb_id": 461708,
-      "nombre": "Cerco de sangre",
-      "poster": "https://image.tmdb.org/t/p/w500/y4LZfGB5yV66o029kpUu6KtxQf5.jpg",
-      "calidad": "HD",
-      "generos": [
-        "suspenso",
-        "crimen"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-2rgsp92yeqhj.html"
-        }
-      }
-    },
-    {
-      "id": "p_426618",
-      "tmdb_id": 426618,
-      "nombre": "Cuando el amor te toca",
-      "poster": "https://image.tmdb.org/t/p/w500/2l076SrQ8XB9ZOYCVfQaxsBHWzD.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "romance"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-4avjwd7gz36k.html"
-        }
-      }
-    },
-    {
-      "id": "p_214884",
-      "tmdb_id": 214884,
-      "nombre": "Divorcio mortal",
-      "poster": "https://image.tmdb.org/t/p/w500/m7pvBMmYoVm0JZ17jsvgAL6Xlm4.jpg",
-      "calidad": "HD",
-      "generos": [
-        "suspenso",
-        "crimen"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-w5kta4dsnr6l.html"
-        }
-      }
-    },
-    {
-      "id": "p_427393",
-      "tmdb_id": 427393,
-      "nombre": "Cuando yo no esté",
-      "poster": "https://image.tmdb.org/t/p/w500/qQrNqErLaKw9vUbEjIdGaXIqjqd.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-kj20aokyjfav.html"
-        }
-      }
-    },
-    {
-      "id": "p_597237",
-      "tmdb_id": 597237,
-      "nombre": "Calum von Moger: Unbroken",
-      "poster": "https://image.tmdb.org/t/p/w500/aaHxTzR44BhOzB1geddwKU2a8tW.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ptqox8wkq97w.html"
-        }
-      }
-    },
-    {
-      "id": "p_108256",
-      "tmdb_id": 108256,
-      "nombre": "El buen Sam",
-      "poster": "https://image.tmdb.org/t/p/w500/5onB7ztbHn0OK4tIHCXvmZGmF09.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "drama",
-        "romance"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-gf9c2gktpid0.html"
-        }
-      }
-    },
-    {
-      "id": "p_510338",
-      "tmdb_id": 510338,
-      "nombre": "Dry Martina",
-      "poster": "https://image.tmdb.org/t/p/w500/gA6nTGlDtFdRtGEYHSEBzSJ1Xzy.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-g17js8kv1pld.html"
-        }
-      }
-    },
-    {
-      "id": "p_900308",
-      "tmdb_id": 900308,
-      "nombre": "El carnicero",
-      "poster": "https://image.tmdb.org/t/p/w500/11bNceOaK1kX7jigssY8FafJiqb.jpg",
-      "calidad": "HD",
-      "generos": [
-        "terror"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-mdmexxq29dhg.html"
-        }
-      }
-    },
-    {
-      "id": "p_505058",
-      "tmdb_id": 505058,
-      "nombre": "Eliminado: Dark Web",
-      "poster": "https://image.tmdb.org/t/p/w500/dQM2LDOmolIGt7WzcHl6ZSUAdci.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "streamwish": "https://streamwish.to/e/qkvog23kfkrr",
-          "voesx": "https://voe.sx/e/fvoknfdclahr"
-        },
-        "español": {
-          "streamwish": "https://streamwish.to/e/qtpbrqmrnbav"
-        },
-        "subtitulado español": {
-          "streamwish": "https://streamwish.to/e/hpflt04rc5y4",
-          "voesx": "https://voe.sx/e/u0nbn7phvsdb"
-        }
-      }
-    },
-    {
-      "id": "p_761061",
-      "tmdb_id": 761061,
-      "nombre": "Elvis Presley: Buscador incansable",
-      "poster": "https://image.tmdb.org/t/p/w500/meB90xJTtWs4L4z2nYF1WhCUPf3.jpg",
-      "calidad": "HD",
-      "generos": [
-        "musica"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-421cap14jpxg.html"
-        }
-      }
-    },
-    {
-      "id": "p_11230",
-      "tmdb_id": 11230,
-      "nombre": "El mono borracho en el ojo del tigre",
-      "poster": "https://image.tmdb.org/t/p/w500/wszKyngvXqBp5trBSUkllHQenpW.jpg",
-      "calidad": "HD",
-      "generos": [
-        "accion",
-        "comedia"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ds5pk73ntwk3.html"
-        }
-      }
-    },
-    {
-      "id": "p_487297",
-      "tmdb_id": 487297,
-      "nombre": "¿En qué piensan los hombres?",
-      "poster": "https://image.tmdb.org/t/p/w500/3f0clsVYV8nDRPDi0OEcrDtYNsZ.jpg",
-      "calidad": "4K",
-      "generos": [
-        "comedia",
-        "romance"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-fhsxczrpjrxb.html"
-        },
-        "español castellano": {
-          "la_movie": "https://vimeos.net/embed-ctcwas6d59ww.html"
-        }
-      }
-    },
-    {
-      "id": "p_561417",
-      "tmdb_id": 561417,
-      "nombre": "Generation Iron 3",
-      "poster": "https://image.tmdb.org/t/p/w500/cdm2o0ODl4iG3fFpLaioesMBGWy.jpg",
-      "calidad": "HD",
-      "generos": [],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-9i9jbnb3k448.html"
-        }
-      }
-    },
-    {
-      "id": "p_512019",
-      "tmdb_id": 512019,
-      "nombre": "Gente que viene y bah",
-      "poster": "https://image.tmdb.org/t/p/w500/nHaZbu9rtmDheImnkKz1kLHM86I.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "romance"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-uaw6x1nfcalr.html"
-        }
-      }
-    },
-    {
-      "id": "p_457799",
-      "tmdb_id": 457799,
-      "nombre": "Extremadamente cruel, malvado y perverso",
-      "poster": "https://image.tmdb.org/t/p/w500/jzo6I6SKTFPLXK8BqZhq7sTVCSV.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama",
-        "crimen"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-ki4qdbof6mqd.html"
-        }
-      }
-    },
-    {
-      "id": "p_543343",
-      "tmdb_id": 543343,
-      "nombre": "Guava Island",
-      "poster": "https://image.tmdb.org/t/p/w500/oQ5OnvNNGUYOPh3iTjmqx6GPsdc.jpg",
-      "calidad": "HD",
-      "generos": [
-        "comedia",
-        "suspenso",
-        "musica"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-3o1d1z9s5vvb.html"
-        }
-      }
-    },
-    {
-      "id": "p_376865",
-      "tmdb_id": 376865,
-      "nombre": "High Life",
-      "poster": "https://image.tmdb.org/t/p/w500/eNwYbvtI1MCYofxvUTrXvWz7ASB.jpg",
-      "calidad": "HD",
-      "generos": [
-        "ficcion",
-        "drama",
-        "misterio"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-a5kh4n6757we.html"
-        }
-      }
-    },
-    {
-      "id": "p_593691",
-      "tmdb_id": 593691,
-      "nombre": "HOMECOMING: A film by Beyoncé",
-      "poster": "https://image.tmdb.org/t/p/w500/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
-      "calidad": "HD",
-      "generos": [
-        "musica"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-qobfnpxcjom9.html"
-        }
-      }
-    },
-    {
-      "id": "p_369196",
-      "tmdb_id": 369196,
-      "nombre": "I Spit on Your Grave: Déjà Vu",
-      "poster": "https://image.tmdb.org/t/p/w500/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg",
-      "calidad": "HD",
-      "generos": [
-        "suspenso",
-        "terror"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-fm0tyrdkcnye.html"
-        }
-      }
-    },
-    {
-      "id": "p_471616",
-      "tmdb_id": 471616,
-      "nombre": "Indian Horse",
-      "poster": "https://image.tmdb.org/t/p/w500/6PRmK9svHolvZ2CLNoBkmViYlrB.jpg",
-      "calidad": "HD",
-      "generos": [
-        "drama"
-      ],
-      "fuentes": {
-        "español latino": {
-          "fastream": "https://fastream.to/embed-oobzos78hbxl.html"
         }
       }
     }
