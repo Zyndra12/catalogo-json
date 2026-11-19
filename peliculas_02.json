@@ -1,10 +1,672 @@
 {
   "type": "peliculas",
-  "total": 17856,
-  "version": 118,
+  "total": 17882,
+  "version": 119,
   "chunk": 2,
   "chunks_total": 2,
   "items": [
+    {
+      "id": "p_504608",
+      "tmdb_id": 504608,
+      "nombre": "Rocketman",
+      "poster": "https://image.tmdb.org/t/p/w500/lvt3qfH3QlzydjmGNMGQ2tx2O7C.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/ubzljywdn292",
+          "fastream": "https://fastream.to/embed-7g17hj281nm2.html"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/2qncf286rr6d"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/r04w5613v9kw"
+        }
+      }
+    },
+    {
+      "id": "p_824915",
+      "tmdb_id": 824915,
+      "nombre": "Room For Rent",
+      "poster": "https://image.tmdb.org/t/p/w500/sJjaBvHBIJNyJxM1XymtEpdYdD9.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-8me66j0zrdm4.html"
+        }
+      }
+    },
+    {
+      "id": "p_507990",
+      "tmdb_id": 507990,
+      "nombre": "Run the Race",
+      "poster": "https://image.tmdb.org/t/p/w500/1myP5YdjENipbKZYbONxZwPN8KK.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/vz65wpppyu1d",
+          "fastream": "https://fastream.to/embed-is85v11cnt3w.html"
+        }
+      }
+    },
+    {
+      "id": "p_432167",
+      "tmdb_id": 432167,
+      "nombre": "#Selfie 69",
+      "poster": "https://image.tmdb.org/t/p/w500/jqvcvlFAmMdx7WkWGe1KW0LCA1A.jpg",
+      "calidad": "HD",
+      "generos": [
+        "romance",
+        "comedia",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ozpa77rqnijs.html"
+        }
+      }
+    },
+    {
+      "id": "p_345680",
+      "tmdb_id": 345680,
+      "nombre": "Sleepwalker",
+      "poster": "https://image.tmdb.org/t/p/w500/qvLsMp60r6aiY01cxwM2XZz1AHq.jpg",
+      "calidad": "HD",
+      "generos": [
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-hjbbe5z12od8.html"
+        }
+      }
+    },
+    {
+      "id": "p_532880",
+      "tmdb_id": 532880,
+      "nombre": "Solteras",
+      "poster": "https://image.tmdb.org/t/p/w500/4xAcWQhSd5ANs9ipsXoac8yeW2p.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-ccazvtnq8byg.html"
+        }
+      }
+    },
+    {
+      "id": "p_559",
+      "tmdb_id": 559,
+      "nombre": "Spider-Man 3",
+      "poster": "https://image.tmdb.org/t/p/w500/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/tcd8uhnd2ety",
+          "voesx": "https://voe.sx/e/cs0rvjlzb0qy"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/8gsyyp96ip75",
+          "voesx": "https://voe.sx/e/swwzsrdrtic0"
+        }
+      }
+    },
+    {
+      "id": "p_631939",
+      "tmdb_id": 631939,
+      "nombre": "The Legion",
+      "poster": "https://image.tmdb.org/t/p/w500/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg",
+      "calidad": "HD",
+      "generos": [
+        "aventura",
+        "historia",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-4q2ekdjhmgh5.html"
+        }
+      }
+    },
+    {
+      "id": "p_482273",
+      "tmdb_id": 482273,
+      "nombre": "La chica del valle",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZdJN62RyjoQJ9S4zCbjtMQrYqE.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "romance",
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-eplv5h88z8fh.html"
+        }
+      }
+    },
+    {
+      "id": "p_588446",
+      "tmdb_id": 588446,
+      "nombre": "Little Necro Red",
+      "poster": "https://image.tmdb.org/t/p/w500/r1OGNmH3YIS11lWIHDrl1ItmS7b.jpg",
+      "calidad": "HD",
+      "generos": [
+        "terror"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-zx2dqmhseefk.html"
+        }
+      }
+    },
+    {
+      "id": "p_575428",
+      "tmdb_id": 575428,
+      "nombre": "El lago del ganso salvaje",
+      "poster": "https://image.tmdb.org/t/p/w500/zwnMw6uHlxC181WYkJZ7y184LhY.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-xdq8astxoizo.html"
+        }
+      }
+    },
+    {
+      "id": "p_317380",
+      "tmdb_id": 317380,
+      "nombre": "Margen de Error",
+      "poster": "https://image.tmdb.org/t/p/w500/beEsAiUGpgFRECG4nqfMazXR6d7.jpg",
+      "calidad": "HD",
+      "generos": [
+        "misterio",
+        "suspenso",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-svg8dnehhmzy.html"
+        }
+      }
+    },
+    {
+      "id": "p_669727",
+      "tmdb_id": 669727,
+      "nombre": "Locos de amor 3",
+      "poster": "https://image.tmdb.org/t/p/w500/hkeaRkcCZyxiXO6805gXsCLr3YY.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-gys9p047pslb.html"
+        }
+      }
+    },
+    {
+      "id": "p_656736",
+      "tmdb_id": 656736,
+      "nombre": "Rumbo al mar",
+      "poster": "https://image.tmdb.org/t/p/w500/hD3RoyKADS4qc3hcDVFJXvqda1o.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-pjhz8u0qiuai.html"
+        }
+      }
+    },
+    {
+      "id": "p_700995",
+      "tmdb_id": 700995,
+      "nombre": "Devoto, la invasión silenciosa",
+      "poster": "https://image.tmdb.org/t/p/w500/ppqef9A3tg3PJiIA82gTiA7n9Fi.jpg",
+      "calidad": "HD",
+      "generos": [
+        "ficcion",
+        "suspenso",
+        "accion"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-sl01d0cjskdf.html"
+        }
+      }
+    },
+    {
+      "id": "p_632318",
+      "tmdb_id": 632318,
+      "nombre": "Alelí",
+      "poster": "https://image.tmdb.org/t/p/w500/9gtcPLk0qEGghqIW1g7DJ4Jydf3.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-wzqi57zkjdr2.html"
+        }
+      }
+    },
+    {
+      "id": "p_550738",
+      "tmdb_id": 550738,
+      "nombre": "Spycies: Dos espías rebeldes",
+      "poster": "https://image.tmdb.org/t/p/w500/tzvDjwsviMp6mdkNnnxhO3oIDUv.jpg",
+      "calidad": "HD",
+      "generos": [
+        "animacion",
+        "comedia",
+        "accion",
+        "aventura",
+        "familia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-a1mx8g5eistl.html"
+        }
+      }
+    },
+    {
+      "id": "p_515789",
+      "tmdb_id": 515789,
+      "nombre": "StarDog Y TurboCat",
+      "poster": "https://image.tmdb.org/t/p/w500/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/t97cx29vlehg"
+        }
+      }
+    },
+    {
+      "id": "p_449756",
+      "tmdb_id": 449756,
+      "nombre": "El asesino de las postales",
+      "poster": "https://image.tmdb.org/t/p/w500/mbSidQ9TYKTUw32RghMi6LdkLO.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-x9nn2ncxd6pb.html"
+        }
+      }
+    },
+    {
+      "id": "p_549590",
+      "tmdb_id": 549590,
+      "nombre": "The Villagers",
+      "poster": "https://image.tmdb.org/t/p/w500/fL5OHCA7jXhvq4MOJAdVpJJzBF4.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "crimen",
+        "suspenso",
+        "misterio"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-kqxw8ub55f2x.html"
+        }
+      }
+    },
+    {
+      "id": "p_429422",
+      "tmdb_id": 429422,
+      "nombre": "Capone",
+      "poster": "https://image.tmdb.org/t/p/w500/75gDv38UgRtAukSxNXcjatyQmEa.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-htg6teyiz8u2.html"
+        }
+      }
+    },
+    {
+      "id": "p_586961",
+      "tmdb_id": 586961,
+      "nombre": "Fin de siglo",
+      "poster": "https://image.tmdb.org/t/p/w500/wA3hKAsxfPBBWHqKAPZiNPHJbkg.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-z8j275yejt74.html"
+        }
+      }
+    },
+    {
+      "id": "p_499379",
+      "tmdb_id": 499379,
+      "nombre": "Adam",
+      "poster": "https://image.tmdb.org/t/p/w500/kqQcRFckoJjbL2awWKtMIkUaytG.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2a2tun2kxz0k.html"
+        }
+      }
+    },
+    {
+      "id": "p_582596",
+      "tmdb_id": 582596,
+      "nombre": "La otra Missy",
+      "poster": "https://image.tmdb.org/t/p/w500/5MQScaFf8Uu8Hj9omCQju4KsWAA.jpg",
+      "calidad": "4K",
+      "generos": [
+        "comedia",
+        "romance"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-pyb708rl5sdm.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-dn388yoyfp77.html"
+        }
+      }
+    },
+    {
+      "id": "p_673175",
+      "tmdb_id": 673175,
+      "nombre": "Buen viaje: aventuras psicodélicas",
+      "poster": "https://image.tmdb.org/t/p/w500/x3NX8v5t8a0yabCnlskpjXPkRKP.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-p3gg1u08k515.html"
+        }
+      }
+    },
+    {
+      "id": "p_735005",
+      "tmdb_id": 735005,
+      "nombre": "André and His Olive Tree",
+      "poster": "https://image.tmdb.org/t/p/w500/4V74GoKSMklDhpUW9gvTivk6s4R.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-b1d69q840sh5.html"
+        }
+      }
+    },
+    {
+      "id": "p_575769",
+      "tmdb_id": 575769,
+      "nombre": "4x4",
+      "poster": "https://image.tmdb.org/t/p/w500/gMJwGghKysgj6qgcLAWJFhDjFBs.jpg",
+      "calidad": "4K",
+      "generos": [
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-6tavu2wnmuin.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-q2tzbbm4cpwp.html"
+        }
+      }
+    },
+    {
+      "id": "p_588001",
+      "tmdb_id": 588001,
+      "nombre": "A pesar de todo",
+      "poster": "https://image.tmdb.org/t/p/w500/1GH4KCS8IgWcDt5toXYFYX5AmX4.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fjsz0rxio2xc.html"
+        }
+      }
+    },
+    {
+      "id": "p_464504",
+      "tmdb_id": 464504,
+      "nombre": "Un Loco Funeral",
+      "poster": "https://image.tmdb.org/t/p/w500/1uxb9JV0cHQ1ooVMMlfevYwtFmF.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-5gew2js59ds1.html"
+        }
+      }
+    },
+    {
+      "id": "p_445456",
+      "tmdb_id": 445456,
+      "nombre": "55 pasos",
+      "poster": "https://image.tmdb.org/t/p/w500/9fUQSKMStIj4kY0cS9KGRMhdd64.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-2ph2ngue738f.html"
+        }
+      }
+    },
+    {
+      "id": "p_746752",
+      "tmdb_id": 746752,
+      "nombre": "Bigflo & Oli: Frenesí de hiphop",
+      "poster": "https://image.tmdb.org/t/p/w500/heCJcnFHizhV286Y71W92f9mrBQ.jpg",
+      "calidad": "HD",
+      "generos": [
+        "musica"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-e7rktf23p7en.html"
+        }
+      }
+    },
+    {
+      "id": "p_506815",
+      "tmdb_id": 506815,
+      "nombre": "A Violent Separation",
+      "poster": "https://image.tmdb.org/t/p/w500/hYgQD8PHFOOapdvuONWn3NJEal6.jpg",
+      "calidad": "HD",
+      "generos": [
+        "crimen",
+        "suspenso"
+      ],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/3fd1z1zzit5g",
+          "fastream": "https://fastream.to/embed-ixh5cb68y5lu.html"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/td4nbabq2puf"
+        }
+      }
+    },
+    {
+      "id": "p_515248",
+      "tmdb_id": 515248,
+      "nombre": "Alguien especial",
+      "poster": "https://image.tmdb.org/t/p/w500/wYf0CLu7H5SonrX6pZFaXhIJZ6s.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/4trvjb109n75",
+          "voesx": "https://voe.sx/e/p9bczyipdwe3"
+        },
+        "español": {
+          "streamwish": "https://streamwish.to/e/5z9r33wyeedc"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/eoot7158jd10",
+          "voesx": "https://voe.sx/e/ni00ddvqyoll"
+        }
+      }
+    },
+    {
+      "id": "p_456098",
+      "tmdb_id": 456098,
+      "nombre": "All About The Money",
+      "poster": "https://image.tmdb.org/t/p/w500/AoR9XuGB0NROiv7YgtJoBAfm40C.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia",
+        "accion",
+        "aventura"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-fvmfbvyyi5df.html"
+        }
+      }
+    },
+    {
+      "id": "p_517434",
+      "tmdb_id": 517434,
+      "nombre": "American Exit",
+      "poster": "https://image.tmdb.org/t/p/w500/sRqff9JyOG4q03IeNHP5JKNcfat.jpg",
+      "calidad": "HD",
+      "generos": [
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-qjvxam4g4d4o.html"
+        }
+      }
+    },
+    {
+      "id": "p_593489",
+      "tmdb_id": 593489,
+      "nombre": "Anthony Jeselnik: Fire in the Maternity Ward",
+      "poster": "https://image.tmdb.org/t/p/w500/10EkzjVA0AWUArKnE53Nzf2pigj.jpg",
+      "calidad": "HD",
+      "generos": [
+        "comedia"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-nftiejzfra2d.html"
+        }
+      }
+    },
+    {
+      "id": "p_549559",
+      "tmdb_id": 549559,
+      "nombre": "Apolo 11",
+      "poster": "https://image.tmdb.org/t/p/w500/h69OPPojqbIObPCfVDsMJAPgPZm.jpg",
+      "calidad": "4K",
+      "generos": [
+        "historia",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-lt21t67q03ss.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-muiweb7a32ue.html"
+        }
+      }
+    },
+    {
+      "id": "p_557800",
+      "tmdb_id": 557800,
+      "nombre": "Dr. Nassar: el caso del equipo de Gimnasia de EE. UU.",
+      "poster": "https://image.tmdb.org/t/p/w500/a3t1RktaXBTfNmwzuIoTC4rpuJj.jpg",
+      "calidad": "HD",
+      "generos": [],
+      "fuentes": {
+        "español latino": {
+          "streamwish": "https://streamwish.to/e/5aiurk55v8kl"
+        }
+      }
+    },
+    {
+      "id": "p_421658",
+      "tmdb_id": 421658,
+      "nombre": "La última jugada",
+      "poster": "https://image.tmdb.org/t/p/w500/1g10vrfED6SZmHBFiTBKyvR7y6K.jpg",
+      "calidad": "4K",
+      "generos": [
+        "accion",
+        "suspenso",
+        "aventura",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-vxo8pgykd586.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-m2opxky1iu0i.html"
+        }
+      }
+    },
+    {
+      "id": "p_587808",
+      "tmdb_id": 587808,
+      "nombre": "Llamaradas 2",
+      "poster": "https://image.tmdb.org/t/p/w500/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg",
+      "calidad": "HD",
+      "generos": [
+        "accion",
+        "crimen",
+        "drama"
+      ],
+      "fuentes": {
+        "español latino": {
+          "fastream": "https://fastream.to/embed-awwd7bejo6a3.html"
+        }
+      }
+    },
     {
       "id": "p_417978",
       "tmdb_id": 417978,
@@ -45938,7 +46600,7 @@
       "tmdb_id": 1969,
       "nombre": "Bandidas",
       "poster": "https://image.tmdb.org/t/p/w500/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "accion",
         "comedia",
@@ -45947,6 +46609,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-8zyva8q1g9d5.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-tkgp2vidy4iq.html"
         }
       }
     },
@@ -51181,7 +51846,15 @@
       ],
       "fuentes": {
         "español latino": {
-          "fastream": "https://fastream.to/embed-4gpff6ucd3wd.html"
+          "streamwish": "https://streamwish.to/e/23qo2fpofepj",
+          "vidara": "https://vidara.to/e/is6QBRnTYUqcM",
+          "fastream": "https://fastream.to/embed-4gpff6ucd3wd.html",
+          "vidhide": "https://vidhidepro.com/v/6fxwh9xdrx1h"
+        },
+        "subtitulado español": {
+          "streamwish": "https://streamwish.to/e/r33o1j5sinsa",
+          "vidara": "https://vidara.to/e/XAk83UnZvDILq",
+          "vidhide": "https://vidhidepro.com/v/wrkp46rb0zc5"
         }
       }
     },
@@ -98353,7 +99026,7 @@
       "tmdb_id": 1162172,
       "nombre": "Amor, sexo y 30 velitas",
       "poster": "https://image.tmdb.org/t/p/w500/3z0UaMvEuzYxcIgQmHLcIACGCfH.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "drama",
         "romance"
@@ -98361,6 +99034,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-fzxotsm6a1zy.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-pbja19kd04mm.html"
         }
       }
     },
@@ -110498,11 +111174,14 @@
       "tmdb_id": 772530,
       "nombre": "Viaje todo robado",
       "poster": "https://image.tmdb.org/t/p/w500/rYvJDlOdV5RVhmH9zv3sjXOhT3u.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/4t19ak81gq7j"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-7td7t2aombv1.html"
         }
       }
     },
@@ -111076,11 +111755,14 @@
       "tmdb_id": 1155086,
       "nombre": "Just Like a Christmas Movie",
       "poster": "https://image.tmdb.org/t/p/w500/qVNipUTYGhFWx2JlT0Q9Rl5l9hE.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [],
       "fuentes": {
         "español latino": {
           "streamwish": "https://streamwish.to/e/syg4wzy26nrb"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-49p7fqhs1r3m.html"
         },
         "subtitulado español": {
           "streamwish": "https://streamwish.to/e/y4tjrxry256v"
@@ -116627,7 +117309,7 @@
       "tmdb_id": 755898,
       "nombre": "La guerra de los mundos",
       "poster": "https://image.tmdb.org/t/p/w500/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg",
-      "calidad": "HD",
+      "calidad": "4K",
       "generos": [
         "ficcion",
         "suspenso"
@@ -116635,6 +117317,9 @@
       "fuentes": {
         "español latino": {
           "fastream": "https://fastream.to/embed-aqbinjfu2l5e.html"
+        },
+        "español castellano": {
+          "la_movie": "https://vimeos.net/embed-sqprm1th0g8j.html"
         }
       }
     },
